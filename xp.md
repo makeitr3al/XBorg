@@ -22,4 +22,4 @@ How can you prevent bots from farming the XP and selling the wallet with the XP 
 
 To ensure the integrity and robustness of the XP reward mechanism, a Proof of Humanity protocol shall be implemented to guard against potential Sybil attacks.
 
-Test
+Test Test
