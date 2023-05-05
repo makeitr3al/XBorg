@@ -21,3 +21,5 @@ XP holders will have access to dedicated staking pools, the exact ratio isn't kn
 How can you prevent bots from farming the XP and selling the wallet with the XP to others?
 
 To ensure the integrity and robustness of the XP reward mechanism, a Proof of Humanity protocol shall be implemented to guard against potential Sybil attacks.
+
+Test
