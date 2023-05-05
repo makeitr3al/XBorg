@@ -1,38 +1,48 @@
-#!/bin/bash
+import json
+import os
+import subprocess
+import requests
 
-# Konfiguration
-source_dir="https://github.com/makeitr3al/XBorg"
-target_dir="https://github.com/makeitr3al/Translate"
-api_key="your_api_key_here"
-translate_api="deepl" # "deepl" oder "google"
+# Setze die Zielsprache für die Übersetzung
+target_lang = 'DE'
 
-# Wechsle in das Verzeichnis, in dem das geklonte Repository liegt
-cd $source_dir
+# Extrahiere Informationen aus der Payload
+payload = json.loads(request.data)
+repo_name = payload['repository']['name']
+repo_url = payload['repository']['clone_url']
+branch = payload['ref'].split('/')[-1]
 
-# Klone das Repository, falls es noch nicht existiert
-if [ ! -d ".git" ]; then
-  git clone https://github.com/makeitr3al/XBorg .
-fi
+# Konstruiere den Pfad zum Zielverzeichnis
+target_dir = os.path.join(os.getcwd(), repo_name)
 
-# Übersetze Markdown-Dateien mit der DeepL-API oder Google Translate API
-if [ $translate_api = "deepl" ]; then
-  translate_cmd="curl -s -H \"Authorization: DeepL-Auth-Key $e4275429-3a26-63f6-f8bc-d3d2bd80f174:fx" -d text=\"{text}\" -d target_lang=en https://api-free.deepl.com/v2/translate"
-elif [ $translate_api = "google" ]; then
-  translate_cmd="curl -s -X POST -H \"Content-Type: application/json\" -H \"Authorization: Bearer $api_key\" --data-raw '{\"source\":\"de\", \"target\":\"en\", \"q\":[\"{text}\"]}' \"https://translation.googleapis.com/language/translate/v2\""
-fi
+# Klone das Repository oder aktualisiere es
+if os.path.exists(target_dir):
+    subprocess.run(['git', 'fetch'], cwd=target_dir)
+else:
+    subprocess.run(['git', 'clone', '--branch', branch, repo_url, target_dir])
 
-for file in *.md; do
-  name=$(basename $file .md)
-  html_text=$(pandoc -f markdown -t html $file)
-  translated_text=$(echo $html_text | tr '\n' ' ' | sed 's/"/\\"/g')
-  translated_text=$(eval echo "$translate_cmd")
-  translated_html=$(echo $translated_text | jq -r '.translations[].text' | tr -d '\n' | sed 's/\\/\\\\/g')
-  translated_md=$(pandoc -f html -t markdown $translated_html)
-  echo $translated_md > $target_dir/$name.md
-done
+# Übersetze die Markdown-Dateien und speichere sie im Ziel-Repository
+for root, dirs, files in os.walk(target_dir):
+    for file in files:
+        if file.endswith('.md'):
+            # Konstruiere den Pfad zur Markdown-Datei
+            md_file_path = os.path.join(root, file)
 
-# Commit und Push der Änderungen im Ziel-Repository
-cd $target_dir
-git add .
-git commit -m "Automatisches Update der übersetzten Markdown-Dateien"
-git push
+            # Konvertiere Markdown-Datei in Text-Datei
+            txt_file_path = os.path.splitext(md_file_path)[0] + '.txt'
+            subprocess.run(['pandoc', '-f', 'markdown', '-t', 'plain', md_file_path, '-o', txt_file_path])
+
+            # Lese Text-Datei und übersetze sie
+            with open(txt_file_path, 'r') as f:
+                text = f.read()
+                response = requests.post('https://api-free.deepl.com/v2/translate', data={
+                    'auth_key': 'e4275429-3a26-63f6-f8bc-d3d2bd80f174:fx',
+                    'text': text,
+                    'target_lang': target_lang
+                })
+
+            # Schreibe die übersetzte Text-Datei zurück in die Markdown-Datei
+            with open(txt_file_path, 'w') as f:
+                f.write(response.json()['translations'][0]['text'])
+            subprocess.run(['pandoc', '-f', 'plain', '-t', 'markdown', txt_file_path, '-o', md_file_path])
+            os.remove(txt_file_path)
