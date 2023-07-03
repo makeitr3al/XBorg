@@ -1,6 +1,6 @@
 #!/bin/bash
-touch test-file.md
 
-cat esports.md
+curl www.google.com > file.txt
+cat file.txt
 
 echo "success"
