@@ -1,6 +1,8 @@
 #!/bin/bash
 
-curl www.google.com > file.txt
-cat file.txt
+mkdir Huelsensack
+
+curl www.google.com > Huelsensack/file.txt
+cat Huelsensack/file.txt
 
 echo "success"
