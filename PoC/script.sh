@@ -1,8 +1,15 @@
 #!/bin/bash
 
-mkdir Huelsensack
+# Get the list of changed files in the last commit
+changed_files=$(git diff --name-only HEAD~1 HEAD)
 
-curl www.google.com > Huelsensack/file.txt
-cat Huelsensack/file.txt
+# Filter the files that are in the `old_language` folder
+changed_old_files=$(echo "$changed_files" | grep "^ENGLISH/")
 
-echo "success"
+# Create the `new_language` folder if it doesn't exist
+mkdir -p new_language
+
+# Copy the changed files to the `new_language` folder
+for file in $changed_old_files; do
+  cp "$file" "new_language/$(basename "$file")"
+done
