@@ -17,12 +17,14 @@ jobs:
       run: |
         mkdir -p ENGLISH  # Erstelle das Zielverzeichnis (falls es nicht bereits vorhanden ist)
         git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | xargs -I{} cp --parents {} ENGLISH/
+        
 
     - name: Commit und Push der aktualisierten Dateien
       run: |
         cd ENGLISH
         git config --local user.email "dominic.phildius@gmail.com"
         git config --local user.name "makeitr3al"
+        touch testfile.txt
         git add -A
         git commit -m "Aktualisierte Dateien von GitHub Actions"
         git push origin main  # Die Haupt-Branch anpassen, falls benötigt
