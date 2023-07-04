@@ -22,8 +22,8 @@ jobs:
     - name: Commit und Push der aktualisierten Dateien
       run: |
         cd ENGLISH
-        git config --local user.email "dominic.phildius@gmail.com"
-        git config --local user.name "makeitr3al"
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
         touch testfile.txt
         git add -A
         git commit -m "Aktualisierte Dateien von GitHub Actions"
