@@ -3,34 +3,27 @@ name: PoC script
 on:
   push:
     branches:
-      - main  # Change to the branch you want to trigger the action on
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+      - main  # Die Haupt-Branch anpassen, falls benötigt
 
 jobs:
-  execute-script:
-    runs-on: ubuntu-latest  # Choose the operating system you prefer
+  build:
+    runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
+    - name: Repository klonen
       uses: actions/checkout@v2
-      
-    - name: Get changes
-      id: changed-files
+
+    - name: Dateien aktualisieren
       run: |
-        echo "changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | xargs)" >> $GITHUB_OUTPUT
-    
-    - name: List changes files and
+        mkdir -p ENGLISH  # Erstelle das Zielverzeichnis (falls es nicht bereits vorhanden ist)
+        git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | xargs -I{} cp --parents {} ENGLISH/
+
+    - name: Commit und Push der aktualisierten Dateien
       run: |
-        curl www.google.com
+        cd ENGLISH
+        git config --local user.email "dominic.phildius@gmail.com"
+        git config --local user.name "makeitr3al"
+        git add -A
+        git commit -m "Aktualisierte Dateien von GitHub Actions"
+        git push origin main  # Die Haupt-Branch anpassen, falls benötigt
 
-        for file in ${{ steps.changed-files.outputs.changed_files }}; do
-            cat $file
-        done
-
-
-
-    # Runs a single command using the runners shell
-   # - name: Run a one-line script
-   #   run: echo Hello, world!
