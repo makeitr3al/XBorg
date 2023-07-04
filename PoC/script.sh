@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Get the list of changed files in the last commit
-changed_files=$(git diff --name-only "${{ github.event.before }}" "${{ github.event.after }}")
-
 # Filter the files that are in the `old_language` folder
 changed_old_files=$(echo "$changed_files" | grep "^ENGLISH/")
 
