@@ -17,7 +17,7 @@ jobs:
       uses: actions/checkout@v2
       
     - name: Get changes
-      run: echo "changed_files=$(git diff --name-only ${{ gihub.event.before }} ${{ github.event.after }} | xargs)" >> $GITHUB_OUTPUT
+      run: echo "changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | xargs)" >> $GITHUB_OUTPUT
     
     - name: List changes files and
       run: |
