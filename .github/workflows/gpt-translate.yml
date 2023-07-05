@@ -12,9 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: 3ru/gpt-translate@v1.0
-        with:
-          apikey: ${{ secrets.OPENAI_API_KEY }}
       
       - name: get changed files name
         id: changed_files
@@ -22,6 +19,10 @@ jobs:
       
 
       - name: Run GPT Translate
+      - uses: 3ru/gpt-translate@v1.0
+        with:
+          apikey: ${{ secrets.OPENAI_API_KEY }}
+          
         if: |
           contains(github.event.comment.body, '/gpt-translate') || 
           contains(github.event.comment.body, '/gt')
