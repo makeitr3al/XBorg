@@ -15,9 +15,12 @@ jobs:
         run: echo "name=files::$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }})" >> $GITHUB_OUTPUT
 
       - name: Create Issue Comments
-        if: contains(github.event_name, 'push')
-        run: |
-          for changed_file in ${{ steps.changed_files.outputs.files }}      
-          gh issue create-comment ${{ github.repository }} ${{ github.event.issue.number }} --body "/gpt-translate $changed_file /DE/$changed_file german"
-          gh issue create-comment ${{ github.repository }} ${{ github.event.issue.number }} --body "/gpt-translate $changed_file /IT/$changed_file italian"
-          gh issue create-comment ${{ github.repository }} ${{ github.event.issue.number }} --body "/gpt-translate $changed_file /FR/$changed_file french"
+        uses: peter-evans/create-or-update-comment@v3
+        
+        with:
+          issue-number: 1
+          body: |
+            for changed_file in ${{ steps.changed_files.outputs.files }}           
+            /gpt-translate $changed_file /DE/$changed_file German
+            /gpt-translate $changed_file /IT/$changed_file Italian
+            /gpt-translate $changed_file /FR/$changed_file French
