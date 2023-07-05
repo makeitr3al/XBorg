@@ -18,7 +18,7 @@ jobs:
         uses: peter-evans/create-or-update-comment@v3
         
         with:
-          issue-number: 1
+          issue-number: 3
           body: |
             for changed_file in ${{ steps.changed_files.outputs.files }}           
             /gpt-translate $changed_file /DE/$changed_file German
