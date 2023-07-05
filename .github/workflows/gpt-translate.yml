@@ -12,23 +12,26 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+      - uses: 3ru/gpt-translate@v1.0
+        with:
+          apikey: ${{ secrets.OPENAI_API_KEY }}
       
       - name: get changed files name
         id: changed_files
         run: echo "::set-output name=files::$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }})"
       
-      - name: Run GPT Translate
-      #  /gpt-translate [input filepath] [output filepath] [target language]
 
+      - name: Run GPT Translate
         if: |
           contains(github.event.comment.body, '/gpt-translate') || 
           contains(github.event.comment.body, '/gt')
-
+          
           for changed_file in ${{ steps.changed_files.outputs.files }}
           /gpt-translate $changed_file /DE/$changed_file German
           /gpt-translate $changed_file /IT/$changed_file Italian
           /gpt-translate $changed_file /FR/$changed_file French
+          
+        #  /gpt-translate [input filepath] [output filepath] [target language]
 
-        uses: 3ru/gpt-translate@v1.0
-        with:
-          apikey: ${{ secrets.OPENAI_API_KEY }}
+
+
