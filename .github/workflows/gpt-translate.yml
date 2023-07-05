@@ -5,6 +5,9 @@ name: GPT Translate
 on:
   issue_comment:
     types: [ created ]
+    
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 jobs:
   gpt_translate:
