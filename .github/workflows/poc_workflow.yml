@@ -17,7 +17,7 @@ jobs:
       - name: Create Issue Comments
         if: contains(github.event_name, 'push')
         run: |
-          for changed_file in ${{ steps.changed_files.outputs.files }}          
-          echo "/gpt-translate $changed_file /DE/$changed_file german" | gh issue create-comment ${{ github.repository }} ${{ github.event.issue.number }}
-          echo "/gpt-translate $changed_file /IT/$changed_file italian" | gh issue create-comment ${{ github.repository }} ${{ github.event.issue.number }}
-          echo "/gpt-translate $changed_file /FR/$changed_file french" | gh issue create-comment ${{ github.repository }} ${{ github.event.issue.number }}
+          for changed_file in ${{ steps.changed_files.outputs.files }}      
+          gh issue create-comment ${{ github.repository }} ${{ github.event.issue.number }} --body "/gpt-translate $changed_file /DE/$changed_file german"
+          gh issue create-comment ${{ github.repository }} ${{ github.event.issue.number }} --body "/gpt-translate $changed_file /IT/$changed_file italian"
+          gh issue create-comment ${{ github.repository }} ${{ github.event.issue.number }} --body "/gpt-translate $changed_file /FR/$changed_file french"
