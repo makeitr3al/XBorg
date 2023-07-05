@@ -5,9 +5,9 @@ on:
     branches:
       - main  # Die Haupt-Branch anpassen, falls benötigt
 
-#jobs:
- # build:
-#    runs-on: ubuntu-latest
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
 #    steps:
 #    - name: Repository klonen
