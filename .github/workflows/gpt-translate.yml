@@ -18,7 +18,6 @@ jobs:
       - name: get changed files name
         id: changed_files
         run: echo "name=files::$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }})" >> $GITHUB_OUTPUT
-            curl files
 
       - name: Run GPT Translate
         uses: 3ru/gpt-translate@v1.0
