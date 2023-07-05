@@ -1,4 +1,4 @@
-name: PoC script
+name: Create Issue Comments
 
 on:
   push:
@@ -6,26 +6,18 @@ on:
       - main  # Die Haupt-Branch anpassen, falls benötigt
 
 jobs:
-  build:
+  create_comments:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Repository klonen
-      uses: actions/checkout@v3
+      - name: Get changed files
+        id: changed_files
+        run: echo "name=files::$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }})" >> $GITHUB_OUTPUT
 
-#    - name: Dateien aktualisieren
-#      run: |
-#        mkdir -p DEUTSCH  # Erstelle das Zielverzeichnis (falls es nicht bereits vorhanden ist)
-#        git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | xargs -I{} cp --parents {} DEUTSCH/
-        
-
-#    - name: Commit und Push der aktualisierten Dateien
-#     run: |
-#        cd DEUTSCH
-#        git config --local user.email "actions@github.com"
-#        git config --local user.name "GitHub Actions"
-#        touch testfile.txt
-#        git add -A
-#        git commit -m "Aktualisierte Dateien von GitHub Actions"
-#        git push origin main  # Die Haupt-Branch anpassen, falls benötigt
-
+      - name: Create Issue Comments
+        if: contains(github.event_name, 'push')
+        run: |
+          for changed_file in ${{ steps.changed_files.outputs.files }}          
+          echo "/gpt-translate $changed_file /DE/$changed_file german" | gh issue create-comment ${{ github.repository }} ${{ github.event.issue.number }}
+          echo "/gpt-translate $changed_file /IT/$changed_file italian" | gh issue create-comment ${{ github.repository }} ${{ github.event.issue.number }}
+          echo "/gpt-translate $changed_file /FR/$changed_file french" | gh issue create-comment ${{ github.repository }} ${{ github.event.issue.number }}
