@@ -1,31 +1,31 @@
-name: PoC script
+#name: PoC script
 
-on:
-  push:
-    branches:
-      - main  # Die Haupt-Branch anpassen, falls benötigt
+#on:
+#  push:
+#    branches:
+#      - main  # Die Haupt-Branch anpassen, falls benötigt
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+#jobs:
+ # build:
+#    runs-on: ubuntu-latest
 
-    steps:
-    - name: Repository klonen
-      uses: actions/checkout@v2
+#    steps:
+#    - name: Repository klonen
+#      uses: actions/checkout@v2
 
-    - name: Dateien aktualisieren
-      run: |
-        mkdir -p DEUTSCH  # Erstelle das Zielverzeichnis (falls es nicht bereits vorhanden ist)
-        git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | xargs -I{} cp --parents {} DEUTSCH/
+#    - name: Dateien aktualisieren
+#      run: |
+#        mkdir -p DEUTSCH  # Erstelle das Zielverzeichnis (falls es nicht bereits vorhanden ist)
+#        git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | xargs -I{} cp --parents {} DEUTSCH/
         
 
-    - name: Commit und Push der aktualisierten Dateien
-      run: |
-        cd DEUTSCH
-        git config --local user.email "actions@github.com"
-        git config --local user.name "GitHub Actions"
-        touch testfile.txt
-        git add -A
-        git commit -m "Aktualisierte Dateien von GitHub Actions"
-        git push origin main  # Die Haupt-Branch anpassen, falls benötigt
+#    - name: Commit und Push der aktualisierten Dateien
+#     run: |
+#        cd DEUTSCH
+#        git config --local user.email "actions@github.com"
+#        git config --local user.name "GitHub Actions"
+#        touch testfile.txt
+#        git add -A
+#        git commit -m "Aktualisierte Dateien von GitHub Actions"
+#        git push origin main  # Die Haupt-Branch anpassen, falls benötigt
 
