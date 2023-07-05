@@ -19,7 +19,7 @@ jobs:
       
 
       - name: Run GPT Translate
-      - uses: 3ru/gpt-translate@v1.0
+        uses: 3ru/gpt-translate@v1.0
         with:
           apikey: ${{ secrets.OPENAI_API_KEY }}
           
