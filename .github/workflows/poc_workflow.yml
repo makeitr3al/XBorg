@@ -1,9 +1,9 @@
-#name: PoC script
+name: PoC script
 
-#on:
-#  push:
-#    branches:
-#      - main  # Die Haupt-Branch anpassen, falls benötigt
+on:
+  push:
+    branches:
+      - main  # Die Haupt-Branch anpassen, falls benötigt
 
 #jobs:
  # build:
