@@ -1,5 +1,7 @@
 # XP
 
+Experience Points
+
 > XP is a non-transferable token representing one's status and contributions to the XBorg community. It shows contributions, engagement, and support within the community. Contributors earn XP by being active and making valuable contributions, which rewards their efforts. XP is a way of building XBorg fairly and inclusively.
 
 What is the best way to obtain XP?

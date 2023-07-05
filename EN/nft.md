@@ -1,5 +1,6 @@
 # NFT
 
+NFT Testing File for translation.
 What will be the NFT utility post TGE?
 
 * Early access passes, whitelist spots, and NFT giveaway opportunities from the leading GameFi projects.
