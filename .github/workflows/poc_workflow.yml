@@ -15,13 +15,13 @@ jobs:
 
     - name: Dateien aktualisieren
       run: |
-        mkdir -p ENGLISH  # Erstelle das Zielverzeichnis (falls es nicht bereits vorhanden ist)
-        git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | xargs -I{} cp --parents {} ENGLISH/
+        mkdir -p DEUTSCH  # Erstelle das Zielverzeichnis (falls es nicht bereits vorhanden ist)
+        git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | xargs -I{} cp --parents {} DEUTSCH/
         
 
     - name: Commit und Push der aktualisierten Dateien
       run: |
-        cd ENGLISH
+        cd DEUTSCH
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
         touch testfile.txt
