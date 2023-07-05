@@ -3,7 +3,8 @@
 name: GPT Translate
 
 on:
-  push:
+  issue_comment:
+    type: [created]
     
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
