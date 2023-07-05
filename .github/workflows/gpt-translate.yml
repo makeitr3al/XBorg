@@ -3,7 +3,7 @@
 name: GPT Translate
 
 on:
-  issue_comment:
+  commit_comment:
     types: [ created ]
     
   # Allows you to run this workflow manually from the Actions tab
