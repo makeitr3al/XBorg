@@ -25,6 +25,8 @@ jobs:
         # Check if a file under EN/ or with the .md extension has changed (added, modified, deleted)
         $SourceDiff = $diff | Where-Object { $_ -match '^EN/' -or $_ -match '.md$' }
         $HasDiff = $SourceDiff.Length -gt 0
+        
+        echo $HasDiff
 
         # Set the output named "docs_changed"
         Write-Host "::set-output name=docs_changed::$HasDiff"
