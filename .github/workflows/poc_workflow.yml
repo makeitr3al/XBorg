@@ -18,9 +18,9 @@ jobs:
       - name: Create Issue Comments
         uses: peter-evans/create-or-update-comment@v3
         
-        if: |
-          contains(github.event.comment.body, '/gpt-translate') || 
-          contains(github.event.comment.body, '/gt')
+#        if: |
+#          contains(github.event.comment.body, '/gpt-translate') || 
+#          contains(github.event.comment.body, '/gt')
           
         with:
           issue-number: 3
