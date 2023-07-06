@@ -13,7 +13,7 @@ jobs:
       - name: Get changed files
         id: changed_files
 #        run: echo "name=files::$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }})" >> $GITHUB_OUTPUT
-        run: echo "name=files::$(git diff-tree --name-only)" >> $GITHUB_OUTPUT
+        run: echo "name=files::$(git diff --name-only)" >> $GITHUB_OUTPUT
           echo $files
 
       - name: Create Issue Comments
