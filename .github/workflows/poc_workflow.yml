@@ -15,7 +15,14 @@ jobs:
         uses: jitterbit/get-changed-files@v1
       - run: |
           for changed_file in ${{ steps.files.outputs.all }}; do
-          echo "Test ${changed_file}."
+          uses: peter-evans/create-or-update-comment@v3
+          with:
+          issue-number: 3
+          body: |
+            /gpt-translate ${changed_file} /DE/${changed_file} German
+            /gpt-translate ${changed_file} /IT/${changed_file} Italian
+            /gpt-translate ${changed_file} /FR/${changed_file} French
+          #echo "Test ${changed_file}."
           done
 
       - name: Create Issue Comments
