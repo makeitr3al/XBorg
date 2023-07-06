@@ -30,6 +30,8 @@ jobs:
 
         # Set the output named "docs_changed"
         Write-Host "::set-output name=docs_changed::$HasDiff"
+        
+        echo $docs_changed
 
   # Run the job only with "docs_changed" equals "True"
   conditional_job:
