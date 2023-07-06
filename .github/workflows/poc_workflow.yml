@@ -11,9 +11,12 @@ jobs:
 
     steps:
       - name: Get changed files
-        id: changed_files
-#        run: echo "name=files::$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }})" >> $GITHUB_OUTPUT
-        run: git diff --name-only
+      - id: files
+        uses: jitterbit/get-changed-files@v1
+      - run: |
+          for changed_file in ${{ steps.files.outputs.all }}; do
+          echo "Test ${changed_file}."
+          done
 
       - name: Create Issue Comments
         uses: peter-evans/create-or-update-comment@v3
@@ -25,7 +28,6 @@ jobs:
         with:
           issue-number: 3
           body: |
-            for changed_file in ${{ steps.changed_files.outputs.files }}           
-            /gpt-translate $changed_file /DE/$changed_file German
-            /gpt-translate $changed_file /IT/$changed_file Italian
-            /gpt-translate $changed_file /FR/$changed_file French
+            /gpt-translate ${changed_file} /DE/${changed_file} German
+            /gpt-translate ${changed_file} /IT/${changed_file} Italian
+            /gpt-translate ${changed_file} /FR/${changed_file} French
