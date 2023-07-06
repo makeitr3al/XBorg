@@ -54,6 +54,6 @@ jobs:
       with:
           issue-number: 3
           body: |
-            /gpt-translate ${{docs_changed}} /DE/${{docs_changed}} German
+            /gpt-translate ${{conditional_job_check_files.docs_changed}} /DE/${{conditional_job_check_files.docs_changed}} German
             /gpt-translate ${changed_file} /IT/${changed_file} Italian
             /gpt-translate ${changed_file} /FR/${changed_file} French
