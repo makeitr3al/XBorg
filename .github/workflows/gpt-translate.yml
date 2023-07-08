@@ -3,7 +3,7 @@ name: GPT Translate per Commit
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   gpt_translate:
     runs-on: ubuntu-latest
