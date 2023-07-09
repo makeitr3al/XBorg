@@ -39,3 +39,5 @@ Das gesamte Preisgeld beträgt **100.000 $**, das auf **fünf Spiele** verteilt 
 Wo kann ich meine Verbesserungsvorschläge einreichen?
 
 Wir schätzen Feedback sehr und du kannst deine Kommentare und Verbesserungsvorschläge direkt auf unserem [Discord-Server](https://discord.gg/xborg) einreichen. Unser Team und unsere Moderatoren stehen immer zur Verfügung, um zu helfen.
+
+Test GPT 1700
