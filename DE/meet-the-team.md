@@ -1,0 +1,3 @@
+# Das Team kennenlernen
+
+Designer und Redakteur bei XBorg. Vor seinem Eintritt bei Xborg hat er 3D-Videos erstellt und für etablierte Esport-Organisationen wie FNATIC, NRG, Heretics, T1, Shopify und mehr gearbeitet. Sean war schon immer ein aktiver Gamer seit seiner Kindheit, wobei seine dominante Kategorie kompetitive FPS-Spiele wie COD, CSGO, Valorant und Apex sind, in denen er in den meisten Fällen zu den besten 1% gehört. Seit seinem Eintritt bei XBorg hat er eine Vielzahl von Inhalten wie 3D-Arbeiten, Ankündigungsvideos und Motion Graphics erstellt und dabei das Ziel, zum exponentiellen Wachstum von XBorg beizutragen.

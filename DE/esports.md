@@ -1,6 +1,6 @@
 # Esports
 
-> Das XBorg-Protokoll und die Anwendungen erhalten Unterstützung vom führenden Web3-Gaming-Esportsteam. Dieses Team, bekannt als XBorg Esports, ist hoch angesehen für seine Fähigkeit, häufige und spannende Turniere im Web3-Ökosystem zu organisieren.
+> XBorgs Protokoll und Anwendungen erhalten Unterstützung vom führenden Web3-Gaming-Esportsteam. Dieses Team, bekannt als XBorg Esports, ist hoch angesehen für seine Fähigkeit, häufige und ansprechende Turniere im Web3-Ökosystem zu organisieren.
 
 Wie kann man an XBorg-Turnieren teilnehmen?
 
@@ -8,7 +8,7 @@ Jeder kann an unseren Turnieren teilnehmen. Die meisten Turniere werden auf Comm
 
 Wie spielt man mit Spielern in einer Gilde?
 
-Du kannst Spieler unseres Clans auf unserem [Discord](https://discord.com/invite/xborg) Server finden. Beginne damit, relevante Rollen auszuwählen und gehe dann zu den entsprechenden Gaming-Kanälen. Es gibt immer Spieler, die sich darauf freuen, mitzumachen. Um unseren Wettbewerbsclans beizutreten, sind Seniorität und Fähigkeiten erforderlich.
+Du kannst Spieler unseres Clans auf unserem [Discord](https://discord.com/invite/xborg) Server finden. Beginne damit, relevante Rollen auszuwählen und gehe dann zu den entsprechenden Gaming-Kanälen. Es gibt immer Spieler, die sich darauf freuen, sich dem Spiel anzuschließen. Um unseren wettbewerbsfähigen Clans beizutreten, sind Seniorität und Fähigkeiten erforderlich.
 
 Beginne damit, dich für relevante Turniere anzumelden. Alle Turniere findest du [hier](https://www.xborg.com/xtreme-championship-series).
 
@@ -22,7 +22,7 @@ Durch Sponsoring. Die Gesamteinnahmen aus der Liga belaufen sich auf **300.000 $
 
 Warum startet XBorg jetzt eine Esportliga?
 
-Dieser Wachstumsmechanismus ist ein mächtiges Werkzeug, um unser Produkt zu stärken und unsere Community zu erweitern. Es trägt auch dazu bei, das Bewusstsein und die Sichtbarkeit von Web3-Spielern und -Fans zu erhöhen und die Vorteile und Möglichkeiten dieses innovativen technologischen Bereichs zu betonen.
+Dieser Wachstumsmechanismus ist ein mächtiges Werkzeug, um unser Produkt zu stärken und unsere Community zu erweitern. Insbesondere trägt er auch dazu bei, das Bewusstsein und die Präsenz von Web3-Spielern und -Fans zu erhöhen und die Vorteile und Möglichkeiten dieses innovativen technologischen Bereichs zu unterstreichen.
 
 Warum gibt es einen weiteren Discord-Server für die XCS?
 
@@ -34,8 +34,8 @@ Die XCS ist eine profitable Veranstaltung dank unserer Partner und Sponsoren. Wi
 
 Wie hoch ist das gesamte XCS-Preisgeld?
 
-Das gesamte Preisgeld beträgt **100.000 $**, aufgeteilt auf **fünf Spiele**.
+Das gesamte Preisgeld beträgt **100.000 $**, das auf **fünf Spiele** verteilt wird.
 
 Wo kann ich meine Verbesserungsvorschläge einreichen?
 
-Wir schätzen Feedback sehr und du kannst Kommentare und Verbesserungsvorschläge direkt auf unserem [Discord-Server](https://discord.gg/xborg) einreichen. Unser Team und Moderatoren stehen immer zur Verfügung, um zu helfen.
+Wir schätzen Feedback sehr und du kannst deine Kommentare und Verbesserungsvorschläge direkt auf unserem [Discord-Server](https://discord.gg/xborg) einreichen. Unser Team und unsere Moderatoren stehen immer zur Verfügung, um zu helfen.
