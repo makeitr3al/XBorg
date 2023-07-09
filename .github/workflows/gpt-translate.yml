@@ -1,28 +1,20 @@
-name: GPT Translate per Commit
+name: GPT Translate
 
 on:
-  push:
-    branches:
-      - main
+  issue_comment:
+    types: [ created ]
+
 jobs:
   gpt_translate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository with two latest commits
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 2
-
-      - name: get changed files name
-        id: changed_files
-        run: |
-          echo "files=$(git diff --name-only HEAD^ HEAD | grep '^EN/.*\.md$' | tr '\n' ' ')" >> $GITHUB_OUTPUT
+      - uses: actions/checkout@v3
 
       - name: Run GPT Translate
+        if: |
+          contains(github.event.comment.body, '/gpt-translate') || 
+          contains(github.event.comment.body, '/gt')
         uses: 3ru/gpt-translate@v1.1.1
         with:
           apikey: ${{ secrets.OPENAI_API_KEY }}
-          inputFiles: ${{ steps.changed_files.outputs.files }}
-          outputFiles: "./DE/*.md ./IT/*.md ./FR/*.md ./PT/*.md ./AR/*.md"
-          languages: "German Italian French Portuguese Arabic"
