@@ -2,6 +2,8 @@
 
 > This section seeks to offer the reader a general overview of XBorg prior to their exploration of the rest of this document. This is the best place to start to develope a general understanding of XBorg
 
+#### Test
+
 #### Below you will find XBorg's CEO, Louis Regis, pitching XBorg.
 
 {% embed url="https://youtu.be/yqQf0ETfB9w" %}
@@ -18,13 +20,13 @@ The issue of fragmented player data is compounded by the fact that gamers are no
 
 <details>
 
-<summary>What is XBorg? </summary>
+<summary>What is XBorg?</summary>
 
 XBorg is revolutionizing the gaming industry by empowering gamers to create their gaming digital identity through a credential network. It paves the way for a new generation of enhanced gaming applications and use cases.
 
-With the potential to onboard tens of millions of players into the Web3 ecosystem, XBorg is set to transform the future of gaming as we know it.&#x20;
+With the potential to onboard tens of millions of players into the Web3 ecosystem, XBorg is set to transform the future of gaming as we know it.
 
-XBorg is backed by the best brands and investors in Web3 and is home to the most competitive players in Web3 gaming.&#x20;
+XBorg is backed by the best brands and investors in Web3 and is home to the most competitive players in Web3 gaming.
 
 </details>
 
@@ -44,17 +46,17 @@ XBorg is being supported by some really important and smart people who think it'
 
 <details>
 
-<summary>What is a Gaming Credential Network? </summary>
+<summary>What is a Gaming Credential Network?</summary>
 
-The credential network is like a personal gaming data hub for each player. It aggregates all their gaming credentials from different games and apps into one ID, like their performance on a game, the gaming communities they belong to, and the number of tournaments they have won. It's the digital identity of players.&#x20;
+The credential network is like a personal gaming data hub for each player. It aggregates all their gaming credentials from different games and apps into one ID, like their performance on a game, the gaming communities they belong to, and the number of tournaments they have won. It's the digital identity of players.
 
-Our system tracks three types of user data:&#x20;
+Our system tracks three types of user data:
 
 1. Esports engagement
 2. Gaming performance
 3. Social/fan activity
 
-We gather this data from popular platforms like Steam, FaceIt, Riot Games, Twitter, Discord, and on-chain sources.&#x20;
+We gather this data from popular platforms like Steam, FaceIt, Riot Games, Twitter, Discord, and on-chain sources.
 
 To put it technically, the Gaming Credential Network uses players' soulbound tokens (nontransferable NFTs) to store their metrics securely. Our advanced data aggregator, XBorg, ensures gamers fully own their data.
 
@@ -66,17 +68,17 @@ Therefore, imagine the Lens protocol for gaming.
 
 <details>
 
-<summary>What is the Gaming Application Network? </summary>
+<summary>What is the Gaming Application Network?</summary>
 
 The gaming application network is a collection of gaming apps that use a player's digital identity. Our credential network can be used to create more advanced gaming apps, like a tournament platform that matches players based on their history, a GameFi soulbound launchpad, or a gaming dating app that matches players based on their credentials. Brands can also use this network for user acquisition based on player data. The gaming application network offers endless possibilities for a more personalized and enjoyable gaming experience.\
 \
-We intend the use of the credential network to be permissionless such that any developers can build new cool apps :)&#x20;
+We intend the use of the credential network to be permissionless such that any developers can build new cool apps :)
 
 </details>
 
 <details>
 
-<summary>What is XBorg's mission? </summary>
+<summary>What is XBorg's mission?</summary>
 
 Our mission at XBorg is to empower gamers globally by providing them with opportunities for ownership, governance, and superior user experiences. We firmly believe that the future of gaming lies in the hands of the players, and we are committed to being the platform where they can create and own new use cases for the gaming industry.
 
