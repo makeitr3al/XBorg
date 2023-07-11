@@ -1,18 +1,18 @@
 # Informazioni
 
-> Questa sezione cerca di offrire al lettore una panoramica generale di XBorg prima della sua esplorazione del resto di questo documento. Questo è il posto migliore per iniziare a sviluppare una comprensione generale di XBorg.
+> Questa sezione cerca di offrire al lettore una panoramica generale di XBorg prima di esplorare il resto di questo documento. Questo è il posto migliore per iniziare a sviluppare una comprensione generale di XBorg.
 
 #### Di seguito troverai il CEO di XBorg, Louis Regis, che presenta XBorg.
 
-[https://youtu.be/yqQf0ETfB9w](https://youtu.be/yqQf0ETfB9w)
+{% embed url="https://youtu.be/yqQf0ETfB9w" %}
 
 <details>
 
 <summary>Perché XBorg?</summary>
 
-Nella società odierna, dove il tempo libero sta diventando sempre più abbondante, i giocatori trascorrono ore e ore immersi nei mondi dei videogiochi. Tuttavia, i dati generati da queste esperienze spesso vengono sottostimati e frammentati tra diversi giochi. XBorg riconosce il valore del tempo dei giocatori e cerca di rendere i loro dati significativi e preziosi.
+Nella società odierna, dove il tempo libero sta diventando sempre più abbondante, i giocatori trascorrono innumerevoli ore immersi nei mondi dei videogiochi. Tuttavia, i dati generati da queste esperienze spesso vengono sottostimati e frammentati tra vari giochi. XBorg riconosce il valore del tempo dei giocatori e cerca di rendere i loro dati significativi e preziosi.
 
-Il problema dei dati frammentati dei giocatori è aggravato dal fatto che i giocatori non vengono sempre ricompensati per il loro contributo al successo di un gioco. Nonostante siano una parte integrante dell'ecosistema dei videogiochi, i giocatori spesso non percepiscono alcun valore generato dal loro gameplay. Questo problema significativo colpisce numerosi giocatori e richiede una soluzione.
+Il problema dei dati frammentati dei giocatori è aggravato dal fatto che i giocatori non vengono sempre ricompensati per il loro contributo al successo di un gioco. Nonostante siano una parte integrante dell'ecosistema dei videogiochi, i giocatori spesso non percepiscono alcun valore generato dal loro gameplay. Questo problema significativo colpisce innumerevoli giocatori e richiede una soluzione.
 
 </details>
 
@@ -24,7 +24,7 @@ XBorg sta rivoluzionando l'industria dei videogiochi permettendo ai giocatori di
 
 Con il potenziale di coinvolgere decine di milioni di giocatori nell'ecosistema Web3, XBorg è destinato a trasformare il futuro dei videogiochi come lo conosciamo.
 
-XBorg è supportato dai migliori marchi e investitori di Web3 ed è la casa dei giocatori più competitivi nel gaming Web3.
+XBorg è supportato dai migliori marchi e investitori di Web3 ed è la casa dei giocatori più competitivi del gaming Web3.
 
 </details>
 
@@ -46,7 +46,7 @@ XBorg è supportato da persone davvero importanti e intelligenti che pensano che
 
 <summary>Cos'è una rete di credenziali di gioco?</summary>
 
-La rete di credenziali è come un hub personale di dati di gioco per ogni giocatore. Riunisce tutte le loro credenziali di gioco da diversi giochi e app in un'unica identità, come le loro prestazioni in un gioco, le comunità di gioco a cui appartengono e il numero di tornei vinti. È l'identità digitale dei giocatori.
+La rete di credenziali è come un hub personale di dati di gioco per ogni giocatore. Aggrega tutte le loro credenziali di gioco da diversi giochi e app in un'unica identità, come le loro prestazioni in un gioco, le comunità di gioco a cui appartengono e il numero di tornei vinti. È l'identità digitale dei giocatori.
 
 Il nostro sistema traccia tre tipi di dati degli utenti:
 
@@ -56,7 +56,7 @@ Il nostro sistema traccia tre tipi di dati degli utenti:
 
 Raccogliamo questi dati da piattaforme popolari come Steam, FaceIt, Riot Games, Twitter, Discord e fonti on-chain.
 
-Per dirla tecnicamente, la rete di credenziali di gioco utilizza i token soulbound dei giocatori (NFT non trasferibili) per archiviare in modo sicuro le loro metriche. Il nostro avanzato aggregatore di dati, XBorg, garantisce che i giocatori possiedano completamente i loro dati.
+Per dirla tecnicamente, la rete di credenziali di gioco utilizza i token legati all'anima dei giocatori (NFT non trasferibili) per memorizzare in modo sicuro le loro metriche. Il nostro avanzato aggregatore di dati, XBorg, garantisce che i giocatori possiedano completamente i loro dati.
 
 La rete di credenziali è il mattoncino che consente la creazione di applicazioni di gioco avanzate e giochi collegati all'identità dei giocatori.
 
@@ -68,9 +68,9 @@ Quindi, immagina il protocollo Lens per i videogiochi.
 
 <summary>Cos'è la rete di applicazioni di gioco?</summary>
 
-La rete di applicazioni di gioco è una collezione di app di gioco che utilizzano l'identità digitale di un giocatore. La nostra rete di credenziali può essere utilizzata per creare app di gioco più avanzate, come una piattaforma di tornei che abbina i giocatori in base alla loro storia, un lanciatore di GameFi soulbound o un'app di incontri di gioco che abbina i giocatori in base alle loro credenziali. I marchi possono anche utilizzare questa rete per l'acquisizione di utenti basata sui dati dei giocatori. La rete di applicazioni di gioco offre infinite possibilità per un'esperienza di gioco più personalizzata e piacevole.
+La rete di applicazioni di gioco è una collezione di app di gioco che utilizzano l'identità digitale di un giocatore. La nostra rete di credenziali può essere utilizzata per creare app di gioco più avanzate, come una piattaforma di tornei che mette in contatto i giocatori in base alla loro storia, un lanciatore di GameFi soulbound o un'app di incontri di gioco che mette in contatto i giocatori in base alle loro credenziali. I marchi possono anche utilizzare questa rete per l'acquisizione di utenti basata sui dati dei giocatori. La rete di applicazioni di gioco offre infinite possibilità per un'esperienza di gioco più personalizzata e piacevole.
 
-Intendiamo che l'uso della rete di credenziali sia senza autorizzazione in modo che tutti gli sviluppatori possano creare nuove app fantastiche :)&#x20;
+Intendiamo che l'uso della rete di credenziali sia senza permessi in modo che tutti gli sviluppatori possano creare nuove app fantastiche :)&#x20;
 
 </details>
 
@@ -78,10 +78,10 @@ Intendiamo che l'uso della rete di credenziali sia senza autorizzazione in modo 
 
 <summary>Qual è la missione di XBorg?</summary>
 
-La nostra missione in XBorg è quella di dare potere ai giocatori a livello globale offrendo loro opportunità di proprietà, governance e esperienze utente superiori. Crediamo fermamente che il futuro dei videogiochi sia nelle mani dei giocatori e ci impegniamo a essere la piattaforma in cui possono creare e possedere nuovi casi d'uso per l'industria dei videogiochi.
+La nostra missione in XBorg è quella di dare potere ai giocatori a livello globale, offrendo loro opportunità di proprietà, governance e esperienze utente superiori. Crediamo fermamente che il futuro dei videogiochi sia nelle mani dei giocatori e ci impegniamo a essere la piattaforma in cui possono creare e possedere nuovi casi d'uso per l'industria dei videogiochi.
 
-In XBorg, diamo priorità alle esigenze dei nostri giocatori e cerchiamo di creare un ambiente che favorisca la collaborazione, la governance aperta, la decentralizzazione e l'innovazione. Il nostro obiettivo è costruire una comunità globale di giocatori che possano prendere il controllo delle loro esperienze di gioco, creare le proprie applicazioni e contribuire alla crescita dell'industria.
+In XBorg, diamo priorità alle esigenze dei nostri giocatori e cerchiamo di creare un ambiente che favorisca la collaborazione, la governance aperta, la decentralizzazione e l'innovazione. Il nostro obiettivo è costruire una comunità globale di giocatori che possano prendere il controllo delle loro esperienze di gioco, creare le proprie applicazioni e contribuire alla crescita del settore.
 
-Siamo dedicati a raggiungere questo obiettivo lavorando a stretto contatto con i nostri giocatori per creare un mondo migliore per i giocatori ovunque.
+Ci dedichiamo a raggiungere questo obiettivo lavorando a stretto contatto con i nostri giocatori per creare un mondo migliore per i giocatori ovunque.
 
 </details>
