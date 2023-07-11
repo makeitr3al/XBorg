@@ -1,3 +1,13 @@
 # Meet the Team
 
+> XBorg is a gaming protocol set to redefine the entertainment landscape across Web3 and Web2. Pioneering the space would not be possible without a dedicated team, the faces of whom are displayed below.
+
+## Who is on the team behind XBorg, and what experience do they have?
+
+The team behind XBorg is composed of 12 members, each bringing their expertise to XBorg.
+
+<table data-view="cards"><thead><tr><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><p></p><p></p><p>Prior to founding XBorg, he contributed to well-known DAOs (CityDAO, MakerDAO) and has relevant experiences in traditional finance and quant with Rothschild &#x26; Co and Credit Suisse. Louis spent most of his childhood grinding out Call Of Duty and remains an active FPS player. At XBorg, he single-handedly developed the gaming passport alpha and led the roadmap execution, strategy and fundraising.</p></td><td></td><td></td><td><a href="../.gitbook/assets/Louis.png">Louis.png</a></td><td></td></tr><tr><td align="center">Lead Dev</td><td><p></p><p>With more than 14 years of experience in software development, she joined SwissBorg as a Senior Software Engineer to build an infrastructure now used by more than 700,000 users before joining XBorg to lead the tech team. On the side, Laureline is an avid gamer, regularly leading 30+ player raids on Final Fantasy, or ruling Minecraft servers like no other.</p></td><td></td><td><a href="../.gitbook/assets/Laureline.png">Laureline.png</a></td><td></td></tr><tr><td align="center"></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+Prior to founding XBorg, he contributed to well-known DAOs (CityDAO, MakerDAO) and has relevant experiences in traditional finance and quant with Rothschild & Co and Credit Suisse. Louis spent most of his childhood grinding out Call Of Duty and remains an active FPS player. At XBorg, he single-handedly developed the gaming passport alpha and led the roadmap execution, strategy and fundraising.
+
 Designer and Editor at XBorg. Prior to joining Xborg, he created 3D/videos and worked for well established esports orgs such as FNATIC, NRG, Heretics, T1, Shopify and more. Sean has always been an active gamer since childhood, with his dominant category being competitive FPS games such as COD, CSGO, Valorant and Apex reaching the top 1% in most. Since joining XBorg, he has created a variety of content such as 3D work, announcement videos and motion graphics, while aiming to contribute to the exponential growth of XBorg
