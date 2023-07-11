@@ -4,9 +4,7 @@
 
 #### Below you will find XBorg's CEO, Louis Regis, pitching XBorg.
 
-
-
-[https://youtu.be/yqQf0ETfB9w](https://youtu.be/yqQf0ETfB9w)
+{% embed url="https://youtu.be/yqQf0ETfB9w" %}
 
 <details>
 
