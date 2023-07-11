@@ -27,4 +27,4 @@
   * [Collecte de fonds](06-or-token/fundraise.md)
   * [Tour de table initial](06-or-token/seed-round.md)
 * [06 | ORGANIZATION](06-or-organization/README.md)
-  * [Juridique et financier](06-or-organization/legal-and-financial.md)
+  * [Légal et financier](06-or-organization/legal-and-financial.md)
