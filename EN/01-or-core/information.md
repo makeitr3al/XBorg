@@ -80,3 +80,15 @@ The gaming application network is a collection of gaming apps that use a player'
 We intend the use of the credential network to be permissionless such that any developers can build new cool apps :)&#x20;
 
 </details>
+
+<details>
+
+<summary>What is XBorg's mission? </summary>
+
+Our mission at XBorg is to empower gamers globally by providing them with opportunities for ownership, governance, and superior user experiences. We firmly believe that the future of gaming lies in the hands of the players, and we are committed to being the platform where they can create and own new use cases for the gaming industry.
+
+At XBorg, we prioritize our players' needs and strive to create an environment that fosters collaboration, open governance, decentralization, and innovation. Our goal is to build a global community of gamers who can take ownership of their gaming experiences, create their applications, and contribute to the industry's growth.
+
+We are dedicated to achieving this by working closely with our players to create a better world for gamers everywhere.
+
+</details>
