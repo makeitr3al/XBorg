@@ -58,5 +58,3 @@ What are the limitations of the Gaming Credential Network?
 
 * **Sybil resistance:** An inherent constraint of network infrastructure lies in the susceptibility of its users to adopt false personas or leverage advanced technologies such as artificial intelligence to manipulate their digital identities. To mitigate the detrimental effects of Sybil attacks, one effective strategy involves the incorporation of a Proof of Identity mechanism into the network's underlying protocol.
 * **Scale**: The true value proposition of the credential network is contingent upon achieving a requisite level of network scale, a priority that currently holds significant strategic importance for XBorg. However, once this objective is realized, the potential utilities that can be derived from the network are truly boundless.
-
-Test GPT 1344
