@@ -1,4 +1,17 @@
+---
+description: >-
+  This section seeks to offer the reader a general overview of XBorg prior to
+  their exploration of the rest of this document. This is the best place to
+  start to develope a general understanding of XBorg
+---
+
 # Information
+
+```
+<iframe width="750" height="422" src="https://www.youtube.com/embed/yqQf0ETfB9w" title="Public Pitch: Why invest in XBorg?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+```
+
+
 
 What is a Gaming Credential Network?
 
