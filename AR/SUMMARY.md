@@ -6,7 +6,8 @@
 
 * [معلومات](01-or-core/information.md)
 * [التعاون](01-or-core/collaboration.md)
-* [خارطة الطريق](01-or-core/roadmap.md)
+* [خريطة الطريق](01-or-core/roadmap.md)
+* [اختبار](01-or-core/test.md)
 
 ***
 
@@ -15,7 +16,7 @@
   * [شبكة اعتماد الألعاب](02-or-protocol/gaming-credential-network.md)
   * [شبكة تطبيقات الألعاب](02-or-protocol/gaming-application-network/README.md)
     * [تطبيق انخراط الألعاب](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
-    * [منصة إطلاق Soulbound](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
+    * [منصة Soulbound](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
     * [عروض الفريق الأولية](02-or-protocol/gaming-application-network/initial-team-offerings.md)
   * [الحوكمة](02-or-protocol/governance.md)
   * [الحوافز](02-or-protocol/incentives.md)
