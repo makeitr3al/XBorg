@@ -1,6 +1,8 @@
 # Informazioni
 
-> Questa sezione cerca di offrire al lettore una panoramica generale di XBorg prima di esplorare il resto di questo documento. Questo è il posto migliore per iniziare a sviluppare una comprensione generale di XBorg.
+> Questa sezione cerca di offrire al lettore una panoramica generale di XBorg prima della sua esplorazione del resto di questo documento. Questo è il posto migliore per iniziare a sviluppare una comprensione generale di XBorg.
+
+#### Test
 
 #### Di seguito troverai il CEO di XBorg, Louis Regis, che presenta XBorg.
 
@@ -20,11 +22,11 @@ Il problema dei dati frammentati dei giocatori è aggravato dal fatto che i gioc
 
 <summary>Cos'è XBorg?</summary>
 
-XBorg sta rivoluzionando l'industria dei videogiochi permettendo ai giocatori di creare la propria identità digitale di gioco attraverso una rete di credenziali. Apre la strada a una nuova generazione di applicazioni e casi d'uso migliorati nel mondo dei videogiochi.
+XBorg sta rivoluzionando l'industria dei videogiochi, permettendo ai giocatori di creare la propria identità digitale di gioco attraverso una rete di credenziali. Apre la strada a una nuova generazione di applicazioni e casi d'uso avanzati nel mondo dei videogiochi.
 
 Con il potenziale di coinvolgere decine di milioni di giocatori nell'ecosistema Web3, XBorg è destinato a trasformare il futuro dei videogiochi come lo conosciamo.
 
-XBorg è supportato dai migliori marchi e investitori di Web3 ed è la casa dei giocatori più competitivi del gaming Web3.
+XBorg è supportato dai migliori marchi e investitori di Web3 ed è la casa dei giocatori più competitivi nel gaming Web3.
 
 </details>
 
@@ -50,15 +52,15 @@ La rete di credenziali è come un hub personale di dati di gioco per ogni giocat
 
 Il nostro sistema traccia tre tipi di dati degli utenti:
 
-1. Coinvolgimento negli esports
+1. Coinvolgimento negli eSport
 2. Prestazioni di gioco
-3. Attività sociale/fan
+3. Attività sociali/fan
 
 Raccogliamo questi dati da piattaforme popolari come Steam, FaceIt, Riot Games, Twitter, Discord e fonti on-chain.
 
 Per dirla tecnicamente, la rete di credenziali di gioco utilizza i token legati all'anima dei giocatori (NFT non trasferibili) per memorizzare in modo sicuro le loro metriche. Il nostro avanzato aggregatore di dati, XBorg, garantisce che i giocatori possiedano completamente i loro dati.
 
-La rete di credenziali è il mattoncino che consente la creazione di applicazioni di gioco avanzate e giochi collegati all'identità dei giocatori.
+La rete di credenziali è il fondamento che consente la creazione di applicazioni di gioco avanzate e giochi collegati all'identità dei giocatori.
 
 Quindi, immagina il protocollo Lens per i videogiochi.
 
@@ -68,9 +70,9 @@ Quindi, immagina il protocollo Lens per i videogiochi.
 
 <summary>Cos'è la rete di applicazioni di gioco?</summary>
 
-La rete di applicazioni di gioco è una collezione di app di gioco che utilizzano l'identità digitale di un giocatore. La nostra rete di credenziali può essere utilizzata per creare app di gioco più avanzate, come una piattaforma di tornei che mette in contatto i giocatori in base alla loro storia, un lanciatore di GameFi soulbound o un'app di incontri di gioco che mette in contatto i giocatori in base alle loro credenziali. I marchi possono anche utilizzare questa rete per l'acquisizione di utenti basata sui dati dei giocatori. La rete di applicazioni di gioco offre infinite possibilità per un'esperienza di gioco più personalizzata e piacevole.
-
-Intendiamo che l'uso della rete di credenziali sia senza permessi in modo che tutti gli sviluppatori possano creare nuove app fantastiche :)&#x20;
+La rete di applicazioni di gioco è una collezione di app di gioco che utilizzano l'identità digitale di un giocatore. La nostra rete di credenziali può essere utilizzata per creare app di gioco più avanzate, come una piattaforma di tornei che mette in contatto i giocatori in base alla loro storia, un lanciatore di GameFi soulbound o un'app di incontri di gioco che mette in contatto i giocatori in base alle loro credenziali. I marchi possono anche utilizzare questa rete per l'acquisizione di utenti basata sui dati dei giocatori. La rete di applicazioni di gioco offre infinite possibilità per un'esperienza di gioco più personalizzata e piacevole.\
+\
+Intendiamo che l'uso della rete di credenziali sia senza permessi in modo che qualsiasi sviluppatore possa creare nuove app fantastiche :)
 
 </details>
 
@@ -82,6 +84,6 @@ La nostra missione in XBorg è quella di dare potere ai giocatori a livello glob
 
 In XBorg, diamo priorità alle esigenze dei nostri giocatori e cerchiamo di creare un ambiente che favorisca la collaborazione, la governance aperta, la decentralizzazione e l'innovazione. Il nostro obiettivo è costruire una comunità globale di giocatori che possano prendere il controllo delle loro esperienze di gioco, creare le proprie applicazioni e contribuire alla crescita del settore.
 
-Ci dedichiamo a raggiungere questo obiettivo lavorando a stretto contatto con i nostri giocatori per creare un mondo migliore per i giocatori ovunque.
+Siamo determinati a raggiungere questo obiettivo lavorando a stretto contatto con i nostri giocatori per creare un mondo migliore per i giocatori ovunque.
 
 </details>

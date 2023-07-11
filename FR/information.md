@@ -2,7 +2,9 @@
 
 > Cette section vise à offrir au lecteur un aperçu général de XBorg avant d'explorer le reste de ce document. C'est le meilleur endroit pour commencer à développer une compréhension générale de XBorg.
 
-#### Ci-dessous, vous trouverez Louis Regis, PDG de XBorg, qui présente XBorg.
+#### Test
+
+#### Ci-dessous, vous trouverez le PDG de XBorg, Louis Regis, qui présente XBorg.
 
 {% embed url="https://youtu.be/yqQf0ETfB9w" %}
 
@@ -20,9 +22,9 @@ Le problème des données fragmentées des joueurs est aggravé par le fait que 
 
 <summary>Qu'est-ce que XBorg ?</summary>
 
-XBorg révolutionne l'industrie du jeu en permettant aux joueurs de créer leur identité numérique de jeu grâce à un réseau de références. Il ouvre la voie à une nouvelle génération d'applications et de cas d'utilisation améliorés pour les jeux.
+XBorg révolutionne l'industrie du jeu en permettant aux joueurs de créer leur identité numérique de jeu grâce à un réseau de références. Il ouvre la voie à une nouvelle génération d'applications et de cas d'utilisation de jeu améliorés.
 
-Avec la possibilité d'intégrer des dizaines de millions de joueurs dans l'écosystème Web3, XBorg est en passe de transformer l'avenir du jeu tel que nous le connaissons.
+Avec la possibilité d'intégrer des dizaines de millions de joueurs dans l'écosystème Web3, XBorg est sur le point de transformer l'avenir du jeu tel que nous le connaissons.
 
 XBorg est soutenu par les meilleures marques et investisseurs de Web3 et abrite les joueurs les plus compétitifs du jeu Web3.
 
@@ -32,7 +34,7 @@ XBorg est soutenu par les meilleures marques et investisseurs de Web3 et abrite 
 
 <summary>Présente XBorg à un enfant de 5 ans</summary>
 
-Salut, petit ! As-tu déjà joué à des jeux sur ta tablette ou ton téléphone ? Eh bien, il y a quelque chose de vraiment cool appelé XBorg qui va rendre ton expérience de jeu encore plus amusante !
+Salut petit ! As-tu déjà joué à des jeux sur ta tablette ou ton téléphone ? Eh bien, il y a quelque chose de vraiment cool appelé XBorg qui va rendre ton expérience de jeu encore plus amusante !
 
 XBorg est comme un outil spécial qui t'aide à créer ton propre personnage numérique que tu peux utiliser pour jouer à des jeux. C'est comme créer ton propre super-héros !
 
@@ -54,13 +56,13 @@ Notre système suit trois types de données utilisateur :
 2. Performance de jeu
 3. Activité sociale/fan
 
-Nous recueillons ces données à partir de plateformes populaires telles que Steam, FaceIt, Riot Games, Twitter, Discord et des sources sur chaîne.
+Nous recueillons ces données à partir de plates-formes populaires telles que Steam, FaceIt, Riot Games, Twitter, Discord et des sources sur chaîne.
 
-Pour le dire techniquement, le réseau de références de jeu utilise des jetons liés à l'âme des joueurs (NFT non transférables) pour stocker leurs mesures en toute sécurité. Notre agrégateur de données avancé, XBorg, garantit aux joueurs la pleine propriété de leurs données.
+Pour le dire techniquement, le réseau de références de jeu utilise des jetons liés à l'âme des joueurs (NFT non transférables) pour stocker leurs métriques en toute sécurité. Notre agrégateur de données avancé, XBorg, garantit aux joueurs la pleine propriété de leurs données.
 
 Le réseau de références est le fondement permettant la création d'applications de jeu améliorées et de jeux liés à l'identité des joueurs.
 
-Imagine donc le protocole Lens pour les jeux.
+Par conséquent, imaginez le protocole Lens pour les jeux.
 
 </details>
 
@@ -68,9 +70,9 @@ Imagine donc le protocole Lens pour les jeux.
 
 <summary>Qu'est-ce que le réseau d'applications de jeu ?</summary>
 
-Le réseau d'applications de jeu est une collection d'applications de jeu qui utilisent l'identité numérique d'un joueur. Notre réseau de références peut être utilisé pour créer des applications de jeu plus avancées, comme une plateforme de tournois qui met en relation les joueurs en fonction de leur historique, une plateforme de lancement GameFi soulbound ou une application de rencontres de jeu qui met en relation les joueurs en fonction de leurs références. Les marques peuvent également utiliser ce réseau pour l'acquisition d'utilisateurs basée sur les données des joueurs. Le réseau d'applications de jeu offre des possibilités infinies pour une expérience de jeu plus personnalisée et agréable.
-
-Nous prévoyons que l'utilisation du réseau de références soit sans permission, de sorte que tous les développeurs puissent créer de nouvelles applications cool :)&#x20;
+Le réseau d'applications de jeu est une collection d'applications de jeu qui utilisent l'identité numérique d'un joueur. Notre réseau de références peut être utilisé pour créer des applications de jeu plus avancées, comme une plateforme de tournois qui met en relation les joueurs en fonction de leur historique, une plateforme de lancement GameFi soulbound ou une application de rencontres de jeu qui met en relation les joueurs en fonction de leurs références. Les marques peuvent également utiliser ce réseau pour l'acquisition d'utilisateurs basée sur les données des joueurs. Le réseau d'applications de jeu offre des possibilités infinies pour une expérience de jeu plus personnalisée et agréable.\
+\
+Nous prévoyons que l'utilisation du réseau de références soit sans permission, de sorte que tous les développeurs puissent créer de nouvelles applications cool :)
 
 </details>
 
@@ -82,6 +84,6 @@ Notre mission chez XBorg est de donner aux joueurs du monde entier les moyens de
 
 Chez XBorg, nous donnons la priorité aux besoins de nos joueurs et nous nous efforçons de créer un environnement qui favorise la collaboration, la gouvernance ouverte, la décentralisation et l'innovation. Notre objectif est de construire une communauté mondiale de joueurs qui peuvent prendre en main leurs expériences de jeu, créer leurs propres applications et contribuer à la croissance de l'industrie.
 
-Nous nous engageons à réaliser cela en travaillant en étroite collaboration avec nos joueurs pour créer un monde meilleur pour les joueurs partout.
+Nous nous engageons à y parvenir en travaillant en étroite collaboration avec nos joueurs pour créer un monde meilleur pour les joueurs partout.
 
 </details>
