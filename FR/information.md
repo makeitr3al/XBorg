@@ -5,28 +5,76 @@ description: >-
 
 # Information
 
+#### Ci-dessous, vous trouverez le PDG de XBorg, Louis Regis, présentant XBorg.
+
+
+
 [https://youtu.be/yqQf0ETfB9w](https://youtu.be/yqQf0ETfB9w)
 
+<details>
 
+<summary>Pourquoi XBorg ?</summary>
 
-```html
-<iframe width="750" height="422" src="https://www.youtube.com/embed/yqQf0ETfB9w" title="Public Pitch: Why invest in XBorg?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-```
+Dans la société d'aujourd'hui, où le temps libre devient de plus en plus abondant, les joueurs passent d'innombrables heures plongés dans des mondes de jeux. Pourtant, les données générées par ces expériences sont souvent sous-évaluées et fragmentées à travers plusieurs jeux. XBorg reconnaît la valeur du temps des joueurs et cherche à rendre leurs données significatives et précieuses.
 
+Le problème des données fragmentées des joueurs est aggravé par le fait que les joueurs ne sont pas toujours récompensés pour leur contribution au succès d'un jeu. Malgré leur rôle essentiel dans l'écosystème du jeu, les joueurs ne perçoivent souvent aucune valeur générée par leur gameplay. Ce problème important affecte de nombreux joueurs et nécessite une solution.
 
+</details>
 
+<details>
 
+<summary>Qu'est-ce que XBorg ?</summary>
 
-Qu'est-ce qu'un réseau de références de jeu ?
+XBorg révolutionne l'industrie du jeu en permettant aux joueurs de créer leur identité numérique de jeu grâce à un réseau de références. Il ouvre la voie à une nouvelle génération d'applications et de cas d'utilisation de jeu améliorés.
 
-Le réseau de références est comme un hub de données de jeu personnel pour chaque joueur. Il agrège toutes leurs références de jeu provenant de différents jeux et applications en une seule identité, comme leurs performances dans un jeu, les communautés de jeu auxquelles ils appartiennent et le nombre de tournois qu'ils ont remportés. C'est l'identité numérique des joueurs.
+Avec la possibilité d'intégrer des dizaines de millions de joueurs dans l'écosystème Web3, XBorg est sur le point de transformer l'avenir du jeu tel que nous le connaissons.
+
+XBorg est soutenu par les meilleures marques et investisseurs de Web3 et abrite les joueurs les plus compétitifs du jeu Web3.
+
+</details>
+
+<details>
+
+<summary>Présente XBorg à un enfant de 5 ans</summary>
+
+Salut, petit ! As-tu déjà joué à des jeux sur ta tablette ou ton téléphone ? Eh bien, il y a quelque chose de vraiment cool appelé XBorg qui va rendre ton expérience de jeu encore plus amusante !
+
+XBorg est comme un outil spécial qui t'aide à créer ton propre personnage numérique que tu peux utiliser pour jouer à des jeux. C'est comme créer ton propre super-héros !
+
+Et la meilleure partie, c'est que ton super-héros te donne des super-pouvoirs dans d'autres applications de jeu cool aussi. C'est comme donner des super-pouvoirs à tous les joueurs de la planète.
+
+XBorg est soutenu par des personnes vraiment importantes et intelligentes qui pensent que cela va changer la façon dont nous jouons aux jeux à l'avenir. Alors prépare-toi, car XBorg va être vraiment important !
+
+</details>
+
+<details>
+
+<summary>Qu'est-ce qu'un réseau de références de jeu ?</summary>
+
+Le réseau de références est comme un hub personnel de données de jeu pour chaque joueur. Il regroupe toutes leurs références de jeu provenant de différents jeux et applications en une seule identité, comme leurs performances dans un jeu, les communautés de jeu auxquelles ils appartiennent et le nombre de tournois qu'ils ont remportés. C'est l'identité numérique des joueurs.
 
 Notre système suit trois types de données utilisateur :
 
-Nous recueillons ces données à partir de plateformes populaires telles que Steam, FaceIt, Riot Games, Twitter, Discord et des sources en chaîne.
+1. Engagement dans l'esport
+2. Performance de jeu
+3. Activité sociale/fan
 
-Pour le dire techniquement, le réseau de références de jeu utilise des jetons liés à l'âme des joueurs (NFT non transférables) pour stocker leurs mesures en toute sécurité. Notre agrégateur de données avancé, XBorg, garantit aux joueurs la pleine propriété de leurs données.
+Nous recueillons ces données à partir de plates-formes populaires telles que Steam, FaceIt, Riot Games, Twitter, Discord et des sources sur chaîne.
 
-Le réseau de références est le bloc de construction permettant la création d'applications de jeu améliorées et de jeux connectés à l'identité des joueurs.
+Pour le dire techniquement, le réseau de références de jeu utilise des jetons liés à l'âme des joueurs (NFT non transférables) pour stocker leurs métriques en toute sécurité. Notre agrégateur de données avancé, XBorg, garantit aux joueurs la pleine propriété de leurs données.
+
+Le réseau de références est le fondement permettant la création d'applications de jeu améliorées et de jeux liés à l'identité des joueurs.
 
 Par conséquent, imaginez le protocole Lens pour les jeux.
+
+</details>
+
+<details>
+
+<summary>Qu'est-ce que le réseau d'applications de jeu ?</summary>
+
+Le réseau d'applications de jeu est une collection d'applications de jeu qui utilisent l'identité numérique d'un joueur. Notre réseau de références peut être utilisé pour créer des applications de jeu plus avancées, comme une plateforme de tournois qui met en relation les joueurs en fonction de leur historique, une plateforme de lancement GameFi soulbound ou une application de rencontres de jeu qui met en relation les joueurs en fonction de leurs références. Les marques peuvent également utiliser ce réseau pour l'acquisition d'utilisateurs basée sur les données des joueurs. Le réseau d'applications de jeu offre des possibilités infinies pour une expérience de jeu plus personnalisée et agréable.
+
+Nous prévoyons que l'utilisation du réseau de références soit sans autorisation, de sorte que tous les développeurs puissent créer de nouvelles applications cool :)&#x20;
+
+</details>
