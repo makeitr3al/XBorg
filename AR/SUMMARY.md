@@ -1,10 +1,10 @@
 # جدول المحتويات
 
-* [أسئلة وأجوبة نهائية لشركة XBorg](README.md)
+* [أسئلة وأجوبة نهائية لـ XBorg](README.md)
 * [01 | النواة](01-or-core/README.md)
   * [معلومات](01-or-core/information.md)
   * [التعاون](01-or-core/collaboration.md)
-  * [خطة العمل](01-or-core/roadmap.md)
+  * [خريطة الطريق](01-or-core/roadmap.md)
 * [02 | البروتوكول](02-or-protocol/README.md)
   * [شبكة اعتماد الألعاب](02-or-protocol/gaming-credential-network.md)
   * [شبكة تطبيقات الألعاب](02-or-protocol/gaming-application-network/README.md)
