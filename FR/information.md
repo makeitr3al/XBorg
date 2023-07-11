@@ -1,11 +1,8 @@
----
-description: >-
-  Cette section vise à offrir au lecteur un aperçu général de XBorg avant d'explorer le reste de ce document. C'est le meilleur endroit pour commencer à développer une compréhension générale de XBorg
----
-
 # Information
 
-#### Ci-dessous, vous trouverez Louis Regis, PDG de XBorg, présentant XBorg.
+> Cette section vise à offrir au lecteur un aperçu général de XBorg avant d'explorer le reste de ce document. C'est le meilleur endroit pour commencer à développer une compréhension générale de XBorg.
+
+#### Ci-dessous, vous trouverez Louis Regis, PDG de XBorg, qui présente XBorg.
 
 
 
@@ -27,7 +24,7 @@ Le problème des données fragmentées des joueurs est aggravé par le fait que 
 
 XBorg révolutionne l'industrie du jeu en permettant aux joueurs de créer leur identité numérique de jeu grâce à un réseau de références. Il ouvre la voie à une nouvelle génération d'applications et de cas d'utilisation améliorés pour les jeux.
 
-Avec la possibilité d'intégrer des dizaines de millions de joueurs dans l'écosystème Web3, XBorg est sur le point de transformer l'avenir du jeu tel que nous le connaissons.
+Avec la possibilité d'intégrer des dizaines de millions de joueurs dans l'écosystème Web3, XBorg est prêt à transformer l'avenir du jeu tel que nous le connaissons.
 
 XBorg est soutenu par les meilleures marques et investisseurs de Web3 et abrite les joueurs les plus compétitifs du jeu Web3.
 
@@ -37,11 +34,11 @@ XBorg est soutenu par les meilleures marques et investisseurs de Web3 et abrite 
 
 <summary>Présente XBorg à un enfant de 5 ans</summary>
 
-Salut petit ! As-tu déjà joué à des jeux sur ta tablette ou ton téléphone ? Eh bien, il y a quelque chose de vraiment cool appelé XBorg qui va rendre ton expérience de jeu encore plus amusante !
+Salut, petit ! As-tu déjà joué à des jeux sur ta tablette ou ton téléphone ? Eh bien, il y a quelque chose de vraiment cool appelé XBorg qui va rendre ton expérience de jeu encore plus amusante !
 
 XBorg est comme un outil spécial qui t'aide à créer ton propre personnage numérique que tu peux utiliser pour jouer à des jeux. C'est comme créer ton propre super-héros !
 
-Et la meilleure partie, c'est que ton super-héros te donne des super pouvoirs dans d'autres applications de jeu cool aussi. C'est comme donner des super pouvoirs à tous les joueurs de la planète.
+Et la meilleure partie, c'est que ton super-héros te donne des super-pouvoirs dans d'autres applications de jeu cool aussi. C'est comme donner des super-pouvoirs à tous les joueurs de la planète.
 
 XBorg est soutenu par des personnes vraiment importantes et intelligentes qui pensent que cela va changer la façon dont nous jouons aux jeux à l'avenir. Alors prépare-toi, parce que XBorg va être vraiment important !
 
@@ -55,13 +52,13 @@ Le réseau de références est comme un hub personnel de données de jeu pour ch
 
 Notre système suit trois types de données utilisateur :
 
-1. Engagement dans les sports électroniques
+1. Engagement dans l'esport
 2. Performance de jeu
 3. Activité sociale/fan
 
 Nous recueillons ces données à partir de plates-formes populaires telles que Steam, FaceIt, Riot Games, Twitter, Discord et des sources sur chaîne.
 
-Pour le dire techniquement, le réseau de références de jeu utilise les jetons liés à l'âme des joueurs (NFT non transférables) pour stocker leurs mesures en toute sécurité. Notre agrégateur de données avancé, XBorg, garantit aux joueurs la pleine propriété de leurs données.
+Pour le dire techniquement, le réseau de références de jeu utilise des jetons liés à l'âme des joueurs (NFT non transférables) pour stocker leurs mesures en toute sécurité. Notre agrégateur de données avancé, XBorg, garantit aux joueurs la pleine propriété de leurs données.
 
 Le réseau de références est le fondement permettant la création d'applications de jeu améliorées et de jeux liés à l'identité des joueurs.
 
@@ -87,6 +84,6 @@ Notre mission chez XBorg est de donner aux joueurs du monde entier les moyens de
 
 Chez XBorg, nous donnons la priorité aux besoins de nos joueurs et nous nous efforçons de créer un environnement qui favorise la collaboration, la gouvernance ouverte, la décentralisation et l'innovation. Notre objectif est de construire une communauté mondiale de joueurs qui peuvent prendre en main leurs expériences de jeu, créer leurs propres applications et contribuer à la croissance de l'industrie.
 
-Nous nous engageons à y parvenir en travaillant en étroite collaboration avec nos joueurs pour créer un monde meilleur pour les joueurs partout.
+Nous nous engageons à réaliser cela en travaillant en étroite collaboration avec nos joueurs pour créer un monde meilleur pour les joueurs du monde entier.
 
 </details>
