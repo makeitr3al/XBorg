@@ -1,10 +1,16 @@
 # Indice
 
 * [XBorg's Ultimate FAQ](README.md)
-* [01 | CORE](01-or-core/README.md)
-  * [Informazioni](01-or-core/information.md)
-  * [Collaborazione](01-or-core/collaboration.md)
-  * [Roadmap](01-or-core/roadmap.md)
+
+## ℹ 01 | CORE
+
+* [Informazioni](01-or-core/information.md)
+* [Collaborazione](01-or-core/collaboration.md)
+* [Roadmap](01-or-core/roadmap.md)
+
+***
+
+* [01 | CORE](01-or-core-1.md)
 * [02 | PROTOCOL](02-or-protocol/README.md)
   * [Gaming Credential Network](02-or-protocol/gaming-credential-network.md)
   * [Gaming Application Network](02-or-protocol/gaming-application-network/README.md)

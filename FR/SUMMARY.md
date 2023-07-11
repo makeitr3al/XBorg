@@ -1,12 +1,18 @@
 # Table des matières
 
 * [FAQ ultime de XBorg](README.md)
-* [01 | CORE](01-or-core/README.md)
-  * [Information](01-or-core/information.md)
-  * [Collaboration](01-or-core/collaboration.md)
-  * [Roadmap](01-or-core/roadmap.md)
+
+## ℹ 01 | CORE
+
+* [Information](01-or-core/information.md)
+* [Collaboration](01-or-core/collaboration.md)
+* [Roadmap](01-or-core/roadmap.md)
+
+***
+
+* [01 | CORE](01-or-core-1.md)
 * [02 | PROTOCOL](02-or-protocol/README.md)
-  * [Réseau de crédential de jeu](02-or-protocol/gaming-credential-network.md)
+  * [Réseau de certification de jeu](02-or-protocol/gaming-credential-network.md)
   * [Réseau d'application de jeu](02-or-protocol/gaming-application-network/README.md)
     * [Application d'engagement de jeu](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
     * [Soulbound Launchpad](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
@@ -27,4 +33,4 @@
   * [Collecte de fonds](06-or-token/fundraise.md)
   * [Tour de table initial](06-or-token/seed-round.md)
 * [06 | ORGANIZATION](06-or-organization/README.md)
-  * [Légal et financier](06-or-organization/legal-and-financial.md)
+  * [Juridique et financier](06-or-organization/legal-and-financial.md)
