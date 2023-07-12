@@ -8,7 +8,7 @@
 * [Collaboration](01-or-core/collaboration.md)
 * [Roadmap](01-or-core/roadmap.md)
 
-## 02 | PROTOCOL
+## 📄 02 | PROTOCOL
 
 * [Gaming Credential Network](02-or-protocol/gaming-credential-network.md)
 * [Gaming Application Network](02-or-protocol/gaming-application-network/README.md)
@@ -18,13 +18,17 @@
 * [Governance](02-or-protocol/governance.md)
 * [Incentives](02-or-protocol/incentives.md)
 
+## 📈 03 | MARKET
+
+* [Competition](03-or-market/competition.md)
+
+## 🤝 04 | TEAM
+
+* [Meet the Team](04-or-team/meet-the-team.md)
+* [HR](04-or-team/hr.md)
+
 ***
 
-* [03 | MARKET](03-or-market/README.md)
-  * [Competition](03-or-market/competition.md)
-* [04 | TEAM](04-or-team/README.md)
-  * [Meet the Team](04-or-team/meet-the-team.md)
-  * [HR](04-or-team/hr.md)
 * [05 | COMMUNITY](05-or-community/README.md)
   * [NFT](05-or-community/nft.md)
   * [XP](05-or-community/xp.md)
@@ -35,7 +39,3 @@
   * [Seed Round](06-or-token/seed-round.md)
 * [06 | ORGANIZATION](06-or-organization/README.md)
   * [Legal and Financial](06-or-organization/legal-and-financial.md)
-
-## 📑 TEST
-
-* [TEST-Page](test/test-page.md)
