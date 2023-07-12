@@ -35,3 +35,7 @@
   * [Seed Round](06-or-token/seed-round.md)
 * [06 | ORGANIZATION](06-or-organization/README.md)
   * [Legal and Financial](06-or-organization/legal-and-financial.md)
+
+## 📑 TEST
+
+* [TEST-Page](test/test-page.md)
