@@ -7,6 +7,7 @@
 * [Information](01-or-core/information.md)
 * [Zusammenarbeit](01-or-core/collaboration.md)
 * [Roadmap](01-or-core/roadmap.md)
+* [Test](01-or-core/test.md)
 
 ***
 
