@@ -8,17 +8,18 @@
 * [التعاون](01-or-core/collaboration.md)
 * [خارطة الطريق](01-or-core/roadmap.md)
 
+## 02 | البروتوكول
+
+* [شبكة اعتماد الألعاب](02-or-protocol/gaming-credential-network.md)
+* [شبكة تطبيقات الألعاب](02-or-protocol/gaming-application-network/README.md)
+  * [تطبيق مشاركة الألعاب](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
+  * [منصة Soulbound](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
+  * [عروض الفريق الأولية](02-or-protocol/gaming-application-network/initial-team-offerings.md)
+* [الحوكمة](02-or-protocol/governance.md)
+* [الحوافز](02-or-protocol/incentives.md)
+
 ***
 
-* [01 | النواة](01-or-core-1.md)
-* [02 | البروتوكول](02-or-protocol/README.md)
-  * [شبكة اعتماد الألعاب](02-or-protocol/gaming-credential-network.md)
-  * [شبكة تطبيقات الألعاب](02-or-protocol/gaming-application-network/README.md)
-    * [تطبيق انخراط الألعاب](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
-    * [منصة إطلاق Soulbound](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
-    * [عروض الفريق الأولية](02-or-protocol/gaming-application-network/initial-team-offerings.md)
-  * [الحوكمة](02-or-protocol/governance.md)
-  * [الحوافز](02-or-protocol/incentives.md)
 * [03 | السوق](03-or-market/README.md)
   * [المنافسة](03-or-market/competition.md)
 * [04 | الفريق](04-or-team/README.md)
@@ -34,3 +35,7 @@
   * [جولة البذور](06-or-token/seed-round.md)
 * [06 | المنظمة](06-or-organization/README.md)
   * [القانون والمالية](06-or-organization/legal-and-financial.md)
+
+## 📑 اختبار
+
+* [صفحة الاختبار](test/test-page.md)
