@@ -18,9 +18,9 @@
 * [Governance](02-or-protocol/governance.md)
 * [Incentives](02-or-protocol/incentives.md)
 
-## 📈 03 | MARKET
+## 📈 03 | MARKET t
 
-* [Competition](03-or-market/competition.md)
+* [Competition](03-or-market-t/competition.md)
 
 ## 🤝 04 | TEAM
 
