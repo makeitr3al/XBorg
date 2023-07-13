@@ -24,7 +24,7 @@
 
 ## ♠ 04 | TEAM
 
-* [Das Team kennenlernen](04-or-team/meet-the-team.md)
+* [Team kennenlernen](04-or-team/meet-the-team.md)
 * [Personalwesen](04-or-team/hr.md)
 
 ## 🤝 05 | COMMUNITY
@@ -33,7 +33,7 @@
 * [XP](05-or-community/xp.md)
 * [Esports](05-or-community/esports.md)
 
-## 💰 06 | TOKEN
+## 💲 06 | TOKEN
 
 * [XBG](06-or-token/xbg.md)
 * [Fundraising](06-or-token/fundraise.md)
@@ -41,6 +41,5 @@
 
 ***
 
-* [06 | T](06.md)
 * [06 | ORGANIZATION](06-or-organization/README.md)
   * [Rechtliches und Finanzielles](06-or-organization/legal-and-financial.md)
