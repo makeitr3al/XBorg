@@ -39,6 +39,10 @@
 * [Fundraising](06-or-token/fundraise.md)
 * [Seed-Runde](06-or-token/seed-round.md)
 
+## Gruppe 1
+
+* [Seite 1](group-1/page-1.md)
+
 ***
 
 * [06 | ORGANIZATION](06-or-organization/README.md)

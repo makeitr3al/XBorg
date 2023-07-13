@@ -12,4 +12,4 @@ layout:
     visible: false
 ---
 
-# 06 | ORGANISATION
+# 06 | التنظيم
