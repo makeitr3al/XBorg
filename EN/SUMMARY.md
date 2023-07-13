@@ -27,12 +27,14 @@
 * [Meet the Team](04-or-team/meet-the-team.md)
 * [HR](04-or-team/hr.md)
 
+## 🤝 05 | COMMUNITY
+
+* [NFT](05-or-community/nft.md)
+* [XP](05-or-community/xp.md)
+* [Esports](05-or-community/esports.md)
+
 ***
 
-* [05 | COMMUNITY](05-or-community/README.md)
-  * [NFT](05-or-community/nft.md)
-  * [XP](05-or-community/xp.md)
-  * [Esports](05-or-community/esports.md)
 * [06 | TOKEN](06-or-token/README.md)
   * [XBG](06-or-token/xbg.md)
   * [Fundraise](06-or-token/fundraise.md)
