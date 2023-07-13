@@ -105,6 +105,6 @@ The vesting period is of 12 months, vested linearly.
 
 <summary>It was said that Prometheus NFT holders get additional allocation to buy XBG tokens. How big is the allocation per NFT?</summary>
 
-The private allocation for the Prometheus community is uncapped, meaning that allocations are guaranteed for Prometheus holders. We aim to raise around $500'000 from the NFT holders.&#x20;
+The private allocation for the Prometheus community is uncapped, meaning that allocations are guaranteed for Prometheus holders. We aimed to raise around $500'000 from the NFT holders and raised $1'000'000 in total.
 
 </details>
