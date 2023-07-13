@@ -1,6 +1,6 @@
 # جدول المحتويات
 
-* [أسئلة وأجوبة نهائية لـ XBorg](README.md)
+* [أسئلة وأجوبة نهائية لشركة XBorg](README.md)
 
 ## ℹ 01 | النواة
 
@@ -8,7 +8,7 @@
 * [التعاون](01-or-core/collaboration.md)
 * [خارطة الطريق](01-or-core/roadmap.md)
 
-## 02 | البروتوكول
+## 📄 02 | البروتوكول
 
 * [شبكة اعتماد الألعاب](02-or-protocol/gaming-credential-network.md)
 * [شبكة تطبيقات الألعاب](02-or-protocol/gaming-application-network/README.md)
@@ -18,13 +18,17 @@
 * [الحوكمة](02-or-protocol/governance.md)
 * [الحوافز](02-or-protocol/incentives.md)
 
+## 📉 03 | السوق
+
+* [المنافسة](03-or-market/competition.md)
+
+## ♠ 04 | الفريق
+
+* [تعرف على الفريق](04-or-team/meet-the-team.md)
+* [الموارد البشرية](04-or-team/hr.md)
+
 ***
 
-* [03 | السوق](03-or-market/README.md)
-  * [المنافسة](03-or-market/competition.md)
-* [04 | الفريق](04-or-team/README.md)
-  * [تعرف على الفريق](04-or-team/meet-the-team.md)
-  * [الموارد البشرية](04-or-team/hr.md)
 * [05 | المجتمع](05-or-community/README.md)
   * [NFT](05-or-community/nft.md)
   * [XP](05-or-community/xp.md)
@@ -35,7 +39,3 @@
   * [جولة البذور](06-or-token/seed-round.md)
 * [06 | المنظمة](06-or-organization/README.md)
   * [القانون والمالية](06-or-organization/legal-and-financial.md)
-
-## 📑 اختبار
-
-* [صفحة الاختبار](test/test-page.md)
