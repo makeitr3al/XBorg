@@ -2,9 +2,9 @@
 
 > A XBorg está atualmente levantando uma rodada de seed de $5 milhões. Como parte da rodada, membros da comunidade poderão participar. Os detalhes exatos da rodada e o cronograma podem ser encontrados [aqui](https://www.xborg.com/seed-round).&#x20;
 >
-> É importante ter em mente que os termos de aquisição e bloqueio associados ao token XBG podem estar sujeitos a alterações. Como é comum em projetos em estágio inicial, muitos dos detalhes e condições relacionadas a investimentos podem ser ajustados à medida que o projeto evolui.
+> É importante ter em mente que os termos de vesting e bloqueio associados ao token XBG podem estar sujeitos a alterações. Como é comum em projetos em estágio inicial, muitos dos detalhes e condições relacionadas a investimentos podem ser ajustados à medida que o projeto evolui.
 >
-> Além disso, vale ressaltar que a declaração abaixo não deve ser interpretada como um convite ou incentivo para adquirir o token XBG. Qualquer decisão de investir nesta ou em qualquer outra criptomoeda envolve riscos inerentes e deve ser cuidadosamente considerada antes de tomar qualquer ação.
+> Além disso, vale ressaltar que a declaração abaixo não deve ser interpretada como um convite ou incentivo para comprar o token XBG. Qualquer decisão de investir nesta ou em qualquer outra criptomoeda envolve riscos inerentes e deve ser cuidadosamente considerada antes de tomar qualquer ação.
 
 <details>
 
@@ -38,9 +38,9 @@ Para participar da rodada, você pode adquirir um NFT Prometheus [aqui](https://
 
 <details>
 
-<summary>Existe um período de carência? </summary>
+<summary>Existe um período de vesting? </summary>
 
-Para os participantes da rodada estratégica e de seed, seu investimento vem com um período de bloqueio de 3 meses, seguido de um cronograma de carência de 18 meses após o TGE. Além disso, 10% dos tokens XBG adquiridos estarão imediatamente disponíveis após o TGE. Esteja ciente de que esses termos estão sujeitos a alterações à medida que nos adaptamos aos requisitos das exchanges de criptomoedas.
+Para os participantes da rodada estratégica e de seed, seu investimento possui um período de bloqueio de 3 meses, seguido de um cronograma de vesting de 18 meses após o TGE. Além disso, 10% dos tokens XBG adquiridos estarão imediatamente disponíveis após o TGE. Esteja ciente de que esses termos estão sujeitos a alterações à medida que nos adaptamos aos requisitos das exchanges de criptomoedas.
 
 </details>
 
@@ -56,17 +56,17 @@ Embora seja o preço mais baixo pelo qual alguém pode comprar tokens XBG, é im
 
 <summary>Como as rodadas de captação de recursos são estruturadas até o TGE? </summary>
 
-* **Rodada estratégica:** $1 milhão levantado a $0,025 / token XBG.
-* **Rodada de seed:** $5 milhões levantados a $0,045-0,055 / token XBG.&#x20;
+* **Rodada estratégica:** $1 milhão arrecadado a $0,025 / token XBG.
+* **Rodada de seed:** $5 milhões arrecadados a $0,045-0,055 / token XBG.&#x20;
 * **Rodada pública:** De acordo com o LBP.&#x20;
 
 </details>
 
 <details>
 
-<summary>Haverá um processo KYC para participar da rodada de seed? </summary>
+<summary>Existe um processo KYC para participar da rodada de seed? </summary>
 
-Sim, tanto a rodada de seed quanto a pública estarão sujeitas a um procedimento KYC. No launchpad da XBorg, o procedimento KYC ocorre aqui: [https://launchpad.xborg.com/kyc](https://launchpad.xborg.com/kyc)
+Sim, tanto a rodada de seed quanto a rodada pública estarão sujeitas a um procedimento KYC. No launchpad da XBorg, o procedimento KYC ocorre aqui: [https://launchpad.xborg.com/kyc](https://launchpad.xborg.com/kyc)
 
 </details>
 
@@ -76,7 +76,7 @@ Sim, tanto a rodada de seed quanto a pública estarão sujeitas a um procediment
 
 Estamos levantando uma rodada de seed de $5 milhões. Os fundos arrecadados serão alocados da seguinte forma e serão gastos ao longo de 3 anos.
 
-* **Desenvolvimentos técnicos:** 60% ($3.000.000) dos fundos serão alocados para desenvolvimentos técnicos e custos de infraestrutura. Isso representa o custo de 10 engenheiros em tempo integral por três anos, com um salário médio de mercado de $7.000 por mês.
+* **Desenvolvimento técnico:** 60% ($3.000.000) dos fundos serão alocados para desenvolvimento técnico e custos de infraestrutura. Isso representa o custo de 10 engenheiros em tempo integral por três anos, com um salário médio de mercado de $7.000 por mês.
 * **Marketing:** 20% ($1.000.000) dos fundos serão alocados para despesas de marketing, campanhas de influenciadores, relações públicas, oportunidades de patrocínio e eventos.
 * **Liquidez e listagens em exchanges:** 10% ($500.000) dos fundos serão alocados para pagamentos de listagem em exchanges e provisão de liquidez.
 * **Custos operacionais:** 10% ($500.000) dos fundos serão alocados para aluguel de escritório, honorários legais e assinaturas de software.
@@ -95,7 +95,7 @@ Se você é detentor de Prometheus, o limite mínimo de investimento é de $100,
 
 <details>
 
-<summary>Como a empresa lidará com quaisquer tokens não vendidos?</summary>
+<summary>Como a empresa lidará com tokens não vendidos?</summary>
 
 No caso de tokens não vendidos, eles podem ser mantidos no tesouro e eventualmente vendidos OTC para grandes investidores.
 
@@ -109,4 +109,4 @@ Investidores da Série A e premiums Genesis/Generation poderão comprar tokens X
 
 </details>
 
-&#x20;T
+&#x20;

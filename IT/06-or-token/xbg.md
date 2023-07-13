@@ -1,6 +1,6 @@
 # XBG
 
-> XBG è il token nativo che alimenta il protocollo XBorg. È il metodo di pagamento principale, catturando tutto il valore e i ricavi generati all'interno dell'ecosistema. Inoltre, fornisce accesso alla governance del protocollo, consentendo ai detentori di token di partecipare attivamente alla definizione del futuro della piattaforma.
+XBG è il token nativo che alimenta il protocollo XBorg. È il metodo di pagamento principale, catturando tutto il valore e i ricavi generati all'interno dell'ecosistema. Inoltre, fornisce accesso alla governance del protocollo, consentendo ai detentori di token di partecipare attivamente alla definizione del futuro della piattaforma.
 
 <details>
 
@@ -14,7 +14,7 @@ Il token XBG verrà implementato sulla blockchain di Ethereum e verrà collegato
 
 <summary>Perché XBorg ha deciso di emettere un token?</summary>
 
-XBorg è profondamente impegnata nel promuovere un ecosistema incentrato sulla comunità e la nostra decisione di emettere un token riflette questo impegno. A differenza dei modelli aziendali tradizionali che si concentrano sull'accumulo di valore basato sulle azioni, tutti i flussi di cassa generati all'interno del nostro ecosistema vengono ridirezionati verso il tesoro del DAO (Organizzazione Autonoma Decentralizzata). Questo modello facilita un coinvolgimento più diretto della comunità e allinea gli interessi in modo più efficace.
+XBorg è profondamente impegnata nella creazione di un ecosistema incentrato sulla comunità e la nostra decisione di emettere un token riflette questo impegno. A differenza dei modelli aziendali tradizionali che si concentrano sull'accumulo di valore basato sulle azioni, tutti i flussi di cassa generati all'interno del nostro ecosistema vengono ridirezionati al tesoro del DAO (Decentralized Autonomous Organization). Questo modello facilita un coinvolgimento più diretto della comunità e allinea gli interessi in modo più efficace.
 
 Introducendo il token XBG, creiamo un'economia all'interno del protocollo in cui il token funge da principale mezzo di transazione. Questa mossa segna un passaggio verso un modello più partecipativo e basato sulla comunità, in cui ogni membro ha voce in capitolo nella direzione della piattaforma e condivide il suo successo. È un approccio innovativo che sottolinea la nostra convinzione nel potenziale trasformativo delle reti decentralizzate.
 
@@ -40,7 +40,7 @@ Il TGE avverrà verso la fine del 2023.
 
 <summary>Perché non è possibile fornire una data esatta per il TGE?</summary>
 
-Come team, crediamo che le prospettive della criptovaluta verso la fine del 2023 e vicino alle riduzioni a metà di Bitcoin saranno positive. Attualmente, il team di XBorg sta discutendo con scambi di alto livello, le cui opinioni hanno un peso considerevole nel determinare il momento ideale per la quotazione dei token. È importante notare che lanciare un token durante periodi di liquidità incerta e interesse per le monete alternative può comportare un rischio.
+Come team, crediamo che le prospettive per il settore delle criptovalute verso la fine del 2023 e vicino alle riduzioni a metà di Bitcoin saranno positive. Attualmente, il team di XBorg sta discutendo con scambi di alto livello, le cui opinioni hanno un peso considerevole nel determinare il momento ideale per la quotazione dei token. È importante notare che lanciare un token durante periodi di liquidità incerta e interesse per le monete alternative può comportare un rischio.
 
 Inoltre, riconosciamo che il valore di un token risiede nella solidità dell'ecosistema in cui opera. Pertanto, il nostro obiettivo è coltivare una base utenti di almeno 100.000 prima di lanciare il token.
 
@@ -52,7 +52,7 @@ Guardando avanti, il nostro team è ottimista sul potenziale del mercato delle c
 
 <summary>Come verrà lanciato il token?</summary>
 
-Abbiamo intenzione di lanciare il token tramite un Balancer Liquidity Bootstrapping Pool. Si prega di notare che ciò potrebbe cambiare in base alle esigenze degli scambi e alle condizioni di mercato.
+Abbiamo intenzione di rilasciare il token tramite un Balancer Liquidity Bootstrapping Pool. Si prega di notare che ciò potrebbe cambiare in base alle richieste degli scambi e alle condizioni di mercato.
 
 </details>
 
@@ -60,7 +60,7 @@ Abbiamo intenzione di lanciare il token tramite un Balancer Liquidity Bootstrapp
 
 <summary>È previsto il lancio del token XBorg su L2 come Arbitrum a causa dei previsti alti costi di gas su Ethereum?</summary>
 
-Sì, il token verrà lanciato su ETH come mercato principale e collegato a Polygon e, eventualmente, ad altre L2.
+Sì, il token verrà lanciato su ETH come mercato principale e collegato a Polygon e, in futuro, ad altri L2.
 
 </details>
 
@@ -118,7 +118,7 @@ Il token XBG viene utilizzato per le azioni di governance nel DAO di XBorg duran
 
 **Staking**
 
-Il 50% delle commissioni e dei ricavi pagati in XBG è destinato al pool di ricompense per lo staking. La quantità di ricompense per lo staking ricevute è determinata dalla durata del periodo di blocco e dallo status individuale all'interno del protocollo.
+Il 50% delle commissioni e dei ricavi pagati in XBG è destinato al pool di ricompense per lo staking. La quantità di ricompense per lo staking ricevute è determinata dalla durata del periodo di blocco e dallo status dell'individuo all'interno del protocollo.
 
 **Accesso al protocollo**
 
@@ -158,4 +158,4 @@ Il contratto del token XBG non è stato ancora implementato su testnet o mainnet
 
 </details>
 
-&nbsp;T
+&#x20;
