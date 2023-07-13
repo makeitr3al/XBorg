@@ -41,9 +41,9 @@
 
 ## Group 1
 
-* [Legal and Financial](group-1/legal-and-financial.md)
 * [Page 1](group-1/page-1.md)
 
 ***
 
-* [06 | ORGANIZATION](06-or-organization.md)
+* [06 | ORGANIZATION](06-or-organization/README.md)
+  * [Legal and Financial](06-or-organization/legal-and-financial.md)
