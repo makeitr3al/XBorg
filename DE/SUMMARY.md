@@ -1,10 +1,10 @@
 # Inhaltsverzeichnis
 
-* [XBorgs ultimative FAQ](README.md)
+* [XBorg's Ultimate FAQ](README.md)
 
-## ℹ 01 | KERN
+## ℹ 01 | CORE
 
-* [Informationen](01-or-core/information.md)
+* [Information](01-or-core/information.md)
 * [Zusammenarbeit](01-or-core/collaboration.md)
 * [Roadmap](01-or-core/roadmap.md)
 
@@ -18,7 +18,7 @@
 * [Governance](02-or-protocol/governance.md)
 * [Anreize](02-or-protocol/incentives.md)
 
-## 📈 03 | MARKT
+## 📈 03 | MARKET
 
 * [Wettbewerb](03-or-market/competition.md)
 
@@ -33,11 +33,14 @@
 * [XP](05-or-community/xp.md)
 * [Esports](05-or-community/esports.md)
 
+## 💰 06 | TOKEN
+
+* [XBG](06-or-token/xbg.md)
+* [Fundraising](06-or-token/fundraise.md)
+* [Seed-Runde](06-or-token/seed-round.md)
+
 ***
 
-* [06 | TOKEN](06-or-token/README.md)
-  * [XBG](06-or-token/xbg.md)
-  * [Fundraising](06-or-token/fundraise.md)
-  * [Seed-Runde](06-or-token/seed-round.md)
-* [06 | ORGANISATION](06-or-organization/README.md)
+* [06 | T](06.md)
+* [06 | ORGANIZATION](06-or-organization/README.md)
   * [Rechtliches und Finanzielles](06-or-organization/legal-and-financial.md)
