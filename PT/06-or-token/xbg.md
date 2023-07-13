@@ -40,7 +40,7 @@ O TGE ocorrerá no final de 2023.
 
 <summary>Por que vocês não podem fornecer uma data exata para o TGE?</summary>
 
-Como equipe, acreditamos que a perspectiva cripto para o final de 2023 e próximo dos halvings do Bitcoin será positiva. A equipe da XBorg está atualmente em negociações com exchanges de alto nível, cujas opiniões têm peso considerável na determinação do momento ideal para a listagem do token. É importante observar que lançar um token durante períodos de liquidez incerta e interesse em moedas alternativas pode representar um risco.
+Como equipe, acreditamos que a perspectiva cripto para o final de 2023 e próximo aos halvings do Bitcoin será positiva. A equipe da XBorg está atualmente em negociações com exchanges de alto nível, cujas opiniões têm peso considerável na determinação do momento ideal para a listagem do token. É importante observar que lançar um token durante períodos de liquidez incerta e interesse em moedas alternativas pode representar um risco.
 
 Além disso, reconhecemos que o valor de um token está na força do ecossistema em que ele opera. Portanto, nosso objetivo é cultivar uma base de usuários de pelo menos 100.000 antes de lançar o token.
 
@@ -60,7 +60,7 @@ Planejamos lançar o token por meio de um Balancer Liquidity Bootstrapping Pool.
 
 <summary>Está planejado lançar o token XBorg em L2s como Arbitrum devido aos altos custos de gás esperados na Ethereum?</summary>
 
-Sim, o token será lançado na ETH como mercado principal e conectado à Polygon e, eventualmente, a outras L2s.
+Sim, o token será lançado na ETH como mercado principal e conectado na Polygon e, eventualmente, em outras L2s.
 
 </details>
 
@@ -90,7 +90,7 @@ _E exchanges de nível 2:_
 * ByBit
 * Kucoin
 
-Embora algumas discussões tenham avançado mais do que outras, não podemos confirmar nenhuma listagem de exchange devido à existência de acordos de confidencialidade em torno de certas discussões.
+Embora algumas discussões tenham avançado mais do que outras, não podemos confirmar nenhuma listagem em exchanges devido à existência de acordos de confidencialidade em torno de determinadas discussões.
 
 </details>
 
@@ -108,19 +108,19 @@ Sim, um pool uniswap na rede Ethereum (quickswap para Polygon) estará disponív
 
 O token XBG desempenha um papel crucial na rede, servindo como o principal meio de pagamento, governança e incentivos do protocolo.
 
-**Pagamentos e taxas na plataforma**&#x20;
+**Pagamentos no aplicativo e taxas da plataforma**
 
 XBG é o principal método de pagamento e transações em todo o protocolo, sujeito a certas taxas. Para usuários Web2 que preferem pagamento em moeda fiduciária, a XBorg adquire o equivalente em tokens XBG no mercado aberto. A lista de taxas coletadas por meio do protocolo pode ser encontrada no slide: Sustentabilidade e Receita do Protocolo. Essas taxas são cobradas em XBG.
 
 **Governança**
 
-O token XBG é usado para ações de governança na XBorg DAO após o Evento de Geração de Tokens. Os detentores de tokens XBG têm a capacidade de votar em decisões-chave sobre o desenvolvimento do protocolo.
+O token XBG é usado para ações de governança na XBorg DAO após o Evento de Geração de Tokens. Os detentores de tokens XBG têm a capacidade de votar em decisões-chave relacionadas ao desenvolvimento do protocolo.
 
-**Staking**&#x20;
+**Staking**
 
 50% das taxas e receitas pagas em XBG são designadas para o pool de recompensas de staking. A quantidade de recompensas de staking recebidas é determinada pela duração do período de bloqueio e pelo status individual dentro do protocolo.
 
-**Acesso ao Protocolo**&#x20;
+**Acesso ao Protocolo**
 
 Algumas funcionalidades e utilidades do protocolo estão sujeitas a restrições de acesso com base na quantidade de XBG mantida e no status do usuário dentro do protocolo.
 
@@ -128,7 +128,7 @@ Algumas funcionalidades e utilidades do protocolo estão sujeitas a restrições
 
 <details>
 
-<summary>Existem diferentes níveis de posse com bônus variados?</summary>
+<summary>Há diferentes níveis de posse com bônus variados?</summary>
 
 Atualmente, possuir tokens XBG não confere nenhum nível específico; no entanto, deve-se observar que o acesso a determinados recursos dependerá da quantidade de XBG mantida.
 
@@ -158,4 +158,4 @@ O contrato do token XBG ainda não foi implantado em testnet ou mainnet. Portant
 
 </details>
 
-.
+T

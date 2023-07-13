@@ -1,6 +1,6 @@
 # XBG
 
-> XBG est le jeton natif qui alimente le protocole XBorg. C'est la méthode de paiement principale, capturant toute la valeur et les revenus générés au sein de l'écosystème. De plus, il permet d'accéder à la gouvernance du protocole, permettant aux détenteurs de jetons de participer activement à la définition de l'avenir de la plateforme.
+> XBG est le jeton natif qui alimente le protocole XBorg. C'est la méthode de paiement principale, capturant toute la valeur et les revenus générés au sein de l'écosystème. De plus, il permet d'accéder à la gouvernance du protocole, permettant aux détenteurs de jetons de participer activement à la formation de l'avenir de la plateforme.
 
 <details>
 
@@ -16,15 +16,15 @@ Le jeton XBG est prévu d'être déployé sur la blockchain Ethereum et sera rel
 
 XBorg est profondément engagé dans la création d'un écosystème centré sur la communauté, et notre décision d'émettre un jeton reflète cet engagement. Contrairement aux modèles d'entreprise traditionnels qui se concentrent sur l'accumulation de valeur basée sur les actions, tous les flux de trésorerie générés au sein de notre écosystème sont redirigés vers le trésor de l'organisation autonome décentralisée (DAO). Ce modèle facilite une participation communautaire plus directe et aligne les intérêts de manière plus efficace.
 
-En introduisant le jeton XBG, nous créons une économie au sein du protocole où le jeton sert de principal moyen de transaction. Ce mouvement marque un changement vers un modèle plus participatif, axé sur la communauté, où chaque membre a son mot à dire dans la direction de la plateforme et participe à son succès. C'est une approche innovante qui souligne notre conviction dans le potentiel transformateur des réseaux décentralisés.
+En introduisant le jeton XBG, nous créons une économie intégrée au protocole où le jeton sert de principal moyen de transaction. Ce mouvement marque un changement vers un modèle plus participatif, axé sur la communauté, où chaque membre a son mot à dire dans la direction de la plateforme et participe à son succès. C'est une approche innovante qui souligne notre conviction envers le potentiel transformateur des réseaux décentralisés.
 
 </details>
 
 <details>
 
-<summary>Quelle est la quantité totale de jetons XBG ?</summary>
+<summary>Quelle est l'offre totale de jetons XBG ?</summary>
 
-La quantité maximale de jetons XBG a été fixée à 1 000 000 000 (1 milliard).
+L'offre maximale de jetons XBG a été fixée à 1 000 000 000 (1 milliard).
 
 </details>
 
@@ -44,7 +44,7 @@ En tant qu'équipe, nous pensons que les perspectives de la crypto à la fin de 
 
 De plus, nous reconnaissons que la valeur d'un jeton réside dans la force de l'écosystème dans lequel il opère. Par conséquent, notre objectif est de cultiver une base d'utilisateurs d'au moins 100 000 avant de lancer le jeton.
 
-En regardant vers l'avenir, notre équipe est optimiste quant au potentiel du marché de la crypto à la fin de 2023, notamment en raison des prochains halvings de Bitcoin.
+À l'avenir, notre équipe est optimiste quant au potentiel du marché de la crypto à la fin de 2023, notamment en raison des prochains halvings de Bitcoin.
 
 </details>
 
@@ -74,7 +74,7 @@ Oui, le jeton sera lancé sur ETH en tant que marché principal et relié à Pol
 
 <details>
 
-<summary>Sur quelles bourses le jeton sera-t-il coté ?</summary>
+<summary>Sur quelles bourses le jeton sera-t-il listé ?</summary>
 
 Nous envisageons de discuter avec les parties suivantes.
 
@@ -110,7 +110,7 @@ Le jeton XBG joue un rôle crucial dans le réseau, en tant que principal moyen 
 
 **Paiements dans l'application et frais de plateforme**&#x20;
 
-XBG est la méthode de paiement et de transaction principale sur le protocole, soumise à certains frais. Pour les utilisateurs Web2 préférant les paiements en monnaie fiduciaire, XBorg acquiert l'équivalent de jetons XBG sur le marché ouvert. La liste des frais collectés via le protocole peut être trouvée sur la diapositive : Durabilité et revenus du protocole. Ces frais sont facturés en XBG.
+XBG est la méthode de paiement et de transaction principale sur le protocole, soumise à certains frais. Pour les utilisateurs Web2 préférant le paiement en monnaie fiduciaire, XBorg acquiert l'équivalent de jetons XBG sur le marché ouvert. La liste des frais collectés via le protocole peut être trouvée sur la diapositive : Durabilité et revenus du protocole. Ces frais sont facturés en XBG.
 
 **Gouvernance**
 
@@ -136,7 +136,7 @@ Actuellement, posséder des jetons XBG ne confère aucun niveau particulier ; ce
 
 <details>
 
-<summary>Le jeton XBG a-t-il un mécanisme de brûlage ?</summary>
+<summary>Le XBG a-t-il un mécanisme de brûlage ?</summary>
 
 Actuellement, 50% des revenus sont alloués à la récompense de mise en jeu, tandis que le reste est alloué au trésor. La gouvernance pourrait décider de la répartition exacte des revenus et allouer une partie à un mécanisme de brûlage.
 
@@ -158,4 +158,4 @@ C'est très probable. Pour être répertorié sur SwissBorg, le jeton XBG doit �
 
 </details>
 
-.
+&nbsp;T
