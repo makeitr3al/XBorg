@@ -39,6 +39,6 @@
 * [Fundraise](06-or-token/fundraise.md)
 * [Seed Round](06-or-token/seed-round.md)
 
-## 💼 07 | ORGANIZATION
+## 💼 07 | ORGANIZATION\_
 
-* [Legal and Financial](07-or-organization/legal-and-financial.md)
+* [Legal and Financial](07-or-organization\_/legal-and-financial.md)

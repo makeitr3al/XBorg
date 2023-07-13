@@ -109,3 +109,4 @@ Series A investors and Genesis/Generation premiums will be able to purchase XBG 
 
 </details>
 
+&#x20;T

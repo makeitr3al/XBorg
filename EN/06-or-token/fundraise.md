@@ -161,3 +161,4 @@ Although the XBG tokens are expected to be offered at a higher price post the se
 
 </details>
 
+&#x20;T
