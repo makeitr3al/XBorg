@@ -1,4 +1,4 @@
-# جدول المحتويات
+# Table of contents
 
 * [أسئلة وأجوبة نهائية لـ XBorg](README.md)
 
@@ -18,7 +18,7 @@
 * [الحوكمة](02-or-protocol/governance.md)
 * [الحوافز](02-or-protocol/incentives.md)
 
-## 📈 03 | السوق
+## 📉 03 | السوق
 
 * [المنافسة](03-or-market/competition.md)
 
