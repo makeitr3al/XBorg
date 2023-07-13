@@ -33,11 +33,11 @@
 * [XP](05-or-community/xp.md)
 * [Esports](05-or-community/esports.md)
 
-## 💲 06 | TOKEN
+## 💰 06 | TOKEN
 
 * [XBG](06-or-token/xbg.md)
 * [Captação de Recursos](06-or-token/fundraise.md)
-* [Rodada Seed](06-or-token/seed-round.md)
+* [Rodada Semente](06-or-token/seed-round.md)
 
 ***
 

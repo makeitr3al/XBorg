@@ -33,7 +33,7 @@
 * [XP](05-or-community/xp.md)
 * [Esports](05-or-community/esports.md)
 
-## 💲 06 | JETON
+## 💰 06 | JETON
 
 * [XBG](06-or-token/xbg.md)
 * [Collecte de fonds](06-or-token/fundraise.md)
