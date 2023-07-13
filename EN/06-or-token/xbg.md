@@ -1,6 +1,6 @@
 # XBG
 
-> XBG is the native token that fuels the XBorg protocol. It is the primary payment method, capturing all the value and revenues generated within the ecosystem. In addition, it provides access to protocol governance, allowing token holders to actively participate in shaping the platform's future.
+XBG is the native token that fuels the XBorg protocol. It is the primary payment method, capturing all the value and revenues generated within the ecosystem. In addition, it provides access to protocol governance, allowing token holders to actively participate in shaping the platform's future.
 
 <details>
 
@@ -158,4 +158,4 @@ It's very likely. In order to be listed on SwissBorg, the XBG token needs to be 
 
 </details>
 
-&#x20;T
+&#x20;
