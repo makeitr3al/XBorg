@@ -1,6 +1,6 @@
 # جدول المحتويات
 
-* [أسئلة وأجوبة نهائية لشركة XBorg](README.md)
+* [أسئلة وأجوبة نهائية لـ XBorg](README.md)
 
 ## ℹ 01 | النواة
 
@@ -13,7 +13,7 @@
 * [شبكة اعتماد الألعاب](02-or-protocol/gaming-credential-network.md)
 * [شبكة تطبيقات الألعاب](02-or-protocol/gaming-application-network/README.md)
   * [تطبيق انخراط الألعاب](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
-  * [منصة Soulbound](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
+  * [منصة إطلاق سولباوند](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
   * [عروض الفريق الأولية](02-or-protocol/gaming-application-network/initial-team-offerings.md)
 * [الحوكمة](02-or-protocol/governance.md)
 * [الحوافز](02-or-protocol/incentives.md)
@@ -39,6 +39,6 @@
 * [جمع الأموال](06-or-token/fundraise.md)
 * [جولة البذور](06-or-token/seed-round.md)
 
-## 💼 07 | المنظمة
+## 💼 07 | المنظمة\_
 
-* [القانون والمالية](07-or-organization/legal-and-financial.md)
+* [القانون والمالية](07-or-organization\_/legal-and-financial.md)

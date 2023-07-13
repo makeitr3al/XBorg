@@ -39,6 +39,6 @@
 * [Collecte de fonds](06-or-token/fundraise.md)
 * [Tour de table](06-or-token/seed-round.md)
 
-## 💼 07 | ORGANIZATION
+## 💼 07 | ORGANIZATION\_
 
-* [Légal et financier](07-or-organization/legal-and-financial.md)
+* [Légal et financier](07-or-organization\_/legal-and-financial.md)

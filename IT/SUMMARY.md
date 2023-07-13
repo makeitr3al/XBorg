@@ -1,6 +1,6 @@
 # Indice
 
-* [FAQ definitivo di XBorg](README.md)
+* [XBorg's Ultimate FAQ](README.md)
 
 ## ℹ 01 | CORE
 
@@ -10,11 +10,11 @@
 
 ## 📄 02 | PROTOCOLLO
 
-* [Rete di credenziali di gioco](02-or-protocol/gaming-credential-network.md)
-* [Rete di applicazioni di gioco](02-or-protocol/gaming-application-network/README.md)
-  * [App di coinvolgimento di gioco](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
+* [Gaming Credential Network](02-or-protocol/gaming-credential-network.md)
+* [Gaming Application Network](02-or-protocol/gaming-application-network/README.md)
+  * [Gaming Engagement App](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
   * [Soulbound Launchpad](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
-  * [Offerte iniziali del team](02-or-protocol/gaming-application-network/initial-team-offerings.md)
+  * [Initial Team Offerings](02-or-protocol/gaming-application-network/initial-team-offerings.md)
 * [Governance](02-or-protocol/governance.md)
 * [Incentivi](02-or-protocol/incentives.md)
 
@@ -37,8 +37,8 @@
 
 * [XBG](06-or-token/xbg.md)
 * [Raccolta fondi](06-or-token/fundraise.md)
-* [Round di finanziamento iniziale](06-or-token/seed-round.md)
+* [Round di Seed](06-or-token/seed-round.md)
 
-## 💼 07 | ORGANIZZAZIONE
+## 💼 07 | ORGANIZZAZIONE\_
 
-* [Legale e finanziario](07-or-organization/legal-and-financial.md)
+* [Legale e Finanziario](07-or-organization\_/legal-and-financial.md)
