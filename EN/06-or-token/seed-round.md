@@ -108,3 +108,6 @@ In the case of unsold tokens, those could be kept in the treasury and eventually
 Series A investors and Genesis/Generation premiums will be able to purchase XBG tokens during the Seed round, albeit at a higher valuation than Prometheus holders.
 
 </details>
+
+.
+

@@ -160,3 +160,6 @@ The Liquidity Bootstrapping Pool (LBP) serves as the key mechanism that facilita
 Although the XBG tokens are expected to be offered at a higher price post the seed round, it's crucial to understand that investments inherently come with risks, and we cannot provide a guarantee of a positive return on investment. Like any investment, the performance of XBG tokens is subject to market conditions and other factors that may influence their value.
 
 </details>
+
+.
+

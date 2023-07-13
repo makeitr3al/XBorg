@@ -157,3 +157,6 @@ The contract of the XBG token hasn't been deployed on testnet or mainnet. There 
 It's very likely. In order to be listed on SwissBorg, the XBG token needs to be listed on either Kraken, Binance or LBank.&#x20;
 
 </details>
+
+.
+
