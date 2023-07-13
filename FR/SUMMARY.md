@@ -10,7 +10,7 @@
 
 ## 📄 02 | PROTOCOL
 
-* [Réseau de crédential de jeu](02-or-protocol/gaming-credential-network.md)
+* [Réseau de certification de jeu](02-or-protocol/gaming-credential-network.md)
 * [Réseau d'application de jeu](02-or-protocol/gaming-application-network/README.md)
   * [Application d'engagement de jeu](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
   * [Soulbound Launchpad](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
@@ -27,15 +27,17 @@
 * [Rencontrez l'équipe](04-or-team/meet-the-team.md)
 * [RH](04-or-team/hr.md)
 
+## 🤝 05 | COMMUNITY
+
+* [NFT](05-or-community/nft.md)
+* [XP](05-or-community/xp.md)
+* [Esports](05-or-community/esports.md)
+
 ***
 
-* [05 | COMMUNITY](05-or-community/README.md)
-  * [NFT](05-or-community/nft.md)
-  * [XP](05-or-community/xp.md)
-  * [Esports](05-or-community/esports.md)
 * [06 | TOKEN](06-or-token/README.md)
   * [XBG](06-or-token/xbg.md)
   * [Collecte de fonds](06-or-token/fundraise.md)
-  * [Tour de table](06-or-token/seed-round.md)
+  * [Tour de table initial](06-or-token/seed-round.md)
 * [06 | ORGANIZATION](06-or-organization/README.md)
   * [Juridique et financier](06-or-organization/legal-and-financial.md)
