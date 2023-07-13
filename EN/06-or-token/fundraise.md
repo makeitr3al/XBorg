@@ -1,6 +1,6 @@
 # Fundraise
 
-> As a startup with significant potential for growth, XBorg is utilizing its utility token, XBG, to secure additional funding. In addition to relying solely on traditional investors such as venture capitalists and business angels, XBorg is opening up investment opportunities to a limited number of community members early. This approach ensures a strong foundation for XBorg and secures the longevity of its DAO.
+As a startup with significant potential for growth, XBorg is utilizing its utility token, XBG, to secure additional funding. In addition to relying solely on traditional investors such as venture capitalists and business angels, XBorg is opening up investment opportunities to a limited number of community members early. This approach ensures a strong foundation for XBorg and secures the longevity of its DAO.
 
 <details>
 
@@ -160,6 +160,4 @@ The Liquidity Bootstrapping Pool (LBP) serves as the key mechanism that facilita
 Although the XBG tokens are expected to be offered at a higher price post the seed round, it's crucial to understand that investments inherently come with risks, and we cannot provide a guarantee of a positive return on investment. Like any investment, the performance of XBG tokens is subject to market conditions and other factors that may influence their value.
 
 </details>
-
-.
 

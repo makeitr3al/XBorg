@@ -39,7 +39,11 @@
 * [Fundraise](06-or-token/fundraise.md)
 * [Seed Round](06-or-token/seed-round.md)
 
+## Group 1
+
+* [Legal and Financial](group-1/legal-and-financial.md)
+* [Page 1](group-1/page-1.md)
+
 ***
 
-* [06 | ORGANIZATION](06-or-organization/README.md)
-  * [Legal and Financial](06-or-organization/legal-and-financial.md)
+* [06 | ORGANIZATION](06-or-organization.md)
