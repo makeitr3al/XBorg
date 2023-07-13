@@ -30,7 +30,7 @@ Alors que nous nous préparons à lancer notre jeton, notre plan actuel ne prév
 
 Les investisseurs privés auront 10 % de leurs jetons débloqués lors de l'événement de génération de jetons (TGE), suivis d'une période de blocage de 3 mois. Après la période de blocage, les jetons restants seront acquis progressivement sur une période de 18 mois.
 
-Il est important de se rappeler que notre approche peut être sujette à des modifications en fonction des exigences spécifiques des plateformes d'échange avec lesquelles nous collaborons. Il n'est pas rare que les plateformes de premier plan aient leur mot à dire sur l'économie des jetons et le calendrier de verrouillage/déblocage d'un jeton donné, et nous pourrions être amenés à ajuster notre stratégie pour répondre à leurs normes.
+Il est important de se rappeler que notre approche peut être modifiée en fonction des exigences spécifiques des plateformes d'échange avec lesquelles nous collaborons. Il n'est pas rare que les plateformes de premier plan aient leur mot à dire sur l'économie des jetons et le calendrier de verrouillage/déblocage d'un jeton donné, et nous pourrions devoir ajuster notre stratégie pour répondre à leurs normes.
 
 </details>
 
@@ -38,11 +38,11 @@ Il est important de se rappeler que notre approche peut être sujette à des mod
 
 <summary>Qui sont vos investisseurs ? Sur quels critères ont-ils été sélectionnés ?</summary>
 
-Nous avons été méticuleux dans la sélection de nos investisseurs pour le tour de financement initial, en privilégiant ceux qui apportent plus que du capital financier, mais qui ajoutent également de la valeur à XBorg de différentes manières significatives. Nos investisseurs proviennent de divers horizons, notamment :
+Nous avons été méticuleux dans la sélection de nos investisseurs pour le tour de financement initial, en privilégiant ceux qui apportent plus que du capital financier et qui ajoutent également de la valeur à XBorg de différentes manières significatives. Nos investisseurs proviennent de divers horizons, notamment :
 
 * Aave et Lens Protocol : Les professionnels de ces entreprises apportent une expertise approfondie en matière de technologie blockchain et de cryptomonnaie.
 * Yield Guild Games : Expérience dans les économies virtuelles et les jeux basés sur la blockchain.
-* ESL/Face it, Faze, G2 : Ils représentent certains des plus grands noms de l'industrie de l'esport, offrant des informations et des réseaux dans le domaine du jeu compétitif.
+* ESL/Face it, Faze, G2 : Il s'agit de quelques-uns des plus grands noms de l'industrie de l'esport, offrant des connaissances et des réseaux dans le domaine des jeux compétitifs.
 * Ethereum France, Consensys : Ces contributeurs possèdent une connaissance approfondie d'Ethereum et du développement blockchain.
 * French Esports : Apporte une solide compréhension du paysage de l'esport en France.
 * Savvy Games : Experts en développement et stratégie de jeux.
@@ -61,7 +61,7 @@ Pour le tour stratégique, nous avons mis en place un plafond de 50 000 dollars 
 
 <summary>Quel type de valeur ajoutée attendez-vous d'un investisseur ?</summary>
 
-Un investisseur peut apporter une valeur significative à XBorg en fournissant des conseils stratégiques, un mentorat et un soutien financier au-delà de l'investissement initial. Les investisseurs peuvent offrir des informations sur le paysage concurrentiel, les tendances de l'industrie et les opportunités de croissance potentielles qui peuvent ne pas être immédiatement évidentes pour l'équipe XBorg. Ils peuvent également fournir un accès à leurs réseaux et ressources, y compris des introductions à des partenaires potentiels, des conseillers et des clients. Cela peut aider XBorg à développer sa base d'utilisateurs, à établir des partenariats et à étendre sa portée sur le marché.
+Un investisseur peut apporter une valeur significative à XBorg en fournissant des conseils stratégiques, un mentorat et un soutien financier au-delà de l'investissement initial. Les investisseurs peuvent offrir des informations sur le paysage concurrentiel, les tendances de l'industrie et les opportunités de croissance potentielles qui peuvent ne pas être immédiatement évidentes pour l'équipe de XBorg. Ils peuvent également fournir un accès à leurs réseaux et ressources, y compris des introductions à des partenaires potentiels, des conseillers et des clients. Cela peut aider XBorg à développer sa base d'utilisateurs, à établir des partenariats et à étendre sa portée sur le marché.
 
 Au-delà du soutien financier, les investisseurs peuvent également apporter une crédibilité et une validation à XBorg, ce qui peut être essentiel dans une industrie concurrentielle et en constante évolution. Cela peut aider XBorg à se démarquer de ses pairs, à attirer des investissements supplémentaires et à construire une solide réputation de marque.
 
@@ -73,7 +73,7 @@ Dans l'ensemble, les investisseurs peuvent offrir une richesse de connaissances,
 
 <summary>Vendez-vous des actions ou des jetons ?</summary>
 
-À ce jour, XBorg n'a vendu que des jetons sans offrir de vente d'actions. Actuellement, les seuls actionnaires de l'entreprise sont SwissBorg et le fondateur de XBorg. Cette approche a été délibérément choisie pour garantir une concentration optimale sur l'accroissement de la valeur pour l'entreprise sans diluer l'attention ou les ressources en distribuant des actions.
+À ce jour, XBorg n'a vendu que des jetons sans offrir de vente d'actions. Actuellement, les seuls actionnaires de l'entreprise sont SwissBorg et le fondateur de XBorg. Cette approche a été délibérément choisie pour garantir une concentration optimale sur l'accumulation de valeur pour l'entreprise sans diluer l'attention ou les ressources en distribuant des actions.
 
 </details>
 
@@ -87,7 +87,7 @@ Nous levons un tour d'amorçage de 5 millions de dollars. Les fonds levés seron
 * Marketing : 20 % (1 000 000 $) des fonds seront alloués aux dépenses de marketing, aux campagnes d'influenceurs, aux relations publiques, aux opportunités de parrainage et aux événements.
 * Liquidité et inscriptions sur les plateformes d'échange : 10 % (500 000 $) des fonds seront alloués aux paiements d'inscription sur les plateformes d'échange et à la fourniture de liquidité.
 * Frais de fonctionnement : 10 % (500 000 $) des fonds seront alloués aux frais de location de bureaux, aux frais juridiques et aux abonnements logiciels.
-* La trésorerie actuelle couvre les coûts RH non techniques.
+* La trésorerie actuelle couvre les coûts de ressources humaines non techniques.
 
 </details>
 
@@ -103,7 +103,7 @@ Les fonds levés lors de ce tour devraient fournir à XBorg une durée financiè
 
 <summary>En tant qu'investisseur privé, suis-je éligible pour investir tôt dans XBorg ?</summary>
 
-XBorg propose des opportunités d'investissement anticipé principalement aux investisseurs stratégiques ayant une expérience approfondie dans les jeux, l'esport et/ou l'industrie du divertissement. En dehors de la collecte de fonds communautaire, si vous ne répondez pas à ces critères, il se peut que l'investissement anticipé ne soit pas possible. Cependant, une fois que nous atteindrons la phase de collecte de fonds publique, elle sera ouverte à tous les investisseurs intéressés, quel que soit leur parcours ou leur expertise.
+XBorg propose des opportunités d'investissement anticipé principalement aux investisseurs stratégiques ayant une expérience approfondie dans les jeux, l'esport et/ou l'industrie du divertissement. En dehors de la collecte de fonds communautaire, si vous ne répondez pas à ces critères, il se peut que l'investissement anticipé ne soit pas possible. Cependant, une fois que nous atteindrons la phase de collecte de fonds publique, elle sera ouverte à tous les investisseurs intéressés, indépendamment de leur parcours ou de leur expertise.
 
 </details>
 
@@ -111,7 +111,7 @@ XBorg propose des opportunités d'investissement anticipé principalement aux in
 
 <summary>Étant donné les conditions actuelles du marché, êtes-vous confiant dans votre capacité à lever des fonds ?</summary>
 
-À ce jour, XBorg a suscité un intérêt significatif de la part des capitalistes-risqueurs et des business angels, ce qui a permis de mobiliser environ 1,5 million de dollars de financement potentiel pour le tour d'amorçage. Notre équipe reconnaît que notre capacité à attirer des investisseurs dépend de notre capacité à démontrer des progrès dans l'exécution de notre feuille de route et à gagner en traction sur le marché. Bien que nous restions déterminés à sécuriser des financements, notre approche privilégie l'attraction d'investisseurs de haute qualité plutôt que l'accumulation d'un investissement important.
+À ce jour, XBorg a suscité un intérêt significatif de la part des capitalistes-risqueurs et des business angels, ce qui représente environ 1,5 million de dollars de financement potentiel pour le tour d'amorçage. Notre équipe reconnaît que notre capacité à attirer des investisseurs dépend de notre capacité à démontrer des progrès dans l'exécution de notre feuille de route et à gagner en traction sur le marché. Bien que nous restions déterminés à sécuriser des financements, notre approche privilégie l'attraction d'investisseurs de haute qualité plutôt que l'accumulation d'un investissement important.
 
 </details>
 
@@ -131,7 +131,7 @@ Dans le cadre de notre processus de due diligence, notre équipe a analysé des 
 
 <summary>Quel est le prix anticipé du jeton lors de l'événement de génération de jetons (TGE) ?</summary>
 
-La collecte de fonds publique sera facilitée par le biais d'un pool de liquidité Balancer, avec un prix de départ des jetons fixé à 0,5 $. Le pool commencera avec un ratio de pondération de 96:4 et s'équilibrera progressivement pour atteindre un ratio de 50:50 sur une période de 72 heures. Cependant, il est important de noter que ce prix initial et cette structure de pondération peuvent être modifiés, conformément aux conditions et exigences spécifiques des futures plateformes d'échange avec lesquelles XBorg collabore.
+La collecte de fonds publique sera facilitée par l'intermédiaire d'un pool de liquidité Balancer, avec un prix de départ des jetons fixé à 0,5 $. Le pool commencera avec un ratio de pondération de 96:4 et s'équilibrera progressivement pour atteindre un ratio de 50:50 sur une période de 72 heures. Cependant, il est important de noter que ce prix initial et cette structure de pondération peuvent être modifiés, conformément aux conditions et exigences spécifiques des futures plateformes d'échange avec lesquelles XBorg collabore.
 
 </details>
 
@@ -155,8 +155,8 @@ Le pool de liquidité de démarrage (LBP) sert de mécanisme clé pour faciliter
 
 <summary>À quoi puis-je m'attendre en termes de retour sur investissement ?</summary>
 
-Bien que les jetons XBG devraient être proposés à un prix plus élevé après le tour d'amorçage, il est crucial de comprendre que les investissements comportent intrinsèquement des risques et que nous ne pouvons pas garantir un retour sur investissement positif. Comme tout investissement, la performance des jetons XBG est soumise aux conditions du marché et à d'autres facteurs pouvant influencer leur valeur.
+Bien que les jetons XBG devraient être proposés à un prix plus élevé après le tour d'amorçage, il est crucial de comprendre que les investissements comportent intrinsèquement des risques et que nous ne pouvons pas garantir un retour sur investissement positif. Comme tout investissement, la performance des jetons XBG est soumise aux conditions du marché et à d'autres facteurs qui peuvent influencer leur valeur.
 
 </details>
 
-&nbsp;T
+&#x20;

@@ -10,7 +10,7 @@
 
 ## 📄 02 | PROTOCOL
 
-* [Réseau de crédential de jeu](02-or-protocol/gaming-credential-network.md)
+* [Réseau de certification de jeu](02-or-protocol/gaming-credential-network.md)
 * [Réseau d'application de jeu](02-or-protocol/gaming-application-network/README.md)
   * [Application d'engagement de jeu](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
   * [Soulbound Launchpad](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
@@ -39,6 +39,6 @@
 * [Collecte de fonds](06-or-token/fundraise.md)
 * [Tour de table](06-or-token/seed-round.md)
 
-## 💼 07 | ORGANIZATION\_
+## 💼 07 | ORGANIZATION
 
-* [Légal et financier](07-or-organization\_/legal-and-financial.md)
+* [Juridique et financier](07-or-organization/legal-and-financial.md)

@@ -24,7 +24,7 @@
 
 ## ♠ 04 | TEAM
 
-* [Team kennenlernen](04-or-team/meet-the-team.md)
+* [Das Team kennenlernen](04-or-team/meet-the-team.md)
 * [Personalwesen](04-or-team/hr.md)
 
 ## 🤝 05 | COMMUNITY
@@ -39,6 +39,6 @@
 * [Fundraising](06-or-token/fundraise.md)
 * [Seed-Runde](06-or-token/seed-round.md)
 
-## 💼 07 | ORGANIZATION\_
+## 💼 07 | ORGANIZATION
 
-* [Rechtliches und Finanzielles](07-or-organization\_/legal-and-financial.md)
+* [Rechtliches und Finanzielles](07-or-organization/legal-and-financial.md)

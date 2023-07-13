@@ -37,8 +37,8 @@
 
 * [XBG](06-or-token/xbg.md)
 * [Raccolta fondi](06-or-token/fundraise.md)
-* [Round di Seed](06-or-token/seed-round.md)
+* [Seed Round](06-or-token/seed-round.md)
 
-## 💼 07 | ORGANIZZAZIONE\_
+## 💼 07 | ORGANIZZAZIONE
 
-* [Legale e Finanziario](07-or-organization\_/legal-and-financial.md)
+* [Legale e Finanziario](07-or-organization/legal-and-financial.md)
