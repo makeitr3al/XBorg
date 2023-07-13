@@ -1,4 +1,4 @@
-# Inhaltsverzeichnis
+# Table of contents
 
 * [XBorg's Ultimate FAQ](README.md)
 
@@ -16,26 +16,22 @@
   * [Soulbound Launchpad](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
   * [Initial Team Offerings](02-or-protocol/gaming-application-network/initial-team-offerings.md)
 * [Governance](02-or-protocol/governance.md)
-* [Anreize](02-or-protocol/incentives.md)
+* [Anreize](02-or-protocol/anreize.md)
 
 ***
 
 * [03 | MARKET](03-or-market/README.md)
   * [Wettbewerb](03-or-market/competition.md)
 * [04 | TEAM](04-or-team/README.md)
-  * [Das Team kennenlernen](04-or-team/meet-the-team.md)
-  * [Personalwesen](04-or-team/hr.md)
+  * [Das Team kennenlernen](04-or-team/das-team-kennenlernen.md)
+  * [Personalwesen](04-or-team/personalwesen.md)
 * [05 | COMMUNITY](05-or-community/README.md)
   * [NFT](05-or-community/nft.md)
   * [XP](05-or-community/xp.md)
   * [Esports](05-or-community/esports.md)
 * [06 | TOKEN](06-or-token/README.md)
   * [XBG](06-or-token/xbg.md)
-  * [Fundraising](06-or-token/fundraise.md)
-  * [Seed-Runde](06-or-token/seed-round.md)
+  * [Fundraising](06-or-token/fundraising.md)
+  * [Seed-Runde](06-or-token/seed-runde.md)
 * [06 | ORGANIZATION](06-or-organization/README.md)
-  * [Rechtliches und Finanzielles](06-or-organization/legal-and-financial.md)
-
-## 📑 TEST
-
-* [TEST-Seite](test/test-page.md)
+  * [Rechtliches und Finanzielles](06-or-organization/rechtliches-und-finanzielles.md)
