@@ -18,7 +18,7 @@
 * [Gouvernance](02-or-protocol/governance.md)
 * [Incitations](02-or-protocol/incentives.md)
 
-## 📉 03 | MARKET
+## 📈 03 | MARKET
 
 * [Concurrence](03-or-market/competition.md)
 
@@ -38,4 +38,4 @@
   * [Collecte de fonds](06-or-token/fundraise.md)
   * [Tour de table](06-or-token/seed-round.md)
 * [06 | ORGANIZATION](06-or-organization/README.md)
-  * [Légal et financier](06-or-organization/legal-and-financial.md)
+  * [Juridique et financier](06-or-organization/legal-and-financial.md)
