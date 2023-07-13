@@ -6,5 +6,40 @@
 
 The team behind XBorg is composed of 12 members, each bringing their expertise to XBorg.
 
-<table data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Prior to founding XBorg, he contributed to well-known DAOs (CityDAO, MakerDAO) and has relevant experiences in traditional finance and quant with Rothschild &#x26; Co and Credit Suisse. Louis spent most of his childhood grinding out Call Of Duty and remains an active FPS player. At XBorg, he single-handedly developed the gaming passport alpha and led the roadmap execution, strategy and fundraising.</td><td><a href="../.gitbook/assets/Louis.png">Louis.png</a></td></tr><tr><td>With more than 14 years of experience in software development, she joined SwissBorg as a Senior Software Engineer to build an infrastructure now used by more than 700,000 users before joining XBorg to lead the tech team. On the side, Laureline is an avid gamer, regularly leading 30+ player raids on Final Fantasy, or ruling Minecraft servers like no other.</td><td><a href="../.gitbook/assets/Laureline.png">Laureline.png</a></td></tr><tr><td>With a wealth of experience in the industry, Arthur has worked on a diverse range of projects, including personal websites, e-commerce platforms, and banking applications. In his free time, Arthur enjoys gaming, particularly strategy and racing games. He finds that the strategic thinking required in these games translates well to his work as a software engineer, where he excels at finding creative solutions to complex problems.</td><td><a href="../.gitbook/assets/Arthur.png">Arthur.png</a></td></tr><tr><td>Backend developer at XBorg that specializes in building scalable web applications and prior to XBorg has developed several e-commerce applications and worked on a Banking application. In his free time, loves to play indie or MMORPG’s and if there is an achievement system in place, he's sure to go for 100% completion of those achievements.</td><td></td></tr></tbody></table>
+<table data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Prior to founding XBorg, he contributed to well-known DAOs (CityDAO, MakerDAO) and has relevant experiences in traditional finance and quant with Rothschild &#x26; Co and Credit Suisse. Louis spent most of his childhood grinding out Call Of Duty and remains an active FPS player. At XBorg, he single-handedly developed the gaming passport alpha and led the roadmap execution, strategy and fundraising.</td><td><a href="../.gitbook/assets/Louis.png">Louis.png</a></td></tr><tr><td>With more than 14 years of experience in software development, she joined SwissBorg as a Senior Software Engineer to build an infrastructure now used by more than 700,000 users before joining XBorg to lead the tech team. On the side, Laureline is an avid gamer, regularly leading 30+ player raids on Final Fantasy, or ruling Minecraft servers like no other.</td><td><a href="../.gitbook/assets/Laureline.png">Laureline.png</a></td></tr><tr><td>With a wealth of experience in the industry, Arthur has worked on a diverse range of projects, including personal websites, e-commerce platforms, and banking applications. In his free time, Arthur enjoys gaming, particularly strategy and racing games. He finds that the strategic thinking required in these games translates well to his work as a software engineer, where he excels at finding creative solutions to complex problems.</td><td><a href="../.gitbook/assets/Arthur.png">Arthur.png</a></td></tr><tr><td>Backend developer at XBorg that specializes in building scalable web applications and prior to XBorg has developed several e-commerce applications and worked on a Banking application. In his free time, loves to play indie or MMORPG’s and if there is an achievement system in place, he's sure to go for 100% completion of those achievements.</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
 
+## Other team-relevant questions
+
+<details>
+
+<summary>What is the size of the team?</summary>
+
+There are currently **12 full-time employees**.
+
+</details>
+
+<details>
+
+<summary>Who is full-time, and who is part-time?</summary>
+
+**All** of the team members are full-time.
+
+</details>
+
+<details>
+
+<summary>What are the main competencies of key team members?</summary>
+
+Our team has a diverse skill set, but we all share a passion for gaming and esports. Our skills range from software engineering and smart contract development to business development, product design, and community management.
+
+</details>
+
+<details>
+
+<summary>Are you hiring? Where can I find job posts? </summary>
+
+Yes, we are hiring software engineers, designers, and product managers. The roles can be found here:&#x20;
+
+[https://jobs.lever.co/swissborg?department=XBorg](https://jobs.lever.co/swissborg?department=XBorg)
+
+</details>
