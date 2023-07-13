@@ -1,6 +1,6 @@
 # Gaming Credential Network
 
-> Bevor Sie die folgenden Fragen erkunden, schauen Sie sich die Präsentation des Gaming Credential Network an: [#Was ist ein Gaming Credential Network](gaming-credential-network.md#was-ist-ein-gaming-credential-network "Erwähnung") :sunglasses:
+> Bevor Sie die folgenden Fragen erkunden, schauen Sie sich die Präsentation des Gaming Credential Network an: [#Was ist ein Gaming Credential Network](gaming-credential-network.md#was-ist-ein-gaming-credential-network) :sunglasses:
 
 <details>
 
@@ -74,7 +74,7 @@ Zukünftige Iterationen des Protokolls ermöglichen es Spielern, relevante Daten
 * Spieler
 * Spiel
 
-### ![](../.gitbook/assets/modules.png)
+#### ![](../.gitbook/assets/modules.png)
 
 </details>
 
