@@ -33,7 +33,7 @@
 * [XP](05-or-community/xp.md)
 * [Esports](05-or-community/esports.md)
 
-## 💲 06 | TOKEN
+## 💰 06 | TOKEN
 
 * [XBG](06-or-token/xbg.md)
 * [Fundraise](06-or-token/fundraise.md)
