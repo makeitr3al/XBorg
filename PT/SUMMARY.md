@@ -33,11 +33,14 @@
 * [XP](05-or-community/xp.md)
 * [Esports](05-or-community/esports.md)
 
+## 💰 06 | TOKEN
+
+* [XBG](06-or-token/xbg.md)
+* [Captação de Recursos](06-or-token/fundraise.md)
+* [Rodada Semente](06-or-token/seed-round.md)
+
 ***
 
-* [06 | TOKEN](06-or-token/README.md)
-  * [XBG](06-or-token/xbg.md)
-  * [Captação de Recursos](06-or-token/fundraise.md)
-  * [Rodada Seed](06-or-token/seed-round.md)
+* [06 | T](06.md)
 * [06 | ORGANIZAÇÃO](06-or-organization/README.md)
   * [Legal e Financeiro](06-or-organization/legal-and-financial.md)
