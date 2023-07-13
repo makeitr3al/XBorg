@@ -1,6 +1,6 @@
 # Índice
 
-* [FAQ Final do XBorg](README.md)
+* [Perguntas Frequentes do XBorg](README.md)
 
 ## ℹ 01 | CORE
 
@@ -11,10 +11,10 @@
 ## 📄 02 | PROTOCOL
 
 * [Rede de Credenciais de Jogos](02-or-protocol/gaming-credential-network.md)
-* [Rede de Aplicações de Jogos](02-or-protocol/gaming-application-network/README.md)
+* [Rede de Aplicativos de Jogos](02-or-protocol/gaming-application-network/README.md)
   * [Aplicativo de Engajamento em Jogos](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
   * [Soulbound Launchpad](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
-  * [Ofertas Iniciais da Equipe](02-or-protocol/gaming-application-network/initial-team-offerings.md)
+  * [Ofertas Iniciais de Equipe](02-or-protocol/gaming-application-network/initial-team-offerings.md)
 * [Governança](02-or-protocol/governance.md)
 * [Incentivos](02-or-protocol/incentives.md)
 
@@ -39,7 +39,6 @@
 * [Captação de Recursos](06-or-token/fundraise.md)
 * [Rodada Semente](06-or-token/seed-round.md)
 
-***
+## 😆 07 | ORGANIZAÇÃO
 
-* [06 | ORGANIZAÇÃO](06-or-organization/README.md)
-  * [Legal e Financeiro](06-or-organization/legal-and-financial.md)
+* [Legal e Financeiro](07-or-organization/legal-and-financial.md)

@@ -6,7 +6,7 @@
 
 * [معلومات](01-or-core/information.md)
 * [التعاون](01-or-core/collaboration.md)
-* [خريطة الطريق](01-or-core/roadmap.md)
+* [خارطة الطريق](01-or-core/roadmap.md)
 
 ## 📄 02 | البروتوكول
 
@@ -39,7 +39,6 @@
 * [جمع الأموال](06-or-token/fundraise.md)
 * [جولة البذور](06-or-token/seed-round.md)
 
-***
+## 😆 07 | المنظمة
 
-* [06 | المنظمة](06-or-organization/README.md)
-  * [القانون والمالية](06-or-organization/legal-and-financial.md)
+* [القانون والمالية](07-or-organization/legal-and-financial.md)
