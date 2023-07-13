@@ -41,6 +41,5 @@
 
 ***
 
-* [06 | T](06.md)
 * [06 | ORGANIZATION](06-or-organization/README.md)
   * [Legal and Financial](06-or-organization/legal-and-financial.md)
