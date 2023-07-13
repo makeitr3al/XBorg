@@ -27,15 +27,17 @@
 * [Incontra il Team](04-or-team/meet-the-team.md)
 * [HR](04-or-team/hr.md)
 
+## 🤝 05 | COMUNITÀ
+
+* [NFT](05-or-community/nft.md)
+* [XP](05-or-community/xp.md)
+* [Esports](05-or-community/esports.md)
+
 ***
 
-* [05 | COMMUNITY](05-or-community/README.md)
-  * [NFT](05-or-community/nft.md)
-  * [XP](05-or-community/xp.md)
-  * [Esports](05-or-community/esports.md)
 * [06 | TOKEN](06-or-token/README.md)
   * [XBG](06-or-token/xbg.md)
-  * [Fundraise](06-or-token/fundraise.md)
-  * [Seed Round](06-or-token/seed-round.md)
+  * [Raccolta fondi](06-or-token/fundraise.md)
+  * [Round di seed](06-or-token/seed-round.md)
 * [06 | ORGANIZZAZIONE](06-or-organization/README.md)
   * [Legale e Finanziario](06-or-organization/legal-and-financial.md)
