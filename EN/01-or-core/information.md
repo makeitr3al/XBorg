@@ -2,8 +2,6 @@
 
 > This section seeks to offer the reader a general overview of XBorg prior to their exploration of the rest of this document. This is the best place to start to develope a general understanding of XBorg
 
-#### Test 1630
-
 #### Below you will find XBorg's CEO, Louis Regis, pitching XBorg.
 
 {% embed url="https://youtu.be/yqQf0ETfB9w" %}
@@ -85,5 +83,23 @@ Our mission at XBorg is to empower gamers globally by providing them with opport
 At XBorg, we prioritize our players' needs and strive to create an environment that fosters collaboration, open governance, decentralization, and innovation. Our goal is to build a global community of gamers who can take ownership of their gaming experiences, create their applications, and contribute to the industry's growth.
 
 We are dedicated to achieving this by working closely with our players to create a better world for gamers everywhere.
+
+</details>
+
+<details>
+
+<summary>What are some useful links?</summary>
+
+* [**Website**](https://www.xborg.com)&#x20;
+* [**Twitter**](https://twitter.com/xborg\_official)
+* [**Discord**](https://discord.com/invite/xborg)&#x20;
+* [**YouTube**](https://www.youtube.com/@xborgofficial)
+* [**Twitch**](https://www.twitch.tv/xborgofficial)
+* [**Medium**](https://medium.com/xborg-official)&#x20;
+* [**Pitch deck**](https://docsend.com/view/5dwn74pn6izud3vb)
+* [**App**](http://gaming.xborg.com/)
+* [**Launchpad**](https://launchpad.xborg.com/)
+
+The first version of the whitepaper was published in July 2022 but is now under revision and will be re-published around Q2 2023.
 
 </details>
