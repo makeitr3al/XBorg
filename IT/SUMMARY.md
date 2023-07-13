@@ -39,7 +39,6 @@
 * [Raccolta fondi](06-or-token/fundraise.md)
 * [Seed Round](06-or-token/seed-round.md)
 
-***
+## 😆 07 | ORGANIZZAZIONE
 
-* [06 | ORGANIZZAZIONE](06-or-organization/README.md)
-  * [Legale e Finanziario](06-or-organization/legal-and-financial.md)
+* [Legale e Finanziario](07-or-organization/legal-and-financial.md)
