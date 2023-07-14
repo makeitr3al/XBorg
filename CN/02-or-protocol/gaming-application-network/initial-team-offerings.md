@@ -1,60 +1,59 @@
-# Initial Team Offerings
+# 初始团队发行
 
-> Initial Team Offerings or ITOs are one of the new technologies introduced by XBorg. The objective is to develop a tokenized layer where players can create, fundraise, and buy teams, and in doing so have power of governance over their roadmap and trajectory, and derive monetary value for being supporters of their ecosystem.
+> 初始团队发行（ITO）是XBorg引入的新技术之一。其目标是开发一个令牌化层，玩家可以在其中创建、筹款和购买团队，并通过这样做来掌握其路线图和发展轨迹的治理权，并从成为生态系统支持者中获得货币价值。
 
 <details>
 
-<summary>What is an Initial Team Offering? </summary>
+<summary>什么是初始团队发行？</summary>
 
-Initial Team Offerings (ITO) refer to the tokenization process of an esports team with a governance and utility token.
+初始团队发行（ITO）是指将电子竞技团队进行令牌化，并赋予其治理和实用令牌的过程。
 
 </details>
 
 <details>
 
-<summary>When is the first ITO powered by XBorg? </summary>
+<summary>XBorg首次推出的ITO将在何时进行？</summary>
 
-Around Q3 2023.&#x20;
-
-</details>
-
-<details>
-
-<summary>What are decentralized esports teams? </summary>
-
-Decentralized esports teams are funded and operated by fans, just like a DAO for esports.&#x20;
+大约在2023年第三季度。
 
 </details>
 
 <details>
 
-<summary>Will the DAOs be represented by NFTs or Tokens? </summary>
+<summary>什么是去中心化电子竞技团队？</summary>
 
-The esports DAO are governed by NFTs (Non-fungible tokens).&#x20;
-
-</details>
-
-<details>
-
-<summary>Please explain the utilities of those NFTs.</summary>
-
-It gives governance rights, access to a unique club, and rewards based on the team's performance.&#x20;
+去中心化电子竞技团队由粉丝提供资金和运营，就像电子竞技的DAO一样。
 
 </details>
 
 <details>
 
-<summary>Which chain will be used for the governance NFTs? </summary>
+<summary>DAO将由NFT还是代币来代表？</summary>
 
-Ethereum
+电子竞技DAO由非同质化代币（NFT）进行治理。
 
 </details>
 
 <details>
 
-<summary>How can I buy/sell the NFTs after the ITOs?</summary>
+<summary>请解释这些NFT的用途。</summary>
 
-The NFTs will be sellable on secondary marketplaces such as Opensea, Blur etc.
+它赋予治理权利，提供独特俱乐部的访问权限，并根据团队的表现提供奖励。
 
 </details>
 
+<details>
+
+<summary>治理NFT将使用哪个区块链？</summary>
+
+以太坊
+
+</details>
+
+<details>
+
+<summary>ITO之后如何购买/出售NFT？</summary>
+
+NFT将可以在Opensea、Blur等二级市场上进行买卖。
+
+</details>

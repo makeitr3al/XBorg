@@ -1,52 +1,52 @@
-# Gaming Application Network
+# 游戏应用网络
 
-> Before reading the additional questions, go through the presentation of the Gaming Application Network. #what-is-a-gaming-application-network
+> 在阅读附加问题之前，请先了解游戏应用网络的介绍。#什么是游戏应用网络
 
 <details>
 
-<summary>What are examples of applications within the network? </summary>
+<summary>网络中的应用示例有哪些？</summary>
 
-* **Soulbound launchpad**: Connect gamers with games based on their digital identity so that games can offer unique investment opportunities to gamers that like the corresponding genre.&#x20;
-* **Player engagement app (xborg.gg)**: An engagement layer on top of any games and communities connected to a unique avatar. This serves as a great acquisition tool for games and gaming communities.&#x20;
-* **In-game integration**: Integrate the credential layer within a game and offer unique game modes and perks for experts in the genre.
-* **Communication protocol**: Allow brands to connect with players based on their credentials. Players can set a communication fee.&#x20;
-* **Reputation-based asset lending**: Lend your assets not based on collaterals but on your credentials and reputation.
-* **Matchmaking**: Allow for more efficient in-game matchmaking based on the entire history of the gamers.&#x20;
-* **Decentralized gaming communities**: An app that allows for the creation of decentralized gaming communities.
-* **Esports player scouting**: An app that allows for the scouting of esports players by esports teams or decentralized gaming communities.&#x20;
-* **Tournament platform**: A more efficient tournament platform, gated upon the performance of certain players.&#x20;
-* **Gaming data app**: A dating app that matches players based on their credentials.
+* **Soulbound启动平台**：根据玩家的数字身份将玩家与游戏连接起来，以便游戏可以为喜欢相应类型的玩家提供独特的投资机会。
+* **玩家参与应用（xborg.gg）**：在任何与独特头像连接的游戏和社区之上提供参与层。这对于游戏和游戏社区来说是一个很好的获取工具。
+* **游戏内集成**：在游戏中集成凭证层，并为该类型的专家提供独特的游戏模式和特权。
+* **通信协议**：允许品牌根据玩家的凭证与玩家建立联系。玩家可以设定通信费用。
+* **基于声誉的资产借贷**：根据您的凭证和声誉借出您的资产，而不是基于抵押品。
+* **匹配制度**：根据玩家的整个游戏历史，实现更高效的游戏内匹配。
+* **去中心化游戏社区**：一个允许创建去中心化游戏社区的应用。
+* **电竞选手搜寻**：一个允许电竞团队或去中心化游戏社区搜寻电竞选手的应用。
+* **锦标赛平台**：一个更高效的锦标赛平台，以某些选手的表现为门槛。
+* **游戏数据应用**：一个根据玩家的凭证匹配玩家的约会应用。
 
 </details>
 
 <details>
 
-<summary>What are the advantages of integrating the Credential Network? </summary>
+<summary>整合凭证网络的优势是什么？</summary>
 
-The utilization of the credential network by developers provides a seamless and streamlined process for onboarding players onto the network, leading to heightened operational efficiencies and, more importantly, an enhanced user experience for the players. The advantages offered by the credential network are far-reaching, such that any gaming application that integrates it is poised to provide an unparalleled experience to its user base.
-
-</details>
-
-<details>
-
-<summary>What are the first gaming applications being developed? </summary>
-
-Soulbound launchpad and the player engagement app.&#x20;
+开发者利用凭证网络可以为玩家顺利加入网络提供无缝和高效的流程，从而提高运营效率，更重要的是为玩家提供卓越的用户体验。凭证网络提供的优势是广泛的，因此任何整合凭证网络的游戏应用都有望为其用户群提供无与伦比的体验。
 
 </details>
 
 <details>
 
-<summary>Who is developing those applications? </summary>
+<summary>正在开发的第一个游戏应用是什么？</summary>
 
-XBorg Labs is the main developer of those applications. However, upon decentralization, we intend to upon the development of these applications for any developers.&#x20;
+Soulbound启动平台和玩家参与应用。
 
 </details>
 
 <details>
 
-<summary>How does XBorg incentive the development of applications on top of the Gaming Credential Network? </summary>
+<summary>谁在开发这些应用？</summary>
 
-A grant program will allow for the incentivization of application developments.&#x20;
+XBorg Labs是这些应用的主要开发者。然而，在去中心化之后，我们打算为任何开发者开放这些应用的开发。
+
+</details>
+
+<details>
+
+<summary>XBorg如何激励在游戏凭证网络上开发应用？</summary>
+
+一个资助计划将激励应用开发。
 
 </details>

@@ -1,50 +1,50 @@
-# Initial Team Offerings
+# 初期チームオファリング
 
-> Initial Team Offerings or ITOs are one of the new technologies introduced by XBorg. The objective is to develop a tokenized layer where players can create, fundraise, and buy teams, and in doing so have power of governance over their roadmap and trajectory, and derive monetary value for being supporters of their ecosystem.
+> 初期チームオファリング（ITO）は、XBorgが導入した新しい技術の一つです。その目的は、プレイヤーがチームを作成し、資金調達し、購入することができるトークン化されたレイヤーを開発することで、そのエコシステムの支持者としてのモノの価値を生み出し、そのロードマップと軌道に対するガバナンスの権限を持つことです。
 
 <details>
 
-<summary>What is an Initial Team Offering? </summary>
+<summary>初期チームオファリングとは何ですか？</summary>
 
-Initial Team Offerings (ITO) refer to the tokenization process of an esports team with a governance and utility token.
+初期チームオファリング（ITO）とは、ガバナンスとユーティリティトークンを持つeスポーツチームのトークン化プロセスを指します。
 
 </details>
 
 <details>
 
-<summary>When is the first ITO powered by XBorg? </summary>
+<summary>XBorgによる最初のITOはいつですか？</summary>
 
-Around Q3 2023.&#x20;
-
-</details>
-
-<details>
-
-<summary>What are decentralized esports teams? </summary>
-
-Decentralized esports teams are funded and operated by fans, just like a DAO for esports.&#x20;
+2023年第3四半期ごろです。
 
 </details>
 
 <details>
 
-<summary>Will the DAOs be represented by NFTs or Tokens? </summary>
+<summary>分散型eスポーツチームとは何ですか？</summary>
 
-The esports DAO are governed by NFTs (Non-fungible tokens).&#x20;
-
-</details>
-
-<details>
-
-<summary>Please explain the utilities of those NFTs.</summary>
-
-It gives governance rights, access to a unique club, and rewards based on the team's performance.&#x20;
+分散型eスポーツチームは、eスポーツのためのDAOのように、ファンによって資金提供および運営されるチームです。
 
 </details>
 
 <details>
 
-<summary>Which chain will be used for the governance NFTs? </summary>
+<summary>DAOはNFTまたはトークンで表現されますか？</summary>
+
+eスポーツのDAOは、NFT（非代替トークン）によってガバナンスされます。
+
+</details>
+
+<details>
+
+<summary>それらのNFTのユーティリティを説明してください。</summary>
+
+それはガバナンス権限、ユニークなクラブへのアクセス、およびチームのパフォーマンスに基づく報酬を提供します。
+
+</details>
+
+<details>
+
+<summary>ガバナンスNFTにはどのチェーンが使用されますか？</summary>
 
 Ethereum
 
@@ -52,9 +52,8 @@ Ethereum
 
 <details>
 
-<summary>How can I buy/sell the NFTs after the ITOs?</summary>
+<summary>ITO後にNFTを購入/売却する方法を教えてください。</summary>
 
-The NFTs will be sellable on secondary marketplaces such as Opensea, Blur etc.
+NFTはOpensea、Blurなどのセカンダリマーケットプレイスで売買可能です。
 
 </details>
-

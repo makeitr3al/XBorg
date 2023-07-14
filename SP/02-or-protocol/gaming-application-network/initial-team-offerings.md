@@ -1,60 +1,59 @@
-# Initial Team Offerings
+# Ofertas Iniciales de Equipos
 
-> Initial Team Offerings or ITOs are one of the new technologies introduced by XBorg. The objective is to develop a tokenized layer where players can create, fundraise, and buy teams, and in doing so have power of governance over their roadmap and trajectory, and derive monetary value for being supporters of their ecosystem.
+> Las Ofertas Iniciales de Equipos o ITOs son una de las nuevas tecnologías introducidas por XBorg. El objetivo es desarrollar una capa tokenizada donde los jugadores puedan crear, recaudar fondos y comprar equipos, y así tener poder de gobernanza sobre su hoja de ruta y trayectoria, y obtener valor monetario por ser partidarios de su ecosistema.
 
 <details>
 
-<summary>What is an Initial Team Offering? </summary>
+<summary>¿Qué es una Oferta Inicial de Equipo?</summary>
 
-Initial Team Offerings (ITO) refer to the tokenization process of an esports team with a governance and utility token.
+Las Ofertas Iniciales de Equipos (ITO) se refieren al proceso de tokenización de un equipo de deportes electrónicos con un token de gobernanza y utilidad.
 
 </details>
 
 <details>
 
-<summary>When is the first ITO powered by XBorg? </summary>
+<summary>¿Cuándo será la primera ITO impulsada por XBorg?</summary>
 
-Around Q3 2023.&#x20;
-
-</details>
-
-<details>
-
-<summary>What are decentralized esports teams? </summary>
-
-Decentralized esports teams are funded and operated by fans, just like a DAO for esports.&#x20;
+Alrededor del tercer trimestre de 2023.
 
 </details>
 
 <details>
 
-<summary>Will the DAOs be represented by NFTs or Tokens? </summary>
+<summary>¿Qué son los equipos de deportes electrónicos descentralizados?</summary>
 
-The esports DAO are governed by NFTs (Non-fungible tokens).&#x20;
-
-</details>
-
-<details>
-
-<summary>Please explain the utilities of those NFTs.</summary>
-
-It gives governance rights, access to a unique club, and rewards based on the team's performance.&#x20;
+Los equipos de deportes electrónicos descentralizados son financiados y operados por fanáticos, al igual que un DAO para los deportes electrónicos.
 
 </details>
 
 <details>
 
-<summary>Which chain will be used for the governance NFTs? </summary>
+<summary>¿Las DAOs estarán representadas por NFTs o Tokens?</summary>
 
-Ethereum
+Las DAOs de deportes electrónicos están gobernadas por NFTs (tokens no fungibles).
 
 </details>
 
 <details>
 
-<summary>How can I buy/sell the NFTs after the ITOs?</summary>
+<summary>Por favor, explique las utilidades de esos NFTs.</summary>
 
-The NFTs will be sellable on secondary marketplaces such as Opensea, Blur etc.
+Otorgan derechos de gobernanza, acceso a un club único y recompensas basadas en el rendimiento del equipo.
 
 </details>
 
+<details>
+
+<summary>¿Qué cadena se utilizará para los NFTs de gobernanza?</summary>
+
+Ethereum.
+
+</details>
+
+<details>
+
+<summary>¿Cómo puedo comprar/vender los NFTs después de las ITOs?</summary>
+
+Los NFTs se podrán vender en mercados secundarios como Opensea, Blur, etc.
+
+</details>

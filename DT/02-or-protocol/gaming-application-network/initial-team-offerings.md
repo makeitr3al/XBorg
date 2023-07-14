@@ -1,50 +1,50 @@
-# Initial Team Offerings
+# Initiële Team Aanbiedingen
 
-> Initial Team Offerings or ITOs are one of the new technologies introduced by XBorg. The objective is to develop a tokenized layer where players can create, fundraise, and buy teams, and in doing so have power of governance over their roadmap and trajectory, and derive monetary value for being supporters of their ecosystem.
+> Initiële Team Aanbiedingen of ITO's zijn een van de nieuwe technologieën geïntroduceerd door XBorg. Het doel is om een getokeniseerde laag te ontwikkelen waar spelers teams kunnen creëren, geld inzamelen en kopen, en zo zeggenschap hebben over hun roadmap en koers, en monetaire waarde kunnen halen uit het ondersteunen van hun ecosysteem.
 
 <details>
 
-<summary>What is an Initial Team Offering? </summary>
+<summary>Wat is een Initiële Team Aanbieding?</summary>
 
-Initial Team Offerings (ITO) refer to the tokenization process of an esports team with a governance and utility token.
+Initiële Team Aanbiedingen (ITO) verwijzen naar het tokenisatieproces van een esports team met een governance- en utility-token.
 
 </details>
 
 <details>
 
-<summary>When is the first ITO powered by XBorg? </summary>
+<summary>Wanneer is de eerste ITO aangedreven door XBorg?</summary>
 
-Around Q3 2023.&#x20;
-
-</details>
-
-<details>
-
-<summary>What are decentralized esports teams? </summary>
-
-Decentralized esports teams are funded and operated by fans, just like a DAO for esports.&#x20;
+Rond Q3 2023.&#x20;
 
 </details>
 
 <details>
 
-<summary>Will the DAOs be represented by NFTs or Tokens? </summary>
+<summary>Wat zijn gedecentraliseerde esports teams?</summary>
 
-The esports DAO are governed by NFTs (Non-fungible tokens).&#x20;
-
-</details>
-
-<details>
-
-<summary>Please explain the utilities of those NFTs.</summary>
-
-It gives governance rights, access to a unique club, and rewards based on the team's performance.&#x20;
+Gedecentraliseerde esports teams worden gefinancierd en beheerd door fans, net als een DAO voor esports.&#x20;
 
 </details>
 
 <details>
 
-<summary>Which chain will be used for the governance NFTs? </summary>
+<summary>Zullen de DAO's vertegenwoordigd worden door NFT's of Tokens?</summary>
+
+De esports DAO's worden bestuurd door NFT's (Non-fungible tokens).&#x20;
+
+</details>
+
+<details>
+
+<summary>Kunt u de functionaliteiten van die NFT's uitleggen?</summary>
+
+Het geeft zeggenschapsrechten, toegang tot een unieke club, en beloningen op basis van de prestaties van het team.&#x20;
+
+</details>
+
+<details>
+
+<summary>Welke blockchain zal gebruikt worden voor de governance NFT's?</summary>
 
 Ethereum
 
@@ -52,9 +52,8 @@ Ethereum
 
 <details>
 
-<summary>How can I buy/sell the NFTs after the ITOs?</summary>
+<summary>Hoe kan ik de NFT's kopen/verkopen na de ITO's?</summary>
 
-The NFTs will be sellable on secondary marketplaces such as Opensea, Blur etc.
+De NFT's zullen verhandelbaar zijn op secundaire marktplaatsen zoals Opensea, Blur, enz.
 
 </details>
-
