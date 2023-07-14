@@ -2,7 +2,7 @@
 
 > XBorg sammelt derzeit eine Seed-Runde in Höhe von 5 Millionen US-Dollar ein. Im Rahmen der Runde können auch Community-Mitglieder teilnehmen. Die genauen Details und der Zeitplan der Runde finden Sie [hier](https://www.xborg.com/seed-round).&#x20;
 >
-> Es ist wichtig zu beachten, dass sich die Sperr- und Verriegelungsbedingungen für den XBG-Token ändern können. Wie bei Projekten in der Frühphase üblich, können viele der Einzelheiten und Bedingungen im Zusammenhang mit Investitionen an die Entwicklung des Projekts angepasst werden.
+> Es ist wichtig zu beachten, dass sich die Sperr- und Verriegelungsbedingungen für den XBG-Token ändern können. Wie bei Projekten in der Frühphase üblich, können viele Details und Bedingungen im Zusammenhang mit Investitionen an die Entwicklung des Projekts angepasst werden.
 >
 > Darüber hinaus sollte beachtet werden, dass die folgende Aussage nicht als Einladung oder Ermutigung zum Kauf des XBG-Tokens interpretiert werden sollte. Jede Entscheidung, in diese oder eine andere Kryptowährung zu investieren, birgt inhärente Risiken und sollte sorgfältig abgewogen werden, bevor Maßnahmen ergriffen werden.
 
@@ -20,7 +20,7 @@ Was die SwissBorg-Vaults betrifft, öffnet das erste öffentliche Vault am 23. M
 
 <summary>Wie kann ich an der Runde teilnehmen? </summary>
 
-Um an der Runde teilzunehmen, können Sie hier einen Prometheus NFT erwerben und an unserem [Launchpad](https://launchpad.xborg.com/) teilnehmen. Alternativ können Sie die SwissBorg-App herunterladen, um Zugang zu den Investitionsmöglichkeiten zu erhalten. Es sollte jedoch beachtet werden, dass nur Prometheus-Inhaber eine Zuteilung garantiert ist und das derzeitige Interesse an der Runde 4,5 Millionen US-Dollar übersteigt. Daher können wir möglicherweise keine Zuteilungen über die SwissBorg-App garantieren. Die genauen Details finden Sie [hier](https://www.xborg.com/how-to-invest).&#x20;
+Um an der Runde teilzunehmen, können Sie hier einen Prometheus NFT erwerben und an unserem [Launchpad](https://launchpad.xborg.com/) teilnehmen. Alternativ können Sie die SwissBorg-App herunterladen, um Zugang zu den Investitionsmöglichkeiten zu erhalten. Es sollte jedoch beachtet werden, dass nur Prometheus-Inhaber eine Zuteilung garantiert wird und das derzeitige Interesse an der Runde 4,5 Millionen US-Dollar übersteigt. Daher können wir möglicherweise keine Zuteilungen über die SwissBorg-App garantieren. Die genauen Details finden Sie [hier](https://www.xborg.com/how-to-invest).&#x20;
 
 
 
@@ -40,7 +40,7 @@ Um an der Runde teilzunehmen, können Sie hier einen Prometheus NFT erwerben und
 
 <summary>Gibt es eine Sperrfrist? </summary>
 
-Für strategische und Seed-Runden-Teilnehmer gilt eine Sperrfrist von 3 Monaten, gefolgt von einem 18-monatigen Vesting-Zeitplan nach dem TGE. Darüber hinaus werden 10% der gekauften XBG-Token sofort nach dem TGE verfügbar sein. Bitte beachten Sie, dass diese Bedingungen Änderungen unterliegen können, um den Anforderungen von Kryptobörsen gerecht zu werden.
+Für strategische und Seed-Runden-Teilnehmer gilt eine Sperrfrist von 3 Monaten, gefolgt von einem 18-monatigen Vesting-Zeitplan nach dem TGE. Darüber hinaus stehen 10% der gekauften XBG-Token sofort nach dem TGE zur Verfügung. Bitte beachten Sie, dass diese Bedingungen Änderungen unterliegen können, um den Anforderungen von Kryptobörsen gerecht zu werden.
 
 </details>
 
@@ -48,7 +48,7 @@ Für strategische und Seed-Runden-Teilnehmer gilt eine Sperrfrist von 3 Monaten,
 
 <summary>Handelt es sich um eine gute Investitionsmöglichkeit? </summary>
 
-Obwohl es der günstigste Preis ist, zu dem jemand XBG-Token kaufen kann, ist es wichtig zu beachten, dass wir keine positive Rendite garantieren können. Tatsächlich kann keine Investition garantiert positive Ergebnisse erzielen.
+Obwohl es der günstigste Preis ist, zu dem jemand XBG-Token kaufen kann, ist es wichtig zu beachten, dass wir keine positive Rendite garantieren können. Tatsächlich kann keine Investition garantiert einen positiven Ausgang haben.
 
 </details>
 
@@ -56,8 +56,8 @@ Obwohl es der günstigste Preis ist, zu dem jemand XBG-Token kaufen kann, ist es
 
 <summary>Wie sind die Finanzierungsrunden bis zum TGE strukturiert? </summary>
 
-* **Strategische Runde:** 1 Million US-Dollar bei einem Preis von 0,025 US-Dollar pro XBG-Token eingesammelt.
-* **Seed-Runde:** 5 Millionen US-Dollar bei einem Preis von 0,045-0,055 US-Dollar pro XBG-Token eingesammelt.&#x20;
+* **Strategische Runde:** 1 Million US-Dollar zu einem Preis von 0,025 US-Dollar pro XBG-Token eingesammelt.
+* **Seed-Runde:** 5 Millionen US-Dollar zu einem Preis von 0,045-0,055 US-Dollar pro XBG-Token eingesammelt.&#x20;
 * **Öffentliche Runde:** Gemäß dem LBP.&#x20;
 
 </details>
@@ -103,7 +103,7 @@ Im Falle von nicht verkauften Token können diese im Treasury aufbewahrt und sch
 
 <details>
 
-<summary>Wird es für SwissBorg-Token-Inhaber Vorteile beim Kauf entsprechend ihrem Premium-Level geben?</summary>
+<summary>Wird es für SwissBorg-Token-Inhaber Vorteile beim Kauf entsprechend ihres Premium-Levels geben?</summary>
 
 Series A-Investoren sowie Genesis/Generation Premiums können XBG-Token während der Seed-Runde erwerben, allerdings zu einer höheren Bewertung als Prometheus-Inhaber.
 

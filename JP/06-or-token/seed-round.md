@@ -1,112 +1,108 @@
-# Seed Round
+# シードラウンド
 
-> XBorg is currently raising a $5m seed round. As part of the round, community members will be able to participate. The exact round details and timing can be found [here](https://www.xborg.com/seed-round).&#x20;
->
-> It's important to keep in mind that the vesting and locking terms associated with XBG token may be subject to change. As is common with early-stage projects, many of the details and conditions surrounding investments can be subject to adjustment as the project evolves.
->
-> Additionally, it's worth noting that the statement below should not be interpreted as an invitation or encouragement to purchase XBG token. Any decision to invest in this or any other cryptocurrency carries inherent risk and should be carefully considered before taking any action.
+> XBorgは現在、500万ドルのシードラウンドを募集しています。ラウンドの一環として、コミュニティメンバーも参加することができます。詳細なラウンドの詳細とタイミングは[こちら](https://www.xborg.com/seed-round)で確認できます。
+
+> XBGトークンに関連するベスティングとロックの条件は変更される可能性があることを念頭に置いておくことが重要です。早期のプロジェクトでは、投資に関する詳細や条件はプロジェクトの進化に応じて調整されることが一般的です。
+
+> さらに、以下の声明はXBGトークンの購入を招待または奨励するものではないことに注意してください。このまたは他の暗号通貨への投資を決定する際には、固有のリスクが伴い、注意深く検討する必要があります。
 
 <details>
 
-<summary>When is the seed round opening? </summary>
+<summary>シードラウンドはいつ開始されますか？</summary>
 
-The seed round opened on the 16th of May 2023 with the Prometheus vault hosted on [XBorg's launchpad](https://launchpad.xborg.com/project/xborg).
+シードラウンドは2023年5月16日にプロメテウスボールトが[XBorgのローンチパッド](https://launchpad.xborg.com/project/xborg)で開始されました。
 
-As for the SwissBorg vaults, the first Public vault opens on the 23rd of May 2023 at 2 pm CET, followed by three additional vaults. The exact dates and vault sizes can be found on [our website](https://www.xborg.com/how-to-invest).
+スイスボーグのボールトについては、最初のパブリックボールトは2023年5月23日の中央ヨーロッパ時間午後2時に開始され、その後3つの追加のボールトが開始されます。詳しい日程とボールトのサイズは[当社のウェブサイト](https://www.xborg.com/how-to-invest)で確認できます。
 
 </details>
 
 <details>
 
-<summary>How can I take part in the round? </summary>
+<summary>どのようにラウンドに参加できますか？</summary>
 
-To participate in the round, you may acquire a Prometheus NFT [here](https://opensea.io/collection/xborg-prometheus) and take part in our [launchpad](https://launchpad.xborg.com/). Alternatively, you can download the SwissBorg app to access the investment opportunities. However, it should be noted that only Prometheus holders are guaranteed an allocation, and the current level of interest for the round surpasses $4.5 million. Consequently, we may not be able to assure allocations through the SwissBorg app. The exact details can be found [here](https://www.xborg.com/how-to-invest).&#x20;
-
-
+ラウンドに参加するには、[こちら](https://opensea.io/collection/xborg-prometheus)でプロメテウスNFTを入手し、[ローンチパッド](https://launchpad.xborg.com/)に参加することができます。また、SwissBorgアプリをダウンロードして投資機会にアクセスすることもできます。ただし、プロメテウスの保有者のみが割り当てを保証されており、現在のラウンドへの関心レベルは450万ドルを超えています。そのため、SwissBorgアプリを通じた割り当てを保証することができない場合があります。詳細な情報は[こちら](https://www.xborg.com/how-to-invest)で確認できます。
 
 </details>
 
 <details>
 
-<summary>What is the token price for the seed round? </summary>
+<summary>シードラウンドのトークン価格はどのようになっていますか？</summary>
 
-* VCs, BAs, and Prometheus: $0.045
-* SwissBorg Series A, Genesis, and Generation: $0.05
-* Public: $0.055
-
-</details>
-
-<details>
-
-<summary>Is there a vesting period? </summary>
-
-For strategic and seed round participants, your investment comes with a lock-in period of 3 months, followed by an 18-month vesting schedule post-TGE. Moreover, 10% of the XBG tokens purchased will be immediately available upon TGE. Please be aware that these terms are subject to change as we adapt to meet the requirements of crypto exchanges.
+* VC、BA、およびプロメテウス: $0.045
+* SwissBorg Series A、Genesis、およびGeneration: $0.05
+* パブリック: $0.055
 
 </details>
 
 <details>
 
-<summary>Is it a great investment opportunity? </summary>
+<summary>ベスティング期間はありますか？</summary>
 
-While it's the cheapest price at which someone can buy XBG tokens, it's important to note that we can't guarantee a positive return on investment. In fact, no investment can be guaranteed to yield a positive outcome.
-
-</details>
-
-<details>
-
-<summary>How are the fundraising rounds structured until the TGE? </summary>
-
-* **Strategic round:** $1m raised at $0.025 / XBG token.
-* **Seed round:** $5m raised at $0.045-0.055 / XBG token.&#x20;
-* **Public round:** As per the LBP.&#x20;
+戦略的およびシードラウンドの参加者の場合、投資にはTGE後の3ヶ月間のロックイン期間があり、その後18ヶ月のベスティングスケジュールがあります。さらに、購入したXBGトークンの10%はTGE直後にすぐに利用可能です。ただし、これらの条件は暗号通貨取引所の要件に合わせて変更される可能性があることに注意してください。
 
 </details>
 
 <details>
 
-<summary>Is there a KYC process for participating in the seed round? </summary>
+<summary>素晴らしい投資機会ですか？</summary>
 
-Yes, both the Seed and public rounds will be subject to a KYC procedure. On the XBorg launchpad, the KYC procedure occurs here: [https://launchpad.xborg.com/kyc](https://launchpad.xborg.com/kyc)
-
-</details>
-
-<details>
-
-<summary>How raised funds will be used? </summary>
-
-We are raising a $5m seed round. The raised funds will be allocated as follows and will be spent over the course of 3 years.
-
-* **Technical developments:** 60% ($3'000'000) of the funds will be allocated to technical developments and infrastructure costs. This represents the cost of 10 FTE engineers for three years at an average market salary of $7'000 per month.
-* **Marketing:** 20% ($1'000'000) of the fund will be allocated to marketing expenditures, influencer campaigns, PR, sponsorship opportunities, and events.
-* **Liquidity and exchange listings:** 10% ($500'000) of the fund will be allocated to exchange listing payments and liquidity provision.
-* **Operating costs:** 10% ($500'000) of the funds will be allocated to office rent, legal fees, and software subscriptions.
-
-The current treasury covers the non-technical HR costs.
+XBGトークンを購入できる最も安い価格ですが、投資の収益性を保証することはできません。実際、どの投資も必ずしも正の結果をもたらすことは保証されていません。
 
 </details>
 
 <details>
 
-<summary>What are the minimum and maximum investment limits for the seed round?</summary>
+<summary>TGEまでの資金調達ラウンドはどのように構成されていますか？</summary>
 
-If you are a Prometheus holder, the minimum investment threshold is set at $100, while the maximum limit stands at $3,000 per NFT. For SwissBorg users, investment limits are tier-based and vary accordingly. Please refer to our detailed tier structure on [our website](https://www.xborg.com/how-to-invest).
-
-</details>
-
-<details>
-
-<summary>How will the company handle any unsold tokens?</summary>
-
-In the case of unsold tokens, those could be kept in the treasury and eventually sold OTC to large investors.
+* **戦略的ラウンド:** $0.025 / XBGトークンで100万ドルを調達。
+* **シードラウンド:** $0.045-0.055 / XBGトークンで500万ドルを調達。
+* **パブリックラウンド:** LBPに従う。
 
 </details>
 
 <details>
 
-<summary>Will there be any buy benefits for the SwissBorg token holders regarding their Premium level?</summary>
+<summary>シードラウンドへの参加にはKYCプロセスがありますか？</summary>
 
-Series A investors and Genesis/Generation premiums will be able to purchase XBG tokens during the Seed round, albeit at a higher valuation than Prometheus holders.
+はい、シードラウンドとパブリックラウンドの両方にはKYC手続きが必要です。XBorgのローンチパッドでは、KYC手続きは[こちら](https://launchpad.xborg.com/kyc)で行われます。
 
 </details>
 
-&#x20;
+<details>
+
+<summary>調達された資金はどのように使用されますか？</summary>
+
+私たちは500万ドルのシードラウンドを募集しています。調達された資金は以下のように割り当てられ、3年間にわたって使用されます。
+
+* **技術開発:** 資金の60%（$3,000,000）は技術開発とインフラコストに割り当てられます。これは、市場平均給与の1か月あたり$7,000で計算した3年間の10人のエンジニアのコストです。
+* **マーケティング:** 資金の20%（$1,000,000）はマーケティング費用、インフルエンサーキャンペーン、PR、スポンサーシップ機会、イベントに割り当てられます。
+* **流動性と取引所上場:** 資金の10%（$500,000）は取引所上場の支払いと流動性の提供に割り当てられます。
+* **運営費用:** 資金の10%（$500,000）はオフィスの賃料、法律費用、ソフトウェアのサブスクリプションに割り当てられます。
+
+現在の資金は非技術的な人事費用をカバーしています。
+
+</details>
+
+<details>
+
+<summary>シードラウンドの最小および最大投資限度額は何ですか？</summary>
+
+プロメテウスの保有者の場合、最小投資額は$100であり、最大限度額はNFTごとに$3,000です。SwissBorgのユーザーの場合、投資限度額は階層に基づいて異なります。詳細な階層構造については、[当社のウェブサイト](https://www.xborg.com/how-to-invest)をご覧ください。
+
+</details>
+
+<details>
+
+<summary>未販売のトークンはどのように処理されますか？</summary>
+
+未販売のトークンは、トレジャリーに保管され、将来的に大口投資家に対してOTCで売却される可能性があります。
+
+</details>
+
+<details>
+
+<summary>SwissBorgトークン保有者にとってプレミアムレベルに関連する購入特典はありますか？</summary>
+
+Series Aの投資家およびGenesis/Generationプレミアムの保有者は、シードラウンドでXBGトークンを購入することができますが、プロメテウスの保有者よりも高い評価額での購入となります。
+
+</details>
