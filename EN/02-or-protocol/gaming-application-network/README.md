@@ -50,3 +50,4 @@ XBorg Labs is the main developer of those applications. However, upon decentrali
 A grant program will allow for the incentivization of application developments.&#x20;
 
 </details>
+

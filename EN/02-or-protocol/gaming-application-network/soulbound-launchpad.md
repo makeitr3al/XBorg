@@ -125,3 +125,4 @@ No refund will be implemented if it's deemed the investors' fault.
 For XBorg to comply with relevant jurisdiction relative to launchpads.
 
 </details>
+

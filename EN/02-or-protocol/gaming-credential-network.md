@@ -113,3 +113,4 @@ Initially, Polygon and other L2. As the Network gains traction, it will become i
 * **Scale**: The true value proposition of the credential network is contingent upon achieving a requisite level of network scale, a priority that currently holds significant strategic importance for XBorg. However, once this objective is realized, the potential utilities that can be derived from the network are truly boundless.
 
 </details>
+
