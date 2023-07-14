@@ -43,3 +43,4 @@ Yes, we are hiring software engineers, designers, and product managers. The role
 [https://jobs.lever.co/swissborg?department=XBorg](https://jobs.lever.co/swissborg?department=XBorg)
 
 </details>
+
