@@ -49,3 +49,4 @@ and Web2 companies such as [TeamBDS](https://teambds.gg/)
 Additionally, we have partnered with **+30 Web3** games.
 
 </details>
+
