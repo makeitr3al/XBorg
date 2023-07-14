@@ -1,52 +1,52 @@
-# Gaming Application Network
+# ゲームアプリケーションネットワーク
 
-> Before reading the additional questions, go through the presentation of the Gaming Application Network. #what-is-a-gaming-application-network
+> 追加の質問を読む前に、ゲームアプリケーションネットワークのプレゼンテーションをご覧ください。 #what-is-a-gaming-application-network
 
 <details>
 
-<summary>What are examples of applications within the network? </summary>
+<summary>ネットワーク内のアプリケーションの例は何ですか？</summary>
 
-* **Soulbound launchpad**: Connect gamers with games based on their digital identity so that games can offer unique investment opportunities to gamers that like the corresponding genre.&#x20;
-* **Player engagement app (xborg.gg)**: An engagement layer on top of any games and communities connected to a unique avatar. This serves as a great acquisition tool for games and gaming communities.&#x20;
-* **In-game integration**: Integrate the credential layer within a game and offer unique game modes and perks for experts in the genre.
-* **Communication protocol**: Allow brands to connect with players based on their credentials. Players can set a communication fee.&#x20;
-* **Reputation-based asset lending**: Lend your assets not based on collaterals but on your credentials and reputation.
-* **Matchmaking**: Allow for more efficient in-game matchmaking based on the entire history of the gamers.&#x20;
-* **Decentralized gaming communities**: An app that allows for the creation of decentralized gaming communities.
-* **Esports player scouting**: An app that allows for the scouting of esports players by esports teams or decentralized gaming communities.&#x20;
-* **Tournament platform**: A more efficient tournament platform, gated upon the performance of certain players.&#x20;
-* **Gaming data app**: A dating app that matches players based on their credentials.
+* **Soulbound launchpad**: ゲーマーをデジタルアイデンティティに基づいてゲームに接続し、対応するジャンルが好きなゲーマーに対してユニークな投資機会を提供する。&#x20;
+* **Player engagement app (xborg.gg)**: 任意のゲームやコミュニティに接続されたユニークなアバターの上に配置されたエンゲージメントレイヤー。これはゲームやゲームコミュニティの獲得ツールとして優れている。&#x20;
+* **ゲーム内統合**: ゲーム内の認証レイヤーを統合し、ジャンルのエキスパートに対してユニークなゲームモードと特典を提供する。
+* **コミュニケーションプロトコル**: ブランドがクレデンシャルに基づいてプレイヤーと接続できるようにする。プレイヤーは通信料金を設定できる。&#x20;
+* **評判に基づく資産貸出**: 信用担保ではなく、クレデンシャルと評判に基づいて資産を貸し出す。
+* **マッチメイキング**: ゲーマーの全履歴に基づいた効率的なゲーム内マッチメイキングを可能にする。&#x20;
+* **分散型ゲーミングコミュニティ**: 分散型ゲーミングコミュニティの作成を可能にするアプリ。
+* **eスポーツプレイヤースカウト**: eスポーツチームや分散型ゲーミングコミュニティによるeスポーツプレイヤーのスカウトを可能にするアプリ。&#x20;
+* **トーナメントプラットフォーム**: 特定のプレイヤーのパフォーマンスに基づいてゲートされた、より効率的なトーナメントプラットフォーム。&#x20;
+* **ゲームデータアプリ**: クレデンシャルに基づいてプレイヤーをマッチングするデートアプリ。
 
 </details>
 
 <details>
 
-<summary>What are the advantages of integrating the Credential Network? </summary>
+<summary>クレデンシャルネットワークの統合の利点は何ですか？</summary>
 
-The utilization of the credential network by developers provides a seamless and streamlined process for onboarding players onto the network, leading to heightened operational efficiencies and, more importantly, an enhanced user experience for the players. The advantages offered by the credential network are far-reaching, such that any gaming application that integrates it is poised to provide an unparalleled experience to its user base.
-
-</details>
-
-<details>
-
-<summary>What are the first gaming applications being developed? </summary>
-
-Soulbound launchpad and the player engagement app.&#x20;
+開発者がクレデンシャルネットワークを利用することで、ネットワークへのプレイヤーのオンボーディングプロセスがシームレスかつ効率的になり、プレイヤーにとって優れたユーザーエクスペリエンスが提供されます。クレデンシャルネットワークが提供する利点は広範であり、それを統合した任意のゲームアプリケーションは、ユーザーベースに対して比類のない体験を提供することができます。
 
 </details>
 
 <details>
 
-<summary>Who is developing those applications? </summary>
+<summary>最初に開発されているゲームアプリケーションは何ですか？</summary>
 
-XBorg Labs is the main developer of those applications. However, upon decentralization, we intend to upon the development of these applications for any developers.&#x20;
+Soulbound launchpadとプレイヤーエンゲージメントアプリです。&#x20;
 
 </details>
 
 <details>
 
-<summary>How does XBorg incentive the development of applications on top of the Gaming Credential Network? </summary>
+<summary>それらのアプリケーションを開発しているのは誰ですか？</summary>
 
-A grant program will allow for the incentivization of application developments.&#x20;
+XBorg Labsがこれらのアプリケーションの主要な開発者です。ただし、分散化後は、これらのアプリケーションの開発を他の開発者にも開放する予定です。&#x20;
+
+</details>
+
+<details>
+
+<summary>XBorgはゲームクレデンシャルネットワーク上でのアプリケーション開発をどのようにインセンティブ化していますか？</summary>
+
+助成金プログラムにより、アプリケーションの開発をインセンティブ化します。&#x20;
 
 </details>

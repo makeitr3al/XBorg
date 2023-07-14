@@ -1,52 +1,52 @@
 # Gaming Application Network
 
-> Before reading the additional questions, go through the presentation of the Gaming Application Network. #what-is-a-gaming-application-network
+> Voordat je de aanvullende vragen leest, bekijk de presentatie van het Gaming Application Network. [#wat-is-een-gaming-application-network](#wat-is-een-gaming-application-network)
 
 <details>
 
-<summary>What are examples of applications within the network? </summary>
+<summary>Wat zijn voorbeelden van applicaties binnen het netwerk?</summary>
 
-* **Soulbound launchpad**: Connect gamers with games based on their digital identity so that games can offer unique investment opportunities to gamers that like the corresponding genre.&#x20;
-* **Player engagement app (xborg.gg)**: An engagement layer on top of any games and communities connected to a unique avatar. This serves as a great acquisition tool for games and gaming communities.&#x20;
-* **In-game integration**: Integrate the credential layer within a game and offer unique game modes and perks for experts in the genre.
-* **Communication protocol**: Allow brands to connect with players based on their credentials. Players can set a communication fee.&#x20;
-* **Reputation-based asset lending**: Lend your assets not based on collaterals but on your credentials and reputation.
-* **Matchmaking**: Allow for more efficient in-game matchmaking based on the entire history of the gamers.&#x20;
-* **Decentralized gaming communities**: An app that allows for the creation of decentralized gaming communities.
-* **Esports player scouting**: An app that allows for the scouting of esports players by esports teams or decentralized gaming communities.&#x20;
-* **Tournament platform**: A more efficient tournament platform, gated upon the performance of certain players.&#x20;
-* **Gaming data app**: A dating app that matches players based on their credentials.
+* **Soulbound launchpad**: Verbind gamers met games op basis van hun digitale identiteit, zodat games unieke investeringsmogelijkheden kunnen bieden aan gamers die van het overeenkomstige genre houden.&#x20;
+* **Player engagement app (xborg.gg)**: Een betrokkenheidslaag bovenop alle games en communities die verbonden zijn met een unieke avatar. Dit dient als een geweldig acquisitietool voor games en gaming communities.&#x20;
+* **In-game integratie**: Integreer de credential-laag binnen een game en bied unieke spelmodi en voordelen voor experts in het genre.
+* **Communicatieprotocol**: Stel merken in staat om contact te leggen met spelers op basis van hun referenties. Spelers kunnen een communicatievergoeding instellen.&#x20;
+* **Reputatiegebaseerde activa-uitlening**: Leen je activa uit op basis van referenties en reputatie, niet op basis van onderpand.
+* **Matchmaking**: Maak efficiëntere in-game matchmaking mogelijk op basis van de volledige geschiedenis van de gamers.&#x20;
+* **Gedecentraliseerde gaming communities**: Een app waarmee gedecentraliseerde gaming communities kunnen worden gecreëerd.
+* **Esports-speler scouting**: Een app waarmee esports-teams of gedecentraliseerde gaming communities esports-spelers kunnen scouten.&#x20;
+* **Toernooiplatform**: Een efficiënter toernooiplatform, gebaseerd op de prestaties van bepaalde spelers.&#x20;
+* **Gaming data app**: Een dating-app die spelers matcht op basis van hun referenties.
 
 </details>
 
 <details>
 
-<summary>What are the advantages of integrating the Credential Network? </summary>
+<summary>Wat zijn de voordelen van het integreren van het Credential Network?</summary>
 
-The utilization of the credential network by developers provides a seamless and streamlined process for onboarding players onto the network, leading to heightened operational efficiencies and, more importantly, an enhanced user experience for the players. The advantages offered by the credential network are far-reaching, such that any gaming application that integrates it is poised to provide an unparalleled experience to its user base.
-
-</details>
-
-<details>
-
-<summary>What are the first gaming applications being developed? </summary>
-
-Soulbound launchpad and the player engagement app.&#x20;
+Het gebruik van het credential network door ontwikkelaars zorgt voor een naadloos en gestroomlijnd proces om spelers aan te sluiten op het netwerk, wat leidt tot verbeterde operationele efficiëntie en, nog belangrijker, een verbeterde gebruikerservaring voor de spelers. De voordelen die het credential network biedt, zijn verstrekkend, zodat elke gaming-applicatie die het integreert een ongeëvenaarde ervaring kan bieden aan zijn gebruikers.
 
 </details>
 
 <details>
 
-<summary>Who is developing those applications? </summary>
+<summary>Welke gamingapplicaties worden er als eerste ontwikkeld?</summary>
 
-XBorg Labs is the main developer of those applications. However, upon decentralization, we intend to upon the development of these applications for any developers.&#x20;
+Soulbound launchpad en de player engagement app.&#x20;
 
 </details>
 
 <details>
 
-<summary>How does XBorg incentive the development of applications on top of the Gaming Credential Network? </summary>
+<summary>Wie ontwikkelt die applicaties?</summary>
 
-A grant program will allow for the incentivization of application developments.&#x20;
+XBorg Labs is de belangrijkste ontwikkelaar van die applicaties. Echter, na decentralisatie, zijn we van plan om de ontwikkeling van deze applicaties open te stellen voor andere ontwikkelaars.&#x20;
+
+</details>
+
+<details>
+
+<summary>Hoe stimuleert XBorg de ontwikkeling van applicaties bovenop het Gaming Credential Network?</summary>
+
+Een subsidieprogramma zal zorgen voor stimulering van de ontwikkeling van applicaties.&#x20;
 
 </details>

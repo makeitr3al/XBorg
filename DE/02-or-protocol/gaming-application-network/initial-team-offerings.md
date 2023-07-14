@@ -1,6 +1,6 @@
 # Erstes Teamangebot
 
-> Initial Team Offerings oder ITOs sind eine der neuen Technologien, die von XBorg eingeführt wurden. Das Ziel besteht darin, eine tokenisierte Ebene zu entwickeln, auf der Spieler Teams erstellen, Geld sammeln und kaufen können. Dadurch erhalten sie die Governance über ihre Roadmap und ihre Entwicklung und erzielen einen monetären Wert als Unterstützer ihres Ökosystems.
+> Erstes Teamangebot oder ITOs sind eine der neuen Technologien, die von XBorg eingeführt wurden. Das Ziel besteht darin, eine tokenisierte Ebene zu entwickeln, auf der Spieler Teams erstellen, Geld sammeln und kaufen können. Dadurch haben sie die Möglichkeit, die Roadmap und die Entwicklung ihres Teams mitzubestimmen und einen monetären Wert als Unterstützer ihres Ökosystems zu erhalten.
 
 <details>
 
@@ -12,7 +12,7 @@ Initial Team Offerings (ITO) beziehen sich auf den Tokenisierungsprozess eines E
 
 <details>
 
-<summary>Wann findet das erste ITO statt, das von XBorg unterstützt wird?</summary>
+<summary>Wann findet das erste von XBorg unterstützte ITO statt?</summary>
 
 Voraussichtlich im dritten Quartal 2023.
 
@@ -38,7 +38,7 @@ Die Esport-DAOs werden durch NFTs (Non-fungible Tokens) repräsentiert.
 
 <summary>Bitte erläutern Sie die Funktionen dieser NFTs.</summary>
 
-Sie verleihen Governance-Rechte, Zugang zu einem einzigartigen Club und Belohnungen basierend auf der Leistung des Teams.
+Sie verleihen Governance-Rechte, ermöglichen den Zugang zu einem einzigartigen Club und belohnen basierend auf der Leistung des Teams.
 
 </details>
 

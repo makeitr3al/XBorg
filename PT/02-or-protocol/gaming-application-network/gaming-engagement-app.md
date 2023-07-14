@@ -1,6 +1,6 @@
 # Aplicativo de Engajamento em Jogos
 
-> Os jogadores podem se conectar com comunidades e jogos dos quais são fãs. Completar missões e criar avatares ao ganhar e equipar itens oferecidos por várias NFTs da comunidade. Além disso, as comunidades podem criar experiências personalizadas para os membros, aproveitando a infraestrutura, que será destacada em uma seção posterior. Este produto está atualmente em Beta ao vivo há dois meses e possui 3 jogos aos quais os jogadores podem acessar para missões. A plataforma teve 10.000 inscrições antecipadas e atualmente possui 1000 usuários ativos semanais que compartilharam coletivamente 4.000 distintivos em plataformas de mídia social.
+> Os jogadores podem se conectar com comunidades e jogos dos quais são fãs. Completar missões e criar avatares ganhando e equipando itens oferecidos por várias NFTs da comunidade. Além disso, as comunidades podem criar experiências personalizadas para os membros, aproveitando a infraestrutura, que será destacada em uma seção posterior. Este produto está atualmente em Beta ao vivo há dois meses e possui 3 jogos aos quais os jogadores podem acessar para missões. A plataforma teve 10.000 inscrições antecipadas e atualmente possui 1000 usuários ativos semanais que compartilharam coletivamente 4.000 distintivos em plataformas de mídia social.
 
 <details>
 
@@ -20,11 +20,11 @@ O Aplicativo de Engajamento em Jogos é um aplicativo que permite que jogos e co
 
 <summary>Quais são as características do Aplicativo de Engajamento em Jogos?</summary>
 
-* Criar e participar de comunidades
-* Criar missões exclusivas com base em plataformas sociais e jogos (Twitter, Discord, Twitch, envio manual e quaisquer jogos suportados)
-* Associar o sucesso da missão a um item exclusivo
-* Criar um avatar com várias características e itens
-* Lançar itens em troca de uma taxa
+* Criar e participar de comunidades.
+* Criar missões exclusivas com base em plataformas sociais e jogos (Twitter, Discord, Twitch, envio manual e quaisquer jogos suportados).
+* Associar o sucesso da missão a um item exclusivo.
+* Criar um avatar único com múltiplos atributos e itens.
+* Lançar itens em troca de uma taxa.
 
 </details>
 
@@ -32,21 +32,21 @@ O Aplicativo de Engajamento em Jogos é um aplicativo que permite que jogos e co
 
 <summary>Qual é a atual tração do aplicativo?</summary>
 
-O alpha do aplicativo reuniu **10.000** usuários únicos, com mais de **30.000** missões concluídas. O aplicativo suporta jogos da Web3 e Web2, atualmente contando com **Ev.io**, **Dota2** e **CSGO**. Mais jogos serão integrados.
+O alpha do aplicativo já reuniu **10.000** usuários únicos, com mais de **30.000** missões concluídas. O aplicativo suporta jogos da Web3 e Web2, atualmente contando com **Ev.io**, **Dota2** e **CSGO**. Mais jogos serão integrados.
 
 </details>
 
 <details>
 
-<summary>Como faço para ser incluído na lista branca do Alpha?</summary>
+<summary>Como faço para ser incluído na versão Alpha?</summary>
 
-O processo de inclusão na lista branca do Alpha já terminou.
+O processo de inclusão na versão Alpha já foi encerrado.
 
 </details>
 
 <details>
 
-<summary>Quando o Aplicativo de Engajamento em Jogos V1 será lançado?</summary>
+<summary>Quando será lançado o Aplicativo de Engajamento em Jogos V1?</summary>
 
 Por volta do segundo trimestre de 2023.
 
@@ -56,8 +56,8 @@ Por volta do segundo trimestre de 2023.
 
 <summary>O que é único sobre o Aplicativo de Engajamento em Jogos?</summary>
 
-* Motor de missões no jogo
-* Inventário de avatar e itens colecionáveis
+* Motor de missões no jogo.
+* Inventário de avatares e itens.
 
 </details>
 
@@ -73,15 +73,15 @@ A equipe BDS será a primeira comunidade. A XBorg garantiu e anunciará mais par
 
 <summary>É um Dapp ou um aplicativo tradicional?</summary>
 
-O aplicativo é um híbrido Web3, o que significa que a experiência do usuário será a mesma, independentemente de usar autenticação Web2 ou Web3. No entanto, se os usuários optarem pelo Web3, eles manterão a propriedade de seus ativos (itens colecionáveis, avatares).
+O aplicativo é um híbrido Web3, o que significa que a experiência do usuário será a mesma, independentemente de usar autenticação Web2 ou Web3. No entanto, se os usuários optarem pelo Web3, eles manterão a propriedade de seus ativos (itens, avatares).
 
 </details>
 
 <details>
 
-<summary>Os itens colecionáveis e avatares são NFTs?</summary>
+<summary>Os itens e avatares são NFTs?</summary>
 
-Sim, os itens colecionáveis são NFTs transferíveis, enquanto o avatar é um NFT não transferível.
+Sim, os itens são NFTs transferíveis, enquanto o avatar é um NFT não transferível.
 
 </details>
 
@@ -99,9 +99,9 @@ Para **comunidades**, equipes de esportes eletrônicos e comunidades de influenc
 
 <summary>Quais são os principais impulsionadores de receita do aplicativo?</summary>
 
-* Assinaturas de usuários
-* Itens colecionáveis
-* Taxas de troca de itens colecionáveis
+* Assinaturas de usuários.
+* Lançamento de itens.
+* Taxas de troca de itens.
 
 </details>
 

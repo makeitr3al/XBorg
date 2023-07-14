@@ -1,6 +1,6 @@
 # Ofertas Iniciais de Equipe
 
-> As Ofertas Iniciais de Equipe, ou ITOs, são uma das novas tecnologias introduzidas pela XBorg. O objetivo é desenvolver uma camada tokenizada onde os jogadores podem criar, arrecadar fundos e comprar equipes, e assim ter poder de governança sobre seu roteiro e trajetória, e obter valor monetário por serem apoiadores de seu ecossistema.
+> As Ofertas Iniciais de Equipe, ou ITOs, são uma das novas tecnologias introduzidas pela XBorg. O objetivo é desenvolver uma camada tokenizada onde os jogadores podem criar, arrecadar fundos e comprar equipes, e assim ter poder de governança sobre seu roadmap e trajetória, e obter valor monetário por serem apoiadores de seu ecossistema.
 
 <details>
 
@@ -22,7 +22,7 @@ Por volta do terceiro trimestre de 2023.
 
 <summary>O que são equipes de esportes eletrônicos descentralizadas?</summary>
 
-As equipes de esportes eletrônicos descentralizadas são financiadas e operadas por fãs, assim como um DAO para esportes eletrônicos.
+Equipes de esportes eletrônicos descentralizadas são financiadas e operadas por fãs, assim como um DAO para esportes eletrônicos.
 
 </details>
 

@@ -1,122 +1,122 @@
-# Gaming Engagement App
+# 游戏参与度应用
 
-> Players can connect with communities and games they are a fan of. Complete quests and create avatars by earning and equipping wearables offered by various community NFTs. Additionally, communities can create custom experiences for their community members by leveraging the infrastructure, which will be highlighted in a later section. This product is currently in a live Beta for two months and has 3 games that players can access for quests. The platform had 10,000 early sign-ups and is currently demonstrating 1000 weekly active users who collectively shared 4,000 badges across social media platforms.
+> 玩家可以与他们喜欢的社区和游戏建立联系。通过完成任务并装备各种社区NFT提供的可穿戴物品来创建化身。此外，社区可以利用基础设施为其社区成员创建定制体验，这将在后面的部分中介绍。该产品目前处于为期两个月的公测阶段，有3款游戏供玩家进行任务。该平台已经有了1万名早期注册用户，目前每周有1000名活跃用户，共在社交媒体平台上分享了4000个徽章。
 
 <details>
 
-<summary>What is the Gaming Engagement App? </summary>
+<summary>什么是游戏参与度应用？</summary>
 
-The Gaming Engagement App is an app that allows games and communities to be closer to their fans and increase their engagement.&#x20;
+游戏参与度应用是一款让游戏和社区与粉丝更加紧密联系并增加参与度的应用。
 
-* **For players:** it is an app that will enable players to stay connected to their favorite games and communities. &#x20;
-* **For games:** it creates fun challenges that players can complete in-game and share with their friends, and players get rewarded for their accomplishments.
-* **For communities:** it offers challenges related to their group, and players earn special wearable items to customize their avatars.&#x20;
+* **对于玩家：** 这是一款让玩家与他们喜欢的游戏和社区保持联系的应用。
+* **对于游戏：** 它创建了一些有趣的挑战，玩家可以在游戏中完成并与朋友分享，玩家会因为他们的成就而获得奖励。
+* **对于社区：** 它提供与他们的群体相关的挑战，玩家可以获得特殊的可穿戴物品来定制他们的化身。
 
-It is a simple and convenient solution for keeping gamers engaged and excited.
+这是一个简单而方便的解决方案，可以让玩家保持参与和兴奋。
 
 </details>
 
 <details>
 
-<summary>What are the features of the Gaming Engagement App? </summary>
+<summary>游戏参与度应用的特点是什么？</summary>
 
-* Create and join communities&#x20;
-* Create unique quests based on social platforms and games (Twitter, Discord, Twitch, Manual submission, and any supported games)&#x20;
-* Attach quest success with a unique wearable
-* Create a unique composable avatar with multiple traits and wearables
-* Drop wearables in exchange for a fee
-
-</details>
-
-<details>
-
-<summary>What is the current traction of the App? </summary>
-
-The app's alpha has gathered **10,000** unique users with over **30,000** quests completed. The app supports games across Web3 and Web2, currently boasting **Ev.io**, **Dota2**, and **CSGO**. More games will be integrated.
+* 创建和加入社区
+* 基于社交平台和游戏创建独特的任务（Twitter、Discord、Twitch、手动提交和任何支持的游戏）
+* 将任务成功与独特的可穿戴物品关联
+* 创建具有多个特征和可穿戴物品的独特可组合化身
+* 以费用交换可穿戴物品
 
 </details>
 
 <details>
 
-<summary>How do I get whitelisted for the Alpha?</summary>
+<summary>应用目前的发展情况如何？</summary>
 
-The whitelisting process for the Alpha has ended.
-
-</details>
-
-<details>
-
-<summary>When will the Gaming Engagement App V1 going to be released? </summary>
-
-Around Q2 2023.
+该应用的测试版已经吸引了**1万**名独立用户，完成了**3万**个任务。该应用支持Web3和Web2的游戏，目前支持**Ev.io**、**Dota2**和**CSGO**。将会有更多的游戏集成进来。
 
 </details>
 
 <details>
 
-<summary>What is unique about the Gaming Engagement App? </summary>
+<summary>如何加入Alpha测试白名单？</summary>
 
-* In-game quest engine
-* Avatar inventory and wearable drops
-
-</details>
-
-<details>
-
-<summary>At launch, which community will be integrated into the App? </summary>
-
-Team BDS will be the first community. XBorg has secured and will announce more partnerships with top-tier esports teams.&#x20;
+Alpha测试的白名单申请已经结束。
 
 </details>
 
 <details>
 
-<summary>Is it a Dapp or traditional application? </summary>
+<summary>游戏参与度应用V1将于何时发布？</summary>
 
-The app is a hybrid Web3, meaning that the user experience will be the same whether the user is using Web2 or Web3 authentication. Though if users opt in for Web3, they will retain ownership of their assets (wearables, avatars)
-
-</details>
-
-<details>
-
-<summary>Are the wearables and avatars NFTs? </summary>
-
-Yes, the wearables are transferable NFTs, while the avatar is a non-transferable NFT.&#x20;
+预计在2023年第二季度发布。
 
 </details>
 
 <details>
 
-<summary>Who are the target users of the App? </summary>
+<summary>游戏参与度应用有什么独特之处？</summary>
 
-For **users**, players that have an interest in esports or players that are fans of specific communities or games.&#x20;
-
-For **communities**, esports teams and influencers communities.&#x20;
-
-</details>
-
-<details>
-
-<summary>What are the main revenue drivers of the App? </summary>
-
-* User subscriptions
-* Wearable drops
-* Wearable exchange fees
+* 游戏内任务引擎
+* 化身库存和可穿戴物品掉落
 
 </details>
 
 <details>
 
-<summary>Will the application be a mobile app? </summary>
+<summary>在发布时，哪个社区将集成到应用中？</summary>
 
-Initially, no. But we intend to launch on mobile in later iterations.&#x20;
+Team BDS将是第一个集成的社区。XBorg已经确保并将宣布与顶级电竞战队的更多合作伙伴关系。
 
 </details>
 
 <details>
 
-<summary>What is the difference between the Gaming Engagement App and XBorg.gg?</summary>
+<summary>这是一个Dapp还是传统应用？</summary>
 
-The gaming engagement app is hosted under the domain **xborg.gg**
+该应用是一个混合的Web3应用，这意味着用户无论使用Web2还是Web3身份验证，其用户体验都是相同的。但是，如果用户选择Web3，他们将保留对其资产（可穿戴物品、化身）的所有权。
+
+</details>
+
+<details>
+
+<summary>可穿戴物品和化身是NFT吗？</summary>
+
+是的，可穿戴物品是可转让的NFT，而化身是不可转让的NFT。
+
+</details>
+
+<details>
+
+<summary>该应用的目标用户是谁？</summary>
+
+对于**用户**来说，是对电竞感兴趣的玩家或对特定社区或游戏感兴趣的玩家。
+
+对于**社区**来说，是电竞战队和影响者社区。
+
+</details>
+
+<details>
+
+<summary>应用的主要收入来源是什么？</summary>
+
+* 用户订阅
+* 可穿戴物品掉落
+* 可穿戴物品交换费用
+
+</details>
+
+<details>
+
+<summary>该应用将是一个移动应用吗？</summary>
+
+最初不是，但我们打算在后续版本中推出移动应用。
+
+</details>
+
+<details>
+
+<summary>游戏参与度应用和XBorg.gg有什么区别？</summary>
+
+游戏参与度应用托管在**xborg.gg**域名下。
 
 </details>

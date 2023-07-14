@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>Quels sont les exemples d'applications dans le réseau ?</summary>
+<summary>Quels sont les exemples d'applications au sein du réseau ?</summary>
 
 * **Soulbound launchpad** : Connectez les joueurs avec des jeux basés sur leur identité numérique afin que les jeux puissent offrir des opportunités d'investissement uniques aux joueurs qui aiment le genre correspondant.
 * **Application d'engagement des joueurs (xborg.gg)** : Une couche d'engagement au-dessus de tous les jeux et communautés connectés à un avatar unique. Cela sert d'excellent outil d'acquisition pour les jeux et les communautés de jeux.
@@ -13,7 +13,7 @@
 * **Prêt d'actifs basé sur la réputation** : Prêtez vos actifs non pas en fonction des garanties, mais de vos accréditations et de votre réputation.
 * **Matchmaking** : Permettez un matchmaking plus efficace en jeu basé sur toute l'historique des joueurs.
 * **Communautés de jeux décentralisées** : Une application qui permet la création de communautés de jeux décentralisées.
-* **Recrutement de joueurs d'esports** : Une application qui permet le recrutement de joueurs d'esports par des équipes d'esports ou des communautés de jeux décentralisées.
+* **Repérage de joueurs d'esports** : Une application qui permet le repérage de joueurs d'esports par des équipes d'esports ou des communautés de jeux décentralisées.
 * **Plateforme de tournois** : Une plateforme de tournois plus efficace, basée sur les performances de certains joueurs.
 * **Application de données de jeux** : Une application de rencontres qui met en relation les joueurs en fonction de leurs accréditations.
 
@@ -23,7 +23,7 @@
 
 <summary>Quels sont les avantages de l'intégration du réseau d'accréditation ?</summary>
 
-L'utilisation du réseau d'accréditation par les développeurs offre un processus fluide et rationalisé pour l'intégration des joueurs sur le réseau, ce qui entraîne une efficacité opérationnelle accrue et, plus important encore, une expérience utilisateur améliorée pour les joueurs. Les avantages offerts par le réseau d'accréditation sont nombreux, de sorte que toute application de jeu qui l'intègre est destinée à offrir une expérience inégalée à sa base d'utilisateurs.
+L'utilisation du réseau d'accréditation par les développeurs offre un processus fluide et rationalisé pour l'intégration des joueurs sur le réseau, ce qui entraîne une efficacité opérationnelle accrue et, plus important encore, une expérience utilisateur améliorée pour les joueurs. Les avantages offerts par le réseau d'accréditation sont nombreux, de sorte que toute application de jeu qui l'intègre est en mesure de fournir une expérience inégalée à sa base d'utilisateurs.
 
 </details>
 
@@ -39,7 +39,7 @@ Soulbound launchpad et l'application d'engagement des joueurs.
 
 <summary>Qui développe ces applications ?</summary>
 
-XBorg Labs est le principal développeur de ces applications. Cependant, lors de la décentralisation, nous avons l'intention de permettre le développement de ces applications par d'autres développeurs.
+XBorg Labs est le principal développeur de ces applications. Cependant, après la décentralisation, nous avons l'intention de permettre le développement de ces applications par n'importe quel développeur.
 
 </details>
 

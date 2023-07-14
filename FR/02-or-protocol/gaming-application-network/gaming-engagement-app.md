@@ -1,6 +1,6 @@
 # Application d'engagement pour les jeux
 
-> Les joueurs peuvent se connecter avec les communautés et les jeux dont ils sont fans. Accomplissez des quêtes et créez des avatars en gagnant et en équipant des objets portables proposés par divers NFT de la communauté. De plus, les communautés peuvent créer des expériences personnalisées pour leurs membres en tirant parti de l'infrastructure, qui sera mise en évidence dans une section ultérieure. Ce produit est actuellement en version bêta en direct depuis deux mois et propose 3 jeux auxquels les joueurs peuvent accéder pour des quêtes. La plateforme compte 10 000 inscriptions anticipées et compte actuellement 1 000 utilisateurs actifs par semaine qui ont partagé collectivement 4 000 badges sur les plateformes de médias sociaux.
+> Les joueurs peuvent se connecter avec les communautés et les jeux dont ils sont fans. Accomplissez des quêtes et créez des avatars en gagnant et en équipant des objets portables proposés par divers NFT de la communauté. De plus, les communautés peuvent créer des expériences personnalisées pour leurs membres en utilisant l'infrastructure, qui sera mise en évidence dans une section ultérieure. Ce produit est actuellement en version bêta depuis deux mois et propose 3 jeux auxquels les joueurs peuvent accéder pour des quêtes. La plateforme compte 10 000 inscriptions anticipées et compte actuellement 1 000 utilisateurs actifs par semaine qui ont partagé collectivement 4 000 badges sur les plateformes de médias sociaux.
 
 <details>
 
@@ -32,7 +32,7 @@ C'est une solution simple et pratique pour maintenir les joueurs engagés et ent
 
 <summary>Quelle est la traction actuelle de l'application ?</summary>
 
-L'alpha de l'application a rassemblé **10 000** utilisateurs uniques avec plus de **30 000** quêtes accomplies. L'application prend en charge des jeux sur Web3 et Web2, en proposant actuellement **Ev.io**, **Dota2** et **CSGO**. D'autres jeux seront intégrés.
+L'alpha de l'application a rassemblé **10 000** utilisateurs uniques avec plus de **30 000** quêtes accomplies. L'application prend en charge les jeux Web3 et Web2, avec actuellement **Ev.io**, **Dota2** et **CSGO**. D'autres jeux seront intégrés.
 
 </details>
 
@@ -40,7 +40,7 @@ L'alpha de l'application a rassemblé **10 000** utilisateurs uniques avec plus 
 
 <summary>Comment puis-je être autorisé pour l'alpha ?</summary>
 
-Le processus de liste blanche pour l'alpha est terminé.
+Le processus de mise sur liste blanche pour l'alpha est terminé.
 
 </details>
 
