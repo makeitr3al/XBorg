@@ -1,57 +1,64 @@
-# Legal and Financial
+# 法律和财务
 
 <details>
 
-<summary>What is the business model and how will the company generate revenue?</summary>
+<summary>公司的商业模式是什么，公司将如何产生收入？</summary>
 
-The revenues of the protocol can be described as follow:
+该协议的收入可以描述如下：
 
-#### Application Network
+#### 应用网络
 
-* Seasons Pass and Account subscriptions (users)&#x20;
-* Account subscriptions (businesses)&#x20;
-* Primary collectible sales&#x20;
-* Launchpad fees
+* 季票和账户订阅（用户）
+* 账户订阅（企业）
+* 主要收藏品销售
+* 发行平台费用
 
-#### Decentralized gaming communities&#x20;
+#### 去中心化游戏社区
 
-* Proprietary Stake in Gaming Communities Initial Team Offering fees Player earnings tokenization fees
-* Credential network Credential API fees PGC fees Sequencer fees
-* DAO GameFi asset Management Direct investments in Web3 games Esports team sponsorship Tournament sponsorship.
+* 游戏社区的专有股份
+* 初始团队发行费用
+* 玩家收益代币化费用
+* 证书网络
+* 证书 API 费用
+* PGC 费用
+* 顺序费用
+* DAO GameFi 资产管理
+* 对 Web3 游戏的直接投资
+* 电子竞技团队赞助
+* 锦标赛赞助
 
 </details>
 
 <details>
 
-<summary>What is the liquidity situation of XBorg? What amount is held in the treasury, and who has access to it currently?</summary>
+<summary>XBorg的流动性状况如何？公司的库存金额是多少，目前谁可以访问？</summary>
 
-Excluding the ongoing seed round, XBorg currently holds $800,000 in its treasury. Given our gross monthly burn rate of $40,000, this equates to a runway of approximately 20 months, even if no additional profits are made during this period. As for treasury management, the funds are securely kept in several Gnosis safes (multi-signature wallets). Access to these funds is strictly controlled and currently managed by Louis (XBorg's CEO), the SwissBorg treasurer, along with one additional SwissBorg executive.
-
-</details>
-
-<details>
-
-<summary>How does XBorg approach risk management, especially in the event of an extended bear market?</summary>
-
-Risk management is a critical aspect of our operations at XBorg. We adopt a lean operational model that allows us to maintain a relatively low monthly burn rate of $40,000, which covers the compensation for our team of 12 full-time team members. By maintaining an average salary of approximately $3.3k per month per employee, we ensure we attract and retain high-quality talent while keeping our expenses manageable.
-
-In the case of an extended bear market, our current financial strategy provides us with a sufficient runway to continue executing our roadmap without an immediate need for additional funds.
+除去正在进行的种子轮融资，XBorg目前在其库存中持有80万美元。考虑到我们每月的总燃烧速度为4万美元，即使在此期间没有额外的利润，这相当于大约20个月的运营时间。至于库存管理，资金安全地保存在几个Gnosis保险柜（多签名钱包）中。对这些资金的访问受到严格控制，目前由Louis（XBorg的首席执行官）、SwissBorg财务主管以及另一位SwissBorg高管共同管理。
 
 </details>
 
 <details>
 
-<summary>Does XBorg possess any licenses or certificates?</summary>
+<summary>XBorg如何处理风险管理，特别是在持续的熊市情况下？</summary>
 
-At present, XBorg does not hold any specific licenses or certificates. However, we have initiated the application process for a VARA license.
+风险管理是XBorg运营的关键方面。我们采用精益运营模式，使我们能够保持相对较低的每月燃烧速度为4万美元，这包括为我们的12名全职团队成员提供的薪酬。通过每月每名员工约3300美元的平均工资，我们确保吸引和留住高素质的人才，同时保持可控的开支。
+
+在持续的熊市情况下，我们目前的财务策略为我们提供了足够的运营时间，继续执行我们的路线图，而不需要立即获得额外资金。
 
 </details>
 
 <details>
 
-<summary>Where is XBorg registered as a company?</summary>
+<summary>XBorg是否拥有任何许可证或证书？</summary>
 
-XBorg is officially registered as XBorg DMCC in Dubai, within the Dubai Multi Commodities Centre (DMCC).
+目前，XBorg没有持有任何特定的许可证或证书。然而，我们已经启动了VARA许可证的申请过程。
 
 </details>
 
+<details>
+
+<summary>XBorg作为一家公司在哪里注册？</summary>
+
+XBorg在迪拜的迪拜多商品中心（DMCC）内正式注册为XBorg DMCC。
+
+</details>

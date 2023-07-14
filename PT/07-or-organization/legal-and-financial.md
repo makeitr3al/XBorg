@@ -15,21 +15,21 @@ As receitas do protocolo podem ser descritas da seguinte forma:
 
 #### Comunidades de jogos descentralizados
 
-* Oferta Inicial de Equipe Inicial de Participação Proprietária em Comunidades de Jogos
+* Oferta Inicial de Equipe Inicial Proprietária em Comunidades de Jogos
 * Taxas de tokenização de ganhos de jogadores
-* Taxas de API de credenciais
+* Taxas de API de credenciais de rede
 * Taxas de PGC
-* Taxas de Sequenciador
+* Taxas de sequenciador
 * Gestão de ativos de GameFi DAO
 * Investimentos diretos em jogos Web3
-* Patrocínio de equipes de Esports
+* Patrocínio de equipes de esportes eletrônicos
 * Patrocínio de torneios.
 
 </details>
 
 <details>
 
-<summary>Qual é a situação de liquidez da XBorg? Qual valor é mantido no tesouro e quem tem acesso a ele atualmente?</summary>
+<summary>Qual é a situação de liquidez da XBorg? Quanto é mantido no tesouro e quem tem acesso a ele atualmente?</summary>
 
 Excluindo a rodada de financiamento em andamento, a XBorg atualmente possui $800.000 em seu tesouro. Dado nossa taxa bruta de queima mensal de $40.000, isso equivale a uma duração de aproximadamente 20 meses, mesmo se nenhum lucro adicional for obtido durante esse período. Quanto à gestão do tesouro, os fundos são mantidos com segurança em várias carteiras Gnosis safes (carteiras multiassinatura). O acesso a esses fundos é estritamente controlado e atualmente gerenciado por Louis (CEO da XBorg), o tesoureiro da SwissBorg, juntamente com um executivo adicional da SwissBorg.
 
@@ -39,7 +39,7 @@ Excluindo a rodada de financiamento em andamento, a XBorg atualmente possui $800
 
 <summary>Como a XBorg aborda a gestão de riscos, especialmente em caso de um mercado em baixa prolongado?</summary>
 
-A gestão de riscos é um aspecto crítico de nossas operações na XBorg. Adotamos um modelo operacional enxuto que nos permite manter uma taxa de queima mensal relativamente baixa de $40.000, que cobre a remuneração de nossa equipe de 12 membros em tempo integral. Ao manter um salário médio de aproximadamente $3,3 mil por mês por funcionário, garantimos que atraímos e retemos talentos de alta qualidade enquanto mantemos nossas despesas gerenciáveis.
+A gestão de riscos é um aspecto crítico de nossas operações na XBorg. Adotamos um modelo operacional enxuto que nos permite manter uma taxa de queima mensal relativamente baixa de $40.000, que cobre a remuneração de nossa equipe de 12 membros em tempo integral. Ao manter um salário médio de aproximadamente $3,3 mil por mês por funcionário, garantimos que atraímos e retemos talentos de alta qualidade, ao mesmo tempo em que mantemos nossas despesas gerenciáveis.
 
 No caso de um mercado em baixa prolongado, nossa estratégia financeira atual nos proporciona uma duração suficiente para continuar executando nosso roteiro sem a necessidade imediata de fundos adicionais.
 

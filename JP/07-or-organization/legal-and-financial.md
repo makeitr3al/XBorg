@@ -1,57 +1,63 @@
-# Legal and Financial
+# 法的および財務
 
 <details>
 
-<summary>What is the business model and how will the company generate revenue?</summary>
+<summary>ビジネスモデルと、会社がどのように収益を生み出すのかについて教えてください。</summary>
 
-The revenues of the protocol can be described as follow:
+プロトコルの収益は以下のように説明できます：
 
-#### Application Network
+#### アプリケーションネットワーク
 
-* Seasons Pass and Account subscriptions (users)&#x20;
-* Account subscriptions (businesses)&#x20;
-* Primary collectible sales&#x20;
-* Launchpad fees
+* シーズンパスとアカウントの定期購読（ユーザー）
+* アカウントの定期購読（企業）
+* プライマリコレクタブルの販売
+* ランチパッド手数料
 
-#### Decentralized gaming communities&#x20;
+#### 分散型ゲームコミュニティ
 
-* Proprietary Stake in Gaming Communities Initial Team Offering fees Player earnings tokenization fees
-* Credential network Credential API fees PGC fees Sequencer fees
-* DAO GameFi asset Management Direct investments in Web3 games Esports team sponsorship Tournament sponsorship.
+* ゲームコミュニティへの所有権提供の初期チームオファー手数料
+* プレイヤーの収益トークン化手数料
+* 認証ネットワーク
+* 認証API手数料
+* PGC手数料
+* シーケンサー手数料
+* DAO GameFi資産管理
+* Web3ゲームへの直接投資
+* Esportsチームのスポンサーシップ
+* トーナメントのスポンサーシップ
 
 </details>
 
 <details>
 
-<summary>What is the liquidity situation of XBorg? What amount is held in the treasury, and who has access to it currently?</summary>
+<summary>XBorgの流動性状況はどうなっていますか？トレジャリーにはどのくらいの金額が保持されており、現在誰がアクセスできるようになっていますか？</summary>
 
-Excluding the ongoing seed round, XBorg currently holds $800,000 in its treasury. Given our gross monthly burn rate of $40,000, this equates to a runway of approximately 20 months, even if no additional profits are made during this period. As for treasury management, the funds are securely kept in several Gnosis safes (multi-signature wallets). Access to these funds is strictly controlled and currently managed by Louis (XBorg's CEO), the SwissBorg treasurer, along with one additional SwissBorg executive.
-
-</details>
-
-<details>
-
-<summary>How does XBorg approach risk management, especially in the event of an extended bear market?</summary>
-
-Risk management is a critical aspect of our operations at XBorg. We adopt a lean operational model that allows us to maintain a relatively low monthly burn rate of $40,000, which covers the compensation for our team of 12 full-time team members. By maintaining an average salary of approximately $3.3k per month per employee, we ensure we attract and retain high-quality talent while keeping our expenses manageable.
-
-In the case of an extended bear market, our current financial strategy provides us with a sufficient runway to continue executing our roadmap without an immediate need for additional funds.
+現在のシードラウンドを除いて、XBorgはトレジャリーに80万ドルを保持しています。私たちの月間の総消費額が4万ドルであることを考慮すると、この期間中に追加の利益がなくても、約20ヶ月のランウェイがあります。トレジャリーマネジメントについては、資金はいくつかのGnosisセーフ（マルチシグウォレット）に安全に保管されています。これらの資金へのアクセスは厳格に制御され、現在はルイス（XBorgのCEO）とスイスボーグの財務担当者、さらに1人のスイスボーグの役員が管理しています。
 
 </details>
 
 <details>
 
-<summary>Does XBorg possess any licenses or certificates?</summary>
+<summary>XBorgはリスク管理にどのように取り組んでいますか、特に長期の熊市の場合はどうなりますか？</summary>
 
-At present, XBorg does not hold any specific licenses or certificates. However, we have initiated the application process for a VARA license.
+リスク管理はXBorgの運営において重要な要素です。私たちは、月間の比較的低い消費額である4万ドルのリーンな運営モデルを採用しています。これにより、12人のフルタイムメンバーのチームの報酬をカバーしています。1人当たりの平均給与を約3.3千ドル/月に保ち、高品質な人材を引きつけ、確保しながら経費を管理可能な範囲に保っています。
+
+長期の熊市の場合、現在の財務戦略により、追加の資金が直ちに必要なく、ロードマップの実行を続けるための十分なランウェイが確保されています。
 
 </details>
 
 <details>
 
-<summary>Where is XBorg registered as a company?</summary>
+<summary>XBorgは特定のライセンスや証明書を保有していますか？</summary>
 
-XBorg is officially registered as XBorg DMCC in Dubai, within the Dubai Multi Commodities Centre (DMCC).
+現在、XBorgは特定のライセンスや証明書を保有していません。ただし、VARAライセンスの申請プロセスを開始しています。
 
 </details>
 
+<details>
+
+<summary>XBorgはどこの国で会社として登録されていますか？</summary>
+
+XBorgは正式にXBorg DMCCとして、ドバイのドバイマルチコモディティーセンター（DMCC）に登録されています。
+
+</details>
