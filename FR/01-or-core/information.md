@@ -1,10 +1,10 @@
-# Informations
+# Information
 
 > Cette section vise à offrir au lecteur un aperçu général de XBorg avant d'explorer le reste de ce document. C'est le meilleur endroit pour commencer à développer une compréhension générale de XBorg.
 
 #### Ci-dessous, vous trouverez Louis Regis, PDG de XBorg, qui présente XBorg.
 
-{% embed url="https://youtu.be/yqQf0ETfB9w" %}
+{% embed url="https://www.youtube.com/watch?v=aeuPKZ-hKHc" %}
 
 <details>
 
@@ -90,12 +90,12 @@ Nous nous engageons à réaliser cela en travaillant en étroite collaboration a
 
 <summary>Quels sont quelques liens utiles ?</summary>
 
-* [**Site Web**](https://www.xborg.com)&#x20;
+* [**Site Web**](https://www.xborg.com)
 * [**Twitter**](https://twitter.com/xborg\_official)
-* [**Discord**](https://discord.com/invite/xborg)&#x20;
+* [**Discord**](https://discord.com/invite/xborg)
 * [**YouTube**](https://www.youtube.com/@xborgofficial)
 * [**Twitch**](https://www.twitch.tv/xborgofficial)
-* [**Medium**](https://medium.com/xborg-official)&#x20;
+* [**Medium**](https://medium.com/xborg-official)
 * [**Pitch deck**](https://docsend.com/view/5dwn74pn6izud3vb)
 * [**Application**](http://gaming.xborg.com/)
 * [**Launchpad**](https://launchpad.xborg.com/)
