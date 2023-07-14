@@ -65,3 +65,4 @@ At XBorg, we believe in developing technical solutions in-house, utilizing the e
 To align the interests of our team members with those of the XBorg ecosystem, we have devised a compensation framework that features a combination of USDC-based remuneration alongside an allocation of XBG tokens sourced from the Team token supply. This approach incentivizes and motivates our team members toward attaining our collective objectives while fostering a sense of shared ownership and alignment of interests.
 
 </details>
+
