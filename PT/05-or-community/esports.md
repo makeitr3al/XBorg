@@ -1,6 +1,6 @@
 # Esports
 
-> O protocolo e as aplicações da XBorg recebem suporte da principal equipe de esports de jogos Web3. Essa equipe, conhecida como XBorg Esports, é altamente conceituada por sua proficiência em organizar torneios frequentes e envolventes dentro do ecossistema Web3.
+> O protocolo e as aplicações da XBorg recebem apoio da principal equipe de esports de jogos Web3. Essa equipe, conhecida como XBorg Esports, é altamente conceituada por sua proficiência em organizar torneios frequentes e envolventes dentro do ecossistema Web3.
 
 <details>
 
@@ -14,7 +14,7 @@ Qualquer pessoa pode participar de nossos torneios. A maioria dos torneios será
 
 <summary>Como jogar com jogadores dentro de um clã?</summary>
 
-Você pode encontrar jogadores do nosso clã em nosso servidor [Discord](https://discord.com/invite/xborg). Comece selecionando as funções relevantes e depois vá para os canais de jogos apropriados. Sempre há jogadores animados para participar da ação. Para ingressar em nossos clãs competitivos, é necessário ter antiguidade e habilidades.
+Você pode encontrar jogadores do nosso clã em nosso servidor [Discord](https://discord.com/invite/xborg). Comece selecionando os papéis relevantes e depois vá para os canais de jogos apropriados. Sempre há jogadores animados para participar da ação. Para ingressar em nossos clãs competitivos, é necessário ter antiguidade e habilidades.
 
 </details>
 
@@ -30,7 +30,7 @@ O Xtream Championship Series (XCS) é a primeira liga de esports multi-jogos da 
 
 <summary>Como posso participar do XCS?</summary>
 
-Comece se registrando para os torneios relevantes. Todos os torneios podem ser encontrados [aqui](https://www.xborg.com/xtreme-championship-series).
+Comece se inscrevendo nos torneios relevantes. Todos os torneios podem ser encontrados [aqui](https://www.xborg.com/xtreme-championship-series).
 
 </details>
 
@@ -38,7 +38,7 @@ Comece se registrando para os torneios relevantes. Todos os torneios podem ser e
 
 <summary>Vocês planejam sediar ligas XCS no futuro, com marketing maior e mais agressivo, como visto nas ligas Web2?</summary>
 
-De fato, nossa equipe está atualmente desenvolvendo uma liga meticulosamente projetada que abrangerá um escopo significativamente mais amplo, com a participação de muitas equipes e jogadores tradicionais de esports. A data de lançamento planejada para essa iniciativa é definida para o ano de 2024.
+De fato, nossa equipe está atualmente criando uma liga meticulosamente projetada que abrangerá um escopo significativamente mais amplo, com a participação de muitas equipes e jogadores tradicionais de esports. A data de lançamento planejada para essa iniciativa é definida para o ano de 2024.
 
 </details>
 

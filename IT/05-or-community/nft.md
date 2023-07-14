@@ -23,13 +23,13 @@ Ethereum.
 
 <summary>Storicamente, quanti vantaggi hanno ricevuto i possessori di Prometheus NFT?</summary>
 
-Considerando il prezzo di emissione di $400, si stima che i possessori del token non fungibile Prometheus abbiano ricevuto circa $220 di vantaggi. Questo rappresenta una percentuale significativa, approssimativamente il 50%, del valore di emissione iniziale. Da notare che ciò può essere principalmente attribuito all'airdrop del manico Lens, che ha conferito un valore considerevole ai possessori di Prometheus NFT.
+Considerando il prezzo di emissione di $400, si stima che i possessori del token non fungibile Prometheus abbiano ricevuto circa $220 di vantaggi. Questo rappresenta una percentuale significativa, approssimativamente il 50%, del valore di emissione iniziale. È importante notare che ciò può essere principalmente attribuito all'airdrop del manico Lens, che ha conferito un valore considerevole ai possessori di Prometheus NFT.
 
 </details>
 
 <details>
 
-<summary>Il Prometheus NFT riceverà un airdrop del token XBG?</summary>
+<summary>Il Prometheus NFT riceverà un airdrop di token XBG?</summary>
 
 Verrà distribuito un airdrop del 0,5% al 2% dell'offerta di token XBG ai possessori di Prometheus.
 
@@ -37,7 +37,7 @@ Verrà distribuito un airdrop del 0,5% al 2% dell'offerta di token XBG ai posses
 
 <details>
 
-<summary>Come si intende preservare il valore del Prometheus NFT dopo l'airdrop del token XBorg?</summary>
+<summary>Come si intende mantenere il valore del Prometheus NFT dopo l'airdrop del token XBorg?</summary>
 
 Crediamo che le utilità e la crescita dell'ecosistema supereranno la pressione delle vendite da parte di coloro che sono qui solo per ottenere l'airdrop. Se questo impatto negativo diventa eccessivamente gravoso, la DAO si riserva la possibilità di riacquistare i token non fungibili (NFT) dal suo tesoro.
 
@@ -53,7 +53,7 @@ Sì, il NFT sarà rivelato più avanti quest'anno.
 
 <details>
 
-<summary>Quali saranno le utilità del NFT dopo il TGE?</summary>
+<summary>Quali saranno le utilità del NFT dopo la TGE?</summary>
 
 #### **Opportunità di GameFi**&#x20;
 
@@ -65,11 +65,11 @@ Sì, il NFT sarà rivelato più avanti quest'anno.
 
 #### Opportunità di investimento in XBorg&#x20;
 
-* Ricevi un airdrop di token XBG, token di partner e NFT, e accedi alla fase di investimento iniziale di XBorg a una valutazione scontata.
+* Ricevi un airdrop di token XBG, token partner e NFT, e accedi alla fase di investimento iniziale di XBorg a una valutazione scontata.
 
 #### XBorg premium
 
-* Ottieni accesso senza commissioni a vita a tutti i prodotti, le reti e le applicazioni di XBorg.
+* Ottieni accesso a vita senza commissioni a tutti i prodotti, le reti e le applicazioni di XBorg.
 
 #### Status del protocollo
 
@@ -79,9 +79,9 @@ Sì, il NFT sarà rivelato più avanti quest'anno.
 
 <details>
 
-<summary>Cosa succede se vendo il mio NFT durante il periodo di vesting?</summary>
+<summary>Cosa succede se vendo il mio NFT durante il periodo di blocco?</summary>
 
-Se un investitore vende il NFT durante il periodo di vesting, i premi non reclamati saranno annullati. Tuttavia, la governance di Prometheus potrebbe decidere diversamente.
+Se un investitore vende il NFT durante il periodo di blocco, i premi non richiesti verranno annullati. Tuttavia, la governance di Prometheus potrebbe decidere diversamente.
 
 </details>
 
@@ -89,15 +89,15 @@ Se un investitore vende il NFT durante il periodo di vesting, i premi non reclam
 
 <summary>È possibile allineare il valore del Prometheus NFT con il token XBG?</summary>
 
-È possibile allineare il valore del NFT e del token XBG. Il Prometheus NFT è un asset molto raro, con solo 1'111 in circolazione. Il rendimento dello staking del token XBG sarà determinato dal livello XP di un utente e dallo status dell'utente nell'applicazione. Pertanto, i possessori di Prometheus godranno di un rendimento dello staking più elevato. Non vi è diluizione del valore per quanto riguarda l'equity, poiché non verrà venduta alcuna equity. L'intero valore di XBorg viene ridirezionato verso la DAO e quindi verso il token XBG.
+È possibile allineare il valore del NFT e del token XBG. Il Prometheus NFT è un asset molto raro, con solo 1'111 in circolazione. Il rendimento del token XBG sarà determinato dal livello XP di un utente e dallo status dell'utente nell'applicazione. Pertanto, i possessori di Prometheus godranno di un rendimento di staking più elevato. Non vi è diluizione del valore per quanto riguarda l'equity, poiché non verrà venduta alcuna equity. L'intero valore di XBorg viene ridirezionato verso la DAO e quindi verso il token XBG.
 
 </details>
 
 <details>
 
-<summary>Qual è il periodo di vesting per l'airdrop di XBG?</summary>
+<summary>Qual è il periodo di blocco per l'airdrop di XBG?</summary>
 
-Il periodo di vesting è di 12 mesi, con un rilascio lineare.
+Il periodo di blocco è di 12 mesi, con blocco lineare.
 
 </details>
 

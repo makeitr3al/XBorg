@@ -23,7 +23,7 @@ Ethereum.
 
 <summary>Historisch gesehen, wie viele Vorteile wurden von Prometheus NFTs wahrgenommen?</summary>
 
-Unter Berücksichtigung des Münzpreises von 400 US-Dollar kann geschätzt werden, dass Prometheus Non-Fungible-Token-Besitzer etwa 220 US-Dollar an Vorteilen erhalten haben. Dies entspricht einem signifikanten Prozentsatz von etwa 50% des anfänglichen Münzwerts. Beachtenswert ist, dass dies hauptsächlich auf den Airdrop des Lens-Handles zurückzuführen ist, der den Prometheus NFT-Inhabern erheblichen Wert verliehen hat.
+Unter Berücksichtigung des Münzpreises von 400 US-Dollar kann geschätzt werden, dass Prometheus-Nicht-Fungible-Token-Besitzer etwa 220 US-Dollar an Vorteilen erhalten haben. Dies entspricht einem signifikanten Prozentsatz von etwa 50% des anfänglichen Münzwerts. Dies ist hauptsächlich auf den Airdrop des Lens-Handles zurückzuführen, der den Prometheus-NFT-Inhabern erheblichen Wert verliehen hat.
 
 </details>
 
@@ -39,7 +39,7 @@ Etwa 0,5% bis 2% des XBG-Token-Angebots werden an Prometheus-Inhaber als Airdrop
 
 <summary>Wie planen Sie, den Wert des Prometheus NFT nach dem XBorg-Token-Airdrop zu erhalten?</summary>
 
-Wir glauben, dass die Dienstprogramme und das Wachstum des Ökosystems den Verkaufsdruck von denen, die nur hier sind, um den Airdrop zu erzielen, überwiegen werden. Wenn sich dieser negative Einfluss als übermäßig belastend erweist, behält sich die DAO die Möglichkeit vor, Non-Fungible Tokens (NFTs) aus ihrer Schatzkammer zurückzukaufen.
+Wir glauben, dass die Dienstprogramme und das Wachstum des Ökosystems den Verkaufsdruck von denen, die nur hier sind, um den Airdrop zu erhalten, überwiegen werden. Wenn sich dieser negative Einfluss als übermäßig belastend erweist, behält sich die DAO die Möglichkeit vor, Nicht-Fungible Tokens (NFTs) aus ihrer Schatzkammer zurückzukaufen.
 
 </details>
 
@@ -57,15 +57,15 @@ Ja, das NFT wird später in diesem Jahr enthüllt.&#x20;
 
 #### **GameFi-Möglichkeiten**&#x20;
 
-* Frühzeitiger Zugang zu GameFi-Projekten, Whitelist-Plätzen und NFT-Gewinnchancen von führenden GameFi-Projekten.
+* Frühzeitiger Zugang zu führenden GameFi-Projekten, Whitelist-Plätzen und NFT-Gewinnchancen.
 
-#### **Priorisierter Zugang**&#x20;
+#### **Prioritätszugang**&#x20;
 
 * Frühzeitiger Zugang zu allen XBorg-Produkten und -Anwendungen.
 
 #### XBorg-Investitionsmöglichkeiten&#x20;
 
-* Erhalten Sie einen Airdrop von XBG-Token, Partner-Token und NFTs sowie Zugang zur Seed-Investmentrunde von XBorg zu einer reduzierten Bewertung.
+* Erhalten Sie einen Airdrop von XBG-Token, Partner-Token und NFTs sowie Zugang zur Seed-Investment-Runde von XBorg zu einer reduzierten Bewertung.
 
 #### XBorg Premium
 
@@ -89,13 +89,13 @@ Wenn ein Investor das NFT während der Sperrfrist verkauft, werden die nicht bea
 
 <summary>Ist es möglich, den Wert des Prometheus NFT mit dem XBG-Token in Einklang zu bringen?</summary>
 
-Es ist möglich, den Wert des NFT und des XBG-Tokens in Einklang zu bringen. Das Prometheus NFT ist ein sehr knappes Gut, von dem nur 1'111 im Umlauf sind. Die Staking-Rendite des XBG-Tokens wird durch das XP-Level eines Benutzers und den Status des Benutzers in der App bestimmt. Daher werden Prometheus-Inhaber eine höhere Staking-Rendite genießen. Es gibt keine Verwässerung des Werts in Bezug auf das Eigenkapital, da kein Eigenkapital verkauft wird. Der gesamte Wert von XBorg wird zur DAO und damit zum XBG-Token umgeleitet.
+Es ist möglich, den Wert des NFT und des XBG-Tokens in Einklang zu bringen. Das Prometheus NFT ist ein sehr knappes Gut, von dem nur 1'111 im Umlauf sind. Die Staking-Rendite des XBG-Tokens wird durch das XP-Level eines Benutzers und den Status des Benutzers in der App bestimmt. Daher werden Prometheus-Inhaber eine höhere Staking-Rendite genießen. Es gibt keine Wertverwässerung in Bezug auf das Eigenkapital, da kein Eigenkapital verkauft wird. Der gesamte Wert von XBorg wird zur DAO und damit zum XBG-Token umgeleitet.
 
 </details>
 
 <details>
 
-<summary>Wie lange ist die Sperrfrist für den Airdrop von XBG?</summary>
+<summary>Wie lange dauert die Sperrfrist für den Airdrop von XBG?</summary>
 
 Die Sperrfrist beträgt 12 Monate und wird linear gewährt.
 
@@ -105,6 +105,6 @@ Die Sperrfrist beträgt 12 Monate und wird linear gewährt.
 
 <summary>Es wurde gesagt, dass Prometheus NFT-Inhaber eine zusätzliche Zuteilung zum Kauf von XBG-Token erhalten. Wie groß ist die Zuteilung pro NFT?</summary>
 
-Die private Zuteilung für die Prometheus-Community ist nicht begrenzt, was bedeutet, dass Zuteilungen für Prometheus-Inhaber garantiert sind. Wir hatten das Ziel, rund 500.000 US-Dollar von den NFT-Inhabern zu sammeln und insgesamt 1.000.000 US-Dollar gesammelt.
+Die private Zuteilung für die Prometheus-Community ist nicht begrenzt, was bedeutet, dass Zuteilungen für Prometheus-Inhaber garantiert sind. Wir haben angestrebt, rund 500.000 US-Dollar von den NFT-Inhabern zu sammeln und insgesamt 1.000.000 US-Dollar gesammelt.
 
 </details>

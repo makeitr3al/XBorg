@@ -14,7 +14,7 @@ Derzeit besteht der optimale Ansatz, um Erfahrungspunkte (XP) zu sammeln, darin,
 
 <summary>Welche Art von Belohnungen erhalten XP-Inhaber?</summary>
 
-Bestimmte Inhaber von XP-Token haben Anspruch auf eine festgelegte Menge an XBG-Token während des Token Generation Events (TGE), unter bestimmten Bedingungen. Die Anzahl der ausgegebenen Token bleibt bis zur Verteilungsveranstaltung geheim, um opportunistische Engagementstrategien zu verhindern. XP-Inhaber profitieren von mehreren Vorteilen, darunter Rabatte auf XBorg-Produkte, exklusive Drops und Zugang zu separaten Staking-Pools.
+Bestimmte Inhaber von XP-Token haben Anspruch auf eine festgelegte Menge an XBG-Token während des Token Generation Events (TGE), unter bestimmten Bedingungen. Die Anzahl der ausgegebenen Token bleibt bis zur Verteilungsveranstaltung geheim, um opportunistische Engagementstrategien zu verhindern. XP-Inhaber genießen mehrere Vorteile, darunter Rabatte auf XBorg-Produkte, exklusive Drops und Zugang zu separaten Staking-Pools.
 
 </details>
 

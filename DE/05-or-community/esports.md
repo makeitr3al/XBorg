@@ -14,7 +14,7 @@ Jeder kann an unseren Turnieren teilnehmen. Die meisten Turniere werden auf Comm
 
 <summary>Wie kann man mit Spielern in einer Gilde spielen?</summary>
 
-Du kannst Spieler unseres Clans auf unserem [Discord-](https://discord.com/invite/xborg)Server finden. Beginne damit, relevante Rollen auszuwählen und gehe dann zu den entsprechenden Gaming-Kanälen. Es gibt immer Spieler, die sich darauf freuen, sich am Geschehen zu beteiligen. Um unseren wettbewerbsfähigen Clans beizutreten, sind Seniorität und Fähigkeiten erforderlich.
+Du kannst Spieler unseres Clans auf unserem [Discord-](https://discord.com/invite/xborg)Server finden. Beginne damit, relevante Rollen auszuwählen und gehe dann zu den entsprechenden Gaming-Kanälen. Es gibt immer Spieler, die sich darauf freuen, sich dem Geschehen anzuschließen. Um unseren Wettbewerbsgilden beizutreten, sind Seniorität und Fähigkeiten erforderlich.
 
 </details>
 
@@ -22,7 +22,7 @@ Du kannst Spieler unseres Clans auf unserem [Discord-](https://discord.com/invit
 
 <summary>Was ist die XCS?</summary>
 
-Die Xtream Championship Series (XCS) ist die erste Multi-Game-Esportsliga in Web3 mit einem **$100.000** Bargeldpreis. Um mehr über die XCS zu erfahren, besuche bitte [https://www.xborg.com/xtreme-championship-series](https://www.xborg.com/xtreme-championship-series).
+Die Xtream Championship Series (XCS) ist die erste Multi-Game-Esportsliga in Web3 mit einem **$100.000**-Preisgeld. Um mehr über die XCS zu erfahren, besuche bitte [https://www.xborg.com/xtreme-championship-series](https://www.xborg.com/xtreme-championship-series).
 
 </details>
 
@@ -36,7 +36,7 @@ Beginne damit, dich für relevante Turniere anzumelden. Alle Turniere findest du
 
 <details>
 
-<summary>Planen Sie in Zukunft die Durchführung von XCS-Ligen mit größerem und aggressiverem Marketing, wie es bei Web2-Ligen der Fall ist?</summary>
+<summary>Planen Sie in Zukunft die Durchführung von XCS-Ligen mit größerem und aggressiverem Marketing, wie es bei Web2-Ligen üblich ist?</summary>
 
 In der Tat arbeitet unser Team derzeit an einer sorgfältig gestalteten Liga, die einen deutlich breiteren Rahmen umfasst und die Beteiligung vieler traditioneller Esportsteams und -spieler ermöglicht. Der geplante Starttermin für diese Initiative ist das Jahr 2024.
 
@@ -54,13 +54,13 @@ Durch Sponsoring. Die Gesamteinnahmen aus der Liga belaufen sich auf **$300.000*
 
 <summary>Warum startet XBorg jetzt eine Esportsliga?</summary>
 
-Dieser Wachstumsmechanismus ist ein mächtiges Werkzeug, um unser Produkt zu stärken und unsere Community zu erweitern. Insbesondere trägt er zur Steigerung des Bewusstseins und der Bekanntheit von Web3-Spielern und -Fans bei und unterstreicht die Vorteile und Möglichkeiten dieses innovativen technologischen Bereichs.
+Dieser Wachstumsmechanismus ist ein mächtiges Werkzeug, um unser Produkt zu stärken und unsere Community zu erweitern. Insbesondere trägt er auch dazu bei, das Bewusstsein und die Sichtbarkeit von Web3-Spielern und -Fans zu erhöhen und die Vorteile und Möglichkeiten dieses innovativen technologischen Bereichs zu betonen.
 
 </details>
 
 <details>
 
-<summary>Warum gibt es einen weiteren Discord-Server für die XCS?</summary>
+<summary>Warum gibt es einen separaten Discord-Server für die XCS?</summary>
 
 Um das Gesamterlebnis zu optimieren und zu beschleunigen, haben wir die unterschiedlichen Vorlieben und Prioritäten der XBorg-Community berücksichtigt. In Anerkennung der Tatsache, dass einige Community-Mitglieder möglicherweise nicht an der XCS teilnehmen möchten und umgekehrt, haben wir Maßnahmen ergriffen, um eine größere Flexibilität und Autonomie zu gewährleisten.
 
