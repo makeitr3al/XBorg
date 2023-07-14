@@ -1,4 +1,4 @@
-# Índice
+# Table of contents
 
 * [Perguntas Frequentes do XBorg](README.md)
 
@@ -18,7 +18,7 @@
 * [Governança](02-or-protocol/governance.md)
 * [Incentivos](02-or-protocol/incentives.md)
 
-## 📈 03 | MARKET
+## 📉 03 | MARKET
 
 * [Concorrência](03-or-market/competition.md)
 
