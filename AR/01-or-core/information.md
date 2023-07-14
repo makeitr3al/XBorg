@@ -1,10 +1,12 @@
-# المعلومات
+# معلومات
 
 > تسعى هذه القسم لتقديم نظرة عامة للقارئ حول XBorg قبل استكشافه لبقية هذا الوثيقة. هذا هو أفضل مكان للبدء لتطوير فهم عام لـ XBorg.
 
+
+
 #### أدناه ستجد الرئيس التنفيذي لـ XBorg، لويس ريجيس، يقدم XBorg.
 
-{% embed url="https://youtu.be/yqQf0ETfB9w" %}
+{% embed url="https://www.youtube.com/watch?v=Z6hQQyuutm4" %}
 
 <details>
 
@@ -90,12 +92,12 @@ XBorg يحظى بدعم بعض الأشخاص المهمين والذكاء ال
 
 <summary>ما هي بعض الروابط المفيدة؟</summary>
 
-* [**الموقع الإلكتروني**](https://www.xborg.com)&#x20;
+* [**الموقع الإلكتروني**](https://www.xborg.com)
 * [**تويتر**](https://twitter.com/xborg\_official)
-* [**ديسكورد**](https://discord.com/invite/xborg)&#x20;
+* [**ديسكورد**](https://discord.com/invite/xborg)
 * [**يوتيوب**](https://www.youtube.com/@xborgofficial)
 * [**تويتش**](https://www.twitch.tv/xborgofficial)
-* [**ميديوم**](https://medium.com/xborg-official)&#x20;
+* [**ميديوم**](https://medium.com/xborg-official)
 * [**عرض البيتش**](https://docsend.com/view/5dwn74pn6izud3vb)
 * [**تطبيق**](http://gaming.xborg.com/)
 * [**منصة الإطلاق**](https://launchpad.xborg.com/)
