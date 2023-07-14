@@ -1,6 +1,6 @@
 # XBG
 
-XBG é o token nativo que alimenta o protocolo XBorg. É o principal método de pagamento, capturando todo o valor e receitas geradas dentro do ecossistema. Além disso, ele fornece acesso à governança do protocolo, permitindo que os detentores de tokens participem ativamente na formação do futuro da plataforma.
+XBG é o token nativo que alimenta o protocolo XBorg. É o método de pagamento principal, capturando todo o valor e receitas geradas dentro do ecossistema. Além disso, ele fornece acesso à governança do protocolo, permitindo que os detentores de tokens participem ativamente na formação do futuro da plataforma.
 
 <details>
 
@@ -52,7 +52,7 @@ Olhando para o futuro, nossa equipe está otimista em relação ao potencial do 
 
 <summary>Como o token será lançado?</summary>
 
-Planejamos lançar o token por meio de um Pool de Inicialização de Liquidez do Balancer. Por favor, observe que isso pode mudar de acordo com os requisitos das exchanges e as condições de mercado.
+Planejamos lançar o token por meio de um Balancer Liquidity Bootstrapping Pool. Por favor, observe que isso pode mudar de acordo com os requisitos das exchanges e as condições de mercado.
 
 </details>
 
@@ -60,7 +60,7 @@ Planejamos lançar o token por meio de um Pool de Inicialização de Liquidez do
 
 <summary>Está planejado lançar o token XBorg em L2s como Arbitrum devido aos altos custos de gás esperados na Ethereum?</summary>
 
-Sim, o token será lançado na ETH como mercado principal e conectado na Polygon e, eventualmente, em outras L2s.
+Sim, o token será lançado na ETH como mercado principal e conectado à Polygon e, eventualmente, a outras L2s.
 
 </details>
 
@@ -108,7 +108,7 @@ Sim, um pool uniswap na rede Ethereum (quickswap para Polygon) estará disponív
 
 O token XBG desempenha um papel crucial na rede, servindo como o principal meio de pagamento, governança e incentivos do protocolo.
 
-**Pagamentos no aplicativo e taxas da plataforma**
+**Pagamentos e taxas na plataforma**
 
 XBG é o principal método de pagamento e transações em todo o protocolo, sujeito a certas taxas. Para usuários Web2 que preferem pagamento em moeda fiduciária, a XBorg adquire o equivalente em tokens XBG no mercado aberto. A lista de taxas coletadas por meio do protocolo pode ser encontrada no slide: Sustentabilidade e Receita do Protocolo. Essas taxas são cobradas em XBG.
 

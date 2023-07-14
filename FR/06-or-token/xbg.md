@@ -1,12 +1,12 @@
 # XBG
 
-XBG est le jeton natif qui alimente le protocole XBorg. C'est la méthode de paiement principale, capturant toute la valeur et les revenus générés au sein de l'écosystème. De plus, il permet d'accéder à la gouvernance du protocole, permettant aux détenteurs de jetons de participer activement à la formation de l'avenir de la plateforme.
+XBG est le jeton natif qui alimente le protocole XBorg. C'est la méthode de paiement principale, capturant toute la valeur et les revenus générés au sein de l'écosystème. De plus, il permet d'accéder à la gouvernance du protocole, permettant aux détenteurs de jetons de participer activement à la définition de l'avenir de la plateforme.
 
 <details>
 
 <summary>Sur quelle blockchain le jeton XBG va-t-il être déployé ?</summary>
 
-Le jeton XBG est prévu pour être déployé sur la blockchain Ethereum et sera relié au réseau Polygon pour une meilleure évolutivité et efficacité. De plus, une allocation distincte de jetons XBG sera réservée pour le déploiement sur la chaîne Borg une fois qu'elle sera pleinement opérationnelle. Cette approche multi-chaîne garantit une accessibilité et une polyvalence étendues pour nos détenteurs de jetons.
+Le jeton XBG est prévu d'être déployé sur la blockchain Ethereum et sera relié au réseau Polygon pour une meilleure évolutivité et efficacité. De plus, une allocation distincte de jetons XBG sera réservée pour le déploiement sur la chaîne Borg une fois qu'elle sera pleinement opérationnelle. Cette approche multi-chaîne garantit une accessibilité et une polyvalence étendues pour nos détenteurs de jetons.
 
 </details>
 
@@ -16,7 +16,7 @@ Le jeton XBG est prévu pour être déployé sur la blockchain Ethereum et sera 
 
 XBorg est profondément engagé dans la création d'un écosystème centré sur la communauté, et notre décision d'émettre un jeton reflète cet engagement. Contrairement aux modèles d'entreprise traditionnels qui se concentrent sur l'accumulation de valeur basée sur les actions, tous les flux de trésorerie générés au sein de notre écosystème sont redirigés vers le trésor de l'organisation autonome décentralisée (DAO). Ce modèle facilite une participation communautaire plus directe et aligne les intérêts de manière plus efficace.
 
-En introduisant le jeton XBG, nous créons une économie intégrée au protocole où le jeton sert de principal moyen de transaction. Ce mouvement marque un changement vers un modèle plus participatif, axé sur la communauté, où chaque membre a son mot à dire dans la direction de la plateforme et participe à son succès. C'est une approche innovante qui souligne notre conviction envers le potentiel transformateur des réseaux décentralisés.
+En introduisant le jeton XBG, nous créons une économie intégrée au protocole où le jeton sert de principal moyen de transaction. Ce mouvement marque un changement vers un modèle plus participatif, axé sur la communauté, où chaque membre a son mot à dire dans la direction de la plateforme et participe à son succès. C'est une approche innovante qui souligne notre conviction dans le potentiel transformateur des réseaux décentralisés.
 
 </details>
 
@@ -40,11 +40,11 @@ Le TGE aura lieu vers la fin de 2023.
 
 <summary>Pourquoi ne pouvez-vous pas donner une date précise pour le TGE ?</summary>
 
-En tant qu'équipe, nous pensons que les perspectives de la crypto à la fin de 2023 et près des halvings de Bitcoin seront positives. L'équipe XBorg est actuellement en discussion avec des bourses de premier plan, dont les opinions ont un poids considérable dans la détermination du moment idéal pour la cotation des jetons. Il est important de noter que le lancement d'un jeton pendant des périodes de liquidité incertaine et d'intérêt pour les autres cryptomonnaies peut présenter un risque.
+En tant qu'équipe, nous pensons que les perspectives de la crypto à la fin de 2023 et près des halvings de Bitcoin seront positives. L'équipe XBorg est actuellement en discussion avec des bourses de premier plan, dont les opinions ont un poids considérable dans la détermination du moment idéal pour la cotation des jetons. Il est important de noter que le lancement d'un jeton pendant des périodes de liquidité incertaine et d'intérêt pour les altcoins peut présenter un risque.
 
 De plus, nous reconnaissons que la valeur d'un jeton réside dans la force de l'écosystème dans lequel il opère. Par conséquent, notre objectif est de cultiver une base d'utilisateurs d'au moins 100 000 avant de lancer le jeton.
 
-À l'avenir, notre équipe est optimiste quant au potentiel du marché de la crypto à la fin de 2023, notamment en raison des prochains halvings de Bitcoin.
+En regardant vers l'avenir, notre équipe est optimiste quant au potentiel du marché de la crypto à la fin de 2023, notamment en raison des prochains halvings de Bitcoin.
 
 </details>
 
@@ -52,7 +52,7 @@ De plus, nous reconnaissons que la valeur d'un jeton réside dans la force de l'
 
 <summary>Comment le jeton sera-t-il lancé ?</summary>
 
-Nous prévoyons de lancer le jeton via un pool de liquidité Balancer Liquidity Bootstrapping. Veuillez noter que cela peut changer en fonction des exigences des échanges et des conditions du marché.
+Nous prévoyons de lancer le jeton via un pool de liquidité de démarrage Balancer. Veuillez noter que cela peut changer en fonction des exigences des échanges et des conditions du marché.
 
 </details>
 
@@ -74,7 +74,7 @@ Oui, le jeton sera lancé sur ETH en tant que marché principal et relié à Pol
 
 <details>
 
-<summary>Sur quelles bourses le jeton sera-t-il coté ?</summary>
+<summary>Sur quelles bourses le jeton sera-t-il listé ?</summary>
 
 Nous envisageons de discuter avec les parties suivantes.
 
@@ -83,7 +83,7 @@ _Bourses de premier rang :_
 * Binance
 * Coinbase
 
-_Et bourses de deuxième rang :_
+_et bourses de deuxième rang :_
 
 * Kraken
 * OKX
@@ -106,21 +106,21 @@ Oui, un pool Uniswap sur le réseau Ethereum (QuickSwap pour Polygon) sera mis �
 
 <summary>Quelle est l'utilité du jeton ?</summary>
 
-Le jeton XBG joue un rôle crucial dans le réseau, en tant que principal moyen de paiement, de gouvernance et d'incitations protocolaires.
+Le jeton XBG joue un rôle crucial dans le réseau, en tant que principal moyen de paiement, de gouvernance et d'incitations au protocole.
 
-**Paiements in-app et frais de plateforme**&#x20;
+**Paiements dans l'application et frais de plateforme**
 
-XBG est la méthode principale de paiement et de transactions sur le protocole, soumise à certains frais. Pour les utilisateurs Web2 préférant le paiement en monnaie fiduciaire, XBorg acquiert l'équivalent de jetons XBG sur le marché ouvert. La liste des frais collectés via le protocole peut être trouvée sur la diapositive : Durabilité et revenus du protocole. Ces frais sont facturés en XBG.
+XBG est la méthode de paiement et de transaction principale sur le protocole, soumise à certains frais. Pour les utilisateurs Web2 préférant le paiement en monnaie fiduciaire, XBorg acquiert l'équivalent de jetons XBG sur le marché ouvert. La liste des frais collectés via le protocole peut être trouvée sur la diapositive : Durabilité et revenus du protocole. Ces frais sont facturés en XBG.
 
 **Gouvernance**
 
 Le jeton XBG est utilisé pour les actions de gouvernance dans le DAO XBorg lors de l'événement de génération de jetons. Les détenteurs de jetons XBG ont la possibilité de voter sur les décisions clés concernant le développement du protocole.
 
-**Staking**&#x20;
+**Mise en jeu**
 
-50% des frais et des revenus payés en XBG sont destinés au pool de récompenses de staking. Le montant des récompenses de staking reçues est déterminé par la durée de la période de blocage et le statut individuel au sein du protocole.
+50% des frais et des revenus payés en XBG sont destinés au pool de récompenses de mise en jeu. Le montant des récompenses de mise en jeu reçues est déterminé par la durée de la période de blocage et le statut individuel au sein du protocole.
 
-**Accès au protocole**&#x20;
+**Accès au protocole**
 
 Certaines fonctionnalités et utilités du protocole sont soumises à des restrictions d'accès en fonction de la quantité de XBG détenue et du statut de l'utilisateur au sein du protocole.
 
@@ -136,9 +136,9 @@ Actuellement, posséder des jetons XBG ne confère aucun niveau particulier ; ce
 
 <details>
 
-<summary>Le XBG a-t-il un mécanisme de brûlage ?</summary>
+<summary>Le XBG a-t-il un mécanisme de destruction ?</summary>
 
-Actuellement, 50% des revenus sont alloués aux rendements de staking, tandis que le reste est alloué au trésor. La gouvernance pourrait décider de la répartition exacte des revenus et allouer une partie à un mécanisme de brûlage.
+Actuellement, 50% des revenus sont alloués aux rendements de mise en jeu, tandis que le reste est alloué au trésor. La gouvernance pourrait décider de la répartition exacte des revenus et allouer une partie à un mécanisme de destruction.
 
 </details>
 

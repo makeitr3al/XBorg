@@ -1,163 +1,163 @@
-# Fundraise
+# ファンドレイズ
 
-As a startup with significant potential for growth, XBorg is utilizing its utility token, XBG, to secure additional funding. In addition to relying solely on traditional investors such as venture capitalists and business angels, XBorg is opening up investment opportunities to a limited number of community members early. This approach ensures a strong foundation for XBorg and secures the longevity of its DAO.
+成長の可能性が高いスタートアップであるXBorgは、追加の資金を確保するためにそのユーティリティトークンであるXBGを活用しています。ベンチャーキャピタリストやビジネスエンジェルなどの従来の投資家に頼るだけでなく、XBorgは限られた数のコミュニティメンバーにも早期の投資機会を提供しています。このアプローチにより、XBorgの強固な基盤が確立され、そのDAOの持続性が確保されます。
 
 <details>
 
-<summary>What is your fundraising strategy? </summary>
+<summary>ファンドレイズの戦略は何ですか？</summary>
 
-Our objective in raising capital is to facilitate growth and cover the team's monthly expenses. We are mindful of not over-raising and instead prioritize value over quantity of capital. At present, XBorg has a robust financial position, with a 20-month runway, and thus, there is no pressing need to raise additional funds.
+資本調達の目的は、成長を促進し、チームの月間費用をカバーすることです。我々は過剰な資金調達を避け、資本の量よりも価値を優先します。現在、XBorgは20ヶ月のランウェイを持つ堅実な財務状況を有しており、追加の資金調達の緊急の必要性はありません。
 
-#### Strategic round
+#### ストラテジックラウンド
 
-* Date: Summer 2022
-* Amount raised: $1m&#x20;
-* Valuation: $25m
+* 日程：2022年夏
+* 調達額：$1m
+* 評価額：$25m
 
-#### Seed round
+#### シードラウンド
 
-* Date: April-September 2023
-* Amount: $5m&#x20;
-* Valuation: $45-55m
+* 日程：2023年4月-9月
+* 調達額：$5m
+* 評価額：$45-55m
 
-As we prepare to launch our token, our current plan does not include raising any additional funding rounds. However, we remain open to adjusting our strategy based on the traction we observe with the protocol and any potential needs for additional hires. Ultimately, we will decide based on what is best for the long-term growth and success of XBorg.\
+トークンのローンチに向けて準備を進める現時点では、追加の資金調達ラウンドは計画に含まれていません。ただし、プロトコルのトラクションや追加の採用の必要性に応じて、戦略を調整する柔軟性を保ちます。最終的には、XBorgの長期的な成長と成功にとって最善の選択を行います。\
 
 
 </details>
 
 <details>
 
-<summary>What are the locking and vesting terms for private investors? </summary>
+<summary>プライベート投資家のロックアップおよびベスティング条件は何ですか？</summary>
 
-Private investors will have 10% of their tokens unlocked at the Token Generation Event (TGE), followed by a lock-in period of 3 months. After the lock-in period, the remaining tokens will vest over the course of 18 months.
+プライベート投資家は、トークン生成イベント（TGE）時に10％のトークンをアンロックし、その後3ヶ月のロックイン期間があります。ロックイン期間終了後、残りのトークンは18ヶ月かけてベスティングされます。
 
 \
-It is important to remember that our approach may be subject to change based on the specific requirements of the exchanges we engage with. It's not uncommon for tier 1 exchanges to have a say in the tokenomics and vesting/locking schedule of a given token, and we may need to adjust our strategy to meet their standards.
+なお、私たちのアプローチは、私たちが関与する取引所の具体的な要件に基づいて変更される可能性があることを覚えておくことが重要です。トークンのエコノミクスやベスティング/ロックインスケジュールについて、ティア1の取引所が意見を持つことは珍しくありませんので、彼らの基準に合わせるために戦略を調整する必要があるかもしれません。
 
 </details>
 
 <details>
 
-<summary>Who are your investors? on which criteria were they selected? </summary>
+<summary>投資家は誰ですか？どのような基準で選ばれましたか？</summary>
 
-We've been meticulous in selecting our investors for the initial funding round, prioritizing those who bring more than just financial capital but also add value to XBorg in other significant ways. Our investors come from a variety of backgrounds, including:
+初期の資金調達ラウンドの投資家選定において、私たちは慎重に選びました。財務的な資本だけでなく、XBorgに他の重要な価値をもたらす投資家を優先しました。私たちの投資家は、以下のようなさまざまなバックグラウンドを持っています。
 
-* Aave and Lens Protocol: Professionals from these companies bring deep expertise in blockchain technology and cryptocurrency.
-* Yield Guild Games: Experience in virtual economies and blockchain gaming.
-* ESL/Face it, Faze, G2: These represent some of the biggest names in the esports industry, offering insights and networks into competitive gaming.
-* Ethereum France, Consensys: These contributors have extensive knowledge of Ethereum and blockchain development.
-* French Esports: Brings a strong understanding of the esports landscape in France.
-* Savvy Games: Experts in game development and strategy.
-
-</details>
-
-<details>
-
-<summary>How is the cap table distributed?</summary>
-
-For the strategic round, we implemented a cap of $50,000 per investment ticket to ensure a fair distribution on the cap table.
+* AaveとLens Protocol：これらの企業の専門家は、ブロックチェーン技術と仮想通貨における深い専門知識を持っています。
+* Yield Guild Games：仮想経済とブロックチェーンゲームの経験。
+* ESL/Face it、Faze、G2：これらは競技ゲーム業界で最も有名な名前の一部であり、競技ゲームに関する洞察とネットワークを提供しています。
+* Ethereum France、Consensys：これらの貢献者は、Ethereumとブロックチェーン開発に関する幅広い知識を持っています。
+* French Esports：フランスのeスポーツの風景について強い理解を持っています。
+* Savvy Games：ゲーム開発と戦略の専門家。
 
 </details>
 
 <details>
 
-<summary>What kind of value added do you expect from an investor?</summary>
+<summary>キャップテーブルはどのように分配されていますか？</summary>
 
-An investor can add significant value to XBorg by bringing strategic guidance, mentorship, and financial support beyond the initial investment. Investors can offer insights into the competitive landscape, industry trends, and potential growth opportunities that may not be immediately apparent to the XBorg team. They can also provide access to their networks and resources, including introductions to potential partners, advisors, and customers. This can help XBorg build its user base, establish partnerships, and expand its reach in the market.
-
-Beyond financial support, investors can also bring credibility and validation to XBorg, which can be critical in a competitive and rapidly evolving industry. This can help XBorg stand out among its peers, attract additional investment, and build a strong brand reputation.
-
-Overall, investors can offer a wealth of knowledge, expertise, and resources to help XBorg succeed in the long term. They can provide value beyond just capital and help XBorg navigate the challenges of a dynamic and constantly evolving industry.
+ストラテジックラウンドでは、キャップテーブルへの公平な分配を確保するために、投資チケットごとに$50,000のキャップを設定しました。
 
 </details>
 
 <details>
 
-<summary>Are you selling shares or tokens? </summary>
+<summary>投資家から期待する付加価値は何ですか？</summary>
 
-To date, XBorg has only sold tokens without any shares being offered for sale. Currently, the company's sole shareholders are SwissBorg and the founder of XBorg. This approach was deliberately chosen to ensure a streamlined focus on value accrual for the company without diluting attention or resources by distributing shares.
+投資家は、戦略的な指導、メンターシップ、および初期投資以上の財務支援を通じて、XBorgに重要な付加価値をもたらすことができます。投資家は、競争の激しいゲーム業界において、XBorgチームには即座に明らかにならない競争環境、業界のトレンド、成長の機会についての洞察を提供することができます。また、彼らはパートナーやアドバイザー、顧客への紹介を含む、ネットワークやリソースへのアクセスを提供することができます。これにより、XBorgはユーザーベースを構築し、パートナーシップを確立し、市場での存在感を拡大することができます。
 
-</details>
+財務支援を超えて、投資家はXBorgに信頼性と威信をもたらすこともできます。これは競争の激しい、急速に変化する業界において重要です。これにより、XBorgは競合他社の中で際立ち、追加の投資を引き付け、強力なブランドの評判を築くことができます。
 
-<details>
-
-<summary>How are raised funds used? </summary>
-
-We are raising a $5m seed round. The raised funds will be allocated as follows and will be spent over three years.
-
-* Technical developments: 60% ($3'000'000) of the funds will be allocated to technical developments and infrastructure costs. This represents the cost of 10 FTE engineers for three years at an average market salary of $7'000 per month.
-* Marketing: 20% ($1'000'000) of the fund will be allocated to marketing expenditures, influencer campaigns, PR, sponsorship opportunities, and events.
-* Liquidity and exchange listings: 10% ($500'000) of the fund will be allocated to exchange listing payments and liquidity provision.
-* Operating costs: 10% ($500'000) of the funds will be allocated to office rent, legal fees, and software subscriptions.
-* The current treasury covers the non-technical HR costs.&#x20;
+全体的に、投資家はXBorgが長期的に成功するために必要な知識、専門知識、リソースを提供することができます。彼らは資本だけでなく、市場の変化に対応するためにXBorgが直面する課題を乗り越えるのに役立つことができます。
 
 </details>
 
 <details>
 
-<summary>What is the anticipated financial runway resulting from this fundraising round?</summary>
+<summary>株式またはトークンを販売していますか？</summary>
 
-The funds raised from this round are expected to provide XBorg with a financial runway of approximately three years. This means we anticipate the resources obtained will sustain our operations and growth strategies for this period.
-
-</details>
-
-<details>
-
-<summary>As a private investor, am I eligible to invest early in XBorg?</summary>
-
-XBorg extends early investment opportunities primarily to strategic investors with extensive experience in gaming, esports, and/or the entertainment industry. Apart from the community raise, if you do not meet these qualifications, early investment might not be possible. However, once we reach the public round stage, it will be open to all interested investors, regardless of their background or expertise.
+現時点では、XBorgは株式を販売せずにトークンのみを販売しています。現在、会社の唯一の株主はSwissBorgとXBorgの創設者です。このアプローチは、株式を配布することなく、会社の価値の蓄積に焦点を絞るために意図的に選択されました。
 
 </details>
 
 <details>
 
-<summary>Given the current market conditions, are you confident about your ability to raise? </summary>
+<summary>調達した資金はどのように使用されますか？</summary>
 
-To date, XBorg has generated significant interest from venture capitalists and business angels, resulting in approximately $1.5 million in potential funding for the seed round. Our team recognizes that our ability to attract investors is contingent upon demonstrating progress in executing our roadmap and gaining traction in the market. While we remain committed to securing funding, our approach prioritizes attracting high-quality investors over accumulating a large investment.
+私たちは$5mのシードラウンドを調達しています。調達した資金は以下のように割り当てられ、3年間にわたって使用されます。
 
-</details>
-
-<details>
-
-<summary>How did you compute your valuation? </summary>
-
-Our valuation is based on comparables. The list of project comparables can be found [here](https://docs.google.com/spreadsheets/d/11sEz9B5ruauiKs3jPzSYJAc9VVpLu7QKnZHOLvxK\_ws/edit?usp=sharing).&#x20;
-
-At this stage of our company's development, utilizing traditional valuation methods based on earning multiples, discounted cash flows, book value, or liquidation value would not provide a comprehensive or accurate picture of XBorg's valuation. As a nascent startup operating in the highly dynamic and rapidly evolving field of GameFi and SocialFi, our value is largely determined by more intangible factors such as our technology, team expertise, and market potential. Therefore, our team is taking a more holistic approach to valuation that incorporates various metrics and considers the unique characteristics of our industry and company.
-
-As part of our due diligence process, our team analyzed comparable projects within the GameFi and SocialFi spaces, taking into account the current trading value of similar tokens and the results of the latest investment rounds. While these factors played a role in determining our overall strategy, we also recognize that other variables, such as current traction in the market, can influence investor appetite. Ultimately, we determined that a valuation of $45 million represented the best trade-off between attracting high-quality investors and generating sufficient overall investment interest.
+* 技術開発：資金の60％（$3,000,000）は技術開発とインフラコストに割り当てられます。これは、市場の平均給与である$7,000の月額給与で計算した、3年間の10人のエンジニアのコストです。
+* マーケティング：資金の20％（$1,000,000）はマーケティング費用、インフルエンサーキャンペーン、PR、スポンサーシップの機会、イベントに割り当てられます。
+* 流動性と取引所リスティング：資金の10％（$500,000）は取引所リスティングの支払いと流動性の提供に割り当てられます。
+* 運営費用：資金の10％（$500,000）はオフィスの賃料、法律費用、ソフトウェアのサブスクリプションに割り当てられます。
+* 現在の資金は非技術的な人事費用をカバーしています。
 
 </details>
 
 <details>
 
-<summary>What is the anticipated price of the token at the Token Generation Event (TGE)?</summary>
+<summary>この資金調達ラウンドによる予想される財務的なランウェイは何ですか？</summary>
 
-The public fundraising is set to be facilitated through a Balancer Liquidity Bootstrapping Pool, with the starting price for tokens established at $0.5. The pool will begin with a weight ratio of 96:4 and gradually balance out to a 50:50 ratio over a 72-hour period. However, it's important to note that this initial pricing and weighting structure may be subject to change, in accordance with the specific conditions and requirements of any future exchanges that XBorg collaborates with.
-
-</details>
-
-<details>
-
-<summary>Which protocol is utilised for the Liquidity Bootstrapping Pool during the Initial Token Offering (ITO)?</summary>
-
-The Liquidity Bootstrapping Pool for our Initial Token Offering employs the Balancer protocol.
+このラウンドで調達した資金により、XBorgはおおよそ3年間の財務的なランウェイを確保することが予想されています。つまり、この期間にわたって当社の運営と成長戦略を維持するためのリソースが得られると予想しています。
 
 </details>
 
 <details>
 
-<summary>What mechanism does XBorg use to determine the starting price and valuation, given that the Liquidity Bootstrapping Pool (LBP) greatly influences future price sentiment and movement?</summary>
+<summary>プライベート投資家として、XBorgに早期投資する資格はありますか？</summary>
 
-The Liquidity Bootstrapping Pool (LBP) serves as the key mechanism that facilitates a smooth price discovery process for the token. It enables a fair and efficient market-driven evaluation, providing a natural and dynamic balance between supply and demand. You can learn more about LBPs [here](https://docs.balancer.fi/concepts/pools/liquidity-bootstrapping.html#mental-model).
+XBorgは、主にゲーム、eスポーツ、エンターテイメント業界で幅広い経験を持つ戦略的な投資家に早期投資の機会を提供しています。コミュニティ調達を除いて、これらの資格を満たさない場合、早期投資は可能ではありません。ただし、パブリックラウンドの段階に達した時点で、バックグラウンドや専門知識に関係なく、すべての興味を持った投資家に開放されます。
 
 </details>
 
 <details>
 
-<summary>What can I expect in terms of return on investment?</summary>
+<summary>現在の市場状況を考慮して、資金調達能力に自信がありますか？</summary>
 
-Although the XBG tokens are expected to be offered at a higher price post the seed round, it's crucial to understand that investments inherently come with risks, and we cannot provide a guarantee of a positive return on investment. Like any investment, the performance of XBG tokens is subject to market conditions and other factors that may influence their value.
+現時点では、XBorgはベンチャーキャピタリストやビジネスエンジェルからの大きな関心を集めており、シードラウンドにおいて約$1.5 millionの潜在的な資金調達が見込まれています。私たちのチームは、投資家を引き付けるためには、ロードマップの実行における進捗状況や市場でのトラクションを示すことが重要であることを認識しています。資金調達を確保することには引き続きコミットしていますが、私たちのアプローチは、大きな投資を蓄積するよりも、高品質の投資家を引き付けることを優先しています。
+
+</details>
+
+<details>
+
+<summary>評価はどのように計算されましたか？</summary>
+
+私たちの評価は、比較に基づいています。プロジェクトの比較対象のリストは[こちら](https://docs.google.com/spreadsheets/d/11sEz9B5ruauiKs3jPzSYJAc9VVpLu7QKnZHOLvxK\_ws/edit?usp=sharing)でご覧いただけます。
+
+当社の企業の成長段階では、収益倍率、現金フローの割引、帳簿価値、清算価値などの従来の評価方法を利用することは、XBorgの評価の包括的かつ正確なイメージを提供することはできません。GameFiとSocialFiという急速に変化する領域で活動する新興スタートアップとして、私たちの価値は主に技術、チームの専門知識、市場の潜在能力などのより非物質的な要素によって決定されます。したがって、私たちのチームは、さまざまな指標を組み合わせ、業界や会社の独自の特徴を考慮した総合的な評価手法を採用しています。
+
+デューデリジェンスプロセスの一環として、私たちのチームはGameFiとSocialFiの領域内の類似プロジェクトを分析し、類似のトークンの現在の取引価値や最新の投資ラウンドの結果を考慮しました。これらの要素は、私たちの全体的な戦略の決定に影響を与えましたが、市場での現在のトラクションなどの他の変数も投資家の関心に影響を与える可能性があることも認識しています。最終的に、$45 millionの評価が、高品質の投資家を引き付け、十分な全体的な投資関心を生み出すための最良のトレードオフを表していると判断しました。
+
+</details>
+
+<details>
+
+<summary>トークン生成イベント（TGE）におけるトークンの予想価格は何ですか？</summary>
+
+パブリックな資金調達は、Balancer Liquidity Bootstrapping Poolを通じて行われ、トークンの開始価格は$0.5で設定されます。プールは96：4のウェイト比率で開始し、72時間の期間をかけて50：50の比率に徐々にバランスを取ります。ただし、この初期の価格とウェイトの構造は、XBorgが将来的に協力する取引所の具体的な条件と要件に応じて変更される可能性があることを理解することが重要です。
+
+</details>
+
+<details>
+
+<summary>イニシャルトークンオファリング（ITO）におけるLiquidity Bootstrapping Poolにはどのプロトコルが利用されていますか？</summary>
+
+私たちのイニシャルトークンオファリングのためのLiquidity Bootstrapping Poolは、Balancerプロトコルを利用しています。
+
+</details>
+
+<details>
+
+<summary>Liquidity Bootstrapping Pool（LBP）による将来の価格感情と動きを考慮して、XBorgはどのように開始価格と評価を決定していますか？</summary>
+
+Liquidity Bootstrapping Pool（LBP）は、トークンのスムーズな価格発見プロセスを支援する主要なメカニズムとして機能します。供給と需要の間の公正かつ効率的な市場評価を可能にし、自然で動的なバランスを提供します。LBPsについての詳細は[こちら](https://docs.balancer.fi/concepts/pools/liquidity-bootstrapping.html#mental-model)をご覧ください。
+
+</details>
+
+<details>
+
+<summary>投資のリターンについてはどのような期待がありますか？</summary>
+
+XBGトークンは、シードラウンド後により高い価格で提供されることが予想されますが、投資はリスクを伴うものであり、正のリターンを保証することはできません。どんな投資でも、XBGトークンのパフォーマンスは市場の状況やその他の要因に影響を受ける可能性があります。
 
 </details>
 

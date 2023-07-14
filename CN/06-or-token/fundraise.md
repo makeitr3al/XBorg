@@ -1,163 +1,161 @@
-# Fundraise
+# 募资
 
-As a startup with significant potential for growth, XBorg is utilizing its utility token, XBG, to secure additional funding. In addition to relying solely on traditional investors such as venture capitalists and business angels, XBorg is opening up investment opportunities to a limited number of community members early. This approach ensures a strong foundation for XBorg and secures the longevity of its DAO.
+作为一家具有巨大增长潜力的初创企业，XBorg正在利用其实用代币XBG来获得额外的资金支持。除了仅依赖传统投资者如风险投资家和商业天使外，XBorg还向少数社区成员提供了早期投资机会。这种方法确保了XBorg的坚实基础，并确保了其DAO的长期发展。
 
 <details>
 
-<summary>What is your fundraising strategy? </summary>
+<summary>你们的募资策略是什么？</summary>
 
-Our objective in raising capital is to facilitate growth and cover the team's monthly expenses. We are mindful of not over-raising and instead prioritize value over quantity of capital. At present, XBorg has a robust financial position, with a 20-month runway, and thus, there is no pressing need to raise additional funds.
+我们筹集资金的目标是促进增长并支付团队的月度开支。我们谨慎考虑，不过度筹资，而是将价值放在资本数量之上。目前，XBorg的财务状况良好，有20个月的运营资金，因此没有迫切需要筹集额外资金。
 
-#### Strategic round
+#### 战略轮
 
-* Date: Summer 2022
-* Amount raised: $1m&#x20;
-* Valuation: $25m
+* 日期：2022年夏季
+* 筹集金额：100万美元
+* 估值：2500万美元
 
-#### Seed round
+#### 种子轮
 
-* Date: April-September 2023
-* Amount: $5m&#x20;
-* Valuation: $45-55m
+* 日期：2023年4月至9月
+* 筹集金额：500万美元
+* 估值：4500-5500万美元
 
-As we prepare to launch our token, our current plan does not include raising any additional funding rounds. However, we remain open to adjusting our strategy based on the traction we observe with the protocol and any potential needs for additional hires. Ultimately, we will decide based on what is best for the long-term growth and success of XBorg.\
-
+在我们准备推出代币时，我们目前的计划不包括筹集任何额外的资金轮。然而，我们仍然愿意根据我们在协议中观察到的动力和任何潜在的对额外招聘的需求来调整我们的策略。最终，我们将根据对XBorg的长期增长和成功最有利的因素来做出决策。
 
 </details>
 
 <details>
 
-<summary>What are the locking and vesting terms for private investors? </summary>
+<summary>私人投资者的锁定和解锁条款是什么？</summary>
 
-Private investors will have 10% of their tokens unlocked at the Token Generation Event (TGE), followed by a lock-in period of 3 months. After the lock-in period, the remaining tokens will vest over the course of 18 months.
+私人投资者的代币将在代币生成事件（TGE）后解锁10％，然后锁定3个月。锁定期结束后，剩余的代币将在18个月内解锁。
 
-\
-It is important to remember that our approach may be subject to change based on the specific requirements of the exchanges we engage with. It's not uncommon for tier 1 exchanges to have a say in the tokenomics and vesting/locking schedule of a given token, and we may need to adjust our strategy to meet their standards.
-
-</details>
-
-<details>
-
-<summary>Who are your investors? on which criteria were they selected? </summary>
-
-We've been meticulous in selecting our investors for the initial funding round, prioritizing those who bring more than just financial capital but also add value to XBorg in other significant ways. Our investors come from a variety of backgrounds, including:
-
-* Aave and Lens Protocol: Professionals from these companies bring deep expertise in blockchain technology and cryptocurrency.
-* Yield Guild Games: Experience in virtual economies and blockchain gaming.
-* ESL/Face it, Faze, G2: These represent some of the biggest names in the esports industry, offering insights and networks into competitive gaming.
-* Ethereum France, Consensys: These contributors have extensive knowledge of Ethereum and blockchain development.
-* French Esports: Brings a strong understanding of the esports landscape in France.
-* Savvy Games: Experts in game development and strategy.
+请记住，我们的方法可能会根据我们合作的交易所的具体要求而有所变化。一级交易所对于给定代币的代币经济学和锁定/解锁计划可能有发言权，我们可能需要调整我们的策略以满足他们的标准。
 
 </details>
 
 <details>
 
-<summary>How is the cap table distributed?</summary>
+<summary>你们的投资者是谁？他们是根据什么标准被选中的？</summary>
 
-For the strategic round, we implemented a cap of $50,000 per investment ticket to ensure a fair distribution on the cap table.
+我们在最初的募资轮中非常谨慎地选择了投资者，优先考虑那些不仅能够带来资金，还能以其他重要方式为XBorg增加价值的投资者。我们的投资者来自各种背景，包括：
 
-</details>
-
-<details>
-
-<summary>What kind of value added do you expect from an investor?</summary>
-
-An investor can add significant value to XBorg by bringing strategic guidance, mentorship, and financial support beyond the initial investment. Investors can offer insights into the competitive landscape, industry trends, and potential growth opportunities that may not be immediately apparent to the XBorg team. They can also provide access to their networks and resources, including introductions to potential partners, advisors, and customers. This can help XBorg build its user base, establish partnerships, and expand its reach in the market.
-
-Beyond financial support, investors can also bring credibility and validation to XBorg, which can be critical in a competitive and rapidly evolving industry. This can help XBorg stand out among its peers, attract additional investment, and build a strong brand reputation.
-
-Overall, investors can offer a wealth of knowledge, expertise, and resources to help XBorg succeed in the long term. They can provide value beyond just capital and help XBorg navigate the challenges of a dynamic and constantly evolving industry.
+* Aave和Lens Protocol：这些公司的专业人员在区块链技术和加密货币方面拥有深厚的专业知识。
+* Yield Guild Games：在虚拟经济和区块链游戏方面有经验。
+* ESL/Face it、Faze、G2：这些代表电子竞技行业中最大的品牌，提供竞技游戏方面的见解和网络。
+* Ethereum France、Consensys：这些贡献者对以太坊和区块链开发有广泛的知识。
+* 法国电子竞技：对法国电子竞技行业有深入了解。
+* Savvy Games：游戏开发和策略方面的专家。
 
 </details>
 
 <details>
 
-<summary>Are you selling shares or tokens? </summary>
+<summary>股权结构如何分配？</summary>
 
-To date, XBorg has only sold tokens without any shares being offered for sale. Currently, the company's sole shareholders are SwissBorg and the founder of XBorg. This approach was deliberately chosen to ensure a streamlined focus on value accrual for the company without diluting attention or resources by distributing shares.
-
-</details>
-
-<details>
-
-<summary>How are raised funds used? </summary>
-
-We are raising a $5m seed round. The raised funds will be allocated as follows and will be spent over three years.
-
-* Technical developments: 60% ($3'000'000) of the funds will be allocated to technical developments and infrastructure costs. This represents the cost of 10 FTE engineers for three years at an average market salary of $7'000 per month.
-* Marketing: 20% ($1'000'000) of the fund will be allocated to marketing expenditures, influencer campaigns, PR, sponsorship opportunities, and events.
-* Liquidity and exchange listings: 10% ($500'000) of the fund will be allocated to exchange listing payments and liquidity provision.
-* Operating costs: 10% ($500'000) of the funds will be allocated to office rent, legal fees, and software subscriptions.
-* The current treasury covers the non-technical HR costs.&#x20;
+对于战略轮，我们实施了每个投资门票5万美元的上限，以确保股权结构的公平分配。
 
 </details>
 
 <details>
 
-<summary>What is the anticipated financial runway resulting from this fundraising round?</summary>
+<summary>你们期望投资者提供什么附加值？</summary>
 
-The funds raised from this round are expected to provide XBorg with a financial runway of approximately three years. This means we anticipate the resources obtained will sustain our operations and growth strategies for this period.
+投资者可以通过提供战略指导、指导和超出初始投资的财务支持为XBorg增加重要价值。投资者可以提供有关竞争环境、行业趋势和潜在增长机会的见解，这些可能对XBorg团队来说并不立即明显。他们还可以提供他们的网络和资源，包括介绍潜在合作伙伴、顾问和客户。这可以帮助XBorg建立其用户群，建立合作伙伴关系，并扩大市场影响力。
 
-</details>
+除了财务支持外，投资者还可以为XBorg带来可信度和认可，这在竞争激烈且快速发展的行业中至关重要。这可以帮助XBorg在同行中脱颖而出，吸引额外的投资，并建立强大的品牌声誉。
 
-<details>
-
-<summary>As a private investor, am I eligible to invest early in XBorg?</summary>
-
-XBorg extends early investment opportunities primarily to strategic investors with extensive experience in gaming, esports, and/or the entertainment industry. Apart from the community raise, if you do not meet these qualifications, early investment might not be possible. However, once we reach the public round stage, it will be open to all interested investors, regardless of their background or expertise.
+总体而言，投资者可以提供丰富的知识、专业知识和资源，帮助XBorg在长期发展中取得成功。他们可以提供超越资本的价值，并帮助XBorg应对动态和不断变化的行业挑战。
 
 </details>
 
 <details>
 
-<summary>Given the current market conditions, are you confident about your ability to raise? </summary>
+<summary>你们是在出售股份还是代币？</summary>
 
-To date, XBorg has generated significant interest from venture capitalists and business angels, resulting in approximately $1.5 million in potential funding for the seed round. Our team recognizes that our ability to attract investors is contingent upon demonstrating progress in executing our roadmap and gaining traction in the market. While we remain committed to securing funding, our approach prioritizes attracting high-quality investors over accumulating a large investment.
-
-</details>
-
-<details>
-
-<summary>How did you compute your valuation? </summary>
-
-Our valuation is based on comparables. The list of project comparables can be found [here](https://docs.google.com/spreadsheets/d/11sEz9B5ruauiKs3jPzSYJAc9VVpLu7QKnZHOLvxK\_ws/edit?usp=sharing).&#x20;
-
-At this stage of our company's development, utilizing traditional valuation methods based on earning multiples, discounted cash flows, book value, or liquidation value would not provide a comprehensive or accurate picture of XBorg's valuation. As a nascent startup operating in the highly dynamic and rapidly evolving field of GameFi and SocialFi, our value is largely determined by more intangible factors such as our technology, team expertise, and market potential. Therefore, our team is taking a more holistic approach to valuation that incorporates various metrics and considers the unique characteristics of our industry and company.
-
-As part of our due diligence process, our team analyzed comparable projects within the GameFi and SocialFi spaces, taking into account the current trading value of similar tokens and the results of the latest investment rounds. While these factors played a role in determining our overall strategy, we also recognize that other variables, such as current traction in the market, can influence investor appetite. Ultimately, we determined that a valuation of $45 million represented the best trade-off between attracting high-quality investors and generating sufficient overall investment interest.
+到目前为止，XBorg只出售代币，没有出售任何股份。目前，公司的唯一股东是SwissBorg和XBorg的创始人。这种方法是有意选择的，以确保公司专注于价值积累，而不是通过分配股份来分散注意力或资源。
 
 </details>
 
 <details>
 
-<summary>What is the anticipated price of the token at the Token Generation Event (TGE)?</summary>
+<summary>筹集的资金将如何使用？</summary>
 
-The public fundraising is set to be facilitated through a Balancer Liquidity Bootstrapping Pool, with the starting price for tokens established at $0.5. The pool will begin with a weight ratio of 96:4 and gradually balance out to a 50:50 ratio over a 72-hour period. However, it's important to note that this initial pricing and weighting structure may be subject to change, in accordance with the specific conditions and requirements of any future exchanges that XBorg collaborates with.
+我们正在筹集500万美元的种子轮。筹集的资金将按照以下方式分配，并将在三年内使用。
 
-</details>
-
-<details>
-
-<summary>Which protocol is utilised for the Liquidity Bootstrapping Pool during the Initial Token Offering (ITO)?</summary>
-
-The Liquidity Bootstrapping Pool for our Initial Token Offering employs the Balancer protocol.
+* 技术开发：资金的60％（300万美元）将用于技术开发和基础设施成本。这代表了以每月平均市场薪资7000美元计算的10名全职工程师三年的成本。
+* 市场营销：资金的20％（100万美元）将用于市场营销支出，包括影响者活动、公关、赞助机会和活动。
+* 流动性和交易所上市：资金的10％（50万美元）将用于交易所上市支付和流动性提供。
+* 运营成本：资金的10％（50万美元）将用于办公室租金、法律费用和软件订阅。
+* 目前的资金储备已经覆盖了非技术人力资源成本。
 
 </details>
 
 <details>
 
-<summary>What mechanism does XBorg use to determine the starting price and valuation, given that the Liquidity Bootstrapping Pool (LBP) greatly influences future price sentiment and movement?</summary>
+<summary>预计这次募资轮将提供多长时间的财务支持？</summary>
 
-The Liquidity Bootstrapping Pool (LBP) serves as the key mechanism that facilitates a smooth price discovery process for the token. It enables a fair and efficient market-driven evaluation, providing a natural and dynamic balance between supply and demand. You can learn more about LBPs [here](https://docs.balancer.fi/concepts/pools/liquidity-bootstrapping.html#mental-model).
+预计这轮募资所筹集的资金将为XBorg提供大约三年的财务支持。这意味着我们预计获得的资源将支持我们的运营和增长战略这段时间。
 
 </details>
 
 <details>
 
-<summary>What can I expect in terms of return on investment?</summary>
+<summary>作为私人投资者，我是否有资格提前投资XBorg？</summary>
 
-Although the XBG tokens are expected to be offered at a higher price post the seed round, it's crucial to understand that investments inherently come with risks, and we cannot provide a guarantee of a positive return on investment. Like any investment, the performance of XBG tokens is subject to market conditions and other factors that may influence their value.
+XBorg主要向在游戏、电子竞技和/或娱乐行业拥有丰富经验的战略投资者提供早期投资机会。除了社区募资之外，如果您不符合这些资格，可能无法进行早期投资。然而，一旦我们进入公开轮阶段，所有感兴趣的投资者，无论其背景或专业知识如何，都可以参与。
+
+</details>
+
+<details>
+
+<summary>考虑到当前的市场情况，您对自己的筹资能力有信心吗？</summary>
+
+到目前为止，XBorg已经引起了风险投资家和商业天使的极大兴趣，为种子轮筹集了大约150万美元的潜在资金。我们的团队认识到，我们吸引投资者的能力取决于展示我们在执行路线图和在市场上获得动力的进展。虽然我们致力于获得资金支持，但我们的方法优先考虑吸引高质量的投资者，而不是积累大量投资。
+
+</details>
+
+<details>
+
+<summary>您是如何计算估值的？</summary>
+
+我们的估值是基于可比项目。可以在[这里](https://docs.google.com/spreadsheets/d/11sEz9B5ruauiKs3jPzSYJAc9VVpLu7QKnZHOLvxK\_ws/edit?usp=sharing)找到项目可比列表。
+
+在我们公司发展的这个阶段，利用基于收益倍数、贴现现金流、账面价值或清算价值的传统估值方法无法提供XBorg估值的全面或准确的画面。作为一家在GameFi和SocialFi领域运营的新兴初创企业，我们的价值主要由技术、团队专业知识和市场潜力等更无形的因素决定。因此，我们的团队采取了更全面的估值方法，结合了各种指标，并考虑了我们行业和公司的独特特点。
+
+作为我们尽职调查过程的一部分，我们的团队分析了GameFi和SocialFi领域内的可比项目，考虑了类似代币的当前交易价值和最新投资轮的结果。虽然这些因素在确定我们的整体策略时起到了一定作用，但我们也认识到其他变量，如市场上的当前动力，可能会影响投资者的兴趣。最终，我们确定4500万美元的估值在吸引高质量投资者和产生足够的整体投资兴趣之间取得了最佳平衡。
+
+</details>
+
+<details>
+
+<summary>代币生成事件（TGE）时的预期代币价格是多少？</summary>
+
+公开募资将通过Balancer流动性引导池进行，代币的起始价格为0.5美元。该池将以96:4的权重比例开始，并在72小时内逐渐平衡到50:50的比例。然而，重要的是要注意，这种初始定价和权重结构可能会根据XBorg与任何未来交易所的具体条件和要求而有所变化。
+
+</details>
+
+<details>
+
+<summary>在初始代币发行（ITO）期间，XBorg使用哪个协议来进行流动性引导池？</summary>
+
+我们的初始代币发行的流动性引导池采用Balancer协议。
+
+</details>
+
+<details>
+
+<summary>鉴于流动性引导池（LBP）极大地影响未来价格情绪和波动，XBorg使用什么机制来确定起始价格和估值？</summary>
+
+流动性引导池（LBP）是促进代币平稳价格发现过程的关键机制。它实现了供需之间的公平和高效市场驱动评估，提供了自然和动态的供需平衡。您可以在[这里](https://docs.balancer.fi/concepts/pools/liquidity-bootstrapping.html#mental-model)了解更多关于LBPs的信息。
+
+</details>
+
+<details>
+
+<summary>在投资回报方面，我可以期待什么？</summary>
+
+尽管预计种子轮后XBG代币的价格会上涨，但关键是要理解投资本质上存在风险，我们无法保证投资回报为正。与任何投资一样，XBG代币的表现受市场条件和可能影响其价值的其他因素的影响。
 
 </details>
 

@@ -1,18 +1,18 @@
 # Tour de table initial
 
-> XBorg est actuellement en train de lever 5 millions de dollars lors de son tour de table initial. Dans le cadre de ce tour de table, les membres de la communauté pourront participer. Les détails exacts du tour de table et les dates peuvent être consultés [ici](https://www.xborg.com/seed-round).&#x20;
+> XBorg est actuellement en train de lever 5 millions de dollars lors d'un tour de table initial. Dans le cadre de ce tour de table, les membres de la communauté pourront participer. Les détails exacts du tour de table et le calendrier peuvent être consultés [ici](https://www.xborg.com/seed-round).&#x20;
 >
-> Il est important de garder à l'esprit que les conditions de déblocage et de verrouillage associées au jeton XBG peuvent être modifiées. Comme c'est souvent le cas avec les projets en phase de démarrage, de nombreux détails et conditions entourant les investissements peuvent être sujets à des ajustements à mesure que le projet évolue.
+> Il est important de garder à l'esprit que les conditions de blocage et de verrouillage associées au jeton XBG peuvent être modifiées. Comme c'est souvent le cas avec les projets en phase de démarrage, de nombreux détails et conditions liés aux investissements peuvent être ajustés au fur et à mesure de l'évolution du projet.
 >
-> De plus, il convient de noter que la déclaration ci-dessous ne doit pas être interprétée comme une invitation ou une incitation à acheter le jeton XBG. Toute décision d'investir dans cette cryptomonnaie ou toute autre comporte des risques inhérents et doit être soigneusement considérée avant de prendre toute mesure.
+> De plus, il convient de noter que la déclaration ci-dessous ne doit pas être interprétée comme une invitation ou une incitation à acheter le jeton XBG. Toute décision d'investir dans cette cryptomonnaie ou toute autre comporte des risques inhérents et doit être soigneusement considérée avant d'agir.
 
 <details>
 
-<summary>Quand le tour de table initial commence-t-il ?</summary>
+<summary>Quand le tour de table initial ouvrira-t-il ?</summary>
 
-Le tour de table initial a commencé le 16 mai 2023 avec le coffre-fort Prometheus hébergé sur [la plateforme de lancement d'XBorg](https://launchpad.xborg.com/project/xborg).
+Le tour de table initial a ouvert le 16 mai 2023 avec le coffre-fort Prometheus hébergé sur [la plateforme de lancement d'XBorg](https://launchpad.xborg.com/project/xborg).
 
-Quant aux coffres-forts SwissBorg, le premier coffre-fort public ouvrira le 23 mai 2023 à 14h00 CET, suivi de trois autres coffres-forts. Les dates exactes et les tailles des coffres-forts peuvent être consultées sur [notre site web](https://www.xborg.com/how-to-invest).
+Quant aux coffres-forts SwissBorg, le premier coffre-fort public ouvrira le 23 mai 2023 à 14h CET, suivi de trois autres coffres-forts. Les dates exactes et les tailles des coffres-forts peuvent être consultées sur [notre site web](https://www.xborg.com/how-to-invest).
 
 </details>
 
@@ -20,7 +20,7 @@ Quant aux coffres-forts SwissBorg, le premier coffre-fort public ouvrira le 23 m
 
 <summary>Comment puis-je participer au tour de table ?</summary>
 
-Pour participer au tour de table, vous pouvez acquérir un NFT Prometheus [ici](https://opensea.io/collection/xborg-prometheus) et participer à notre [plateforme de lancement](https://launchpad.xborg.com/). Alternativement, vous pouvez télécharger l'application SwissBorg pour accéder aux opportunités d'investissement. Cependant, il convient de noter que seuls les détenteurs de Prometheus sont assurés d'une allocation, et le niveau actuel d'intérêt pour le tour de table dépasse 4,5 millions de dollars. Par conséquent, nous pourrions ne pas être en mesure de garantir des allocations via l'application SwissBorg. Les détails exacts peuvent être trouvés [ici](https://www.xborg.com/how-to-invest).&#x20;
+Pour participer au tour de table, vous pouvez acquérir un NFT Prometheus [ici](https://opensea.io/collection/xborg-prometheus) et participer à notre [plateforme de lancement](https://launchpad.xborg.com/). Vous pouvez également télécharger l'application SwissBorg pour accéder aux opportunités d'investissement. Cependant, il convient de noter que seuls les détenteurs de Prometheus sont assurés d'une allocation, et le niveau actuel d'intérêt pour le tour de table dépasse 4,5 millions de dollars. Par conséquent, nous pourrions ne pas être en mesure de garantir des allocations via l'application SwissBorg. Les détails exacts peuvent être consultés [ici](https://www.xborg.com/how-to-invest).&#x20;
 
 </details>
 
@@ -36,9 +36,9 @@ Pour participer au tour de table, vous pouvez acquérir un NFT Prometheus [ici](
 
 <details>
 
-<summary>Y a-t-il une période de déblocage ?</summary>
+<summary>Y a-t-il une période de blocage ?</summary>
 
-Pour les participants au tour de table stratégique et initial, votre investissement est soumis à une période de blocage de 3 mois, suivie d'un calendrier de déblocage de 18 mois après la TGE. De plus, 10 % des jetons XBG achetés seront immédiatement disponibles après la TGE. Veuillez noter que ces conditions sont susceptibles de changer afin de répondre aux exigences des plateformes d'échange de cryptomonnaies.
+Pour les participants au tour de table stratégique et initial, votre investissement est soumis à une période de blocage de 3 mois, suivie d'un calendrier de déblocage de 18 mois après la TGE. De plus, 10 % des jetons XBG achetés seront immédiatement disponibles après la TGE. Veuillez noter que ces conditions sont susceptibles de changer pour répondre aux exigences des plateformes d'échange de cryptomonnaies.
 
 </details>
 
@@ -77,7 +77,7 @@ Nous levons 5 millions de dollars lors du tour de table initial. Les fonds levé
 * **Développement technique :** 60 % (3 000 000 $) des fonds seront alloués au développement technique et aux coûts d'infrastructure. Cela représente le coût de 10 ingénieurs à temps plein pendant trois ans, avec un salaire moyen du marché de 7 000 $ par mois.
 * **Marketing :** 20 % (1 000 000 $) des fonds seront alloués aux dépenses de marketing, aux campagnes d'influenceurs, aux relations publiques, aux opportunités de parrainage et aux événements.
 * **Liquidité et inscriptions sur les plateformes d'échange :** 10 % (500 000 $) des fonds seront alloués aux paiements d'inscription sur les plateformes d'échange et à la fourniture de liquidité.
-* **Coûts d'exploitation :** 10 % (500 000 $) des fonds seront alloués aux frais de location de bureaux, aux frais juridiques et aux abonnements logiciels.
+* **Frais de fonctionnement :** 10 % (500 000 $) des fonds seront alloués aux frais de location de bureaux, aux frais juridiques et aux abonnements logiciels.
 
 La trésorerie actuelle couvre les coûts RH non techniques.
 
@@ -101,9 +101,9 @@ En cas de jetons invendus, ceux-ci pourraient être conservés dans la trésorer
 
 <details>
 
-<summary>Y aura-t-il des avantages d'achat pour les détenteurs de jetons SwissBorg en fonction de leur niveau Premium ?</summary>
+<summary>Les détenteurs de jetons SwissBorg bénéficieront-ils d'avantages d'achat en fonction de leur niveau Premium ?</summary>
 
-Les investisseurs de la série A et les détenteurs de niveaux Premium Genesis/Generation pourront acheter des jetons XBG lors du tour de table initial, bien que à une valorisation plus élevée que les détenteurs de Prometheus.
+Les investisseurs de la série A et les détenteurs de primes Genesis/Generation pourront acheter des jetons XBG lors du tour de table initial, bien que à une valorisation plus élevée que les détenteurs de Prometheus.
 
 </details>
 

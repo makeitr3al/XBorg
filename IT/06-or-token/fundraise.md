@@ -1,12 +1,12 @@
 # Raccogliere fondi
 
-Come startup con un significativo potenziale di crescita, XBorg sta utilizzando il suo token di utilità, XBG, per garantire finanziamenti aggiuntivi. Oltre a fare affidamento esclusivamente su investitori tradizionali come venture capitalist e business angel, XBorg sta aprendo opportunità di investimento a un numero limitato di membri della comunità in anticipo. Questo approccio assicura una solida base per XBorg e garantisce la longevità del suo DAO.
+Come startup con un significativo potenziale di crescita, XBorg sta utilizzando il suo token di utilità, XBG, per garantire finanziamenti aggiuntivi. Oltre a fare affidamento esclusivamente su investitori tradizionali come venture capitalist e business angel, XBorg sta aprendo opportunità di investimento a un numero limitato di membri della comunità in anticipo. Questo approccio garantisce una solida base per XBorg e assicura la longevità del suo DAO.
 
 <details>
 
 <summary>Qual è la vostra strategia di raccolta fondi?</summary>
 
-Il nostro obiettivo nella raccolta di capitali è facilitare la crescita e coprire le spese mensili del team. Siamo attenti a non raccogliere troppi fondi e invece diamo priorità al valore rispetto alla quantità di capitale. Attualmente, XBorg ha una solida posizione finanziaria, con una copertura di 20 mesi, e quindi non c'è bisogno urgente di raccogliere fondi aggiuntivi.
+Il nostro obiettivo nella raccolta di capitali è facilitare la crescita e coprire le spese mensili del team. Siamo attenti a non raccogliere troppi fondi e invece diamo priorità al valore rispetto alla quantità di capitale. Attualmente, XBorg ha una solida posizione finanziaria, con una copertura di 20 mesi, e quindi non c'è un'urgenza immediata di raccogliere fondi aggiuntivi.
 
 #### Round strategico
 
@@ -53,7 +53,7 @@ Siamo stati meticolosi nella selezione dei nostri investitori per il round di fi
 
 <summary>Come è distribuita la tabella dei limiti?</summary>
 
-Per il round strategico, abbiamo implementato un limite di $50.000 per biglietto di investimento per garantire una distribuzione equa nella tabella dei limiti.
+Per il round strategico, abbiamo implementato un limite di $50.000 per biglietto di investimento per garantire una distribuzione equa sulla tabella dei limiti.
 
 </details>
 
@@ -61,11 +61,11 @@ Per il round strategico, abbiamo implementato un limite di $50.000 per biglietto
 
 <summary>Che tipo di valore aggiunto ti aspetti da un investitore?</summary>
 
-Un investitore può apportare un valore significativo a XBorg fornendo orientamento strategico, tutoraggio e supporto finanziario oltre all'investimento iniziale. Gli investitori possono offrire una visione del panorama competitivo, delle tendenze del settore e delle opportunità di crescita potenziali che potrebbero non essere immediatamente evidenti al team di XBorg. Possono anche fornire accesso alle loro reti e risorse, inclusi contatti con potenziali partner, consulenti e clienti. Ciò può aiutare XBorg a costruire la propria base utenti, stabilire partnership e ampliare la propria presenza sul mercato.
+Un investitore può apportare un valore significativo a XBorg fornendo orientamento strategico, mentorship e supporto finanziario oltre all'investimento iniziale. Gli investitori possono offrire informazioni sul panorama competitivo, le tendenze del settore e le opportunità di crescita potenziali che potrebbero non essere immediatamente evidenti per il team di XBorg. Possono anche fornire accesso alle loro reti e risorse, inclusi presentazioni a potenziali partner, consulenti e clienti. Ciò può aiutare XBorg a costruire la sua base utenti, stabilire partnership e ampliare la sua presenza sul mercato.
 
-Oltre al supporto finanziario, gli investitori possono anche apportare credibilità e validazione a XBorg, il che può essere fondamentale in un settore competitivo e in rapida evoluzione. Ciò può aiutare XBorg a distinguersi tra i suoi concorrenti, attrarre investimenti aggiuntivi e costruire una solida reputazione del marchio.
+Oltre al supporto finanziario, gli investitori possono anche portare credibilità e validazione a XBorg, il che può essere fondamentale in un settore competitivo e in rapida evoluzione. Ciò può aiutare XBorg a distinguersi tra i suoi concorrenti, attirare investimenti aggiuntivi e costruire una solida reputazione del marchio.
 
-In generale, gli investitori possono offrire una vasta conoscenza, competenze e risorse per aiutare XBorg a avere successo nel lungo termine. Possono fornire valore oltre al capitale e aiutare XBorg a affrontare le sfide di un settore dinamico e in continua evoluzione.
+In generale, gli investitori possono offrire una vasta conoscenza, competenze e risorse per aiutare XBorg a avere successo nel lungo termine. Possono fornire valore oltre al capitale e aiutare XBorg a navigare le sfide di un settore dinamico e in continua evoluzione.
 
 </details>
 
@@ -73,7 +73,7 @@ In generale, gli investitori possono offrire una vasta conoscenza, competenze e 
 
 <summary>State vendendo azioni o token?</summary>
 
-Finora, XBorg ha venduto solo token senza offrire in vendita azioni. Attualmente, gli unici azionisti dell'azienda sono SwissBorg e il fondatore di XBorg. Questo approccio è stato scelto deliberatamente per garantire un focus mirato sull'accumulo di valore per l'azienda senza diluire l'attenzione o le risorse distribuendo azioni.
+Finora, XBorg ha venduto solo token senza offrire in vendita azioni. Attualmente, gli unici azionisti dell'azienda sono SwissBorg e il fondatore di XBorg. Questo approccio è stato scelto deliberatamente per garantire un focus diretto sull'accumulo di valore per l'azienda senza diluire l'attenzione o le risorse distribuendo azioni.
 
 </details>
 
@@ -81,11 +81,11 @@ Finora, XBorg ha venduto solo token senza offrire in vendita azioni. Attualmente
 
 <summary>Come vengono utilizzati i fondi raccolti?</summary>
 
-Stiamo raccogliendo un round iniziale di $5 milioni. I fondi raccolti saranno allocati come segue e saranno spesi nel corso di tre anni.
+Stiamo raccogliendo un round di finanziamento di $5 milioni. I fondi raccolti saranno allocati come segue e saranno spesi nel corso di tre anni.
 
-* Sviluppi tecnici: il 60% ($3.000.000) dei fondi sarà destinato a sviluppi tecnici e costi infrastrutturali. Questo rappresenta il costo di 10 ingegneri a tempo pieno per tre anni a un salario di mercato medio di $7.000 al mese.
-* Marketing: il 20% ($1.000.000) dei fondi sarà destinato a spese di marketing, campagne con influencer, PR, opportunità di sponsorizzazione ed eventi.
-* Liquidità e quotazioni su exchange: il 10% ($500.000) dei fondi sarà destinato ai pagamenti per le quotazioni su exchange e alla fornitura di liquidità.
+* Sviluppi tecnici: il 60% ($3.000.000) dei fondi sarà destinato a sviluppi tecnici e costi infrastrutturali. Questo rappresenta il costo di 10 ingegneri a tempo pieno per tre anni a un salario medio di mercato di $7.000 al mese.
+* Marketing: il 20% ($1.000.000) dei fondi sarà destinato a spese di marketing, campagne di influencer, PR, opportunità di sponsorizzazione ed eventi.
+* Liquidità e quotazioni in borsa: il 10% ($500.000) dei fondi sarà destinato ai pagamenti per le quotazioni in borsa e alla fornitura di liquidità.
 * Costi operativi: il 10% ($500.000) dei fondi sarà destinato all'affitto dell'ufficio, alle spese legali e alle sottoscrizioni software.
 * Il tesoro attuale copre i costi delle risorse umane non tecniche.
 
@@ -93,7 +93,7 @@ Stiamo raccogliendo un round iniziale di $5 milioni. I fondi raccolti saranno al
 
 <details>
 
-<summary>Qual è la previsione della durata finanziaria risultante da questo round di raccolta fondi?</summary>
+<summary>Qual è la previsione della durata finanziaria risultante da questo round di finanziamento?</summary>
 
 I fondi raccolti da questo round dovrebbero fornire a XBorg una durata finanziaria di circa tre anni. Ciò significa che prevediamo che le risorse ottenute sostengano le nostre operazioni e le strategie di crescita per questo periodo.
 
@@ -103,7 +103,7 @@ I fondi raccolti da questo round dovrebbero fornire a XBorg una durata finanziar
 
 <summary>Come investitore privato, sono idoneo a investire in anticipo in XBorg?</summary>
 
-XBorg offre opportunità di investimento anticipato principalmente a investitori strategici con ampia esperienza nel settore dei giochi, degli esports e/o dell'intrattenimento. Oltre alla raccolta della comunità, se non soddisfi questi requisiti, potrebbe non essere possibile un investimento anticipato. Tuttavia, una volta raggiunta la fase del round pubblico, sarà aperta a tutti gli investitori interessati, indipendentemente dal loro background o competenze.
+XBorg offre opportunità di investimento anticipato principalmente a investitori strategici con una vasta esperienza nel settore dei giochi, degli esports e/o dell'intrattenimento. Oltre alla raccolta della comunità, se non soddisfi questi requisiti, potrebbe non essere possibile un investimento anticipato. Tuttavia, una volta raggiunta la fase del round pubblico, sarà aperta a tutti gli investitori interessati, indipendentemente dal loro background o competenze.
 
 </details>
 
@@ -111,7 +111,7 @@ XBorg offre opportunità di investimento anticipato principalmente a investitori
 
 <summary>Dati gli attuali condizioni di mercato, siete fiduciosi nella vostra capacità di raccogliere fondi?</summary>
 
-Finora, XBorg ha suscitato un notevole interesse da parte di venture capitalist e business angel, con un potenziale di finanziamento di circa $1,5 milioni per il round iniziale. Il nostro team riconosce che la nostra capacità di attrarre investitori dipende dalla dimostrazione di progressi nell'esecuzione della nostra roadmap e dall'ottenimento di trazione nel mercato. Sebbene rimaniamo impegnati a garantire finanziamenti, il nostro approccio dà priorità all'attrazione di investitori di alta qualità rispetto all'accumulo di un grande investimento.
+Finora, XBorg ha suscitato un notevole interesse da parte di venture capitalist e business angel, con un potenziale di finanziamento di circa $1,5 milioni per il round iniziale. Il nostro team riconosce che la nostra capacità di attrarre investitori dipende dalla dimostrazione di progressi nell'esecuzione della nostra roadmap e dall'ottenimento di trazione sul mercato. Sebbene siamo impegnati a garantire finanziamenti, il nostro approccio dà priorità all'attrazione di investitori di alta qualità rispetto all'accumulo di un grande investimento.
 
 </details>
 
@@ -119,11 +119,11 @@ Finora, XBorg ha suscitato un notevole interesse da parte di venture capitalist 
 
 <summary>Come avete calcolato la vostra valutazione?</summary>
 
-La nostra valutazione si basa su comparabili. L'elenco dei comparabili di progetto può essere trovato [qui](https://docs.google.com/spreadsheets/d/11sEz9B5ruauiKs3jPzSYJAc9VVpLu7QKnZHOLvxK\_ws/edit?usp=sharing).
+La nostra valutazione si basa su comparabili. L'elenco dei comparabili del progetto può essere trovato [qui](https://docs.google.com/spreadsheets/d/11sEz9B5ruauiKs3jPzSYJAc9VVpLu7QKnZHOLvxK\_ws/edit?usp=sharing).
 
 In questa fase dello sviluppo della nostra azienda, l'utilizzo di metodi di valutazione tradizionali basati su multipli di guadagno, flussi di cassa scontati, valore contabile o valore di liquidazione non fornirebbe un quadro completo o accurato della valutazione di XBorg. Come startup nascente che opera nel campo altamente dinamico e in rapida evoluzione di GameFi e SocialFi, il nostro valore è determinato principalmente da fattori più intangibili come la nostra tecnologia, l'esperienza del team e il potenziale di mercato. Pertanto, il nostro team sta adottando un approccio più olistico alla valutazione che incorpora vari indicatori e tiene conto delle caratteristiche uniche del nostro settore e dell'azienda.
 
-Come parte del nostro processo di due diligence, il nostro team ha analizzato progetti comparabili nello spazio di GameFi e SocialFi, tenendo conto del valore di negoziazione attuale di token simili e dei risultati degli ultimi round di investimento. Sebbene questi fattori abbiano giocato un ruolo nella determinazione della nostra strategia complessiva, riconosciamo anche che altre variabili, come la trazione attuale nel mercato, possono influenzare l'appetito degli investitori. In definitiva, abbiamo stabilito che una valutazione di $45 milioni rappresenta il miglior compromesso tra l'attrazione di investitori di alta qualità e la generazione di un interesse complessivo sufficiente.
+Come parte del nostro processo di due diligence, il nostro team ha analizzato progetti comparabili nello spazio di GameFi e SocialFi, tenendo conto del valore di negoziazione attuale di token simili e dei risultati degli ultimi round di investimento. Sebbene questi fattori abbiano giocato un ruolo nella determinazione della nostra strategia complessiva, riconosciamo anche che altre variabili, come la trazione attuale sul mercato, possono influenzare l'appetibilità degli investitori. In definitiva, abbiamo stabilito che una valutazione di $45 milioni rappresenta il miglior compromesso tra l'attrazione di investitori di alta qualità e la generazione di un interesse complessivo sufficiente.
 
 </details>
 
@@ -131,23 +131,23 @@ Come parte del nostro processo di due diligence, il nostro team ha analizzato pr
 
 <summary>Qual è il prezzo previsto del token all'Evento di Generazione dei Token (TGE)?</summary>
 
-La raccolta fondi pubblica sarà facilitata attraverso un Balancer Liquidity Bootstrapping Pool, con un prezzo iniziale dei token stabilito a $0,5. Il pool inizierà con un rapporto di peso di 96:4 e si bilancerà gradualmente a un rapporto di 50:50 nel corso di un periodo di 72 ore. Tuttavia, è importante notare che questo prezzo iniziale e questa struttura di ponderazione potrebbero essere soggetti a modifiche, in conformità con le condizioni e i requisiti specifici di eventuali futuri exchange con cui XBorg collabora.
+La raccolta fondi pubblica sarà facilitata attraverso un Balancer Liquidity Bootstrapping Pool, con un prezzo di partenza dei token stabilito a $0,5. Il pool inizierà con un rapporto di peso di 96:4 e si bilancerà gradualmente fino a un rapporto di 50:50 nel corso di un periodo di 72 ore. Tuttavia, è importante notare che questo prezzo iniziale e questa struttura di ponderazione potrebbero essere soggetti a modifiche, in conformità con le condizioni e i requisiti specifici di eventuali future borse con cui XBorg collabora.
 
 </details>
 
 <details>
 
-<summary>Quale protocollo viene utilizzato per il Liquidity Bootstrapping Pool durante l'Initial Token Offering (ITO)?</summary>
+<summary>Quale protocollo viene utilizzato per il Liquidity Bootstrapping Pool durante l'Offerta Iniziale di Token (ITO)?</summary>
 
-Il Liquidity Bootstrapping Pool per la nostra Initial Token Offering utilizza il protocollo Balancer.
+Il Liquidity Bootstrapping Pool per la nostra Offerta Iniziale di Token utilizza il protocollo Balancer.
 
 </details>
 
 <details>
 
-<summary>Quale meccanismo utilizza XBorg per determinare il prezzo iniziale e la valutazione, dato che il Liquidity Bootstrapping Pool (LBP) influenza notevolmente il sentiment e il movimento futuri del prezzo?</summary>
+<summary>Quale meccanismo utilizza XBorg per determinare il prezzo di partenza e la valutazione, dato che il Liquidity Bootstrapping Pool (LBP) influenza notevolmente il sentimento e il movimento futuri del prezzo?</summary>
 
-Il Liquidity Bootstrapping Pool (LBP) funge da meccanismo chiave che facilita un processo di scoperta del prezzo fluido per il token. Consente una valutazione equa ed efficiente basata sul mercato, fornendo un equilibrio naturale e dinamico tra domanda e offerta. Puoi saperne di più sugli LBPs [qui](https://docs.balancer.fi/concepts/pools/liquidity-bootstrapping.html#mental-model).
+Il Liquidity Bootstrapping Pool (LBP) funge da meccanismo chiave che facilita un processo di scoperta del prezzo del token fluido. Consente una valutazione equa ed efficiente basata sul mercato, fornendo un equilibrio naturale e dinamico tra domanda e offerta. Puoi saperne di più sugli LBP [qui](https://docs.balancer.fi/concepts/pools/liquidity-bootstrapping.html#mental-model).
 
 </details>
 

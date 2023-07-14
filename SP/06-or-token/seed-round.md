@@ -1,111 +1,111 @@
-# Seed Round
+# Ronda de financiamiento inicial
 
-> XBorg is currently raising a $5m seed round. As part of the round, community members will be able to participate. The exact round details and timing can be found [here](https://www.xborg.com/seed-round).&#x20;
+> XBorg está actualmente recaudando una ronda de financiamiento inicial de $5 millones. Como parte de la ronda, los miembros de la comunidad podrán participar. Los detalles exactos de la ronda y el cronograma se pueden encontrar [aquí](https://www.xborg.com/seed-round).&#x20;
 >
-> It's important to keep in mind that the vesting and locking terms associated with XBG token may be subject to change. As is common with early-stage projects, many of the details and conditions surrounding investments can be subject to adjustment as the project evolves.
+> Es importante tener en cuenta que los términos de bloqueo y adquisición asociados al token XBG pueden estar sujetos a cambios. Como es común en proyectos en etapas tempranas, muchos de los detalles y condiciones relacionadas con las inversiones pueden estar sujetos a ajustes a medida que el proyecto evoluciona.
 >
-> Additionally, it's worth noting that the statement below should not be interpreted as an invitation or encouragement to purchase XBG token. Any decision to invest in this or any other cryptocurrency carries inherent risk and should be carefully considered before taking any action.
+> Además, vale la pena señalar que la siguiente declaración no debe interpretarse como una invitación o un estímulo para comprar el token XBG. Cualquier decisión de invertir en esta u otra criptomoneda conlleva un riesgo inherente y debe considerarse cuidadosamente antes de tomar cualquier acción.
 
 <details>
 
-<summary>When is the seed round opening? </summary>
+<summary>¿Cuándo se abre la ronda de financiamiento inicial? </summary>
 
-The seed round opened on the 16th of May 2023 with the Prometheus vault hosted on [XBorg's launchpad](https://launchpad.xborg.com/project/xborg).
+La ronda de financiamiento inicial se abrió el 16 de mayo de 2023 con el depósito Prometheus alojado en [el lanzamiento de XBorg](https://launchpad.xborg.com/project/xborg).
 
-As for the SwissBorg vaults, the first Public vault opens on the 23rd of May 2023 at 2 pm CET, followed by three additional vaults. The exact dates and vault sizes can be found on [our website](https://www.xborg.com/how-to-invest).
+En cuanto a los depósitos de SwissBorg, el primer depósito público se abre el 23 de mayo de 2023 a las 2 pm CET, seguido de tres depósitos adicionales. Las fechas exactas y los tamaños de los depósitos se pueden encontrar en [nuestro sitio web](https://www.xborg.com/how-to-invest).
 
 </details>
 
 <details>
 
-<summary>How can I take part in the round? </summary>
+<summary>¿Cómo puedo participar en la ronda? </summary>
 
-To participate in the round, you may acquire a Prometheus NFT [here](https://opensea.io/collection/xborg-prometheus) and take part in our [launchpad](https://launchpad.xborg.com/). Alternatively, you can download the SwissBorg app to access the investment opportunities. However, it should be noted that only Prometheus holders are guaranteed an allocation, and the current level of interest for the round surpasses $4.5 million. Consequently, we may not be able to assure allocations through the SwissBorg app. The exact details can be found [here](https://www.xborg.com/how-to-invest).&#x20;
+Para participar en la ronda, puedes adquirir un NFT Prometheus [aquí](https://opensea.io/collection/xborg-prometheus) y participar en nuestro [lanzamiento](https://launchpad.xborg.com/). Alternativamente, puedes descargar la aplicación de SwissBorg para acceder a las oportunidades de inversión. Sin embargo, debes tener en cuenta que solo los poseedores de Prometheus tienen garantizada una asignación, y el nivel actual de interés en la ronda supera los $4.5 millones. En consecuencia, es posible que no podamos asegurar asignaciones a través de la aplicación de SwissBorg. Los detalles exactos se pueden encontrar [aquí](https://www.xborg.com/how-to-invest).&#x20;
 
 
-
-</details>
-
-<details>
-
-<summary>What is the token price for the seed round? </summary>
-
-* VCs, BAs, and Prometheus: $0.045
-* SwissBorg Series A, Genesis, and Generation: $0.05
-* Public: $0.055
 
 </details>
 
 <details>
 
-<summary>Is there a vesting period? </summary>
+<summary>¿Cuál es el precio del token para la ronda de financiamiento inicial? </summary>
 
-For strategic and seed round participants, your investment comes with a lock-in period of 3 months, followed by an 18-month vesting schedule post-TGE. Moreover, 10% of the XBG tokens purchased will be immediately available upon TGE. Please be aware that these terms are subject to change as we adapt to meet the requirements of crypto exchanges.
-
-</details>
-
-<details>
-
-<summary>Is it a great investment opportunity? </summary>
-
-While it's the cheapest price at which someone can buy XBG tokens, it's important to note that we can't guarantee a positive return on investment. In fact, no investment can be guaranteed to yield a positive outcome.
+* VCs, BAs y Prometheus: $0.045
+* SwissBorg Series A, Genesis y Generation: $0.05
+* Público: $0.055
 
 </details>
 
 <details>
 
-<summary>How are the fundraising rounds structured until the TGE? </summary>
+<summary>¿Hay un período de bloqueo? </summary>
 
-* **Strategic round:** $1m raised at $0.025 / XBG token.
-* **Seed round:** $5m raised at $0.045-0.055 / XBG token.&#x20;
-* **Public round:** As per the LBP.&#x20;
+Para los participantes en la ronda estratégica y de financiamiento inicial, tu inversión tiene un período de bloqueo de 3 meses, seguido de un cronograma de adquisición de 18 meses después de la TGE. Además, el 10% de los tokens XBG comprados estarán disponibles de inmediato después de la TGE. Ten en cuenta que estos términos están sujetos a cambios a medida que nos adaptamos a los requisitos de los intercambios de criptomonedas.
 
 </details>
 
 <details>
 
-<summary>Is there a KYC process for participating in the seed round? </summary>
+<summary>¿Es una gran oportunidad de inversión? </summary>
 
-Yes, both the Seed and public rounds will be subject to a KYC procedure. On the XBorg launchpad, the KYC procedure occurs here: [https://launchpad.xborg.com/kyc](https://launchpad.xborg.com/kyc)
-
-</details>
-
-<details>
-
-<summary>How raised funds will be used? </summary>
-
-We are raising a $5m seed round. The raised funds will be allocated as follows and will be spent over the course of 3 years.
-
-* **Technical developments:** 60% ($3'000'000) of the funds will be allocated to technical developments and infrastructure costs. This represents the cost of 10 FTE engineers for three years at an average market salary of $7'000 per month.
-* **Marketing:** 20% ($1'000'000) of the fund will be allocated to marketing expenditures, influencer campaigns, PR, sponsorship opportunities, and events.
-* **Liquidity and exchange listings:** 10% ($500'000) of the fund will be allocated to exchange listing payments and liquidity provision.
-* **Operating costs:** 10% ($500'000) of the funds will be allocated to office rent, legal fees, and software subscriptions.
-
-The current treasury covers the non-technical HR costs.
+Si bien es el precio más bajo al que alguien puede comprar tokens XBG, es importante tener en cuenta que no podemos garantizar un rendimiento positivo de la inversión. De hecho, ninguna inversión puede garantizar un resultado positivo.
 
 </details>
 
 <details>
 
-<summary>What are the minimum and maximum investment limits for the seed round?</summary>
+<summary>¿Cómo se estructuran las rondas de financiamiento hasta la TGE? </summary>
 
-If you are a Prometheus holder, the minimum investment threshold is set at $100, while the maximum limit stands at $3,000 per NFT. For SwissBorg users, investment limits are tier-based and vary accordingly. Please refer to our detailed tier structure on [our website](https://www.xborg.com/how-to-invest).
-
-</details>
-
-<details>
-
-<summary>How will the company handle any unsold tokens?</summary>
-
-In the case of unsold tokens, those could be kept in the treasury and eventually sold OTC to large investors.
+* **Ronda estratégica:** $1 millón recaudado a $0.025 / token XBG.
+* **Ronda de financiamiento inicial:** $5 millones recaudados a $0.045-0.055 / token XBG.&#x20;
+* **Ronda pública:** Según el LBP.&#x20;
 
 </details>
 
 <details>
 
-<summary>Will there be any buy benefits for the SwissBorg token holders regarding their Premium level?</summary>
+<summary>¿Hay un proceso KYC para participar en la ronda de financiamiento inicial? </summary>
 
-Series A investors and Genesis/Generation premiums will be able to purchase XBG tokens during the Seed round, albeit at a higher valuation than Prometheus holders.
+Sí, tanto la ronda de financiamiento inicial como la pública estarán sujetas a un procedimiento KYC. En el lanzamiento de XBorg, el procedimiento KYC se realiza aquí: [https://launchpad.xborg.com/kyc](https://launchpad.xborg.com/kyc)
+
+</details>
+
+<details>
+
+<summary>¿Cómo se utilizarán los fondos recaudados? </summary>
+
+Estamos recaudando $5 millones en la ronda de financiamiento inicial. Los fondos recaudados se asignarán de la siguiente manera y se gastarán durante un período de 3 años.
+
+* **Desarrollo técnico:** El 60% ($3'000'000) de los fondos se destinará a desarrollos técnicos y costos de infraestructura. Esto representa el costo de 10 ingenieros a tiempo completo durante tres años con un salario promedio de mercado de $7'000 al mes.
+* **Marketing:** El 20% ($1'000'000) de los fondos se destinará a gastos de marketing, campañas de influencers, relaciones públicas, oportunidades de patrocinio y eventos.
+* **Liquidez y listados en intercambios:** El 10% ($500'000) de los fondos se destinará a pagos por listados en intercambios y provisión de liquidez.
+* **Costos operativos:** El 10% ($500'000) de los fondos se destinará al alquiler de oficinas, honorarios legales y suscripciones de software.
+
+El tesoro actual cubre los costos de recursos humanos no técnicos.
+
+</details>
+
+<details>
+
+<summary>¿Cuáles son los límites mínimos y máximos de inversión para la ronda de financiamiento inicial?</summary>
+
+Si eres poseedor de Prometheus, el umbral de inversión mínimo se establece en $100, mientras que el límite máximo es de $3,000 por NFT. Para los usuarios de SwissBorg, los límites de inversión se basan en niveles y varían en consecuencia. Consulta nuestra estructura de niveles detallada en [nuestro sitio web](https://www.xborg.com/how-to-invest).
+
+</details>
+
+<details>
+
+<summary>¿Cómo manejará la empresa los tokens no vendidos?</summary>
+
+En caso de que haya tokens no vendidos, estos podrían mantenerse en el tesoro y eventualmente venderse OTC a grandes inversores.
+
+</details>
+
+<details>
+
+<summary>¿Habrá beneficios de compra para los poseedores de tokens SwissBorg en relación a su nivel Premium?</summary>
+
+Los inversores de la Serie A y los poseedores de los niveles Premium de Genesis/Generation podrán comprar tokens XBG durante la ronda de financiamiento inicial, aunque a una valoración más alta que los poseedores de Prometheus.
 
 </details>
 
