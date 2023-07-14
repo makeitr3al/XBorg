@@ -103,3 +103,4 @@ We are dedicated to achieving this by working closely with our players to create
 The first version of the whitepaper was published in July 2022 but is now under revision and will be re-published around Q2 2023.
 
 </details>
+
