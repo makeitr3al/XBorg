@@ -89,3 +89,4 @@ The total cash prize is **$100,000**, distributed over **five games**.
 We sincerely appreciate feedback, and you can submit any comments and improvements directly on our [Discord server](https://discord.gg/xborg). Our team and moderators are always available to assist.&#x20;
 
 </details>
+
