@@ -18,11 +18,11 @@ Membros do conselho da XBorg, detentores de distintivos honorários, jogadores c
 
 #### **Incentivos para desenvolvedores**
 
-Recompensas por bugs, documentação técnica, subsídios para desenvolvedores que constroem em nossa Rede de Aplicativos e contribuições de código aberto.
+Recompensas por identificação de bugs, documentação técnica, subsídios para desenvolvedores que constroem em nossa Rede de Aplicativos e contribuições de código aberto.
 
 #### **Incentivos para uso do protocolo**
 
-Equipes de esportes eletrônicos, desenvolvimento de negócios da comunidade, programa de indicação, integrações iniciais de jogos e curadores de rede de credenciais.
+Equipes de eSports, desenvolvimento de negócios da comunidade, programa de indicação, integrações antecipadas de jogos e curadores de rede de credenciais.
 
 </details>
 
@@ -38,7 +38,7 @@ A XBorg opera sob o princípio orientador de incentivar os atores que contribuem
 
 <summary>Quanto será alocado para incentivos do protocolo?</summary>
 
-De acordo com a distribuição de tokens XBG, 6% do total de tokens será destinado à distribuição de incentivos do protocolo.
+De acordo com a distribuição de tokens XBG, 6% do fornecimento total de tokens está destinado a ser distribuído como incentivos do protocolo.
 
 </details>
 
@@ -46,32 +46,32 @@ De acordo com a distribuição de tokens XBG, 6% do total de tokens será destin
 
 <summary>Os detentores de Prometheus receberão um airdrop?</summary>
 
-Sim, a quantidade total do airdrop variará entre 0,5% a 2% do total de tokens.
+Sim, a quantidade total do airdrop variará entre 0,5% a 2% do fornecimento total de tokens.&#x20;
 
-_Por que uma faixa tão extensa?_
+_Por que uma faixa tão extensa?_&#x20;
 
-Nesta fase, não somos capazes de determinar uma quantidade fixa pré-determinada devido aos seguintes fatores:
+Nesta fase, não somos capazes de fornecer uma quantidade fixa pré-determinada devido aos seguintes fatores:&#x20;
 
 * Listagens em exchanges
 * Avaliação do XBG
 
-De fato, algumas exchanges de Nível 1 vetam quantidades e condições de airdrop.
+De fato, algumas exchanges de Nível 1 vetam as quantidades e condições do airdrop.&#x20;
 
 </details>
 
 <details>
 
-<summary>O airdrop do Prometheus será liberado gradualmente?</summary>
+<summary>O airdrop do Prometheus será bloqueado?</summary>
 
-Sim, ele será liberado linearmente ao longo de 12 meses.
+Sim, ele será liberado linearmente durante 12 meses.&#x20;
 
 </details>
 
 <details>
 
-<summary>Como posso participar do airdrop?</summary>
+<summary>Como posso obter o airdrop?</summary>
 
-Se você está procurando participar de um airdrop, a XBorg não é o lugar para você.
+Se você está procurando obter um airdrop, a XBorg não é o lugar para você.&#x20;
 
 </details>
 
@@ -79,10 +79,10 @@ Se você está procurando participar de um airdrop, a XBorg não é o lugar para
 
 <summary>Os detentores de XP receberão um airdrop?</summary>
 
-Sim, os contribuidores mais ativos receberão um airdrop.
+Sim, os contribuidores mais ativos receberão um airdrop.&#x20;
 
-_Quanto valerá 1 XP?_
+_Quanto valerá 1 XP?_&#x20;
 
-Nesta fase, não podemos confirmar.
+Nesta fase, não podemos confirmar.&#x20;
 
 </details>

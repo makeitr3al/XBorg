@@ -22,7 +22,7 @@ Ricompense per la segnalazione di bug, documentazione tecnica, sovvenzioni per g
 
 #### **Incentivi per l'utilizzo del protocollo**
 
-Squadre di esport, sviluppo aziendale della comunità, programma di riferimento, integrazioni di giochi precoci e curatori della rete di credenziali.\
+Squadre di esport, sviluppo commerciale della comunità, programma di riferimento, integrazioni di giochi precoci e curatori della rete di credenziali.\
 
 
 </details>
@@ -53,16 +53,16 @@ _Perché un range così ampio?_&#x20;
 
 In questa fase, non siamo in grado di fornire una quantità fissa predefinita a causa dei seguenti fattori:&#x20;
 
-* Quotazioni degli exchange
+* Inserimenti nelle borse
 * Valutazione di XBG
 
-Infatti, alcuni exchange di livello 1 vetoano le quantità e le condizioni degli airdrop.&#x20;
+Infatti, alcune borse di livello 1 veto la quantità e le condizioni dell'airdrop.&#x20;
 
 </details>
 
 <details>
 
-<summary>L'airdrop di Prometheus sarà soggetto a vesting?</summary>
+<summary>L'airdrop di Prometheus sarà soggetto a vincoli temporali?</summary>
 
 Sì, verrà rilasciato linearmente per 12 mesi.&#x20;
 

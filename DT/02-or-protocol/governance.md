@@ -1,52 +1,49 @@
 # Governance
 
-> Though currently partially centralized, is moving to a fully decentralized system of governance. This transition will be a paramount step for the ecosystem. The following section will outline timelines and concepts that are important while building towards this decentralized future.
+> Hoewel momenteel gedeeltelijk gecentraliseerd, beweegt XBorg naar een volledig gedecentraliseerd bestuurssysteem. Deze overgang zal een belangrijke stap zijn voor het ecosysteem. Het volgende gedeelte zal de tijdlijnen en concepten uiteenzetten die belangrijk zijn bij het bouwen naar deze gedecentraliseerde toekomst.
 
 <details>
 
-<summary>Is XBorg a DAO? </summary>
+<summary>Is XBorg een DAO? </summary>
 
-Currently, XBorg is predominantly centralized, although Prometheus holders and councils partially influence the governance of the ecosystem. In essence, community voting is used to inform specific decisions.
+Op dit moment is XBorg voornamelijk gecentraliseerd, hoewel Prometheus-houders en raden gedeeltelijk invloed hebben op het bestuur van het ecosysteem. In wezen wordt er gebruik gemaakt van gemeenschapsstemming om specifieke beslissingen te informeren.
 
-Following the Token Generation Event (TGE), XBorg aims to progress toward complete decentralization. However, it is clear that the process of decentralization cannot be immediate and must be approached with patience and care.&#x20;
+Na het Token Generation Event (TGE) streeft XBorg ernaar om volledig gedecentraliseerd te worden. Het is echter duidelijk dat het decentralisatieproces niet onmiddellijk kan plaatsvinden en met geduld en zorg moet worden benaderd.&#x20;
 
 </details>
 
 <details>
 
-<summary>After TGE, how will the governance system work? </summary>
+<summary>Hoe zal het bestuurssysteem werken na het TGE? </summary>
 
-The governance will be applied via quadratic voting, the total XBG tokens held are multiplied by the in-protocol status. This mechanism ensures that larger token holders do not have an accessive impact on the governance and that those who provide value to the ecosystem (via the in-protocol status and XP system) have increased weight in the ecosystem.&#x20;
-
-</details>
-
-<details>
-
-<summary>What kind of decisions will the DAO have? </summary>
-
-As XBorg moves towards full decentralization, its governance will be entrusted with an expansive range of decision-making powers. However, it is worth noting that certain aspects of the project will be exempt from voting, such as the exposure of sensitive data that could potentially jeopardize the longevity of the project or the pursuit of initiatives that are legally questionable or may harm XBorg's reputation or impact previous legal, commercial or financial relationships.
-
-The core contributors will play a supportive and guiding role in facilitating effective DAO decision-making. The types of decisions that will be subject to voting include new product offerings, application feature updates, modifications to fee mechanisms within the protocol, funding DAO activities, controlling DAO expenses and vetoing significant foreseeable expenses, guiding strategic market expansion, and providing input on the composition of the core contributor members.
-
-
+Het bestuur zal worden toegepast via kwadratische stemmen, waarbij het totale aantal XBG-tokens vermenigvuldigd wordt met de in-protocol status. Dit mechanisme zorgt ervoor dat grotere tokenhouders geen overmatige invloed hebben op het bestuur en dat degenen die waarde leveren aan het ecosysteem (via de in-protocol status en het XP-systeem) meer gewicht hebben in het ecosysteem.&#x20;
 
 </details>
 
 <details>
 
-<summary>Why decentralizing XBorg? </summary>
+<summary>Welke soort beslissingen zal de DAO nemen? </summary>
 
-At XBorg, we recognize the paramount importance of being closely connected to our user base, given our role as a credential and application layer for players. In anticipation of a future where technical barriers to entry are minimal, we believe that the community is the most invaluable asset of a protocol. Our unwavering mission is to empower players across the globe.
+Naarmate XBorg zich richt op volledige decentralisatie, zal het bestuur belast worden met een breed scala aan besluitvormingsbevoegdheden. Het is echter vermeldenswaard dat bepaalde aspecten van het project niet onderhevig zullen zijn aan stemming, zoals het blootstellen van gevoelige gegevens die mogelijk de levensduur van het project in gevaar kunnen brengen, of het nastreven van initiatieven die juridisch twijfelachtig zijn of de reputatie van XBorg kunnen schaden of invloed kunnen hebben op eerdere juridische, commerciële of financiële relaties.
 
-With the vision of becoming the largest gaming ecosystem that builds consumer applications by and for players, XBorg understands the sensitive nature of player data and credentials. We firmly believe that centralized entities cannot adequately handle such information and that decentralized alternatives will ultimately prevail.
+De kernbijdragers zullen een ondersteunende en begeleidende rol spelen bij het faciliteren van effectieve besluitvorming binnen de DAO. De soorten beslissingen die onderhevig zullen zijn aan stemming zijn onder andere nieuwe productaanbiedingen, updates van applicatiefuncties, wijzigingen in de vergoedingsmechanismen binnen het protocol, financiering van DAO-activiteiten, beheer van DAO-uitgaven en veto van aanzienlijke voorzienbare uitgaven, begeleiding van strategische marktuitbreiding en het geven van input over de samenstelling van de kernbijdragers.
 
 </details>
 
 <details>
 
-<summary>How do you incentivize community participation? </summary>
+<summary>Waarom decentraliseert XBorg? </summary>
 
-To foster a robust and engaged community, we at XBorg have implemented a governance structure that emphasizes active participation. Specifically, we have set a 10% quorum requirement for governance votes, which ensures that a significant portion of the community has a voice in important decisions. Additionally, to incentivize community members to take part in governance, we will offer rewards in the form of XBG tokens for a predetermined period of time. This approach serves to promote the democratic and participatory ethos that underpins our vision for XBorg as a decentralized gaming ecosystem.
+Bij XBorg erkennen we het grote belang van een nauwe verbinding met onze gebruikers, gezien onze rol als referentie- en toepassingslaag voor spelers. In anticipatie op een toekomst waarin technische toetredingsdrempels minimaal zijn, geloven we dat de gemeenschap het meest waardevolle bezit is van een protocol. Onze onwrikbare missie is om spelers over de hele wereld te versterken.
+
+Met de visie om het grootste gaming-ecosysteem te worden dat consumententoepassingen bouwt door en voor spelers, begrijpt XBorg de gevoelige aard van spelergegevens en referenties. We zijn er stellig van overtuigd dat gecentraliseerde entiteiten dergelijke informatie niet adequaat kunnen beheren en dat gedecentraliseerde alternatieven uiteindelijk zullen zegevieren.
 
 </details>
 
+<details>
+
+<summary>Hoe stimuleert u deelname van de gemeenschap? </summary>
+
+Om een sterke en betrokken gemeenschap te bevorderen, hebben wij bij XBorg een bestuursstructuur geïmplementeerd die actieve deelname benadrukt. Specifiek hebben we een quorumeis van 10% gesteld voor bestuursstemmingen, wat ervoor zorgt dat een aanzienlijk deel van de gemeenschap een stem heeft in belangrijke beslissingen. Daarnaast zullen we om gemeenschapsleden te stimuleren deel te nemen aan het bestuur, beloningen aanbieden in de vorm van XBG-tokens gedurende een vooraf bepaalde periode. Deze aanpak dient ter bevordering van de democratische en participatieve ethiek die ten grondslag ligt aan onze visie voor XBorg als een gedecentraliseerd gaming-ecosysteem.
+
+</details>

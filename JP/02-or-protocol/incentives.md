@@ -1,89 +1,88 @@
-# Incentives
+# インセンティブ
 
-> XBorg has always said that all must experience the value they generate, and we have developed our ecosystem under these principles. The following section will highlight the various current and future mechanisms that will offer value to active members of the protocol.
+> XBorgは常に、自分たちが生み出す価値をすべての人が体験する必要があると述べており、私たちはこの原則の下でエコシステムを開発してきました。以下のセクションでは、プロトコルの活発なメンバーに価値を提供するさまざまな現在および将来のメカニズムについて説明します。
 
 <details>
 
-<summary>What are the XBorg protocol incentives? </summary>
+<summary>XBorgプロトコルのインセンティブは何ですか？</summary>
 
-To foster the protocol development, certain rewards will be attributed to different demographics:&#x20;
+プロトコルの開発を促進するために、異なるデモグラフィックに報酬が与えられます：&#x20;
 
-#### **Early Supporters**
+#### **早期のサポーター**
 
-Core contributors, early protocol users, XP holders, and Prometheus holders.
+コアの貢献者、早期のプロトコルのユーザー、XP保有者、Prometheus保有者。
 
-#### **Community**
+#### **コミュニティ**
 
-XBorg council members, Honorary badge holders, competitive players, tournament organizers, and content creators.
+XBorg評議会のメンバー、名誉バッジの保持者、競技プレイヤー、トーナメント主催者、コンテンツクリエイター。
 
-#### **Developer incentives**
+#### **開発者へのインセンティブ**
 
-Bug bounties, technical documentation, grants for developers building on our Application Network, and open-source contributions.
+バグ報奨金、技術文書、アプリケーションネットワーク上で開発を行う開発者への助成金、オープンソースへの貢献。
 
-#### **Protocol usage incentives**
+#### **プロトコルの利用に対するインセンティブ**
 
-Esports teams, community business development, referral program, early game integrations, and credential network curators.\
-
+eスポーツチーム、コミュニティのビジネス開発、紹介プログラム、早期のゲーム統合、資格ネットワークのキュレーター。
 
 </details>
 
 <details>
 
-<summary>Why give incentives? </summary>
+<summary>なぜインセンティブを与えるのですか？</summary>
 
-XBorg operates under the guiding principle of incentivizing actors who contribute positively to its ecosystem. Whether one is a devoted community member, an innovative developer, or an active participant in the protocol's utilization, XBorg recognizes the importance of rewarding merit and promoting a meritocratic culture. Centralized value accrual runs counter to the notion of a community-centric philosophy. Thus XBorg remains steadfast in its commitment to ensuring the equitable distribution of rewards across its entire ecosystem.
-
-</details>
-
-<details>
-
-<summary>How much will be allocated to protocol incentives?</summary>
-
-As per the XBG token distribution, 6% of the total token supply is intended to be distributed for protocol incentives.
+XBorgは、エコシステムに積極的に貢献するアクターにインセンティブを与えるという指針の下で運営しています。献身的なコミュニティメンバーや革新的な開発者、プロトコルの利用に積極的な参加者など、XBorgは功績を報い、功績主義の文化を促進することの重要性を認識しています。中央集権的な価値の蓄積は、コミュニティ中心の哲学とは相反します。したがって、XBorgはエコシステム全体にわたる報酬の公正な分配を確保することに対する確固たる決意を持ち続けています。
 
 </details>
 
 <details>
 
-<summary>Will Prometheus holders receive an airdrop? </summary>
+<summary>プロトコルのインセンティブにはどれくらいの割り当てがされますか？</summary>
 
-Yes, the total airdrop amount will vary between 0.5% to 2% of the total token supply.&#x20;
-
-_Why such an extensive range?_&#x20;
-
-At this stage, we aren't able to give a pre-determined fixed amount due to the following factors:&#x20;
-
-* Exchange listings
-* XBG valuation
-
-Indeed, some Tier 1 exchanges veto airdrop amounts and conditions.&#x20;
+XBGトークンの配布によれば、総トークン供給量の6%がプロトコルのインセンティブとして配布される予定です。
 
 </details>
 
 <details>
 
-<summary>Will the Prometheus airdrop be vested? </summary>
+<summary>Prometheus保有者はエアドロップを受け取りますか？</summary>
 
-Yes, it will be released linearly for 12 months.&#x20;
+はい、エアドロップの総量は総トークン供給量の0.5%から2%の範囲で異なります。
+
+_なぜこのような幅広い範囲なのですか？_
+
+現時点では、以下の要因により、事前に決められた固定額を提示することができません。
+
+* 取引所の上場
+* XBGの評価
+
+実際に、一部のTier 1の取引所はエアドロップの金額と条件を拒否することがあります。
 
 </details>
 
 <details>
 
-<summary>How can I farm the airdrop? </summary>
+<summary>Prometheusのエアドロップはベストされますか？</summary>
 
-If you are looking to farm an airdrop, XBorg is not a place for you.&#x20;
+はい、12ヶ月間にわたってリニアにリリースされます。
 
 </details>
 
 <details>
 
-<summary>Will the XP holders receive an airdrop? </summary>
+<summary>どのようにエアドロップを受け取ることができますか？</summary>
 
-Yes, the most active contributors will receive an airdrop.&#x20;
+エアドロップを受け取るためにファームする方法はありません。XBorgはそのような場所ではありません。
 
-_How much will 1 XP be worth?_&#x20;
+</details>
 
-At this stage, we are unable to confirm.&#x20;
+<details>
+
+<summary>XP保有者はエアドロップを受け取りますか？</summary>
+
+はい、最も積極的な貢献者はエアドロップを受け取ります。
+
+_1XPはどれくらいの価値になりますか？_
+
+現時点では確認することができません。
 
 </details>

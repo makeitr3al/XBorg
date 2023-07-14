@@ -1,6 +1,6 @@
 # Governança
 
-> Embora atualmente parcialmente centralizado, está caminhando para um sistema de governança totalmente descentralizado. Essa transição será um passo fundamental para o ecossistema. A seção a seguir apresentará cronogramas e conceitos importantes para a construção desse futuro descentralizado.
+> Embora atualmente parcialmente centralizado, está caminhando para um sistema de governança totalmente descentralizado. Essa transição será um passo fundamental para o ecossistema. A seção a seguir irá delinear cronogramas e conceitos importantes para a construção desse futuro descentralizado.
 
 <details>
 
@@ -8,7 +8,7 @@
 
 Atualmente, o XBorg é predominantemente centralizado, embora os detentores de Prometheus e os conselhos influenciem parcialmente a governança do ecossistema. Em essência, a votação da comunidade é usada para informar decisões específicas.
 
-Após o Evento de Geração de Tokens (TGE), o XBorg pretende avançar em direção à descentralização completa. No entanto, está claro que o processo de descentralização não pode ser imediato e deve ser abordado com paciência e cuidado.
+Após o Evento de Geração de Tokens (TGE), o XBorg pretende progredir em direção à descentralização completa. No entanto, está claro que o processo de descentralização não pode ser imediato e deve ser abordado com paciência e cuidado.
 
 </details>
 
@@ -26,7 +26,7 @@ A governança será aplicada por meio de votação quadrática, em que o total d
 
 À medida que o XBorg avança em direção à descentralização completa, sua governança será encarregada de uma ampla gama de poderes de tomada de decisão. No entanto, vale ressaltar que certos aspectos do projeto estarão isentos de votação, como a exposição de dados sensíveis que possam comprometer a longevidade do projeto ou a busca de iniciativas que sejam legalmente questionáveis ou possam prejudicar a reputação do XBorg ou impactar relacionamentos legais, comerciais ou financeiros anteriores.
 
-Os principais contribuidores desempenharão um papel de apoio e orientação na facilitação da tomada de decisões eficaz do DAO. Os tipos de decisões que estarão sujeitas a votação incluem novas ofertas de produtos, atualizações de recursos do aplicativo, modificações nos mecanismos de taxas dentro do protocolo, financiamento de atividades do DAO, controle de despesas do DAO e veto de despesas significativas previsíveis, orientação para expansão estratégica de mercado e fornecimento de contribuições sobre a composição dos membros principais contribuintes.
+Os contribuidores principais desempenharão um papel de apoio e orientação na facilitação da tomada de decisões eficaz do DAO. Os tipos de decisões que estarão sujeitas a votação incluem novas ofertas de produtos, atualizações de recursos do aplicativo, modificações nos mecanismos de taxas dentro do protocolo, financiamento de atividades do DAO, controle de despesas do DAO e veto de despesas significativas previsíveis, orientação para expansão estratégica de mercado e fornecimento de contribuições sobre a composição dos membros contribuintes principais.
 
 </details>
 
@@ -44,6 +44,6 @@ Com a visão de se tornar o maior ecossistema de jogos que constrói aplicativos
 
 <summary>Como vocês incentivam a participação da comunidade?</summary>
 
-Para promover uma comunidade robusta e engajada, nós, no XBorg, implementamos uma estrutura de governança que enfatiza a participação ativa. Especificamente, estabelecemos um requisito de quórum de 10% para votações de governança, o que garante que uma parte significativa da comunidade tenha voz em decisões importantes. Além disso, para incentivar os membros da comunidade a participar da governança, ofereceremos recompensas na forma de tokens XBG por um período de tempo determinado. Essa abordagem serve para promover o ethos democrático e participativo que fundamenta nossa visão para o XBorg como um ecossistema de jogos descentralizado.
+Para promover uma comunidade robusta e engajada, nós, no XBorg, implementamos uma estrutura de governança que enfatiza a participação ativa. Especificamente, estabelecemos um requisito de quórum de 10% para votações de governança, o que garante que uma parte significativa da comunidade tenha voz em decisões importantes. Além disso, para incentivar os membros da comunidade a participarem da governança, ofereceremos recompensas na forma de tokens XBG por um período de tempo predeterminado. Essa abordagem serve para promover o ethos democrático e participativo que fundamenta nossa visão para o XBorg como um ecossistema de jogos descentralizado.
 
 </details>
