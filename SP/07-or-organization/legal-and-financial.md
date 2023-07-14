@@ -2,56 +2,61 @@
 
 <details>
 
-<summary>What is the business model and how will the company generate revenue?</summary>
+<summary>¿Cuál es el modelo de negocio y cómo generará ingresos la empresa?</summary>
 
-The revenues of the protocol can be described as follow:
+Los ingresos del protocolo se pueden describir de la siguiente manera:
 
-#### Application Network
+#### Red de Aplicaciones
 
-* Seasons Pass and Account subscriptions (users)&#x20;
-* Account subscriptions (businesses)&#x20;
-* Primary collectible sales&#x20;
-* Launchpad fees
+* Suscripciones de Pases de Temporada y Cuentas (usuarios)
+* Suscripciones de Cuentas (empresas)
+* Ventas primarias de coleccionables
+* Tarifas de plataforma de lanzamiento
 
-#### Decentralized gaming communities&#x20;
+#### Comunidades de juegos descentralizados
 
-* Proprietary Stake in Gaming Communities Initial Team Offering fees Player earnings tokenization fees
-* Credential network Credential API fees PGC fees Sequencer fees
-* DAO GameFi asset Management Direct investments in Web3 games Esports team sponsorship Tournament sponsorship.
-
-</details>
-
-<details>
-
-<summary>What is the liquidity situation of XBorg? What amount is held in the treasury, and who has access to it currently?</summary>
-
-Excluding the ongoing seed round, XBorg currently holds $800,000 in its treasury. Given our gross monthly burn rate of $40,000, this equates to a runway of approximately 20 months, even if no additional profits are made during this period. As for treasury management, the funds are securely kept in several Gnosis safes (multi-signature wallets). Access to these funds is strictly controlled and currently managed by Louis (XBorg's CEO), the SwissBorg treasurer, along with one additional SwissBorg executive.
+* Oferta Inicial de Equipo Inicial de Propiedad en Comunidades de Juegos
+* Tarifas de tokenización de ganancias de jugadores
+* Tarifas de API de credenciales de red de credenciales
+* Tarifas de PGC
+* Tarifas de secuenciador
+* Gestión de activos de juego DAO GameFi
+* Inversiones directas en juegos Web3
+* Patrocinio de equipos de deportes electrónicos
+* Patrocinio de torneos.
 
 </details>
 
 <details>
 
-<summary>How does XBorg approach risk management, especially in the event of an extended bear market?</summary>
+<summary>¿Cuál es la situación de liquidez de XBorg? ¿Qué cantidad se encuentra en el tesoro y quién tiene acceso a él actualmente?</summary>
 
-Risk management is a critical aspect of our operations at XBorg. We adopt a lean operational model that allows us to maintain a relatively low monthly burn rate of $40,000, which covers the compensation for our team of 12 full-time team members. By maintaining an average salary of approximately $3.3k per month per employee, we ensure we attract and retain high-quality talent while keeping our expenses manageable.
-
-In the case of an extended bear market, our current financial strategy provides us with a sufficient runway to continue executing our roadmap without an immediate need for additional funds.
+Excluyendo la ronda de financiación en curso, XBorg actualmente tiene $800,000 en su tesoro. Dado nuestro índice de quema bruta mensual de $40,000, esto equivale a una autonomía de aproximadamente 20 meses, incluso si no se generan ganancias adicionales durante este período. En cuanto a la gestión del tesoro, los fondos se mantienen de forma segura en varias bóvedas de Gnosis (monederos de firma múltiple). El acceso a estos fondos está estrictamente controlado y actualmente es gestionado por Louis (CEO de XBorg), el tesorero de SwissBorg, junto con otro ejecutivo de SwissBorg.
 
 </details>
 
 <details>
 
-<summary>Does XBorg possess any licenses or certificates?</summary>
+<summary>¿Cómo aborda XBorg la gestión de riesgos, especialmente en caso de un mercado bajista prolongado?</summary>
 
-At present, XBorg does not hold any specific licenses or certificates. However, we have initiated the application process for a VARA license.
+La gestión de riesgos es un aspecto crítico de nuestras operaciones en XBorg. Adoptamos un modelo operativo eficiente que nos permite mantener una tasa de quema mensual relativamente baja de $40,000, que cubre la compensación para nuestro equipo de 12 miembros a tiempo completo. Al mantener un salario promedio de aproximadamente $3.3k al mes por empleado, nos aseguramos de atraer y retener talento de alta calidad mientras mantenemos nuestros gastos bajo control.
+
+En caso de un mercado bajista prolongado, nuestra estrategia financiera actual nos proporciona suficiente autonomía para continuar ejecutando nuestro plan sin necesidad inmediata de fondos adicionales.
 
 </details>
 
 <details>
 
-<summary>Where is XBorg registered as a company?</summary>
+<summary>¿XBorg posee alguna licencia o certificado?</summary>
 
-XBorg is officially registered as XBorg DMCC in Dubai, within the Dubai Multi Commodities Centre (DMCC).
+Actualmente, XBorg no posee ninguna licencia o certificado específico. Sin embargo, hemos iniciado el proceso de solicitud de una licencia VARA.
 
 </details>
 
+<details>
+
+<summary>¿Dónde está registrada XBorg como empresa?</summary>
+
+XBorg está oficialmente registrada como XBorg DMCC en Dubái, dentro del Dubai Multi Commodities Centre (DMCC).
+
+</details>
