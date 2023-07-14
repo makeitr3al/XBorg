@@ -58,4 +58,3 @@ The NFTs will be sellable on secondary marketplaces such as Opensea, Blur etc.
 
 </details>
 
-
