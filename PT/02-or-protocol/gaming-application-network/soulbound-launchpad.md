@@ -1,6 +1,6 @@
 # Soulbound Launchpad
 
-> Os jogadores poderão acessar oportunidades de investimento com base em seus dados de jogo, e os desenvolvedores podem direcionar jogadores e comunidades que mostram propensão para interesse em seus projetos. A versão 1 deste produto está ativa e, desde o seu lançamento, já impulsionou 6 jogos, com um total de $200.000 em investimentos.
+> Os jogadores poderão acessar oportunidades de investimento com base em seus dados no jogo, e os desenvolvedores podem direcionar jogadores e comunidades que mostram propensão para interesse em seus projetos. A versão 1 deste produto está ativa e, desde o seu lançamento, já impulsionou 6 jogos, com um total de $200.000 em investimentos.
 
 <details>
 
@@ -14,7 +14,7 @@ O Soulbound Launchpad é uma plataforma que conecta jogadores a jogos que estão
 
 <summary>Qual é a diferença entre o seu launchpad e outros?</summary>
 
-Os jogadores conectados ao Soulbound Launchpad através da rede de credenciais têm acesso a ofertas personalizadas de acordo com suas credenciais de jogo. Isso significa que um jogador de FPS tem mais chances de receber uma oportunidade relacionada a jogos de FPS.
+Os jogadores conectados ao Soulbound Launchpad através da rede de credenciais têm acesso a ofertas personalizadas de acordo com suas credenciais de jogos. Isso significa que um jogador de FPS tem mais chances de receber uma oportunidade relacionada a jogos de FPS.
 
 </details>
 
@@ -22,7 +22,7 @@ Os jogadores conectados ao Soulbound Launchpad através da rede de credenciais t
 
 <summary>Como os projetos do launchpad são selecionados?</summary>
 
-O conselho de investimento realiza um processo de due diligence detalhado em várias etapas, culminando em um relatório abrangente. No mercado privado (capital de risco, investidores-anjo), mantemos alguns dos relatórios de due diligence mais abrangentes e detalhados no setor de GameFi.
+O conselho de investimento realiza um processo de due diligence rigoroso em várias etapas, culminando em um relatório abrangente. No mercado privado (capital de risco, investidores-anjo), mantemos alguns dos relatórios de due diligence mais abrangentes e detalhados no setor de GameFi.
 
 </details>
 
@@ -55,7 +55,7 @@ Nós suportamos os países suportados pela SwissBorg. A lista completa pode ser 
 <summary>O que significam os termos vesting, locking e FDV?</summary>
 
 * **Vesting** se refere ao período durante o qual os tokens são distribuídos.
-* **Locked** se refere ao período durante o qual os tokens estão bloqueados.
+* **Locked** se refere ao período durante o qual os tokens são bloqueados.
 * **FDV** se refere à avaliação de um token, calculada multiplicando seu preço pelo fornecimento máximo. (Fully Diluted Valuation)
 
 </details>
@@ -78,9 +78,9 @@ Se o launchpad não mostrar o compromisso, por favor abra um ticket de suporte n
 
 <details>
 
-<summary>Moro em um país que não me permite instalar o aplicativo SwissBorg, então não consigo fazer o KYC. Qual é a solução para isso?</summary>
+<summary>Moro em um país que não me permite instalar o aplicativo SwissBorg, então não consigo fazer KYC. Qual é a solução para isso?</summary>
 
-No momento, só suportamos nacionalidades disponíveis no aplicativo SwissBorg. A XBorg está trabalhando ativamente na expansão de sua rede e, com o tempo, mais regiões e nacionalidades serão elegíveis para o KYC.
+No momento, só suportamos nacionalidades disponíveis no aplicativo SwissBorg. A XBorg está trabalhando ativamente na expansão de sua rede e, com o tempo, mais regiões e nacionalidades serão elegíveis para KYC.
 
 </details>
 
@@ -110,9 +110,9 @@ A SwissBorg é uma das melhores opções para adquirir USDC a partir de outras c
 
 <details>
 
-<summary>Recebo meus fundos de volta quando um projeto falha ou é fraudulento?</summary>
+<summary>Recebo meus fundos de volta quando um projeto falha ou é uma fraude?</summary>
 
-Realizamos uma due diligence minuciosa nas oportunidades do launchpad da XBorg para limitar o número de projetos que falham.
+Realizamos uma due diligence rigorosa nas oportunidades do launchpad da XBorg para limitar o número de projetos que falham.
 
 Não será feito reembolso se for considerada culpa dos investidores.
 
@@ -120,7 +120,7 @@ Não será feito reembolso se for considerada culpa dos investidores.
 
 <details>
 
-<summary>Por que preciso fazer o KYC?</summary>
+<summary>Por que preciso fazer KYC?</summary>
 
 Para que a XBorg cumpra a jurisdição relevante em relação aos launchpads.
 

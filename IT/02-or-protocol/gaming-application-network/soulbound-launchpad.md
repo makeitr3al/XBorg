@@ -6,7 +6,7 @@
 
 <summary>Cos'è il Soulbound Launchpad?</summary>
 
-Il Soulbound Launchpad è una piattaforma che mette in contatto i giocatori con i giochi che raccolgono capitali basandosi sulla loro identità digitale. Consente agli sviluppatori di giochi di mirare a giocatori specifici utilizzando le loro identità digitali e raccogliere fondi.
+Il Soulbound Launchpad è una piattaforma che collega i giocatori con i giochi che raccolgono capitali basandosi sulla loro identità digitale. Consente agli sviluppatori di giochi di mirare a giocatori specifici utilizzando le loro identità digitali e raccogliere fondi.
 
 </details>
 
@@ -22,7 +22,7 @@ I giocatori collegati al Soulbound Launchpad tramite la rete di credenziali otte
 
 <summary>Come vengono selezionati i progetti del launchpad?</summary>
 
-Il consiglio degli investimenti svolge un accurato processo di due diligence a più fasi, che culmina in un rapporto completo. Nel mercato privato (venture capitalist, business angel), manteniamo alcuni dei rapporti di due diligence più completi e dettagliati nel settore GameFi.
+Il consiglio di investimento svolge un attento processo di due diligence in più fasi, che culmina in un rapporto completo. Nel mercato privato (venture capitalist, business angel), manteniamo alcuni dei rapporti di due diligence più completi e dettagliati nel settore GameFi.
 
 </details>
 
@@ -78,9 +78,9 @@ Se il launchpad non mostra l'impegno, apri un ticket di supporto su Discord.
 
 <details>
 
-<summary>Vivo in un paese che non mi permette di installare l'app SwissBorg, quindi non posso effettuare la KYC. Qual è la soluzione a questo problema?</summary>
+<summary>Vivo in un paese che non mi consente di installare l'app SwissBorg, quindi non posso effettuare la KYC. Qual è la soluzione a questo problema?</summary>
 
-Al momento, supportiamo solo le nazionalità disponibili sull'app SwissBorg. XBorg sta lavorando attivamente per espandere la propria rete e, col tempo, altre regioni e nazionalità saranno idonee per la KYC.
+Al momento, supportiamo solo le nazionalità disponibili sull'app SwissBorg. XBorg sta lavorando attivamente per espandere la propria rete e nel tempo saranno ammissibili alla KYC altre regioni e nazionalità.
 
 </details>
 
@@ -88,7 +88,7 @@ Al momento, supportiamo solo le nazionalità disponibili sull'app SwissBorg. XBo
 
 <summary>C'è una differenza tra le fasi Prometheus, Partner e Public?</summary>
 
-Le fasi a cui gli utenti sono idonei variano in base alla loro demografia. I detentori di Prometheus ricevono i maggiori vantaggi e non sono tenuti a pagare commissioni, mentre le altre fasi hanno commissioni e dimensioni di allocazione diverse.
+Le fasi a cui gli utenti sono ammissibili variano in base alla loro demografia. I detentori di Prometheus ricevono i maggiori vantaggi e non sono tenuti a pagare commissioni, mentre le altre fasi hanno commissioni e dimensioni di allocazione diverse.
 
 </details>
 
@@ -110,7 +110,7 @@ SwissBorg è una delle migliori opzioni per ottenere USDC da altre criptovalute 
 
 <details>
 
-<summary>Riceverò i miei fondi indietro se un progetto fallisce o è una truffa?</summary>
+<summary>Recupero i miei fondi se un progetto fallisce o si rivela truffaldino?</summary>
 
 Effettuiamo un'attenta due diligence sulle opportunità del launchpad di XBorg per limitare il numero di progetti che falliscono.
 

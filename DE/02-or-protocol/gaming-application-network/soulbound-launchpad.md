@@ -22,7 +22,7 @@ Spieler, die über das Credential-Netzwerk mit dem Soulbound Launchpad verbunden
 
 <summary>Wie werden Launchpad-Projekte ausgewählt?</summary>
 
-Der Investmentrat führt einen gründlichen mehrstufigen Due-Diligence-Prozess durch, der in einem umfassenden Bericht gipfelt. Im privaten Markt (Venture Capitalist, Business Angels) führen wir einige der umfassendsten und detailliertesten Due-Diligence-Berichte im GameFi-Sektor.
+Der Investmentrat führt einen gründlichen mehrstufigen Due-Diligence-Prozess durch, der in einem umfassenden Bericht gipfelt. Im privaten Markt (Venture Capitalists, Business Angels) führen wir einige der umfassendsten und detailliertesten Due-Diligence-Berichte im GameFi-Sektor.
 
 </details>
 
@@ -30,7 +30,7 @@ Der Investmentrat führt einen gründlichen mehrstufigen Due-Diligence-Prozess d
 
 <summary>Wie häufig gibt es Investitionsmöglichkeiten?</summary>
 
-Unsere Fähigkeit, Projekte anzunehmen, hängt vollständig von der Qualität unseres Deal-Flows ab. Daher betrachten wir nur Projekte, die hohe Qualitätsstandards erfüllen.
+Unsere Fähigkeit, Projekte anzunehmen, hängt vollständig von der Qualität unserer Deal-Flow ab. Daher betrachten wir nur Projekte, die hohe Qualitätsstandards erfüllen.
 
 </details>
 
@@ -72,7 +72,7 @@ Ethereum, über USDC (ERC-20).
 
 <summary>Ich habe in einen Deal investiert, aber das Launchpad zeigt mein Engagement nicht an. Was soll ich tun?</summary>
 
-Wenn das Launchpad das Engagement nicht anzeigt, öffne bitte ein Support-Ticket auf Discord.
+Wenn das Launchpad das Engagement nicht anzeigt, eröffne bitte ein Support-Ticket auf Discord.
 
 </details>
 
@@ -122,6 +122,6 @@ Es wird keine Rückerstattung erfolgen, wenn es als Fehler der Investoren angese
 
 <summary>Warum muss ich KYC durchführen?</summary>
 
-Damit XBorg den relevanten Rechtsvorschriften in Bezug auf Launchpads entsprechen kann.
+Damit XBorg den relevanten Rechtsvorschriften in Bezug auf Launchpads entspricht.
 
 </details>

@@ -1,78 +1,78 @@
-# Gaming Credential Network
+# ゲーム認証ネットワーク
 
-> Before exploring the following questions, go through the presentation of the Gaming Credential Network:[#what-is-a-gaming-credential-network](gaming-credential-network.md#what-is-a-gaming-credential-network "mention") :sunglasses:
+> 以下の質問に進む前に、ゲーム認証ネットワークのプレゼンテーションをご覧ください：[#ゲーム認証ネットワークとは](gaming-credential-network.md#what-is-a-gaming-credential-network "mention") :sunglasses:
 
 <details>
 
-<summary>Why build a Gaming Credential Network?</summary>
+<summary>なぜゲーム認証ネットワークを構築するのですか？</summary>
 
-In today's society, where leisure time is becoming increasingly abundant, players spend countless hours immersed in gaming worlds. Yet, the data generated from these experiences is often undervalued and fragmented across multiple games. XBorg recognizes the value of players' time and seeks to make their data meaningful and valuable. Think of it as a gaming [**Decentralized Identifier (DID)**](https://www.w3.org/TR/did-core/) system.\
+現代の社会では、余暇時間がますます豊富になり、プレイヤーはゲームの世界に没頭するために数時間を費やしています。しかし、これらの経験から生成されるデータはしばしば低く評価され、複数のゲームに分散しています。XBorgは、プレイヤーの時間の価値を認識し、そのデータを意味のあるものにし、価値を持つものにすることを目指しています。それをゲームの[**分散型識別子（DID）**](https://www.w3.org/TR/did-core/)システムと考えてください。\
 \
-Furthermore, the Gaming Credential Network allows for the creation of better gaming applications and interoperability bound to the identity of players.
+さらに、ゲーム認証ネットワークは、プレイヤーのアイデンティティに結び付いた優れたゲームアプリケーションと相互運用性の創造を可能にします。
 
 </details>
 
 <details>
 
-<summary>What are the benefits for players?</summary>
+<summary>プレイヤーにとっての利点は何ですか？</summary>
 
-* Players own and centralize their gaming data in one place
-* Players gain access to gaming applications and utilities within the ecosystem
-* Players can monetize their data
-
-</details>
-
-<details>
-
-<summary>What are the benefits for developers?</summary>
-
-* Developers can develop custom player experiences
-* Businesses can acquire users by targeting players for a fee
-* The Gaming Credential Network provides instant access to games and developers, expanding their reach
-* Developers can access more granular data, enhancing matchmaking accuracy and other app features
-* The platform enables new use cases for applications, including reputation-based lending
+* プレイヤーは自分のゲームデータを一箇所で所有・集約できます
+* プレイヤーはエコシステム内のゲームアプリケーションやユーティリティにアクセスできます
+* プレイヤーは自分のデータを収益化できます
 
 </details>
 
 <details>
 
-<summary>How does a player ID look like?</summary>
+<summary>開発者にとっての利点は何ですか？</summary>
 
-The player ID is a Soulbound token representing an aggregation of all Soulbound tokens obtained by the user. The player ID also incorporates Soulbound tokens outside of the XBorg ecosystem such as Lens protocol.
-
-</details>
-
-<details>
-
-<summary>Can developers start building applications on top of the credential network now?</summary>
-
-Currently, the Gaming Credential Network is centralized. Upon decentralization of the network, developers can build on top of it.
+* 開発者はカスタムプレイヤーエクスペリエンスを開発できます
+* ビジネスは料金を支払ってプレイヤーをターゲットにしてユーザーを獲得できます
+* ゲーム認証ネットワークは、ゲームと開発者への即時アクセスを提供し、彼らの範囲を拡大します
+* 開発者はより詳細なデータにアクセスでき、マッチメイキングの精度やその他のアプリ機能を向上させることができます
+* このプラットフォームは、評判に基づいた貸付など、アプリケーションの新たなユースケースを可能にします
 
 </details>
 
 <details>
 
-<summary>How do you scale the Gaming Credential Network?</summary>
+<summary>プレイヤーIDはどのように見えますか？</summary>
 
-The gaming and community engagement app is the main application that allows us to scale the Gaming Credential Network.
-
-</details>
-
-<details>
-
-<summary>How is data privacy handled?</summary>
-
-Iterations of the protocol in the future will allow players to disclose pertinent data points selectively by enabling opt-in/opt-out functionality. Furthermore, zero-knowledge technologies are set to be incorporated in subsequent updates, underscoring the platform's unwavering commitment to privacy and data security.
+プレイヤーIDは、ユーザーが取得したすべてのSoulboundトークンの集約を表すSoulboundトークンです。プレイヤーIDには、LensプロトコルなどのXBorgエコシステム外のSoulboundトークンも含まれます。
 
 </details>
 
 <details>
 
-<summary>What are the modules of the Credential Network?</summary>
+<summary>開発者は認証ネットワークの上にアプリケーションを開発できますか？</summary>
 
-* Community
-* Player
-* Game
+現在、ゲーム認証ネットワークは中央集権化されています。ネットワークの分散化後、開発者はそれを利用してアプリケーションを開発できます。
+
+</details>
+
+<details>
+
+<summary>ゲーム認証ネットワークはどのようにスケーリングされますか？</summary>
+
+ゲームとコミュニティエンゲージメントアプリは、ゲーム認証ネットワークをスケーリングするための主要なアプリケーションです。
+
+</details>
+
+<details>
+
+<summary>データプライバシーはどのように扱われますか？</summary>
+
+将来のプロトコルのイテレーションにより、プレイヤーはオプトイン/オプトアウトの機能を有効にすることで、関連するデータポイントを選択的に開示できるようになります。さらに、ゼロ知識技術は後続のアップデートで組み込まれる予定であり、プラットフォームのプライバシーとデータセキュリティへの確固たるコミットメントを強調しています。
+
+</details>
+
+<details>
+
+<summary>認証ネットワークのモジュールは何ですか？</summary>
+
+* コミュニティ
+* プレイヤー
+* ゲーム
 
 ### ![](../.gitbook/assets/modules.png)
 
@@ -80,36 +80,36 @@ Iterations of the protocol in the future will allow players to disclose pertinen
 
 <details>
 
-<summary>Is the Gaming Credential Network on-chain?</summary>
+<summary>ゲーム認証ネットワークはオンチェーンですか？</summary>
 
-At present, the Gaming Credential Network is securely stored off-chain. However, as the ecosystem garners traction and the user base surpasses the 100,000 threshold, the network will seamlessly transition onto the blockchain, underscoring XBorg's steadfast commitment to accessibility and transparency.
-
-</details>
-
-<details>
-
-<summary>Is the dev documentation or SDK ready?</summary>
-
-It's currently in the works but won't be released until the end of 2023.
+現在、ゲーム認証ネットワークはオフチェーンで安全に保存されています。ただし、エコシステムがトラクションを得てユーザーベースが10万を超えると、ネットワークはシームレスにブロックチェーン上に移行し、XBorgのアクセシビリティと透明性への堅固なコミットメントを強調します。
 
 </details>
 
 <details>
 
-<summary>On which blockchain will the Credential Network be built?</summary>
+<summary>開発者向けのドキュメントやSDKは利用可能ですか？</summary>
 
-Initially, Polygon and other L2. As the Network gains traction, it will become its own L2/L3, known as the Borg chain.
+現在開発中ですが、2023年末までリリースされません。
 
 </details>
 
 <details>
 
-<summary>What are the limitations of the Gaming Credential Network?</summary>
+<summary>認証ネットワークはどのブロックチェーン上に構築されますか？</summary>
 
-* **Sybil resistance:** An inherent constraint of network infrastructure lies in the susceptibility of its users to adopt false personas or leverage advanced technologies such as artificial intelligence to manipulate their digital identities. To mitigate the detrimental effects of Sybil attacks, one effective strategy involves the incorporation of a Proof of Identity mechanism into the network's underlying protocol.
+最初はPolygonや他のL2です。ネットワークがトラクションを得るにつれて、独自のL2/L3であるBorgチェーンになります。
+
+</details>
+
+<details>
+
+<summary>ゲーム認証ネットワークの制限は何ですか？</summary>
+
+* **シビル耐性:** ネットワークインフラの固有の制約として、ユーザーが偽のペルソナを採用したり、人工知能などの高度な技術を利用してデジタルアイデンティティを操作したりする可能性があります。シビル攻撃の有害な影響を軽減するためには、ネットワークの基礎プロトコルに身元証明のメカニズムを組み込むという効果的な戦略があります。
 
 <!---->
 
-* **Scale**: The true value proposition of the credential network is contingent upon achieving a requisite level of network scale, a priority that currently holds significant strategic importance for XBorg. However, once this objective is realized, the potential utilities that can be derived from the network are truly boundless.
+* **スケール**: 認証ネットワークの真の価値提案は、必要なネットワークスケールの達成に依存しています。現在、これはXBorgにとって重要な戦略的重要性を持つ優先事項です。ただし、この目標が達成されると、ネットワークから派生する可能性のあるユーティリティは本当に無限です。
 
 </details>
