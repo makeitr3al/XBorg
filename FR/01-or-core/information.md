@@ -1,10 +1,10 @@
-# Information
+# Informations
 
 > Cette section vise à offrir au lecteur un aperçu général de XBorg avant d'explorer le reste de ce document. C'est le meilleur endroit pour commencer à développer une compréhension générale de XBorg.
 
 #### Ci-dessous, vous trouverez Louis Regis, PDG de XBorg, qui présente XBorg.
 
-{% embed url="https://www.youtube.com/watch?v=aeuPKZ-hKHc" %}
+{% embed url="https://youtu.be/yqQf0ETfB9w" %}
 
 <details>
 
@@ -36,7 +36,7 @@ Salut, petit ! As-tu déjà joué à des jeux sur ta tablette ou ton téléphone
 
 XBorg est comme un outil spécial qui t'aide à créer ton propre personnage numérique que tu peux utiliser pour jouer à des jeux. C'est comme créer ton propre super-héros !
 
-Et la meilleure partie, c'est que ton super-héros te donne des super pouvoirs dans d'autres applications de jeu cool aussi. C'est comme donner des super pouvoirs à tous les joueurs de la planète.
+Et la meilleure partie, c'est que ton super-héros te donne des super-pouvoirs dans d'autres applications de jeu cool aussi. C'est comme donner des super-pouvoirs à tous les joueurs de la planète.
 
 XBorg est soutenu par des personnes vraiment importantes et intelligentes qui pensent que cela va changer la façon dont nous jouons aux jeux à l'avenir. Alors prépare-toi, parce que XBorg va être vraiment important !
 
@@ -54,11 +54,11 @@ Notre système suit trois types de données utilisateur :
 2. Performance de jeu
 3. Activité sociale/fan
 
-Nous recueillons ces données à partir de plates-formes populaires telles que Steam, FaceIt, Riot Games, Twitter, Discord et des sources sur chaîne.
+Nous recueillons ces données à partir de plates-formes populaires telles que Steam, FaceIt, Riot Games, Twitter, Discord et des sources en chaîne.
 
-Pour le dire techniquement, le réseau de références de jeu utilise des jetons liés à l'âme des joueurs (NFT non transférables) pour stocker leurs mesures en toute sécurité. Notre agrégateur de données avancé, XBorg, garantit aux joueurs la pleine propriété de leurs données.
+Pour le dire techniquement, le réseau de références de jeu utilise des jetons liés à l'âme des joueurs (NFT non transférables) pour stocker leurs métriques en toute sécurité. Notre agrégateur de données avancé, XBorg, garantit aux joueurs la pleine propriété de leurs données.
 
-Le réseau de références est le fondement permettant la création d'applications de jeu améliorées et de jeux connectés à l'identité des joueurs.
+Le réseau de références est le fondement permettant la création d'applications de jeu améliorées et de jeux liés à l'identité des joueurs.
 
 Par conséquent, imaginez le protocole Lens pour les jeux.
 
@@ -78,11 +78,11 @@ Nous prévoyons que l'utilisation du réseau de références soit sans permissio
 
 <summary>Quelle est la mission de XBorg ?</summary>
 
-Notre mission chez XBorg est de donner aux joueurs du monde entier les moyens de posséder, de gouverner et de bénéficier d'expériences utilisateur supérieures. Nous croyons fermement que l'avenir du jeu est entre les mains des joueurs, et nous nous engageons à être la plateforme où ils peuvent créer et posséder de nouveaux cas d'utilisation pour l'industrie du jeu.
+Notre mission chez XBorg est de donner aux joueurs du monde entier les moyens de posséder, de gouverner et de bénéficier d'expériences utilisateur supérieures. Nous croyons fermement que l'avenir du jeu réside entre les mains des joueurs, et nous nous engageons à être la plateforme où ils peuvent créer et posséder de nouveaux cas d'utilisation pour l'industrie du jeu.
 
 Chez XBorg, nous donnons la priorité aux besoins de nos joueurs et nous nous efforçons de créer un environnement qui favorise la collaboration, la gouvernance ouverte, la décentralisation et l'innovation. Notre objectif est de construire une communauté mondiale de joueurs qui peuvent prendre en main leurs expériences de jeu, créer leurs propres applications et contribuer à la croissance de l'industrie.
 
-Nous nous engageons à réaliser cela en travaillant en étroite collaboration avec nos joueurs pour créer un monde meilleur pour les joueurs partout.
+Nous nous engageons à y parvenir en travaillant en étroite collaboration avec nos joueurs pour créer un monde meilleur pour les joueurs partout.
 
 </details>
 
@@ -90,12 +90,12 @@ Nous nous engageons à réaliser cela en travaillant en étroite collaboration a
 
 <summary>Quels sont quelques liens utiles ?</summary>
 
-* [**Site Web**](https://www.xborg.com)
+* [**Site Web**](https://www.xborg.com)&#x20;
 * [**Twitter**](https://twitter.com/xborg\_official)
-* [**Discord**](https://discord.com/invite/xborg)
+* [**Discord**](https://discord.com/invite/xborg)&#x20;
 * [**YouTube**](https://www.youtube.com/@xborgofficial)
 * [**Twitch**](https://www.twitch.tv/xborgofficial)
-* [**Medium**](https://medium.com/xborg-official)
+* [**Medium**](https://medium.com/xborg-official)&#x20;
 * [**Pitch deck**](https://docsend.com/view/5dwn74pn6izud3vb)
 * [**Application**](http://gaming.xborg.com/)
 * [**Launchpad**](https://launchpad.xborg.com/)

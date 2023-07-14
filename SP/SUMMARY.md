@@ -1,33 +1,33 @@
-# Table of contents
+# Índice
 
-* [XBorg's Ultimate FAQ](README.md)
+* [Preguntas frecuentes definitivas de XBorg](README.md)
 
 ## ℹ 01 | CORE
 
-* [Information](01-or-core/information.md)
-* [Collaboration](01-or-core/collaboration.md)
-* [Roadmap](01-or-core/roadmap.md)
+* [Información](01-or-core/information.md)
+* [Colaboración](01-or-core/collaboration.md)
+* [Hoja de ruta](01-or-core/roadmap.md)
 
-## 📄 02 | PROTOCOL
+## 📄 02 | PROTOCOLO
 
-* [Gaming Credential Network](02-or-protocol/gaming-credential-network.md)
-* [Gaming Application Network](02-or-protocol/gaming-application-network/README.md)
-  * [Gaming Engagement App](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
+* [Red de credenciales de juegos](02-or-protocol/gaming-credential-network.md)
+* [Red de aplicaciones de juegos](02-or-protocol/gaming-application-network/README.md)
+  * [Aplicación de participación en juegos](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
   * [Soulbound Launchpad](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
-  * [Initial Team Offerings](02-or-protocol/gaming-application-network/initial-team-offerings.md)
-* [Governance](02-or-protocol/governance.md)
-* [Incentives](02-or-protocol/incentives.md)
+  * [Ofertas iniciales de equipos](02-or-protocol/gaming-application-network/initial-team-offerings.md)
+* [Gobernanza](02-or-protocol/governance.md)
+* [Incentivos](02-or-protocol/incentives.md)
 
-## 📈 03 | MARKET
+## 📈 03 | MERCADO
 
-* [Competition](03-or-market/competition.md)
+* [Competencia](03-or-market/competition.md)
 
-## ♠ 04 | TEAM
+## ♠ 04 | EQUIPO
 
-* [Meet the Team](04-or-team/meet-the-team.md)
-* [HR](04-or-team/hr.md)
+* [Conoce al equipo](04-or-team/meet-the-team.md)
+* [Recursos humanos](04-or-team/hr.md)
 
-## 🤝 05 | COMMUNITY
+## 🤝 05 | COMUNIDAD
 
 * [NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
@@ -36,9 +36,9 @@
 ## 💰 06 | TOKEN
 
 * [XBG](06-or-token/xbg.md)
-* [Fundraise](06-or-token/fundraise.md)
-* [Seed Round](06-or-token/seed-round.md)
+* [Recaudación de fondos](06-or-token/fundraise.md)
+* [Ronda de financiación inicial](06-or-token/seed-round.md)
 
-## 💼 07 | ORGANIZATION
+## 💼 07 | ORGANIZACIÓN
 
-* [Legal and Financial](07-or-organization/legal-and-financial.md)
+* [Legal y financiero](07-or-organization/legal-and-financial.md)

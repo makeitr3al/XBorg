@@ -1,9 +1,9 @@
-# XBorg's Ultimate FAQ
+# XBorg的终极常见问题解答
 
 {% hint style="info" %}
-Disclaimer:&#x20;
+免责声明：&#x20;
 
-This is a community driven translation of the [original FAQ](https://xborg-1.gitbook.io/faq/) and should not be considered true until officially used. No liability is assumed for any potentially incorrect information published here.
+这是社区驱动的[原始常见问题解答](https://xborg-1.gitbook.io/faq/)的翻译版本，在正式使用之前不应被视为真实。对于此处可能存在的任何错误信息，不承担任何责任。
 {% endhint %}
 
-On **03/04/2023**, XBorg announced it is opening its seed round, and Prometheus NFT holders, alongside select SwissBorg users, will have the chance to participate. The round will offer its participants access to $XBG, the native token of XBorg, at its lowest valuation. In preparation of this round, we have compiled, categorized, and answered a series of questions asked by the community.
+在**2023年3月4日**，XBorg宣布将开放种子轮融资，Prometheus NFT持有者以及部分SwissBorg用户将有机会参与。此轮融资将为参与者提供以最低估值获得XBorg的本地代币$XBG的机会。为了准备这一轮融资，我们整理、分类并回答了社区提出的一系列问题。

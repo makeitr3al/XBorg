@@ -1,44 +1,44 @@
-# Table of contents
+# 目录
 
-* [XBorg's Ultimate FAQ](README.md)
+* [XBorg的终极FAQ](README.md)
 
-## ℹ 01 | CORE
+## ℹ 01 | 核心
 
-* [Information](01-or-core/information.md)
-* [Collaboration](01-or-core/collaboration.md)
-* [Roadmap](01-or-core/roadmap.md)
+* [信息](01-or-core/information.md)
+* [合作](01-or-core/collaboration.md)
+* [路线图](01-or-core/roadmap.md)
 
-## 📄 02 | PROTOCOL
+## 📄 02 | 协议
 
-* [Gaming Credential Network](02-or-protocol/gaming-credential-network.md)
-* [Gaming Application Network](02-or-protocol/gaming-application-network/README.md)
-  * [Gaming Engagement App](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
-  * [Soulbound Launchpad](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
-  * [Initial Team Offerings](02-or-protocol/gaming-application-network/initial-team-offerings.md)
-* [Governance](02-or-protocol/governance.md)
-* [Incentives](02-or-protocol/incentives.md)
+* [游戏凭证网络](02-or-protocol/gaming-credential-network.md)
+* [游戏应用网络](02-or-protocol/gaming-application-network/README.md)
+  * [游戏参与应用](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
+  * [灵魂绑定发射台](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
+  * [初始团队发行](02-or-protocol/gaming-application-network/initial-team-offerings.md)
+* [治理](02-or-protocol/governance.md)
+* [激励](02-or-protocol/incentives.md)
 
-## 📈 03 | MARKET
+## 📈 03 | 市场
 
-* [Competition](03-or-market/competition.md)
+* [竞争](03-or-market/competition.md)
 
-## ♠ 04 | TEAM
+## ♠ 04 | 团队
 
-* [Meet the Team](04-or-team/meet-the-team.md)
-* [HR](04-or-team/hr.md)
+* [团队介绍](04-or-team/meet-the-team.md)
+* [人力资源](04-or-team/hr.md)
 
-## 🤝 05 | COMMUNITY
+## 🤝 05 | 社区
 
-* [NFT](05-or-community/nft.md)
-* [XP](05-or-community/xp.md)
-* [Esports](05-or-community/esports.md)
+* [非同质化代币](05-or-community/nft.md)
+* [经验值](05-or-community/xp.md)
+* [电子竞技](05-or-community/esports.md)
 
-## 💰 06 | TOKEN
+## 💰 06 | 代币
 
 * [XBG](06-or-token/xbg.md)
-* [Fundraise](06-or-token/fundraise.md)
-* [Seed Round](06-or-token/seed-round.md)
+* [筹款](06-or-token/fundraise.md)
+* [种子轮](06-or-token/seed-round.md)
 
-## 💼 07 | ORGANIZATION
+## 💼 07 | 组织
 
-* [Legal and Financial](07-or-organization/legal-and-financial.md)
+* [法律和财务](07-or-organization/legal-and-financial.md)

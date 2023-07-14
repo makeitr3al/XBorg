@@ -1,11 +1,11 @@
-# Table of contents
+# Inhoudsopgave
 
 * [XBorg's Ultimate FAQ](README.md)
 
-## ℹ 01 | CORE
+## ℹ 01 | KERN
 
-* [Information](01-or-core/information.md)
-* [Collaboration](01-or-core/collaboration.md)
+* [Informatie](01-or-core/informatie.md)
+* [Samenwerking](01-or-core/samenwerking.md)
 * [Roadmap](01-or-core/roadmap.md)
 
 ## 📄 02 | PROTOCOL
@@ -18,13 +18,13 @@
 * [Governance](02-or-protocol/governance.md)
 * [Incentives](02-or-protocol/incentives.md)
 
-## 📈 03 | MARKET
+## 📈 03 | MARKT
 
-* [Competition](03-or-market/competition.md)
+* [Concurrentie](03-or-market/concurrentie.md)
 
 ## ♠ 04 | TEAM
 
-* [Meet the Team](04-or-team/meet-the-team.md)
+* [Ontmoet het Team](04-or-team/ontmoet-het-team.md)
 * [HR](04-or-team/hr.md)
 
 ## 🤝 05 | COMMUNITY
@@ -39,6 +39,6 @@
 * [Fundraise](06-or-token/fundraise.md)
 * [Seed Round](06-or-token/seed-round.md)
 
-## 💼 07 | ORGANIZATION
+## 💼 07 | ORGANISATIE
 
-* [Legal and Financial](07-or-organization/legal-and-financial.md)
+* [Juridisch en Financieel](07-or-organization/juridisch-en-financieel.md)
