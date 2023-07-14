@@ -1,6 +1,6 @@
 # HR
 
-> Dopo aver raccolto fondi iniziali, XBorg intende crescere come team ed espandere le proprie capacità. Questa sezione metterà in evidenza tutte le domande relative alla crescita dell'organizzazione e a come intende mantenere gli impegni del team verso il progetto e la sua missione.
+> Dopo aver raccolto fondi, XBorg intende crescere come team ed espandere le proprie capacità. Questa sezione metterà in evidenza tutte le domande relative alla crescita dell'organizzazione e a come intende mantenere gli impegni del team verso il progetto e la sua missione.
 
 <details>
 
@@ -14,15 +14,15 @@ Come parte del nostro piano strategico di crescita, abbiamo avviato il reclutame
 
 <summary>Come attiri i dipendenti nell'azienda?</summary>
 
-Presso XBorg, riconosciamo che il fondamento del nostro successo risiede nella qualità del talento che attiriamo e manteniamo. Per garantire di avere accesso alle menti più brillanti e talentuose del settore, abbiamo adottato un approccio multiforme all'acquisizione di talenti, sfruttando il potere della nostra comunità, il sito web di carriere di SwissBorg, le raccomandazioni di persona e un solido programma di referenze. Nel nostro percorso futuro, ci impegniamo a perfezionare e rafforzare le nostre strategie di comunicazione per attirare profili tecnici di alto livello a unirsi al nostro team dinamico e innovativo.
+Da XBorg, riconosciamo che il successo della nostra azienda si basa sulla qualità del talento che attiriamo e manteniamo. Per garantire di avere accesso alle menti più brillanti e talentuose del settore, abbiamo adottato un approccio multifattoriale all'acquisizione di talenti, sfruttando il potere della nostra comunità, il sito web di carriere di SwissBorg, le raccomandazioni di persona e un solido programma di referral. Mentre procediamo, ci impegniamo a perfezionare e rafforzare le nostre strategie di comunicazione per attirare profili tecnici di alto livello che si uniscano al nostro team dinamico e innovativo.
 
 </details>
 
 <details>
 
-<summary>Quali sono le retribuzioni medie presso XBorg?</summary>
+<summary>Quali sono le compensazioni medie presso XBorg?</summary>
 
-Presso XBorg, abbiamo implementato una struttura di compensazione che prevede una retribuzione media di **$3.200 USDC**, integrata da incentivi sotto forma di **token XBG**. Sebbene questo approccio rifletta il nostro impegno a allineare gli interessi dei membri del team con quelli dell'ecosistema XBorg, è importante sottolineare che i nostri livelli di compensazione rimangono al di sotto degli standard di mercato vigenti, a testimonianza dell'alto coinvolgimento e della dedizione dei membri del nostro team al successo della nostra visione condivisa. Le retribuzioni per gli ingegneri software sono più elevate, con un range compreso tra $4.000 USDC e $8.000 USDC.&#x20;
+Da XBorg, abbiamo implementato una struttura di compensazione che prevede una retribuzione media di **$3.200 USDC**, integrata da incentivi sotto forma di **token XBG**. Sebbene questo approccio rifletta il nostro impegno a allineare gli interessi dei membri del team con quelli dell'ecosistema di XBorg, è importante sottolineare che i nostri tassi di compensazione rimangono al di sotto degli standard di mercato prevalenti, a testimonianza dell'alto coinvolgimento e della dedizione dei membri del nostro team al successo della nostra visione condivisa. Le retribuzioni per gli ingegneri software sono più elevate, con un range che va da $4.000 USDC a $8.000 USDC.
 
 </details>
 
@@ -30,21 +30,21 @@ Presso XBorg, abbiamo implementato una struttura di compensazione che prevede un
 
 <summary>Qual è il piano HR per i prossimi 18 mesi?</summary>
 
-Per ampliare le nostre capacità operative e migliorare le prestazioni della nostra infrastruttura, stiamo cercando di assumere più ingegneri, in particolare nelle aree dello sviluppo backend, dell'ingegneria dei contratti intelligenti e del DevOps. Vogliamo reclutare 15 ingegneri altamente qualificati nei prossimi 18 mesi. Oltre al nostro team tecnico, stiamo anche pianificando di assumere professionisti nel campo dello sviluppo aziendale, del consulente legale e della contabilità per supportare la crescita del protocollo. Concederemo sovvenzioni a sviluppatori esterni man mano che aumenteremo il numero di applicazioni nell'ecosistema.
+Per ampliare le nostre capacità operative e migliorare le prestazioni della nostra infrastruttura, stiamo cercando di assumere più ingegneri, in particolare nelle aree dello sviluppo backend, dell'ingegneria dei contratti intelligenti e del DevOps. Ci proponiamo di reclutare 15 ingegneri altamente qualificati nei prossimi 18 mesi. Oltre al nostro team tecnico, stiamo anche pianificando di assumere professionisti nello sviluppo aziendale, consulenza legale e contabilità per supportare la crescita del protocollo. Concederemo sovvenzioni a sviluppatori esterni man mano che aumenteremo il numero di applicazioni nell'ecosistema.
 
 </details>
 
 <details>
 
-<summary>Qual è l'impegno temporale di ciascuno dei fondatori?</summary>
+<summary>Qual è l'impegno di tempo di ciascuno dei fondatori?</summary>
 
-Louis è l'unico fondatore di XBorg, completamente immerso nel suo ruolo e dedica la sua attenzione esclusivamente al mondo di XBorg, senza altre attività concorrenti che richiedano il suo tempo e la sua concentrazione.
+Louis è l'unico fondatore di XBorg, completamente immerso nel suo ruolo e dedica la sua attenzione esclusivamente a XBorg, senza altri progetti concorrenti che richiedano il suo tempo e la sua attenzione.
 
 </details>
 
 <details>
 
-<summary>Qual è lo stipendio dei fondatori (inclusi benefici, auto, ecc.)?</summary>
+<summary>Qual è lo stipendio dei fondatori (inclusi i benefit, le auto, ecc.)?</summary>
 
 Lo stipendio del fondatore è di **3.000 USDC**, al di sotto della media del team. Non sono previsti altri vantaggi.
 
@@ -54,7 +54,7 @@ Lo stipendio del fondatore è di **3.000 USDC**, al di sotto della media del tea
 
 <summary>Gli sviluppi tecnici del protocollo sono realizzati internamente?</summary>
 
-Presso XBorg, crediamo nello sviluppare soluzioni tecniche internamente, sfruttando l'esperienza del nostro dedicato team di ingegneria. Consideriamo l'outsourcing a fornitori esterni come una soluzione a breve termine, priva dei vantaggi di un investimento a lungo termine nelle capacità del nostro stesso team. Pertanto, diamo la priorità alla costruzione del nostro team interno e alla promozione della loro crescita per massimizzare il valore dei nostri sviluppi tecnici.
+Da XBorg, crediamo nello sviluppare soluzioni tecniche internamente, sfruttando l'esperienza del nostro dedicato team di ingegneria. Consideriamo l'outsourcing a contractor come una soluzione a breve termine, priva dei vantaggi di un investimento a lungo termine nelle capacità del nostro stesso team. Pertanto, diamo la priorità alla costruzione del nostro team interno e alla promozione della loro crescita per massimizzare il valore dei nostri sviluppi tecnici.
 
 </details>
 
@@ -62,6 +62,6 @@ Presso XBorg, crediamo nello sviluppare soluzioni tecniche internamente, sfrutta
 
 <summary>Come motivi le persone nel tuo team?</summary>
 
-Per allineare gli interessi dei membri del nostro team con quelli dell'ecosistema XBorg, abbiamo ideato un sistema di compensazione che prevede una combinazione di retribuzione basata su USDC insieme a un'allocazione di token XBG provenienti dal Team token supply. Questo approccio incentiva e motiva i membri del nostro team a raggiungere i nostri obiettivi collettivi, favorendo un senso di proprietà condivisa e allineamento degli interessi.
+Per allineare gli interessi dei membri del nostro team con quelli dell'ecosistema di XBorg, abbiamo elaborato un sistema di compensazione che prevede una combinazione di retribuzione in USDC e un'allocazione di token XBG provenienti dal Team token supply. Questo approccio incentiva e motiva i membri del nostro team a raggiungere i nostri obiettivi collettivi, favorendo un senso di proprietà condivisa e allineamento degli interessi.
 
 </details>

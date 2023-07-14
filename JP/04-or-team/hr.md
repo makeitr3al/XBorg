@@ -1,67 +1,67 @@
-# HR
+# 人事
 
-> Following its seed raise, XBorg intends to grow as a team and expand capabilities. This section will highlight all questions relating to the organization's growth, and how it intends to maintain team commitments to the project, and its mission.
+> シードラウンドを終えたXBorgは、チームの成長と能力の拡大を目指しています。このセクションでは、組織の成長に関連するすべての質問と、プロジェクトとそのミッションへのチームの取り組みを維持する方法について説明します。
 
 <details>
 
-<summary>Who are you planning to recruit in the near future?</summary>
+<summary>近い将来、どのような人材を採用する予定ですか？</summary>
 
-As part of our strategic growth plan, we have initiated recruiting 2 to 3 senior software engineers in the upcoming quarter (Q2 2023). This hiring drive is a critical step towards realizing our comprehensive 18-month roadmap, which outlines our ambitious plans and objectives for the future.
+戦略的な成長計画の一環として、私たちは来るクォーター（2023年第2四半期）に2〜3人のシニアソフトウェアエンジニアの採用を開始しました。この採用活動は、将来の野心的な計画と目標を明確にした包括的な18ヶ月のロードマップを実現するための重要なステップです。
 
 </details>
 
 <details>
 
-<summary>How do you attract employees to the company?</summary>
+<summary>どのようにして社員を会社に引き付けますか？</summary>
 
-At XBorg, we recognize that the foundation of our success lies in the caliber of talent that we attract and retain. To ensure we have access to the best and brightest minds in the industry, we have employed a multi-faceted approach to talent acquisition, leveraging the power of our community, SwissBorg's career website, word-of-mouth recommendations, and a robust referral program. As we move forward, we remain committed to refining and strengthening our outreach strategies to enable us to attract top-tier technical profiles to join our dynamic and innovative team.
-
-</details>
-
-<details>
-
-<summary>What are the average compensations at XBorg?</summary>
-
-At XBorg, we have implemented a compensation structure that features an average remuneration of **$3,200 USDC**, supplemented by incentivization in the form of **XBG tokens**. While this approach reflects our commitment to aligning the interests of our team members with those of the XBorg ecosystem, it is noteworthy that our compensation rates remain below the prevailing market standards, a reflection of the deep involvement and dedication of our team members to the success of our shared vision. Remunerations for software engineers are higher, ranging from $4,000 USDC to $8,000 USDC.&#x20;
+XBorgでは、私たちの成功の基盤が業界で最も優れた才能を引きつけ、保持することにあることを認識しています。業界で最も優れた才能にアクセスするために、私たちは多角的な人材獲得のアプローチを採用しています。コミュニティの力、SwissBorgのキャリアウェブサイト、口コミの推薦、堅牢な紹介プログラムを活用しています。今後も、私たちはアウトリーチ戦略を改善し強化することに取り組み、ダイナミックで革新的なチームに一流の技術者を引き入れることができるよう努めます。
 
 </details>
 
 <details>
 
-<summary>What is the HR plan for the coming 18 months?</summary>
+<summary>XBorgの平均報酬はどのくらいですか？</summary>
 
-To expand our operational capabilities and enhance the performance of our infrastructure, we are looking to hire more engineers, specifically in the areas of backend development, smart contract engineering, and DevOps. We aim to bring 15 highly skilled engineers on board over the next 18 months. In addition to our technical team, we are also planning to recruit professionals in business development, legal counsel, and accounting to support the growth of the protocol. We will issue grants to third-party developers as we scale the number of ecosystem applications.
-
-</details>
-
-<details>
-
-<summary>What is the time commitment of each of the founders?</summary>
-
-Louis is the sole founder of XBorg, fully immersed in his role and devoting his undivided attention to the realm of XBorg, with no other concurrent ventures vying for his time and focus.
+XBorgでは、平均報酬が**3,200 USDC**である報酬体系を導入しており、**XBGトークン**の形でインセンティブも提供しています。このアプローチは、チームメンバーの利益をXBorgエコシステムの利益と調整することへの取り組みを反映していますが、報酬率は市場の標準に比べて低いことに留意してください。これは、チームメンバーが共有ビジョンの成功に深く関与し、献身していることを反映しています。ソフトウェアエンジニアの報酬は、4,000 USDCから8,000 USDCまで高くなっています。
 
 </details>
 
 <details>
 
-<summary>What is the founders' salary (including benefits, cars, etc.)?</summary>
+<summary>今後18ヶ月間の人事計画は何ですか？</summary>
 
-The founder's salary is **3,000 USDC**, below the team average. No other perks are derived.
-
-</details>
-
-<details>
-
-<summary>Are the technical developments of the protocol done in-house? </summary>
-
-At XBorg, we believe in developing technical solutions in-house, utilizing the expertise of our dedicated engineering team. We view outsourcing to contractors as a short-term solution, lacking the benefits of long-term investment in our own team's capabilities. As such, we prioritize building our internal team and fostering their growth to maximize the value of our technical developments.
+運用能力を拡大し、インフラのパフォーマンスを向上させるために、バックエンド開発、スマートコントラクトエンジニアリング、DevOpsの分野でエンジニアをさらに採用する予定です。次の18ヶ月間で15人の高度な技術者を採用することを目指しています。技術チームに加えて、ビジネス開発、法務、会計の専門家を採用してプロトコルの成長をサポートする予定です。エコシステムアプリケーションの数を拡大するにつれて、サードパーティの開発者に助成金を発行します。
 
 </details>
 
 <details>
 
-<summary>How do you motivate people in your team?</summary>
+<summary>各創業者の時間的な貢献はどのくらいですか？</summary>
 
-To align the interests of our team members with those of the XBorg ecosystem, we have devised a compensation framework that features a combination of USDC-based remuneration alongside an allocation of XBG tokens sourced from the Team token supply. This approach incentivizes and motivates our team members toward attaining our collective objectives while fostering a sense of shared ownership and alignment of interests.
+ルイスはXBorgの唯一の創業者であり、彼の役割に完全に没頭し、彼の時間と焦点を競合する他の事業はありません。
+
+</details>
+
+<details>
+
+<summary>創業者の給与（手当、車などを含む）はどのくらいですか？</summary>
+
+創業者の給与は**3,000 USDC**で、チームの平均以下です。他の特典はありません。
+
+</details>
+
+<details>
+
+<summary>プロトコルの技術的な開発は社内で行われていますか？</summary>
+
+XBorgでは、専任のエンジニアリングチームの専門知識を活用して、技術的なソリューションを社内で開発することを信じています。外部の契約業者に委託することを短期的な解決策と見なし、自社チームの能力に長期的な投資の利点がないと考えています。そのため、私たちは内部チームの構築と成長を優先し、技術的な開発の価値を最大化しています。
+
+</details>
+
+<details>
+
+<summary>チームのメンバーをどのようにやる気にさせますか？</summary>
+
+チームメンバーの利益をXBorgエコシステムの利益と調整するために、私たちは報酬フレームワークを考案しました。これには、USDCベースの報酬と、チームトークン供給からのXBGトークンの割り当てが組み合わされています。このアプローチにより、私たちは共通の目標の達成を促進し、共有の所有感と利益の調整を育むことができます。
 
 </details>
