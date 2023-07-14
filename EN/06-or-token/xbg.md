@@ -159,3 +159,4 @@ It's very likely. In order to be listed on SwissBorg, the XBG token needs to be 
 </details>
 
 &#x20;
+
