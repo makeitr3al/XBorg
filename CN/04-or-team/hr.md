@@ -1,67 +1,67 @@
-# HR
+# 人力资源
 
-> Following its seed raise, XBorg intends to grow as a team and expand capabilities. This section will highlight all questions relating to the organization's growth, and how it intends to maintain team commitments to the project, and its mission.
+> 在完成种子轮融资后，XBorg计划扩大团队规模并增强能力。本部分将重点介绍与组织增长相关的所有问题，以及它如何保持团队对项目和使命的承诺。
 
 <details>
 
-<summary>Who are you planning to recruit in the near future?</summary>
+<summary>你们计划在近期招聘哪些人？</summary>
 
-As part of our strategic growth plan, we have initiated recruiting 2 to 3 senior software engineers in the upcoming quarter (Q2 2023). This hiring drive is a critical step towards realizing our comprehensive 18-month roadmap, which outlines our ambitious plans and objectives for the future.
+作为我们战略增长计划的一部分，我们计划在未来一个季度（2023年第二季度）招聘2至3名高级软件工程师。这次招聘活动是实现我们全面的18个月路线图的关键步骤，该路线图概述了我们未来的雄心勃勃的计划和目标。
 
 </details>
 
 <details>
 
-<summary>How do you attract employees to the company?</summary>
+<summary>你们如何吸引员工加入公司？</summary>
 
-At XBorg, we recognize that the foundation of our success lies in the caliber of talent that we attract and retain. To ensure we have access to the best and brightest minds in the industry, we have employed a multi-faceted approach to talent acquisition, leveraging the power of our community, SwissBorg's career website, word-of-mouth recommendations, and a robust referral program. As we move forward, we remain committed to refining and strengthening our outreach strategies to enable us to attract top-tier technical profiles to join our dynamic and innovative team.
-
-</details>
-
-<details>
-
-<summary>What are the average compensations at XBorg?</summary>
-
-At XBorg, we have implemented a compensation structure that features an average remuneration of **$3,200 USDC**, supplemented by incentivization in the form of **XBG tokens**. While this approach reflects our commitment to aligning the interests of our team members with those of the XBorg ecosystem, it is noteworthy that our compensation rates remain below the prevailing market standards, a reflection of the deep involvement and dedication of our team members to the success of our shared vision. Remunerations for software engineers are higher, ranging from $4,000 USDC to $8,000 USDC.&#x20;
+在XBorg，我们认识到我们成功的基础在于吸引和留住顶尖人才。为了确保我们能够拥有行业中最优秀、最聪明的人才，我们采用了多方面的人才招聘方法，利用我们的社区、SwissBorg的职业网站、口碑推荐和强大的推荐计划。在未来，我们将致力于完善和加强我们的招聘策略，以吸引顶级技术人才加入我们充满活力和创新的团队。
 
 </details>
 
 <details>
 
-<summary>What is the HR plan for the coming 18 months?</summary>
+<summary>XBorg的平均薪酬是多少？</summary>
 
-To expand our operational capabilities and enhance the performance of our infrastructure, we are looking to hire more engineers, specifically in the areas of backend development, smart contract engineering, and DevOps. We aim to bring 15 highly skilled engineers on board over the next 18 months. In addition to our technical team, we are also planning to recruit professionals in business development, legal counsel, and accounting to support the growth of the protocol. We will issue grants to third-party developers as we scale the number of ecosystem applications.
-
-</details>
-
-<details>
-
-<summary>What is the time commitment of each of the founders?</summary>
-
-Louis is the sole founder of XBorg, fully immersed in his role and devoting his undivided attention to the realm of XBorg, with no other concurrent ventures vying for his time and focus.
+在XBorg，我们实施了一种薪酬结构，平均薪酬为**3200美元**，并以**XBG代币**的形式提供激励。虽然这种方式体现了我们将团队成员的利益与XBorg生态系统的利益对齐的承诺，但值得注意的是，我们的薪酬水平仍低于市场标准，这反映了我们团队成员对我们共同愿景的深度参与和奉献。软件工程师的薪酬较高，范围从4000美元到8000美元。
 
 </details>
 
 <details>
 
-<summary>What is the founders' salary (including benefits, cars, etc.)?</summary>
+<summary>未来18个月的人力资源计划是什么？</summary>
 
-The founder's salary is **3,000 USDC**, below the team average. No other perks are derived.
-
-</details>
-
-<details>
-
-<summary>Are the technical developments of the protocol done in-house? </summary>
-
-At XBorg, we believe in developing technical solutions in-house, utilizing the expertise of our dedicated engineering team. We view outsourcing to contractors as a short-term solution, lacking the benefits of long-term investment in our own team's capabilities. As such, we prioritize building our internal team and fostering their growth to maximize the value of our technical developments.
+为了扩大我们的运营能力并提升基础设施的性能，我们计划招聘更多的工程师，特别是后端开发、智能合约工程和DevOps领域的工程师。我们计划在未来18个月内招聘15名高技能工程师。除了技术团队外，我们还计划招聘业务发展、法律顾问和会计等专业人员，以支持协议的增长。随着生态系统应用数量的扩大，我们将向第三方开发者发放授权。
 
 </details>
 
 <details>
 
-<summary>How do you motivate people in your team?</summary>
+<summary>创始人每天的工作时间是多少？</summary>
 
-To align the interests of our team members with those of the XBorg ecosystem, we have devised a compensation framework that features a combination of USDC-based remuneration alongside an allocation of XBG tokens sourced from the Team token supply. This approach incentivizes and motivates our team members toward attaining our collective objectives while fostering a sense of shared ownership and alignment of interests.
+Louis是XBorg的唯一创始人，全身心投入到他的角色中，全力以赴地致力于XBorg领域，没有其他同时进行的事业争夺他的时间和注意力。
+
+</details>
+
+<details>
+
+<summary>创始人的薪水（包括福利、车辆等）是多少？</summary>
+
+创始人的薪水为**3000美元**，低于团队平均水平。没有其他福利。
+
+</details>
+
+<details>
+
+<summary>协议的技术开发是由内部团队完成的吗？</summary>
+
+在XBorg，我们相信通过利用我们专注的工程团队的专业知识来开发技术解决方案。我们认为将工作外包给承包商只是一个短期解决方案，缺乏对我们自己团队能力的长期投资的好处。因此，我们优先建设我们的内部团队并促进他们的成长，以最大化我们技术开发的价值。
+
+</details>
+
+<details>
+
+<summary>你们如何激励团队成员？</summary>
+
+为了使团队成员的利益与XBorg生态系统的利益保持一致，我们制定了一套薪酬框架，结合基于USDC的报酬和来自团队代币供应的XBG代币分配。这种方式激励和激励我们的团队成员为实现我们的共同目标而努力，同时培养共同拥有和利益一致的意识。
 
 </details>

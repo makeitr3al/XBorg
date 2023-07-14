@@ -1,91 +1,91 @@
-# Competition
+# Concurrentie
 
-> XBorg is developing at the confluence GameFi and SocialFi. The following section will outline the key challenges that face its roadmap, how the team is overcoming them, and what makes XBorg unique in the landscape.&#x20;
+> XBorg ontwikkelt zich op het snijvlak van GameFi en SocialFi. In het volgende gedeelte worden de belangrijkste uitdagingen in de roadmap besproken, hoe het team deze overwint en wat XBorg uniek maakt in het landschap.
 
 <details>
 
-<summary>What are the main strengths and competitive advantages of XBorg?</summary>
+<summary>Wat zijn de belangrijkste sterke punten en concurrentievoordelen van XBorg?</summary>
 
-**Network**&#x20;
+**Netwerk**
 
-XBorg's growth and expansion are fueled by a network of influential advisors and investors in the gaming and esports industry. XBorg Ventures builds on this network by connecting the team with the leading blockchains and game developers, allowing them to create innovative and exciting new products.
+De groei en uitbreiding van XBorg worden gestimuleerd door een netwerk van invloedrijke adviseurs en investeerders in de gaming- en esportsindustrie. XBorg Ventures bouwt voort op dit netwerk door het team te verbinden met toonaangevende blockchains en game-ontwikkelaars, waardoor ze innovatieve en spannende nieuwe producten kunnen creëren.
 
 #### Community
 
-The XBorg community comprises over 10,000 active players, builders, and GameFi investors. The council and governance system includes some of the brightest minds in Web3, ensuring that XBorg is always on the cutting edge of gaming technology.
+De XBorg-community bestaat uit meer dan 10.000 actieve spelers, bouwers en GameFi-investeerders. Het bestuur en het governance-systeem omvatten enkele van de meest briljante geesten in Web3, waardoor XBorg altijd voorop loopt op het gebied van gamingtechnologie.
 
-#### Esports & Legitimacy&#x20;
+#### Esports & Legitimiteit
 
-As the leading Web3 esports organization, XBorg is sponsored by Brave Software and ranked number one across the most competitive Web3 esports titles. XBorg is responsible for creating the Xtreme Championship Series (XCS), the first and largest Web3 esports league ever.
+Als toonaangevende Web3 esports-organisatie wordt XBorg gesponsord door Brave Software en staat het op nummer één in de meest competitieve Web3 esports-titels. XBorg is verantwoordelijk voor het creëren van de Xtreme Championship Series (XCS), de eerste en grootste Web3 esports-league ooit.
 
-#### SwissBorg&#x20;
+#### SwissBorg
 
-XBorg is also assisted by SwissBorg, a startup that has successfully scaled to 700,000 users. With close contact with C-level executives, SwissBorg assists the roadmap, product execution, and networking. XBorg owes much of its success to the support and guidance of SwissBorg.&#x20;
-
-</details>
-
-<details>
-
-<summary>From a technical standpoint, what is your competitive edge? </summary>
-
-From a technological perspective, the implementation of a credential network within the realm of gaming is a truly distinctive innovation. However, it is similar to the Lens protocol, which uses social data to construct a network. Our platform, on the other hand, harnesses gaming data to establish a gaming-specific data network. While other endeavors, such as Galxe, have focused on constructing a credential network, they do not have the same dedicated focus on gaming.
-
-Our technological advancements can be attributed to our adept integration of gaming data through various distribution platforms (including but not limited to Steam, FaceIt, and Riot Games) and the creation of custom API integrations with games. To further differentiate our platform, we have developed proprietary applications on top of the network, such as the fan engagement app, decentralized gaming communities, and the soulbound launchpad, contributing to our unique credential network.
+XBorg wordt ook ondersteund door SwissBorg, een startup die succesvol is opgeschaald naar 700.000 gebruikers. Met nauw contact met C-level executives ondersteunt SwissBorg de roadmap, productuitvoering en netwerken. XBorg dankt veel van zijn succes aan de steun en begeleiding van SwissBorg.
 
 </details>
 
 <details>
 
-<summary>From a commercial standpoint, what is your competitive edge? </summary>
+<summary>Vanuit technisch oogpunt, wat is jullie concurrentievoordeel?</summary>
 
-Adopting a commercial perspective, our primary objective is seamlessly integrating our expansive credential network with leading esports teams. Through our illustrious collaborations with major actors in the esports industry, such as TeamBDS, we have exhibited our singular ability to forge fruitful partnerships. Furthermore, XBorg is reinforced by the unwavering support of SwissBorg, which fortifies our standing and elevates our credibility within the industry.
+Vanuit technologisch oogpunt is de implementatie van een credential-netwerk binnen de gamingwereld een werkelijk onderscheidende innovatie. Het lijkt echter op het Lens-protocol, dat sociale gegevens gebruikt om een netwerk op te bouwen. Ons platform maakt daarentegen gebruik van gaminggegevens om een specifiek gaming-gerelateerd datanetwerk op te zetten. Hoewel andere initiatieven, zoals Galxe, zich hebben gericht op het opbouwen van een credential-netwerk, hebben ze niet dezelfde specifieke focus op gaming.
 
-In addition, the community of XBorg can be likened to a guild, where our distinctive edge lies in our unparalleled level of competitiveness. XBorg reigns supreme as the foremost Web3 gaming community in terms of competitiveness, distinguishing us from other guilds such as Polemos, IndieGG, YGG, and the like.
-
-</details>
-
-<details>
-
-<summary>From a structure standpoint, what is your competitive edge? </summary>
-
-XBorg is supported by an avid community of gamers, which allows us to build products for our user base and seek rapid feedback, which eases product development.&#x20;
-
-We also intend to operate in a decentralized manner which will ensure the utmost alignment between XBG holders and the protocol. XBorg's success and growth are heavily influenced by its community of gamers. We recognize the importance of building products that cater to the needs and interests of our users. By leveraging our community, we are able to rapidly receive feedback and iterate on our products, resulting in more meaningful experiences for our users.
-
-Furthermore, we believe that operating in a decentralized manner will bring a higher level of alignment between the XBG token holders and the protocol. This alignment will better understand the protocol's long-term vision, goals, and priorities. It also means that the token holders will make the governance decisions with a vested interest in the protocol's success. Ultimately, this will lead to a more engaged and empowered community willing to participate in the decision-making process and drive the future direction of XBorg.
+Onze technologische vooruitgang is te danken aan onze vakkundige integratie van gaminggegevens via verschillende distributieplatforms (waaronder maar niet beperkt tot Steam, FaceIt en Riot Games) en de creatie van aangepaste API-integraties met games. Om ons platform verder te onderscheiden, hebben we eigen toepassingen bovenop het netwerk ontwikkeld, zoals de fan engagement-app, gedecentraliseerde gaminggemeenschappen en de soulbound launchpad, die bijdragen aan ons unieke credential-netwerk.
 
 </details>
 
 <details>
 
-<summary>Do you have a detailed competition analysis?</summary>
+<summary>Vanuit commercieel oogpunt, wat is jullie concurrentievoordeel?</summary>
 
-In Web3, we don't perceive competitors but collaborators, as we believe in composable and Interoperable ecosystems. In the Web3 landscape, the concept of competition is replaced by collaboration, rooted in a fundamental belief in the power of composable and interoperable ecosystems. We have several ecosystems working on similar primitives, some of which are already closely working with XBorg.
+Vanuit commercieel oogpunt is ons belangrijkste doel om ons uitgebreide credential-netwerk naadloos te integreren met toonaangevende esports-teams. Door onze samenwerkingen met belangrijke spelers in de esportsindustrie, zoals TeamBDS, hebben we laten zien dat we in staat zijn vruchtbare partnerschappen aan te gaan. Bovendien wordt XBorg versterkt door de onwankelbare steun van SwissBorg, wat onze positie versterkt en onze geloofwaardigheid binnen de branche verhoogt.
+
+Daarnaast kan de community van XBorg worden vergeleken met een gilde, waar ons onderscheidende voordeel ligt in ons ongeëvenaarde niveau van concurrentie. XBorg is de belangrijkste Web3 gaming community op het gebied van concurrentie, wat ons onderscheidt van andere gilden zoals Polemos, IndieGG, YGG en dergelijke.
+
+</details>
+
+<details>
+
+<summary>Vanuit een structuurperspectief, wat is jullie concurrentievoordeel?</summary>
+
+XBorg wordt ondersteund door een enthousiaste community van gamers, waardoor we producten kunnen bouwen voor onze gebruikers en snel feedback kunnen verzamelen, wat de productontwikkeling vergemakkelijkt.
+
+We zijn ook van plan om op een gedecentraliseerde manier te opereren, wat zorgt voor de grootst mogelijke afstemming tussen XBG-houders en het protocol. Het succes en de groei van XBorg worden sterk beïnvloed door de community van gamers. We erkennen het belang van het bouwen van producten die aansluiten bij de behoeften en interesses van onze gebruikers. Door gebruik te maken van onze community kunnen we snel feedback ontvangen en itereren op onze producten, wat resulteert in meer betekenisvolle ervaringen voor onze gebruikers.
+
+Bovendien zijn we van mening dat het opereren op een gedecentraliseerde manier zal zorgen voor een hoger niveau van afstemming tussen de XBG-tokenhouders en het protocol. Deze afstemming zal een beter begrip opleveren van de langetermijnvisie, doelen en prioriteiten van het protocol. Het betekent ook dat de tokenhouders de governancebeslissingen zullen nemen met een persoonlijk belang bij het succes van het protocol. Uiteindelijk zal dit leiden tot een meer betrokken en bekrachtigde community die bereid is deel te nemen aan het besluitvormingsproces en de toekomstige koers van XBorg te bepalen.
+
+</details>
+
+<details>
+
+<summary>Hebben jullie een gedetailleerde concurrentieanalyse?</summary>
+
+In Web3 zien we geen concurrenten maar samenwerkingspartners, omdat we geloven in composabele en interoperabele ecosystemen. In het Web3-landschap wordt het concept van concurrentie vervangen door samenwerking, gebaseerd op een fundamenteel geloof in de kracht van composabele en interoperabele ecosystemen. We hebben verschillende ecosystemen die werken aan vergelijkbare bouwstenen, waarvan sommige al nauw samenwerken met XBorg.
 
 #### Data & Social
 
-* [Lens Protocol](https://lens.xyz/) is a composable data graph allowing users to own and monetize their data. XBorg tackles a similar primitive but in the realm of gaming data. Close collaboration with Lens is being discussed.
-* [Galxe](https://galxe.com/) is building a credential network based on on-chain and off-chain credentials.
-* [Quest3](https://questn.com/) is a questing system for engagement and communities.
+* [Lens Protocol](https://lens.xyz/) is een composiet gegevensgrafiek waarmee gebruikers hun gegevens kunnen bezitten en monetiseren. XBorg richt zich op een vergelijkbare bouwsteen, maar dan in het domein van gaminggegevens. Er wordt gesproken over nauwe samenwerking met Lens.
+* [Galxe](https://galxe.com/) bouwt een credential-netwerk op basis van on-chain en off-chain credentials.
+* [Quest3](https://questn.com/) is een questsysteem voor betrokkenheid en gemeenschappen.
 
-#### GameFi infrastructure
+#### GameFi-infrastructuur
 
-* [Chiliz ](https://www.chiliz.com/)is the creator of Fan Tokens and a Web3 infrastructure for sports and entertainment.
-* [Polemos](https://polemos.io/) is a GameFi community and protocol allowing players to leverage their NFTs.
-* [MatchBox](https://www.matchboxdao.com/) is an ecosystem DAO-building tool for on-chain games.
+* [Chiliz](https://www.chiliz.com/) is de maker van Fan Tokens en een Web3-infrastructuur voor sport en entertainment.
+* [Polemos](https://polemos.io/) is een GameFi-community en protocol waarmee spelers hun NFT's kunnen benutten.
+* [MatchBox](https://www.matchboxdao.com/) is een ecosysteem DAO-bouwtool voor on-chain games.
 
 </details>
 
 <details>
 
-<summary>What is the market potential of XBorg? </summary>
+<summary>Wat is het marktpotentieel van XBorg?</summary>
 
-The market potential of gaming, esports, and digital identities is vast and rapidly expanding. The gaming industry alone is projected to reach a global value of $295 billion by 2026, driven by the growing popularity of mobile gaming, eSports, and the adoption of virtual and augmented reality technologies.
+Het marktpotentieel van gaming, esports en digitale identiteiten is enorm en groeit snel. De gamingindustrie alleen al zal naar verwachting in 2026 een wereldwijde waarde van $295 miljard bereiken, gedreven door de groeiende populariteit van mobiel gamen, esports en de adoptie van virtual en augmented reality-technologieën.
 
-Esports, or competitive video gaming, is also experiencing explosive growth, with revenues expected to reach $1.1 billion in 2021, and the global esports audience projected to exceed 580 million by 2023. This market is expected to grow as more companies and brands invest in esports and gaming sponsorships.
+Esports, of competitief videogamen, maakt ook een explosieve groei door, met een verwachte omzet van $1,1 miljard in 2021 en een wereldwijd esports-publiek dat naar verwachting meer dan 580 miljoen zal bedragen in 2023. Deze markt zal naar verwachting groeien naarmate meer bedrijven en merken investeren in esports en gaming-sponsoring.
 
-Digital identities are also becoming increasingly important in the gaming and esports industry. With the rise of blockchain technology and non-fungible tokens (NFTs), players can now own and trade unique in-game assets, creating new opportunities for revenue and investment. Additionally, digital identities are being used to verify player identities and ensure fair play in competitive gaming, as well as to personalize gaming experiences and provide secure access to user accounts.
+Digitale identiteiten worden ook steeds belangrijker in de gaming- en esportsindustrie. Met de opkomst van blockchaintechnologie en non-fungible tokens (NFT's) kunnen spelers nu unieke in-game assets bezitten en verhandelen, wat nieuwe mogelijkheden biedt voor inkomsten en investeringen. Bovendien worden digitale identiteiten gebruikt om de identiteit van spelers te verifiëren en eerlijk spel te garanderen in competitief gamen, evenals om gamingervaringen te personaliseren en veilige toegang tot gebruikersaccounts te bieden.
 
-Overall, the market potential of gaming, esports, and digital identities is vast and diverse, and is expected to continue to grow and evolve as technology and consumer preferences change.
+Over het algemeen is het marktpotentieel van gaming, esports en digitale identiteiten enorm en divers, en wordt verwacht dat het blijft groeien en evolueren naarmate technologie en consumentenvoorkeuren veranderen.
 
 </details>
