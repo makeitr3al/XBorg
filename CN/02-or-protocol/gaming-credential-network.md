@@ -1,78 +1,78 @@
-# Gaming Credential Network
+# 游戏凭证网络
 
-> Before exploring the following questions, go through the presentation of the Gaming Credential Network:[#what-is-a-gaming-credential-network](gaming-credential-network.md#what-is-a-gaming-credential-network "mention") :sunglasses:
+> 在探索以下问题之前，请先阅读游戏凭证网络的介绍：[什么是游戏凭证网络](gaming-credential-network.md#what-is-a-gaming-credential-network "mention") :sunglasses:
 
 <details>
 
-<summary>Why build a Gaming Credential Network?</summary>
+<summary>为什么要构建游戏凭证网络？</summary>
 
-In today's society, where leisure time is becoming increasingly abundant, players spend countless hours immersed in gaming worlds. Yet, the data generated from these experiences is often undervalued and fragmented across multiple games. XBorg recognizes the value of players' time and seeks to make their data meaningful and valuable. Think of it as a gaming [**Decentralized Identifier (DID)**](https://www.w3.org/TR/did-core/) system.\
+在当今社会，休闲时间越来越丰富，玩家们花费了大量时间沉浸在游戏世界中。然而，从这些经历中产生的数据往往被低估，并分散在多个游戏中。XBorg认识到玩家时间的价值，并致力于使他们的数据有意义和有价值。可以将其视为游戏[**去中心化标识符（DID）**](https://www.w3.org/TR/did-core/)系统。\
 \
-Furthermore, the Gaming Credential Network allows for the creation of better gaming applications and interoperability bound to the identity of players.
+此外，游戏凭证网络允许创建与玩家身份相关的更好的游戏应用和互操作性。
 
 </details>
 
 <details>
 
-<summary>What are the benefits for players?</summary>
+<summary>对玩家有什么好处？</summary>
 
-* Players own and centralize their gaming data in one place
-* Players gain access to gaming applications and utilities within the ecosystem
-* Players can monetize their data
-
-</details>
-
-<details>
-
-<summary>What are the benefits for developers?</summary>
-
-* Developers can develop custom player experiences
-* Businesses can acquire users by targeting players for a fee
-* The Gaming Credential Network provides instant access to games and developers, expanding their reach
-* Developers can access more granular data, enhancing matchmaking accuracy and other app features
-* The platform enables new use cases for applications, including reputation-based lending
+* 玩家可以在一个地方拥有和集中他们的游戏数据
+* 玩家可以在生态系统内获得游戏应用和工具
+* 玩家可以将他们的数据变现
 
 </details>
 
 <details>
 
-<summary>How does a player ID look like?</summary>
+<summary>对开发者有什么好处？</summary>
 
-The player ID is a Soulbound token representing an aggregation of all Soulbound tokens obtained by the user. The player ID also incorporates Soulbound tokens outside of the XBorg ecosystem such as Lens protocol.
-
-</details>
-
-<details>
-
-<summary>Can developers start building applications on top of the credential network now?</summary>
-
-Currently, the Gaming Credential Network is centralized. Upon decentralization of the network, developers can build on top of it.
+* 开发者可以开发定制的玩家体验
+* 企业可以通过针对玩家收费来获取用户
+* 游戏凭证网络提供即时访问游戏和开发者，扩大了它们的影响范围
+* 开发者可以访问更精细的数据，提高匹配准确性和其他应用功能
+* 该平台为应用程序提供了新的用例，包括基于声誉的借贷
 
 </details>
 
 <details>
 
-<summary>How do you scale the Gaming Credential Network?</summary>
+<summary>玩家ID是什么样的？</summary>
 
-The gaming and community engagement app is the main application that allows us to scale the Gaming Credential Network.
-
-</details>
-
-<details>
-
-<summary>How is data privacy handled?</summary>
-
-Iterations of the protocol in the future will allow players to disclose pertinent data points selectively by enabling opt-in/opt-out functionality. Furthermore, zero-knowledge technologies are set to be incorporated in subsequent updates, underscoring the platform's unwavering commitment to privacy and data security.
+玩家ID是一个代表用户获取的所有Soulbound令牌的聚合的Soulbound令牌。玩家ID还包括XBorg生态系统之外的Soulbound令牌，如Lens协议。
 
 </details>
 
 <details>
 
-<summary>What are the modules of the Credential Network?</summary>
+<summary>开发者现在可以在凭证网络上构建应用程序吗？</summary>
 
-* Community
-* Player
-* Game
+目前，游戏凭证网络是集中化的。在网络去中心化后，开发者可以在其上构建应用程序。
+
+</details>
+
+<details>
+
+<summary>如何扩展游戏凭证网络？</summary>
+
+游戏和社区参与应用是主要的应用程序，它使我们能够扩展游戏凭证网络。
+
+</details>
+
+<details>
+
+<summary>如何处理数据隐私？</summary>
+
+未来的协议迭代将允许玩家通过启用选择性的选择性地披露相关数据点，从而实现选择加入/退出功能。此外，零知识技术将在随后的更新中加入，突显了该平台对隐私和数据安全的坚定承诺。
+
+</details>
+
+<details>
+
+<summary>凭证网络的模块有哪些？</summary>
+
+* 社区
+* 玩家
+* 游戏
 
 ### ![](../.gitbook/assets/modules.png)
 
@@ -80,36 +80,36 @@ Iterations of the protocol in the future will allow players to disclose pertinen
 
 <details>
 
-<summary>Is the Gaming Credential Network on-chain?</summary>
+<summary>游戏凭证网络是链上的吗？</summary>
 
-At present, the Gaming Credential Network is securely stored off-chain. However, as the ecosystem garners traction and the user base surpasses the 100,000 threshold, the network will seamlessly transition onto the blockchain, underscoring XBorg's steadfast commitment to accessibility and transparency.
-
-</details>
-
-<details>
-
-<summary>Is the dev documentation or SDK ready?</summary>
-
-It's currently in the works but won't be released until the end of 2023.
+目前，游戏凭证网络安全地存储在链下。然而，随着生态系统的发展和用户基数超过10万的门槛，网络将无缝地过渡到区块链上，突显了XBorg对可访问性和透明性的坚定承诺。
 
 </details>
 
 <details>
 
-<summary>On which blockchain will the Credential Network be built?</summary>
+<summary>开发者文档或SDK准备好了吗？</summary>
 
-Initially, Polygon and other L2. As the Network gains traction, it will become its own L2/L3, known as the Borg chain.
+目前正在进行中，但将在2023年底发布。
 
 </details>
 
 <details>
 
-<summary>What are the limitations of the Gaming Credential Network?</summary>
+<summary>凭证网络将在哪个区块链上构建？</summary>
 
-* **Sybil resistance:** An inherent constraint of network infrastructure lies in the susceptibility of its users to adopt false personas or leverage advanced technologies such as artificial intelligence to manipulate their digital identities. To mitigate the detrimental effects of Sybil attacks, one effective strategy involves the incorporation of a Proof of Identity mechanism into the network's underlying protocol.
+最初是Polygon和其他L2。随着网络的发展，它将成为自己的L2/L3，即Borg链。
+
+</details>
+
+<details>
+
+<summary>游戏凭证网络的限制是什么？</summary>
+
+* **Sybil抵抗：**网络基础设施的固有限制在于其用户易受到采用虚假身份或利用人工智能等先进技术来操纵其数字身份的影响。为了减轻Sybil攻击的不利影响，一种有效的策略是将身份证明机制纳入网络的基础协议中。
 
 <!---->
 
-* **Scale**: The true value proposition of the credential network is contingent upon achieving a requisite level of network scale, a priority that currently holds significant strategic importance for XBorg. However, once this objective is realized, the potential utilities that can be derived from the network are truly boundless.
+* **规模：**凭证网络的真正价值主张取决于实现必要的网络规模水平，这是XBorg目前具有重要战略意义的优先事项。然而，一旦实现了这个目标，从网络中可以获得的潜在效用是无限的。
 
 </details>

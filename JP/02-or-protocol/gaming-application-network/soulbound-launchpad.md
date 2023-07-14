@@ -1,127 +1,127 @@
 # Soulbound Launchpad
 
-> Players will be able to access investment opportunities based on their in-game data, and developers can target players and communities that show a propensity for interest in their projects. This product’s V1 is live and, since its launch, has kickstarted 6 games, with a total investment of $200,000 in investments.
+> プレイヤーはゲーム内のデータに基づいた投資機会にアクセスでき、開発者は自分たちのプロジェクトに興味を持つ傾向のあるプレイヤーやコミュニティをターゲットにすることができます。この製品のV1は稼働しており、ローンチ以来、6つのゲームがキックスタートされ、総額20万ドルの投資が行われました。
 
 <details>
 
-<summary>What is the soulbound launchpad? </summary>
+<summary>ソウルバウンドランチパッドとは何ですか？</summary>
 
-The Soulbound Launchpad is a platform that connects gamers with games raising capital based on their digital identity. It enables game developers to target specific players using their digital identities and raise funds.
+ソウルバウンドランチパッドは、ゲーマーとデジタルアイデンティティに基づいて資金調達を行っているゲームとをつなぐプラットフォームです。ゲーム開発者は、デジタルアイデンティティを使用して特定のプレイヤーをターゲットにし、資金を調達することができます。
 
 </details>
 
 <details>
 
-<summary>What is the difference between your launchpad and others? </summary>
+<summary>他のランチパッドとの違いは何ですか？</summary>
 
-Players connected to the Soulbound launchpad through the credential network are granted access to deals tailored to their gaming credentials. This means an FPS player is more likely to receive an opportunity related to FPS gaming.
-
-</details>
-
-<details>
-
-<summary>How are launchpad  projects selected?</summary>
-
-The investment council conducts a thorough multi-stage due diligence process, culminating in a comprehensive report. Across the private market (Venture Capitalist, Business Angels), we maintain some of the most comprehensive and detailed due diligence reports in the GameFi sector.&#x20;
+クレデンシャルネットワークを介してソウルバウンドランチパッドに接続されたプレイヤーは、彼らのゲームのクレデンシャルに合わせた取引にアクセスすることができます。つまり、FPSプレイヤーはFPSゲームに関連する機会をより多く受ける可能性があります。
 
 </details>
 
 <details>
 
-<summary>What is the frequency of opportunities? </summary>
+<summary>ランチパッドのプロジェクトはどのように選ばれますか？</summary>
 
-Our ability to accept projects depends entirely on the quality of our deal flow. Therefore, we only consider projects that meet high standards of quality.
-
-</details>
-
-<details>
-
-<summary>Where can I find the launchpad? </summary>
-
-You can find the launchpad [here](https://launchpad.xborg.com/).
+投資評議会は、包括的なレポートで締めくくられる、詳細なデューディリジェンスプロセスを実施しています。私たちはゲームファイセクターで最も包括的で詳細なデューディリジェンスレポートを保持しています。
 
 </details>
 
 <details>
 
-<summary>What nationalities do you support? </summary>
+<summary>機会の頻度はどのくらいですか？</summary>
 
-We support the countries supported by SwissBorg. The complete list can be found here: [https://swissborg.com/supported-countries](https://swissborg.com/supported-countries)
-
-</details>
-
-<details>
-
-<summary>What do terms like vesting, locking, and FDV refer to?</summary>
-
-* **Vesting** refers to the period during which the tokens are distributed
-* **Locked** refers to the period during which the tokens are locked
-* **FDV** refers to the valuation of a token, computed by multiplying its price by the max supply. (Fully Diluted Valuation)
+プロジェクトを受け入れる能力は、取引の品質に完全に依存しています。したがって、高い品質基準を満たすプロジェクトのみを検討します。
 
 </details>
 
 <details>
 
-<summary>Which chain do I have to use for sending my commitment?</summary>
+<summary>ランチパッドはどこで見つけることができますか？</summary>
 
-Ethereum, via USDC (ERC-20).
-
-</details>
-
-<details>
-
-<summary>I invested in a deal, but the Launchpad UI doesn’t show my commitment, what do I do? </summary>
-
-If the launchpad does not show the commitment, please open a support ticket on Discord.&#x20;
+ランチパッドは[こちら](https://launchpad.xborg.com/)で見つけることができます。
 
 </details>
 
 <details>
 
-<summary>I live in a country that does not allow me to install the SwissBorg app, so I cannot KYC. What is the solution to this?</summary>
+<summary>どの国籍をサポートしていますか？</summary>
 
-At the moment, we only support nationalities available on the SwissBorg app. XBorg is actively working on expanding its network, and in time more regions and nationalities will be eligible for KYC.
-
-</details>
-
-<details>
-
-<summary>Is there a difference between Prometheus, Partner, and Public rounds?</summary>
-
-The rounds in which users are eligible vary according to their demographic. Prometheus holders receive the greatest benefits and are not required to pay fees, while other rounds have different fees and allocation sizes.
+私たちはSwissBorgがサポートしている国をサポートしています。完全なリストはこちらで確認できます：[https://swissborg.com/supported-countries](https://swissborg.com/supported-countries)
 
 </details>
 
 <details>
 
-<summary>Can I send BUSD, USDT or other stablecoins instead of USDC?</summary>
+<summary>ベスティング、ロッキング、FDVという用語は何を指しますか？</summary>
 
-Currently, we only support USDC.
-
-</details>
-
-<details>
-
-<summary>How can I acquire USDC?</summary>
-
-SwissBorg is one of the best options to acquire USDC from other cryptocurrencies or fiat.
+* **ベスティング**は、トークンが配布される期間を指します。
+* **ロッキング**は、トークンがロックされる期間を指します。
+* **FDV**は、トークンの評価を指し、価格に最大供給量を掛け合わせて計算されます。（Fully Diluted Valuation）
 
 </details>
 
 <details>
 
-<summary>Do I get my funds back when a project fails or rugs?</summary>
+<summary>コミットメントを送るために使用するチェーンはどれですか？</summary>
 
-We do thorough due diligence on the launchpad opportunities of XBorg to limit the number of projects that fails.&#x20;
-
-No refund will be implemented if it's deemed the investors' fault.
+EthereumのUSDC（ERC-20）を使用します。
 
 </details>
 
 <details>
 
-<summary>Why do I need to KYC? </summary>
+<summary>取引に投資しましたが、ランチパッドのUIにコミットメントが表示されません。どうすればいいですか？</summary>
 
-For XBorg to comply with relevant jurisdiction relative to launchpads.
+もしランチパッドにコミットメントが表示されない場合は、Discordでサポートチケットを開いてください。
+
+</details>
+
+<details>
+
+<summary>私はSwissBorgアプリをインストールできない国に住んでいますので、KYCができません。その解決策は何ですか？</summary>
+
+現時点では、SwissBorgアプリで利用可能な国籍のみをサポートしています。XBorgはネットワークを拡大するために積極的に取り組んでおり、将来的にはより多くの地域と国籍がKYCの対象となるでしょう。
+
+</details>
+
+<details>
+
+<summary>Prometheus、Partner、Publicのラウンドには違いがありますか？</summary>
+
+ユーザーが対象となるラウンドは、その人の属性によって異なります。Prometheusホルダーは最大の特典を受け取り、手数料を支払う必要はありません。他のラウンドでは異なる手数料と割り当てサイズがあります。
+
+</details>
+
+<details>
+
+<summary>USDCの代わりにBUSD、USDTなどのステーブルコインを送ることはできますか？</summary>
+
+現在、USDCのみをサポートしています。
+
+</details>
+
+<details>
+
+<summary>どのようにしてUSDCを入手できますか？</summary>
+
+USDCを他の暗号通貨や法定通貨から入手するための最良のオプションの一つがSwissBorgです。
+
+</details>
+
+<details>
+
+<summary>プロジェクトが失敗したりラグした場合、資金は返金されますか？</summary>
+
+XBorgのランチパッドの機会については、徹底的なデューディリジェンスを行い、失敗するプロジェクトの数を制限しています。
+
+投資家の責任と判断される場合、返金は実施されません。
+
+</details>
+
+<details>
+
+<summary>なぜKYCが必要なのですか？</summary>
+
+XBorgがランチパッドに関連する関連する管轄法に準拠するためです。
 
 </details>

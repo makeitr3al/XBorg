@@ -1,6 +1,6 @@
 # Gaming Credential Network
 
-> Bevor Sie die folgenden Fragen erkunden, schauen Sie sich die Präsentation des Gaming Credential Network an: [#Was ist ein Gaming Credential Network](gaming-credential-network.md#was-ist-ein-gaming-credential-network) :sunglasses:
+> Bevor Sie die folgenden Fragen erkunden, lesen Sie die Präsentation des Gaming Credential Network: [#Was ist ein Gaming Credential Network](gaming-credential-network.md#was-ist-ein-gaming-credential-network "Erwähnung") :sunglasses:
 
 <details>
 
@@ -8,7 +8,7 @@
 
 In der heutigen Gesellschaft, in der Freizeit immer reichlicher vorhanden ist, verbringen Spieler unzählige Stunden in Gaming-Welten. Doch die aus diesen Erfahrungen generierten Daten werden oft unterbewertet und über mehrere Spiele hinweg fragmentiert. XBorg erkennt den Wert der Zeit der Spieler an und strebt danach, ihre Daten sinnvoll und wertvoll zu machen. Denken Sie daran wie ein dezentrales Identifikationssystem für Spiele.\
 \
-Darüber hinaus ermöglicht das Gaming Credential Network die Entwicklung von besseren Spieleanwendungen und Interoperabilität, die an die Identität der Spieler gebunden ist.
+Darüber hinaus ermöglicht das Gaming Credential Network die Entwicklung besserer Spieleanwendungen und Interoperabilität, die an die Identität der Spieler gebunden ist.
 
 </details>
 
@@ -27,7 +27,7 @@ Darüber hinaus ermöglicht das Gaming Credential Network die Entwicklung von be
 <summary>Welche Vorteile haben Entwickler?</summary>
 
 * Entwickler können maßgeschneiderte Spielerlebnisse entwickeln
-* Unternehmen können Benutzer erwerben, indem sie Spieler gegen eine Gebühr ansprechen
+* Unternehmen können Benutzer erwerben, indem sie Spieler gegen Gebühr ansprechen
 * Das Gaming Credential Network bietet sofortigen Zugriff auf Spiele und Entwickler und erweitert so ihre Reichweite
 * Entwickler können auf detailliertere Daten zugreifen, um die Genauigkeit des Matchmakings und andere App-Funktionen zu verbessern
 * Die Plattform ermöglicht neue Anwendungsfälle, einschließlich kreditbasierter Reputation
@@ -52,7 +52,7 @@ Derzeit ist das Gaming Credential Network zentralisiert. Nach der Dezentralisier
 
 <details>
 
-<summary>Wie wird das Gaming Credential Network skaliert?</summary>
+<summary>Wie skaliert das Gaming Credential Network?</summary>
 
 Die Gaming- und Community-Engagement-App ist die Hauptanwendung, die es uns ermöglicht, das Gaming Credential Network zu skalieren.
 
@@ -62,7 +62,7 @@ Die Gaming- und Community-Engagement-App ist die Hauptanwendung, die es uns erm�
 
 <summary>Wie wird der Datenschutz gehandhabt?</summary>
 
-Zukünftige Iterationen des Protokolls ermöglichen es Spielern, relevante Daten selektiv offenzulegen, indem sie Opt-in-/Opt-out-Funktionen aktivieren. Darüber hinaus werden Zero-Knowledge-Technologien in nachfolgenden Updates integriert, um das unerschütterliche Engagement der Plattform für Datenschutz und Datensicherheit zu unterstreichen.
+Zukünftige Iterationen des Protokolls ermöglichen es Spielern, relevante Daten selektiv offenzulegen, indem sie die Opt-in/Opt-out-Funktionalität aktivieren. Darüber hinaus werden in nachfolgenden Updates Zero-Knowledge-Technologien integriert, um das unerschütterliche Engagement der Plattform für Datenschutz und Datensicherheit zu unterstreichen.
 
 </details>
 
@@ -74,7 +74,7 @@ Zukünftige Iterationen des Protokolls ermöglichen es Spielern, relevante Daten
 * Spieler
 * Spiel
 
-#### ![](../.gitbook/assets/modules.png)
+### ![](../.gitbook/assets/modules.png)
 
 </details>
 
@@ -82,7 +82,7 @@ Zukünftige Iterationen des Protokolls ermöglichen es Spielern, relevante Daten
 
 <summary>Befindet sich das Gaming Credential Network on-chain?</summary>
 
-Derzeit wird das Gaming Credential Network sicher off-chain gespeichert. Sobald das Ökosystem an Fahrt gewinnt und die Benutzerbasis die Schwelle von 100.000 überschreitet, wird das Netzwerk nahtlos auf die Blockchain übergehen und XBorgs unerschütterliches Engagement für Zugänglichkeit und Transparenz unterstreichen.
+Derzeit wird das Gaming Credential Network sicher off-chain gespeichert. Sobald das Ökosystem an Fahrt gewinnt und die Benutzerbasis die Schwelle von 100.000 überschreitet, wird das Netzwerk nahtlos auf die Blockchain übergehen und XBorgs uneingeschränktes Engagement für Zugänglichkeit und Transparenz unterstreichen.
 
 </details>
 
@@ -106,10 +106,10 @@ Zunächst auf Polygon und anderen L2. Sobald das Netzwerk an Fahrt gewinnt, wird
 
 <summary>Was sind die Einschränkungen des Gaming Credential Network?</summary>
 
-* **Sybil-Resistenz:** Eine inhärente Einschränkung der Netzwerkinfrastruktur liegt in der Anfälligkeit der Benutzer für die Annahme falscher Identitäten oder die Nutzung fortschrittlicher Technologien wie künstlicher Intelligenz zur Manipulation ihrer digitalen Identitäten. Um die schädlichen Auswirkungen von Sybil-Angriffen zu mindern, beinhaltet eine effektive Strategie die Integration eines Identitätsnachweismechanismus in das zugrunde liegende Protokoll des Netzwerks.
+* **Sybil-Resistenz:** Eine inhärente Einschränkung der Netzwerkinfrastruktur liegt in der Anfälligkeit der Benutzer für die Annahme falscher Identitäten oder die Nutzung fortschrittlicher Technologien wie künstlicher Intelligenz zur Manipulation ihrer digitalen Identitäten. Um die schädlichen Auswirkungen von Sybil-Angriffen zu mildern, kann eine effektive Strategie die Integration eines Identitätsnachweismechanismus in das zugrunde liegende Protokoll des Netzwerks sein.
 
 <!---->
 
-* **Skalierung**: Der eigentliche Mehrwert des Credential Network hängt von einem erforderlichen Maß an Netzwerkskalierung ab, eine Priorität, die derzeit für XBorg von erheblicher strategischer Bedeutung ist. Sobald dieses Ziel erreicht ist, sind die potenziellen Anwendungsmöglichkeiten des Netzwerks wirklich grenzenlos.
+* **Skalierung**: Der eigentliche Mehrwert des Credential Network hängt von einem erforderlichen Maß an Netzwerkskalierung ab, was derzeit für XBorg von strategischer Bedeutung ist. Sobald dieses Ziel erreicht ist, sind die potenziellen Nutzen, die aus dem Netzwerk abgeleitet werden können, wirklich grenzenlos.
 
 </details>
