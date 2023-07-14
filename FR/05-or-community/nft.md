@@ -23,7 +23,7 @@ Ethereum.
 
 <summary>Historiquement, quels avantages ont été perçus par les détenteurs de NFT Prometheus ?</summary>
 
-En tenant compte du prix de lancement de 400 $, on estime que les propriétaires de jetons non fongibles Prometheus ont reçu environ 220 $ d'avantages. Cela représente un pourcentage significatif, environ 50 %, de la valeur initiale du lancement. Notamment, cela peut être principalement attribué à l'airdrop du handle Lens, qui a conféré une valeur considérable aux détenteurs de NFT Prometheus.
+En tenant compte du prix de création de 400 $, on estime que les propriétaires de jetons non fongibles Prometheus ont reçu environ 220 $ d'avantages. Cela représente un pourcentage significatif, environ 50 %, de la valeur initiale de création. Il convient de noter que cela peut être principalement attribué à l'airdrop du handle Lens, qui a conféré une valeur considérable aux détenteurs de NFT Prometheus.
 
 </details>
 
@@ -39,7 +39,7 @@ Environ 0,5 % à 2 % de l'approvisionnement en jetons XBG sera airdropé aux dé
 
 <summary>Comment prévoyez-vous de maintenir la valeur du NFT Prometheus après l'airdrop du jeton XBorg ?</summary>
 
-Nous pensons que les utilités et la croissance de l'écosystème l'emporteront sur la pression de vente de ceux qui ne sont là que pour bénéficier de l'airdrop. Si cet impact négatif devient excessivement contraignant, la DAO se réserve la possibilité de racheter les jetons non fongibles (NFT) de son trésor.
+Nous pensons que les utilités et la croissance de l'écosystème l'emporteront sur la pression de vente de ceux qui ne sont là que pour bénéficier de l'airdrop. Si cet impact négatif devient excessivement contraignant, la DAO conserve la possibilité de racheter les jetons non fongibles (NFT) de son trésor.
 
 </details>
 
@@ -53,7 +53,7 @@ Oui, le NFT sera révélé plus tard cette année.&#x20;
 
 <details>
 
-<summary>Quelle sera l'utilité du NFT après la TGE ?</summary>
+<summary>Quelle sera l'utilité du NFT après le TGE ?</summary>
 
 #### **Opportunités GameFi**&#x20;
 
@@ -79,9 +79,9 @@ Oui, le NFT sera révélé plus tard cette année.&#x20;
 
 <details>
 
-<summary>Que se passe-t-il si je vends mon NFT pendant la période de détention ?</summary>
+<summary>Que se passe-t-il si je vends mon NFT pendant la période de blocage ?</summary>
 
-Si un investisseur vend le NFT pendant la période de détention, les récompenses non réclamées seront annulées. Cependant, la gouvernance Prometheus pourrait décider autrement.
+Si un investisseur vend le NFT pendant la période de blocage, les récompenses non réclamées seront annulées. Cependant, la gouvernance Prometheus pourrait décider autrement.
 
 </details>
 
@@ -95,9 +95,9 @@ Il est possible d'aligner la valeur du NFT et du jeton XBG. Le NFT Prometheus es
 
 <details>
 
-<summary>Quelle est la durée de la période de détention pour l'airdrop de XBG ?</summary>
+<summary>Quelle est la durée de blocage pour l'airdrop de XBG ?</summary>
 
-La période de détention est de 12 mois, linéairement.
+La période de blocage est de 12 mois, avec un déblocage linéaire.
 
 </details>
 
@@ -105,6 +105,6 @@ La période de détention est de 12 mois, linéairement.
 
 <summary>On a dit que les détenteurs de NFT Prometheus obtiennent une allocation supplémentaire pour acheter des jetons XBG. Quelle est l'allocation par NFT ?</summary>
 
-L'allocation privée pour la communauté Prometheus est illimitée, ce qui signifie que les allocations sont garanties pour les détenteurs de Prometheus. Nous avons visé à lever environ 500'000 $ auprès des détenteurs de NFT et avons levé 1'000'000 $ au total.
+L'allocation privée pour la communauté Prometheus est illimitée, ce qui signifie que les allocations sont garanties pour les détenteurs de Prometheus. Nous avions pour objectif de lever environ 500'000 $ auprès des détenteurs de NFT et avons levé 1'000'000 $ au total.
 
 </details>

@@ -1,19 +1,19 @@
 # NFT
 
-> The Prometheus NFT is the highest status of the XBorg protocol. If you are familiar with the SwissBorg ecosystem, it's similar to the Genesis status but locked to a 1'111 fixed supply. Possessing a Prometheus NFT is a testament to one's significant contributions to the XBorg ecosystem. It offers a plethora of advantages, including access to airdrops, governance capabilities, and in-game privileges, among other valuable benefits.
+> El NFT Prometheus es el estado más alto del protocolo XBorg. Si estás familiarizado con el ecosistema de SwissBorg, es similar al estado de Génesis pero limitado a un suministro fijo de 1'111. Poseer un NFT Prometheus es un testimonio de las contribuciones significativas al ecosistema de XBorg. Ofrece una gran cantidad de ventajas, incluyendo acceso a airdrops, capacidades de gobernanza y privilegios en el juego, entre otros beneficios valiosos.
 
 <details>
 
-<summary>Where can I purchase a Prometheus NFT? </summary>
+<summary>¿Dónde puedo comprar un NFT Prometheus?</summary>
 
-On Opensea or similar marketplaces: \
+En Opensea u otros mercados similares: \
 [https://opensea.io/collection/xborg-prometheus](https://opensea.io/collection/xborg-prometheus)
 
 </details>
 
 <details>
 
-<summary>On which blockchain is the Prometheus NFT deployed? </summary>
+<summary>¿En qué blockchain se despliega el NFT Prometheus?</summary>
 
 Ethereum.
 
@@ -21,90 +21,90 @@ Ethereum.
 
 <details>
 
-<summary>Historically, how much perks have been perceived by Prometheus NFTs? </summary>
+<summary>¿Históricamente, cuántas ventajas han recibido los poseedores de NFT Prometheus?</summary>
 
-Considering the mint price of $400, it can be estimated that Prometheus non-fungible token owners have received approximately $220 worth of perks. This represents a significant percentage, roughly 50%, of the initial mint value. Notably, this can be primarily attributed to the airdrop of the Lens handle, which has conferred considerable value upon Prometheus NFT holders.
-
-</details>
-
-<details>
-
-<summary>Will the Prometheus NFT receive an airdrop of XBG token? </summary>
-
-Around 0.5% to 2% of the XBG token supply will be airdropped to Prometheus holders.&#x20;
+Considerando el precio de emisión de $400, se estima que los propietarios de tokens no fungibles Prometheus han recibido aproximadamente $220 en ventajas. Esto representa un porcentaje significativo, aproximadamente el 50%, del valor de emisión inicial. Cabe destacar que esto se debe principalmente al airdrop del handle Lens, que ha conferido un valor considerable a los poseedores de NFT Prometheus.
 
 </details>
 
 <details>
 
-<summary>How do you plan to retain the value of the Prometheus NFT after the XBorg token airdrop?</summary>
+<summary>¿Recibirá el NFT Prometheus un airdrop del token XBG?</summary>
 
-We believe the utilities and the ecosystem's growth will outweigh the selling pressure from those only here to yield the airdrop. If this negative impact becomes excessively burdensome, the DAO retains the option to undertake a buyback of non-fungible tokens (NFTs) from its treasury.
-
-</details>
-
-<details>
-
-<summary>Will the look of the Prometheus NFT change? </summary>
-
-Yes, the NFT will be revealed later this year.&#x20;
+Se airdropeará aproximadamente entre el 0,5% y el 2% del suministro de tokens XBG a los poseedores de Prometheus.
 
 </details>
 
 <details>
 
-<summary>What will be the NFT utility post TGE?</summary>
+<summary>¿Cómo planean mantener el valor del NFT Prometheus después del airdrop del token XBorg?</summary>
 
-#### **GameFi opportunities**&#x20;
+Creemos que las utilidades y el crecimiento del ecosistema superarán la presión de venta de aquellos que solo están aquí para obtener el airdrop. Si este impacto negativo se vuelve excesivamente gravoso, la DAO retiene la opción de recomprar tokens no fungibles (NFTs) de su tesorería.
 
-* Early access passes, whitelist spots, and NFT giveaway opportunities from the leading GameFi projects.
+</details>
 
-#### **Priority access**&#x20;
+<details>
 
-* Early access to all XBorg products and applications.
+<summary>¿Cambiará la apariencia del NFT Prometheus?</summary>
 
-#### XBorg investments opportunities&#x20;
+Sí, el NFT se revelará más adelante este año.
 
-* Receive an airdrop of XBG tokens, partner tokens, and NFTs, and access XBorg's seed investment round at a discounted valuation.
+</details>
+
+<details>
+
+<summary>¿Cuál será la utilidad del NFT después de la TGE?</summary>
+
+#### **Oportunidades de GameFi**&#x20;
+
+* Acceso temprano, lugares en lista blanca y oportunidades de regalo de NFT de los principales proyectos de GameFi.
+
+#### **Acceso prioritario**&#x20;
+
+* Acceso temprano a todos los productos y aplicaciones de XBorg.
+
+#### Oportunidades de inversión en XBorg&#x20;
+
+* Recibir un airdrop de tokens XBG, tokens de socios y NFT, y acceder a la ronda de inversión inicial de XBorg a una valoración con descuento.
 
 #### XBorg premium
 
-* Get lifetime fee-less access to all XBorg products, networks, and applications.
+* Obtener acceso de por vida sin comisiones a todos los productos, redes y aplicaciones de XBorg.
 
-#### Protocol status
+#### Estado del protocolo
 
-* The Prometheus NFT represents the highest status of the XBorg ecosystem and receives the highest perks.
-
-</details>
-
-<details>
-
-<summary>What if I sell my NFT during the vested period?</summary>
-
-If an investor sells the NFT during the vested period, the non-claimed rewards will be nullified. However, the Prometheus governance could decide otherwise.
+* El NFT Prometheus representa el estado más alto del ecosistema de XBorg y recibe las mayores ventajas.
 
 </details>
 
 <details>
 
-<summary>Is it possible to align the value of Prometheus NFT with XBG token?</summary>
+<summary>¿Qué sucede si vendo mi NFT durante el período de inversión?</summary>
 
-It is possible to align the value of the NFT and the XBG token. The Prometheus NFT is a very scarce asset, with only 1'111 in circulation. The staking yield of the XBG token will be determined by the XP level of a user and the user's status in the app. As such, Prometheus holders will enjoy a higher staking yield. There is no dilution of value with regard to the equity, as no equity will be sold. The whole value of XBorg is redirected toward the DAO and hence the XBG token.
-
-</details>
-
-<details>
-
-<summary>How long is the vesting period for the Airdrop of XBG?</summary>
-
-The vesting period is of 12 months, vested linearly.
+Si un inversor vende el NFT durante el período de inversión, las recompensas no reclamadas se anularán. Sin embargo, la gobernanza de Prometheus podría decidir lo contrario.
 
 </details>
 
 <details>
 
-<summary>It was said that Prometheus NFT holders get additional allocation to buy XBG tokens. How big is the allocation per NFT?</summary>
+<summary>¿Es posible alinear el valor del NFT Prometheus con el token XBG?</summary>
 
-The private allocation for the Prometheus community is uncapped, meaning that allocations are guaranteed for Prometheus holders. We aimed to raise around $500'000 from the NFT holders and raised $1'000'000 in total.
+Es posible alinear el valor del NFT y el token XBG. El NFT Prometheus es un activo muy escaso, con solo 1'111 en circulación. El rendimiento de staking del token XBG se determinará por el nivel de XP de un usuario y el estado del usuario en la aplicación. Como tal, los poseedores de Prometheus disfrutarán de un rendimiento de staking más alto. No hay dilución de valor en cuanto a la equidad, ya que no se venderá ninguna equidad. Todo el valor de XBorg se redirige hacia la DAO y, por lo tanto, hacia el token XBG.
+
+</details>
+
+<details>
+
+<summary>¿Cuánto tiempo dura el período de inversión para el airdrop de XBG?</summary>
+
+El período de inversión es de 12 meses, con un desbloqueo lineal.
+
+</details>
+
+<details>
+
+<summary>Se dijo que los poseedores de NFT Prometheus obtienen una asignación adicional para comprar tokens XBG. ¿Qué tan grande es la asignación por NFT?</summary>
+
+La asignación privada para la comunidad de Prometheus no tiene límite, lo que significa que las asignaciones están garantizadas para los poseedores de Prometheus. Nuestro objetivo era recaudar alrededor de $500,000 de los poseedores de NFT y recaudamos $1,000,000 en total.
 
 </details>

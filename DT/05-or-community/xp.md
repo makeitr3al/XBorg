@@ -1,35 +1,35 @@
 # XP
 
-> XP is a non-transferable token representing one's status and contributions to the XBorg community. It shows contributions, engagement, and support within the community. Contributors earn XP by being active and making valuable contributions, which rewards their efforts. XP is a way of building XBorg fairly and inclusively.
+> XP is een niet-overdraagbare token die iemands status en bijdragen aan de XBorg-gemeenschap vertegenwoordigt. Het toont bijdragen, betrokkenheid en ondersteuning binnen de gemeenschap. Bijdragers verdienen XP door actief te zijn en waardevolle bijdragen te leveren, wat hun inspanningen beloont. XP is een manier om XBorg op een eerlijke en inclusieve manier op te bouwen.
 
 <details>
 
-<summary>What is the best way to obtain XP?</summary>
+<summary>Wat is de beste manier om XP te verkrijgen?</summary>
 
-Presently, the optimal approach for accruing experience points (XP) entails active involvement in the community. Those seeking additional details on this matter are cordially invited to join the XBorg [Discord](https://discord.gg/xborg) server. It is worth noting that with the impending release of App V1, the preeminent method of obtaining XP will shift to utilizing the application and protocol itself.
+Op dit moment is de optimale aanpak om ervaringspunten (XP) te verdienen actieve betrokkenheid bij de gemeenschap. Degenen die meer details willen over dit onderwerp, worden van harte uitgenodigd om lid te worden van de XBorg [Discord](https://discord.gg/xborg) server. Het is vermeldenswaard dat met de aanstaande release van App V1, de voornaamste methode om XP te verkrijgen zal verschuiven naar het gebruik van de applicatie en het protocol zelf.
 
 </details>
 
 <details>
 
-<summary>What kind of rewards do XP holders receive?</summary>
+<summary>Wat voor beloningen ontvangen XP-houders?</summary>
 
-Certain holders of XP tokens will be entitled to receive a specified amount of XBG tokens during the Token Generation Event (TGE), subject to certain conditions. The quantum of tokens disbursed will remain undisclosed until the distribution event, aimed at deterring opportunistic engagement strategies. XP holders will enjoy several benefits, including discounts across XBorg products, exclusive drops, and access to separate staking pools.
-
-</details>
-
-<details>
-
-<summary>When will we know the ratio/stacking system according to our XP?</summary>
-
-XP holders will have access to dedicated staking pools, the exact ratio isn't known yet.
+Bepaalde houders van XP-tokens hebben recht op een bepaalde hoeveelheid XBG-tokens tijdens het Token Generation Event (TGE), onder bepaalde voorwaarden. De hoeveelheid uitgekeerde tokens blijft geheim tot het distributie-evenement, om opportunistische betrokkenheidsstrategieën te ontmoedigen. XP-houders genieten verschillende voordelen, waaronder kortingen op XBorg-producten, exclusieve releases en toegang tot aparte stakingpools.
 
 </details>
 
 <details>
 
-<summary>How can you prevent bots from farming the XP and selling the wallet with the XP to others?</summary>
+<summary>Wanneer zullen we de verhouding/stapelsysteem volgens onze XP kennen?</summary>
 
-To ensure the integrity and robustness of the XP reward mechanism, a Proof of Humanity protocol shall be implemented to guard against potential Sybil attacks.
+XP-houders zullen toegang hebben tot speciale stakingpools, de exacte verhouding is nog niet bekend.
+
+</details>
+
+<details>
+
+<summary>Hoe kun je voorkomen dat bots XP verzamelen en de portemonnee met XP aan anderen verkopen?</summary>
+
+Om de integriteit en robuustheid van het XP-beloningssysteem te waarborgen, zal een Proof of Humanity-protocol worden geïmplementeerd om potentiële Sybil-aanvallen tegen te gaan.
 
 </details>

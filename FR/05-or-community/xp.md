@@ -1,12 +1,12 @@
 # XP
 
-> XP est un jeton non transférable représentant le statut et les contributions d'une personne à la communauté XBorg. Il montre les contributions, l'engagement et le soutien au sein de la communauté. Les contributeurs gagnent des XP en étant actifs et en faisant des contributions précieuses, ce qui récompense leurs efforts. XP est un moyen de construire XBorg de manière juste et inclusive.
+> XP est un jeton non transférable qui représente le statut et les contributions d'une personne à la communauté XBorg. Il montre les contributions, l'engagement et le soutien au sein de la communauté. Les contributeurs gagnent des XP en étant actifs et en faisant des contributions précieuses, ce qui récompense leurs efforts. XP est un moyen de construire XBorg de manière juste et inclusive.
 
 <details>
 
 <summary>Quelle est la meilleure façon d'obtenir des XP ?</summary>
 
-Actuellement, la meilleure approche pour accumuler des points d'expérience (XP) consiste à être activement impliqué dans la communauté. Ceux qui souhaitent obtenir plus de détails à ce sujet sont cordialement invités à rejoindre le serveur XBorg [Discord](https://discord.gg/xborg). Il convient de noter qu'avec la sortie imminente de l'application V1, la méthode prédominante pour obtenir des XP passera par l'utilisation de l'application et du protocole eux-mêmes.
+Actuellement, la meilleure approche pour accumuler des points d'expérience (XP) consiste à s'impliquer activement dans la communauté. Ceux qui souhaitent obtenir plus de détails à ce sujet sont cordialement invités à rejoindre le serveur XBorg [Discord](https://discord.gg/xborg). Il est à noter qu'avec la sortie imminente de l'application V1, la méthode prédominante pour obtenir des XP sera d'utiliser l'application et le protocole eux-mêmes.
 
 </details>
 
@@ -30,6 +30,6 @@ Les détenteurs de XP auront accès à des pools de mise dédiés, le ratio exac
 
 <summary>Comment pouvez-vous empêcher les bots de cultiver les XP et de vendre le portefeuille avec les XP à d'autres personnes ?</summary>
 
-Pour garantir l'intégrité et la robustesse du mécanisme de récompense XP, un protocole de Preuve d'Humanité sera mis en place pour se prémunir contre d'éventuelles attaques Sybil.
+Pour garantir l'intégrité et la robustesse du mécanisme de récompense XP, un protocole de Preuve d'Humanité sera mis en place pour se prémunir contre les attaques potentielles de Sybil.
 
 </details>

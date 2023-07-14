@@ -1,91 +1,91 @@
 # Esports
 
-> XBorg's protocol and applications receive support from the top Web3 gaming esports team. This team, known as XBorg Esports, is highly regarded for its proficiency in organizing frequent and engaging tournaments within the Web3 ecosystem.
+> XBorgのプロトコルとアプリケーションは、トップのWeb3ゲーミングesportsチームからのサポートを受けています。このチームはXBorg Esportsとして知られ、Web3エコシステム内で頻繁で魅力的なトーナメントを組織する能力において高い評価を受けています。
 
 <details>
 
-<summary>How does one participate in XBorg tournaments?</summary>
+<summary>XBorgのトーナメントに参加するにはどうすればいいですか？</summary>
 
-Anyone can attend our tournaments. Most tournaments will be hosted on Community Gaming.
+誰でも私たちのトーナメントに参加することができます。ほとんどのトーナメントはCommunity Gamingで開催されます。
 
 </details>
 
 <details>
 
-<summary>How does one play with player inside a guild ?</summary>
+<summary>ギルド内のプレイヤーと一緒にプレイするにはどうすればいいですか？</summary>
 
-You can find players of our clan on our [Discord ](https://discord.com/invite/xborg)server. Start by selecting relevant roles and then head to the appropriate gaming channels. There are always players excited to join in on the action. To join our competitive clans, seniority, and skills are required.
-
-</details>
-
-<details>
-
-<summary>What is the XCS?</summary>
-
-The Xtream Championship Series (XCS) is the first-ever multi-game esports league in Web3 with a **$100,000** cash prize. To learn more about the XCS, please visit [https://www.xborg.com/xtreme-championship-series](https://www.xborg.com/xtreme-championship-series).
+私たちのクランのプレイヤーは、[Discord](https://discord.com/invite/xborg)サーバーで見つけることができます。関連する役割を選択し、適切なゲームチャンネルに移動してください。常にアクションに参加したいと思っているプレイヤーがいます。競技クランに参加するには、シニアリティとスキルが必要です。
 
 </details>
 
 <details>
 
-<summary>How can I join the XCS?</summary>
+<summary>XCSとは何ですか？</summary>
 
-Start by registering for relevant tournaments. All tournaments can be found [here](https://www.xborg.com/xtreme-championship-series).&#x20;
-
-</details>
-
-<details>
-
-<summary>Do you plan on hosting XCS leagues in the future, with bigger, and more aggressive marketing, as seen in Web2 leagues?</summary>
-
-Indeed, our team is currently crafting a meticulously designed league that will encompass a significantly broader scope, featuring participation from many traditional esports teams and players. The planned launch date for this initiative is set for the year 2024.
+Xtream Championship Series（XCS）は、Web3で初めてのマルチゲームesportsリーグで、**$100,000**のキャッシュ賞金が用意されています。XCSについて詳しくは、[https://www.xborg.com/xtreme-championship-series](https://www.xborg.com/xtreme-championship-series)をご覧ください。
 
 </details>
 
 <details>
 
-<summary>How is the XCS bringing revenue to XBorg?</summary>
+<summary>XCSに参加するにはどうすればいいですか？</summary>
 
-Via sponsorship. The total revenues derived from the league are equal to **$300,000**.
-
-</details>
-
-<details>
-
-<summary>Why is XBorg launching an esports league now?</summary>
-
-This growth mechanism is a powerful tool for bolstering our product and expanding our community. Notably, it also contributes to heightening awareness and exposure of Web3 players and fans, underscoring the benefits and opportunities presented by this innovative technological domain.
+まず、関連するトーナメントに登録してください。すべてのトーナメントは[こちら](https://www.xborg.com/xtreme-championship-series)で見つけることができます。&#x20;
 
 </details>
 
 <details>
 
-<summary>Why is there another Discord server for the XCS?</summary>
+<summary>Web2のリーグと同様に、将来的により大規模でより攻撃的なマーケティングを行ったXCSリーグを開催する予定はありますか？</summary>
 
-To streamline and expedite the overall experience, we have considered the diverse preferences and priorities of the XBorg community. In recognition that some community members may not wish to participate in the XCS, and vice versa, we have implemented measures to ensure greater flexibility and autonomy.
-
-</details>
-
-<details>
-
-<summary>How much is the XCS costing XBorg?</summary>
-
-The XCS is a profitable event thanks to our partners and sponsors. We can't highlight the exact profit amount.&#x20;
+実際に、私たちのチームは現在、多くの伝統的なesportsチームやプレイヤーの参加を特徴とする、広範なスコープを持つ入念に設計されたリーグを作成しています。このイニシアチブの計画された開始日は2024年です。
 
 </details>
 
 <details>
 
-<summary>What is the total XCS cash prize?</summary>
+<summary>XCSはXBorgにどのように収益をもたらしていますか？</summary>
 
-The total cash prize is **$100,000**, distributed over **five games**.
+スポンサーシップを通じてです。リーグから得られる総収益は**$300,000**です。
 
 </details>
 
 <details>
 
-<summary>Where can I submit my suggestions for improvements?</summary>
+<summary>なぜXBorgは今、esportsリーグを立ち上げるのですか？</summary>
 
-We sincerely appreciate feedback, and you can submit any comments and improvements directly on our [Discord server](https://discord.gg/xborg). Our team and moderators are always available to assist.&#x20;
+この成長メカニズムは、私たちの製品を強化し、コミュニティを拡大するための強力なツールです。特に、これはWeb3のプレイヤーやファンの意識と露出を高め、この革新的な技術領域が提供する利点と機会を強調するのに役立ちます。
+
+</details>
+
+<details>
+
+<summary>XCSのために別のDiscordサーバーがあるのはなぜですか？</summary>
+
+全体的な体験を合理化し迅速化するために、XBorgコミュニティの多様な好みと優先事項を考慮しました。XCSに参加したくないコミュニティメンバーやその逆のメンバーもいることを認識し、より大きな柔軟性と自律性を確保するための措置を講じています。
+
+</details>
+
+<details>
+
+<summary>XCSはXBorgにいくらかかっていますか？</summary>
+
+XCSは、パートナーやスポンサーのおかげで収益性のあるイベントです。正確な利益額を強調することはできません。&#x20;
+
+</details>
+
+<details>
+
+<summary>XCSの総キャッシュ賞金はいくらですか？</summary>
+
+総キャッシュ賞金は**$100,000**で、**5つのゲーム**に分配されます。
+
+</details>
+
+<details>
+
+<summary>改善の提案はどこに送信できますか？</summary>
+
+フィードバックを心から感謝しており、コメントや改善案を直接[Discordサーバー](https://discord.gg/xborg)に送信することができます。私たちのチームとモデレーターは常にお手伝いできます。&#x20;
 
 </details>

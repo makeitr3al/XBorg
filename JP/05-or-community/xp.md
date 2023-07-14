@@ -1,35 +1,35 @@
 # XP
 
-> XP is a non-transferable token representing one's status and contributions to the XBorg community. It shows contributions, engagement, and support within the community. Contributors earn XP by being active and making valuable contributions, which rewards their efforts. XP is a way of building XBorg fairly and inclusively.
+> XPは、XBorgコミュニティへの貢献とステータスを表す譲渡不可能なトークンです。コミュニティ内での貢献度、関与度、サポートを示します。コントリビューターは、積極的に活動し、価値ある貢献をすることでXPを獲得し、その努力が報われます。XPは、公正かつ包括的にXBorgを構築する手段です。
 
 <details>
 
-<summary>What is the best way to obtain XP?</summary>
+<summary>XPを得るための最良の方法は何ですか？</summary>
 
-Presently, the optimal approach for accruing experience points (XP) entails active involvement in the community. Those seeking additional details on this matter are cordially invited to join the XBorg [Discord](https://discord.gg/xborg) server. It is worth noting that with the impending release of App V1, the preeminent method of obtaining XP will shift to utilizing the application and protocol itself.
+現在、経験値（XP）を蓄積する最適な方法は、コミュニティへの積極的な参加です。この件に関する詳細を知りたい方は、XBorgの[Discord](https://discord.gg/xborg)サーバーに参加してください。なお、App V1のリリースが迫っているため、XPを得る最も優れた方法は、アプリケーションとプロトコル自体を利用することに移行します。
 
 </details>
 
 <details>
 
-<summary>What kind of rewards do XP holders receive?</summary>
+<summary>XP保有者はどのような報酬を受け取りますか？</summary>
 
-Certain holders of XP tokens will be entitled to receive a specified amount of XBG tokens during the Token Generation Event (TGE), subject to certain conditions. The quantum of tokens disbursed will remain undisclosed until the distribution event, aimed at deterring opportunistic engagement strategies. XP holders will enjoy several benefits, including discounts across XBorg products, exclusive drops, and access to separate staking pools.
-
-</details>
-
-<details>
-
-<summary>When will we know the ratio/stacking system according to our XP?</summary>
-
-XP holders will have access to dedicated staking pools, the exact ratio isn't known yet.
+XPトークンの一部の保有者は、トークン生成イベント（TGE）の際に一定数量のXBGトークンを受け取る権利を有しますが、一定の条件があります。トークンの配布量は、機会主義的な参加戦略を防ぐため、配布イベントまで非公開とされます。XP保有者は、XBorg製品の割引、限定アイテムの入手、別々のステーキングプールへのアクセスなど、さまざまな特典を享受することができます。
 
 </details>
 
 <details>
 
-<summary>How can you prevent bots from farming the XP and selling the wallet with the XP to others?</summary>
+<summary>XPに応じた比率やステーキングシステムはいつ分かりますか？</summary>
 
-To ensure the integrity and robustness of the XP reward mechanism, a Proof of Humanity protocol shall be implemented to guard against potential Sybil attacks.
+XP保有者は専用のステーキングプールにアクセスできますが、具体的な比率はまだ分かっていません。
+
+</details>
+
+<details>
+
+<summary>ボットによるXPの収集やXPを持つウォレットの販売を防ぐ方法はありますか？</summary>
+
+XPの報酬メカニズムの信頼性と堅牢性を確保するために、シビル攻撃に対抗するためのProof of Humanityプロトコルが実装されます。
 
 </details>

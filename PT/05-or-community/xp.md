@@ -6,7 +6,7 @@
 
 <summary>Qual é a melhor maneira de obter XP?</summary>
 
-Atualmente, a abordagem ideal para acumular pontos de experiência (XP) envolve o envolvimento ativo na comunidade. Aqueles que procuram mais detalhes sobre esse assunto são cordialmente convidados a participar do servidor XBorg [Discord](https://discord.gg/xborg). Vale ressaltar que, com o lançamento iminente do App V1, o método preeminente para obter XP mudará para utilizar o próprio aplicativo e protocolo.
+Atualmente, a abordagem ideal para acumular pontos de experiência (XP) envolve o envolvimento ativo na comunidade. Aqueles que procuram mais detalhes sobre esse assunto são cordialmente convidados a ingressar no servidor XBorg [Discord](https://discord.gg/xborg). Vale ressaltar que, com o lançamento iminente do App V1, o método preeminente para obter XP mudará para utilizar o próprio aplicativo e protocolo.
 
 </details>
 
@@ -28,7 +28,7 @@ Os detentores de XP terão acesso a pools de staking dedicadas, mas a proporçã
 
 <details>
 
-<summary>Como você pode evitar que bots acumulem XP e vendam a carteira com o XP para outras pessoas?</summary>
+<summary>Como você pode evitar que bots cultivem XP e vendam a carteira com o XP para outras pessoas?</summary>
 
 Para garantir a integridade e a robustez do mecanismo de recompensa XP, um protocolo de Prova de Humanidade será implementado para proteger contra possíveis ataques Sybil.
 

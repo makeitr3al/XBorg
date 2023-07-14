@@ -1,91 +1,91 @@
-# Esports
+# 电子竞技
 
-> XBorg's protocol and applications receive support from the top Web3 gaming esports team. This team, known as XBorg Esports, is highly regarded for its proficiency in organizing frequent and engaging tournaments within the Web3 ecosystem.
+> XBorg的协议和应用得到了顶级Web3游戏电子竞技团队的支持。这个团队被称为XBorg电子竞技，因其在Web3生态系统内组织频繁且引人入胜的比赛而备受赞誉。
 
 <details>
 
-<summary>How does one participate in XBorg tournaments?</summary>
+<summary>如何参加XBorg的比赛？</summary>
 
-Anyone can attend our tournaments. Most tournaments will be hosted on Community Gaming.
+任何人都可以参加我们的比赛。大多数比赛将在Community Gaming上举办。
 
 </details>
 
 <details>
 
-<summary>How does one play with player inside a guild ?</summary>
+<summary>如何与公会内的玩家一起玩？</summary>
 
-You can find players of our clan on our [Discord ](https://discord.com/invite/xborg)server. Start by selecting relevant roles and then head to the appropriate gaming channels. There are always players excited to join in on the action. To join our competitive clans, seniority, and skills are required.
-
-</details>
-
-<details>
-
-<summary>What is the XCS?</summary>
-
-The Xtream Championship Series (XCS) is the first-ever multi-game esports league in Web3 with a **$100,000** cash prize. To learn more about the XCS, please visit [https://www.xborg.com/xtreme-championship-series](https://www.xborg.com/xtreme-championship-series).
+您可以在我们的[Discord](https://discord.com/invite/xborg)服务器上找到我们公会的玩家。首先选择相关角色，然后进入适当的游戏频道。总是有玩家兴奋地加入行动。要加入我们的竞技公会，需要资历和技能。
 
 </details>
 
 <details>
 
-<summary>How can I join the XCS?</summary>
+<summary>什么是XCS？</summary>
 
-Start by registering for relevant tournaments. All tournaments can be found [here](https://www.xborg.com/xtreme-championship-series).&#x20;
-
-</details>
-
-<details>
-
-<summary>Do you plan on hosting XCS leagues in the future, with bigger, and more aggressive marketing, as seen in Web2 leagues?</summary>
-
-Indeed, our team is currently crafting a meticulously designed league that will encompass a significantly broader scope, featuring participation from many traditional esports teams and players. The planned launch date for this initiative is set for the year 2024.
+Xtream Championship Series（XCS）是Web3中第一个多游戏电子竞技联赛，奖金为**100,000美元**。要了解更多关于XCS的信息，请访问[https://www.xborg.com/xtreme-championship-series](https://www.xborg.com/xtreme-championship-series)。
 
 </details>
 
 <details>
 
-<summary>How is the XCS bringing revenue to XBorg?</summary>
+<summary>如何加入XCS？</summary>
 
-Via sponsorship. The total revenues derived from the league are equal to **$300,000**.
-
-</details>
-
-<details>
-
-<summary>Why is XBorg launching an esports league now?</summary>
-
-This growth mechanism is a powerful tool for bolstering our product and expanding our community. Notably, it also contributes to heightening awareness and exposure of Web3 players and fans, underscoring the benefits and opportunities presented by this innovative technological domain.
+首先注册相关比赛。所有比赛都可以在[这里](https://www.xborg.com/xtreme-championship-series)找到。
 
 </details>
 
 <details>
 
-<summary>Why is there another Discord server for the XCS?</summary>
+<summary>您是否计划在未来举办XCS联赛，像Web2联赛那样进行更大规模和更激进的营销？</summary>
 
-To streamline and expedite the overall experience, we have considered the diverse preferences and priorities of the XBorg community. In recognition that some community members may not wish to participate in the XCS, and vice versa, we have implemented measures to ensure greater flexibility and autonomy.
-
-</details>
-
-<details>
-
-<summary>How much is the XCS costing XBorg?</summary>
-
-The XCS is a profitable event thanks to our partners and sponsors. We can't highlight the exact profit amount.&#x20;
+的确，我们的团队目前正在打造一个精心设计的联赛，将涵盖更广泛的范围，吸引许多传统电子竞技团队和选手参与。该计划的启动日期定于2024年。
 
 </details>
 
 <details>
 
-<summary>What is the total XCS cash prize?</summary>
+<summary>XCS如何为XBorg带来收入？</summary>
 
-The total cash prize is **$100,000**, distributed over **five games**.
+通过赞助。从联赛中获得的总收入为**300,000美元**。
 
 </details>
 
 <details>
 
-<summary>Where can I submit my suggestions for improvements?</summary>
+<summary>为什么XBorg现在要推出一个电子竞技联赛？</summary>
 
-We sincerely appreciate feedback, and you can submit any comments and improvements directly on our [Discord server](https://discord.gg/xborg). Our team and moderators are always available to assist.&#x20;
+这种增长机制是加强我们的产品和扩大我们社区的强大工具。值得注意的是，它还有助于提高Web3玩家和粉丝的意识和曝光度，突显了这个创新技术领域所带来的益处和机遇。
+
+</details>
+
+<details>
+
+<summary>为什么XCS还有另一个Discord服务器？</summary>
+
+为了简化和加快整体体验，我们考虑了XBorg社区的多样化偏好和优先事项。鉴于一些社区成员可能不希望参与XCS，反之亦然，我们采取了措施以确保更大的灵活性和自主性。
+
+</details>
+
+<details>
+
+<summary>XCS对XBorg的成本是多少？</summary>
+
+由于我们的合作伙伴和赞助商，XCS是一个盈利的活动。我们无法准确地强调利润金额。
+
+</details>
+
+<details>
+
+<summary>XCS的总奖金是多少？</summary>
+
+总奖金为**100,000美元**，分布在**五个游戏**中。
+
+</details>
+
+<details>
+
+<summary>我在哪里可以提交改进建议？</summary>
+
+我们非常感谢反馈，您可以直接在我们的[Discord服务器](https://discord.gg/xborg)上提交任何意见和改进。我们的团队和管理员随时可用以提供帮助。
 
 </details>
