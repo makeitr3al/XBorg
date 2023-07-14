@@ -42,4 +42,3 @@
 ## 💼 07 | ORGANIZATION
 
 * [Legal and Financial](07-or-organization/legal-and-financial.md)
-
