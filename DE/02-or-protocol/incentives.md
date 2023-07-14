@@ -1,6 +1,6 @@
 # Anreize
 
-> XBorg hat immer gesagt, dass alle den Wert, den sie generieren, erleben müssen, und wir haben unser Ökosystem nach diesen Prinzipien entwickelt. Im folgenden Abschnitt werden die verschiedenen aktuellen und zukünftigen Mechanismen hervorgehoben, die den aktiven Mitgliedern des Protokolls einen Mehrwert bieten werden.
+> XBorg hat immer gesagt, dass alle den Wert, den sie generieren, erleben müssen, und wir haben unser Ökosystem nach diesen Prinzipien entwickelt. Der folgende Abschnitt wird die verschiedenen aktuellen und zukünftigen Mechanismen hervorheben, die den aktiven Mitgliedern des Protokolls einen Mehrwert bieten werden.
 
 <details>
 
@@ -14,7 +14,7 @@ Kernmitglieder, frühe Nutzer des Protokolls, XP-Inhaber und Prometheus-Inhaber.
 
 #### **Gemeinschaft**
 
-XBorg-Ratsmitglieder, Inhaber von Ehrenabzeichen, Wettbewerbsspieler, Turnierveranstalter und Content-Ersteller.
+XBorg-Ratsmitglieder, Inhaber von Ehrenabzeichen, Wettbewerbsspieler, Turnierorganisatoren und Content-Ersteller.
 
 #### **Entwickleranreize**
 
@@ -30,7 +30,7 @@ Esport-Teams, Geschäftsentwicklung in der Gemeinschaft, Empfehlungsprogramm, fr
 
 <summary>Warum Anreize geben?</summary>
 
-XBorg handelt nach dem Leitprinzip, Akteure zu belohnen, die positiv zum Ökosystem beitragen. Ob man ein engagiertes Gemeindemitglied, ein innovativer Entwickler oder ein aktiver Teilnehmer an der Nutzung des Protokolls ist, XBorg erkennt die Bedeutung an, Verdienste zu belohnen und eine meritokratische Kultur zu fördern. Eine zentralisierte Wertsteigerung steht im Widerspruch zu einer gemeinschaftszentrierten Philosophie. Daher bleibt XBorg in seinem Engagement für eine gerechte Verteilung der Belohnungen in seinem gesamten Ökosystem fest verwurzelt.
+XBorg handelt nach dem Leitprinzip, Akteure zu belohnen, die positiv zum Ökosystem beitragen. Ob man ein engagiertes Gemeindemitglied, ein innovativer Entwickler oder ein aktiver Teilnehmer an der Nutzung des Protokolls ist, XBorg erkennt die Bedeutung an, Verdienste zu belohnen und eine meritokratische Kultur zu fördern. Eine zentralisierte Wertakkumulation steht im Widerspruch zur Idee einer gemeinschaftszentrierten Philosophie. Daher bleibt XBorg in seinem Engagement für eine gerechte Verteilung der Belohnungen in seinem gesamten Ökosystem fest.
 
 </details>
 
@@ -55,7 +55,7 @@ In diesem Stadium können wir keine vorab festgelegte feste Menge angeben, aufgr
 * Börsennotierungen
 * XBG-Bewertung
 
-Tatsächlich legen einige Tier-1-Börsen die Airdrop-Mengen und -Bedingungen fest.&#x20;
+Tatsächlich legen einige Tier-1-Börsen die Menge und Bedingungen für Airdrops fest.&#x20;
 
 </details>
 
@@ -83,6 +83,6 @@ Ja, die aktivsten Beitragenden erhalten einen Airdrop.&#x20;
 
 _Wie viel ist 1 XP wert?_&#x20;
 
-In diesem Stadium können wir das nicht bestätigen.&#x20;
+In diesem Stadium können wir es nicht bestätigen.&#x20;
 
 </details>

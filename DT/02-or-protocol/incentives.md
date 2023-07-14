@@ -1,89 +1,88 @@
 # Incentives
 
-> XBorg has always said that all must experience the value they generate, and we have developed our ecosystem under these principles. The following section will highlight the various current and future mechanisms that will offer value to active members of the protocol.
+> XBorg heeft altijd gezegd dat iedereen de waarde moet ervaren die ze genereren, en we hebben ons ecosysteem ontwikkeld volgens deze principes. Het volgende gedeelte zal de verschillende huidige en toekomstige mechanismen belichten die waarde zullen bieden aan actieve leden van het protocol.
 
 <details>
 
-<summary>What are the XBorg protocol incentives? </summary>
+<summary>Wat zijn de XBorg protocol incentives?</summary>
 
-To foster the protocol development, certain rewards will be attributed to different demographics:&#x20;
+Om de ontwikkeling van het protocol te bevorderen, zullen bepaalde beloningen worden toegekend aan verschillende demografieën:&#x20;
 
-#### **Early Supporters**
+#### **Vroege supporters**
 
-Core contributors, early protocol users, XP holders, and Prometheus holders.
+Kernbijdragers, vroege gebruikers van het protocol, XP-houders en Prometheus-houders.
 
-#### **Community**
+#### **Gemeenschap**
 
-XBorg council members, Honorary badge holders, competitive players, tournament organizers, and content creators.
+XBorg raadsleden, houders van eretitels, competitieve spelers, toernooiorganisatoren en contentmakers.
 
-#### **Developer incentives**
+#### **Ontwikkelaarsincentives**
 
-Bug bounties, technical documentation, grants for developers building on our Application Network, and open-source contributions.
+Bug bounties, technische documentatie, subsidies voor ontwikkelaars die bouwen op ons Application Network en open-source bijdragen.
 
-#### **Protocol usage incentives**
+#### **Protocolgebruiksincentives**
 
-Esports teams, community business development, referral program, early game integrations, and credential network curators.\
-
+Esports teams, zakelijke ontwikkeling in de gemeenschap, verwijzingsprogramma, vroege game-integraties en curatoren van het credential-netwerk.
 
 </details>
 
 <details>
 
-<summary>Why give incentives? </summary>
+<summary>Waarom incentives geven?</summary>
 
-XBorg operates under the guiding principle of incentivizing actors who contribute positively to its ecosystem. Whether one is a devoted community member, an innovative developer, or an active participant in the protocol's utilization, XBorg recognizes the importance of rewarding merit and promoting a meritocratic culture. Centralized value accrual runs counter to the notion of a community-centric philosophy. Thus XBorg remains steadfast in its commitment to ensuring the equitable distribution of rewards across its entire ecosystem.
-
-</details>
-
-<details>
-
-<summary>How much will be allocated to protocol incentives?</summary>
-
-As per the XBG token distribution, 6% of the total token supply is intended to be distributed for protocol incentives.
+XBorg opereert volgens het leidende principe om actoren die positief bijdragen aan het ecosysteem te belonen. Of iemand nu een toegewijd gemeenschapslid is, een innovatieve ontwikkelaar of een actieve deelnemer aan het gebruik van het protocol, XBorg erkent het belang van het belonen van verdienste en het bevorderen van een meritocratische cultuur. Gecentraliseerde waarde-accumulatie staat haaks op de gedachte van een gemeenschapsgerichte filosofie. Daarom blijft XBorg standvastig in zijn toewijding om ervoor te zorgen dat beloningen eerlijk worden verdeeld over het hele ecosysteem.
 
 </details>
 
 <details>
 
-<summary>Will Prometheus holders receive an airdrop? </summary>
+<summary>Hoeveel zal worden toegewezen aan protocol incentives?</summary>
 
-Yes, the total airdrop amount will vary between 0.5% to 2% of the total token supply.&#x20;
-
-_Why such an extensive range?_&#x20;
-
-At this stage, we aren't able to give a pre-determined fixed amount due to the following factors:&#x20;
-
-* Exchange listings
-* XBG valuation
-
-Indeed, some Tier 1 exchanges veto airdrop amounts and conditions.&#x20;
+Volgens de XBG-tokenverdeling is 6% van de totale tokenvoorraad bedoeld om te worden verdeeld voor protocol incentives.
 
 </details>
 
 <details>
 
-<summary>Will the Prometheus airdrop be vested? </summary>
+<summary>Zullen Prometheus-houders een airdrop ontvangen?</summary>
 
-Yes, it will be released linearly for 12 months.&#x20;
+Ja, het totale airdrop-bedrag zal variëren tussen 0,5% en 2% van de totale tokenvoorraad.&#x20;
+
+_Waarom zo'n uitgebreid bereik?_&#x20;
+
+Op dit moment kunnen we geen vooraf bepaald vast bedrag geven vanwege de volgende factoren:&#x20;
+
+* Beursnoteringen
+* XBG-waardering
+
+Inderdaad, sommige Tier 1-beurzen vetoën airdrop-bedragen en -voorwaarden.&#x20;
 
 </details>
 
 <details>
 
-<summary>How can I farm the airdrop? </summary>
+<summary>Zal de Prometheus airdrop worden vastgezet?</summary>
 
-If you are looking to farm an airdrop, XBorg is not a place for you.&#x20;
+Ja, het zal lineair worden vrijgegeven gedurende 12 maanden.&#x20;
 
 </details>
 
 <details>
 
-<summary>Will the XP holders receive an airdrop? </summary>
+<summary>Hoe kan ik de airdrop farmen?</summary>
 
-Yes, the most active contributors will receive an airdrop.&#x20;
+Als je op zoek bent om een airdrop te farmen, is XBorg niet de juiste plek voor jou.&#x20;
 
-_How much will 1 XP be worth?_&#x20;
+</details>
 
-At this stage, we are unable to confirm.&#x20;
+<details>
+
+<summary>Zullen XP-houders een airdrop ontvangen?</summary>
+
+Ja, de meest actieve bijdragers zullen een airdrop ontvangen.&#x20;
+
+_Hoeveel is 1 XP waard?_&#x20;
+
+Op dit moment kunnen we dat niet bevestigen.&#x20;
 
 </details>

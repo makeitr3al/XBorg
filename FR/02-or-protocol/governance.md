@@ -22,9 +22,9 @@ La gouvernance sera appliquée via un vote quadratique, où le nombre total de j
 
 <details>
 
-<summary>Quel type de décisions le DAO prendra-t-il ?</summary>
+<summary>Quel type de décisions prendra le DAO ?</summary>
 
-À mesure que XBorg avance vers une décentralisation complète, sa gouvernance se verra confier une vaste gamme de pouvoirs décisionnels. Cependant, il convient de noter que certains aspects du projet seront exclus du vote, tels que la divulgation de données sensibles qui pourraient compromettre la pérennité du projet ou la poursuite d'initiatives légalement douteuses ou susceptibles de nuire à la réputation de XBorg ou à ses relations juridiques, commerciales ou financières antérieures.
+À mesure que XBorg se rapproche de la décentralisation complète, sa gouvernance se verra confier une vaste gamme de pouvoirs décisionnels. Cependant, il convient de noter que certains aspects du projet seront exclus du vote, tels que la divulgation de données sensibles qui pourraient compromettre la pérennité du projet ou la poursuite d'initiatives douteuses sur le plan légal ou susceptibles de nuire à la réputation de XBorg ou à ses relations juridiques, commerciales ou financières antérieures.
 
 Les contributeurs principaux joueront un rôle de soutien et de guide pour faciliter la prise de décision efficace du DAO. Les types de décisions soumises au vote incluent les nouvelles offres de produits, les mises à jour des fonctionnalités de l'application, les modifications des mécanismes de frais dans le protocole, le financement des activités du DAO, le contrôle des dépenses du DAO et le veto des dépenses prévisibles importantes, l'orientation de l'expansion stratégique sur le marché et la contribution à la composition des membres contributeurs principaux.
 
@@ -44,6 +44,6 @@ Avec la vision de devenir le plus grand écosystème de jeux qui construit des a
 
 <summary>Comment incitez-vous la participation de la communauté ?</summary>
 
-Pour favoriser une communauté solide et engagée, nous, chez XBorg, avons mis en place une structure de gouvernance qui met l'accent sur la participation active. Plus précisément, nous avons fixé une exigence de quorum de 10% pour les votes de gouvernance, ce qui garantit qu'une partie importante de la communauté a voix au chapitre dans les décisions importantes. De plus, pour inciter les membres de la communauté à participer à la gouvernance, nous offrirons des récompenses sous forme de jetons XBG pendant une période prédéterminée. Cette approche vise à promouvoir l'éthique démocratique et participative qui sous-tend notre vision de XBorg en tant qu'écosystème de jeux décentralisé.
+Pour favoriser une communauté solide et engagée, nous, chez XBorg, avons mis en place une structure de gouvernance qui met l'accent sur la participation active. Plus précisément, nous avons fixé une exigence de quorum de 10% pour les votes de gouvernance, ce qui garantit qu'une partie importante de la communauté a voix au chapitre dans les décisions importantes. De plus, pour inciter les membres de la communauté à participer à la gouvernance, nous offrirons des récompenses sous forme de jetons XBG pendant une période prédéterminée. Cette approche vise à promouvoir l'éthos démocratique et participatif qui sous-tend notre vision de XBorg en tant qu'écosystème de jeux décentralisé.
 
 </details>

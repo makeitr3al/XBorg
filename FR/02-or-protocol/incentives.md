@@ -30,7 +30,7 @@ Prime pour la découverte de bugs, documentation technique, subventions pour les
 
 <summary>Pourquoi donner des incitations ?</summary>
 
-XBorg fonctionne selon le principe directeur d'inciter les acteurs qui contribuent positivement à son écosystème. Que l'on soit un membre dévoué de la communauté, un développeur innovant ou un participant actif à l'utilisation du protocole, XBorg reconnaît l'importance de récompenser le mérite et de promouvoir une culture méritocratique. L'accumulation de valeur centralisée va à l'encontre de la philosophie centrée sur la communauté. Ainsi, XBorg reste fidèle à son engagement de garantir la distribution équitable des récompenses dans l'ensemble de son écosystème.
+XBorg fonctionne selon le principe directeur d'inciter les acteurs qui contribuent positivement à son écosystème. Que l'on soit un membre dévoué de la communauté, un développeur innovant ou un participant actif à l'utilisation du protocole, XBorg reconnaît l'importance de récompenser le mérite et de promouvoir une culture méritocratique. L'accumulation de valeur centralisée va à l'encontre de la philosophie centrée sur la communauté. Ainsi, XBorg reste résolu à garantir la distribution équitable des récompenses dans l'ensemble de son écosystème.
 
 </details>
 
@@ -53,15 +53,15 @@ _Pourquoi une telle fourchette étendue ?_
 À ce stade, nous ne sommes pas en mesure de donner un montant fixe prédéterminé en raison des facteurs suivants :
 
 * Cotation sur les échanges
-* Évaluation de XBG
+* Évaluation du XBG
 
-En effet, certains échanges de premier rang opposent leur veto aux montants et conditions de largage aérien.
+En effet, certains échanges de premier rang ont un droit de veto sur les montants et les conditions des largages aériens.
 
 </details>
 
 <details>
 
-<summary>Le largage aérien de Prometheus sera-t-il bloqué ?</summary>
+<summary>Le largage aérien de Prometheus sera-t-il soumis à une période de blocage ?</summary>
 
 Oui, il sera libéré de manière linéaire pendant 12 mois.
 
