@@ -1,38 +1,38 @@
-# Collaboration
+# Colaboración
 
-> _If you want to go fast, go alone. But if you want to go far, go together._&#x20;
+> _Si quieres ir rápido, ve solo. Pero si quieres llegar lejos, ve acompañado._&#x20;
 >
 >
 >
-> Such are the words that have been at the backbone of XBorg's development since its inception. XBorg is developing at the confluence of GameFi and SocialFi, and it is proud to develope alongside some of the strongest builders in the space.
+> Estas son las palabras que han sido el pilar del desarrollo de XBorg desde su inicio. XBorg se está desarrollando en la confluencia de GameFi y SocialFi, y se enorgullece de desarrollarse junto a algunos de los constructores más fuertes en el espacio.
 
 <details>
 
-<summary>What is the connection between XBorg and SwissBorg?</summary>
+<summary>¿Cuál es la conexión entre XBorg y SwissBorg?</summary>
 
-XBorg is the gaming venture of SwissBorg, a distinguished European crypto wealth management application boasting over 750,000 verified users. The relationship between SwissBorg and XBorg is far more than just a simple partnership or investment, as the two entities are closely intertwined in a mutually beneficial way. XBorg enjoys many benefits from SwissBorg, including access to marketing support, legal counsel, strategic guidance, human resources assistance, and a vast network of influential founders and investors.
+XBorg es la empresa de juegos de SwissBorg, una destacada aplicación europea de gestión de riqueza criptográfica con más de 750,000 usuarios verificados. La relación entre SwissBorg y XBorg va mucho más allá de una simple asociación o inversión, ya que las dos entidades están estrechamente entrelazadas de manera mutuamente beneficiosa. XBorg disfruta de muchos beneficios de SwissBorg, incluido el acceso a apoyo de marketing, asesoramiento legal, orientación estratégica, asistencia de recursos humanos y una vasta red de fundadores e inversores influyentes.
 
-#### What are the benefits for SwissBorg?
+#### ¿Cuáles son los beneficios para SwissBorg?
 
-Consequently, the success of XBorg augments the intrinsic value of SwissBorg, including equity and token value. XBorg is crucial in upholding SwissBorg’s relevance within the gaming industry, a key driver of cryptocurrency mass adoption. SwissBorg products are frequently referenced across XBorg’s offerings, such as the launchpad’s KYC and the gaming passport’s Off/On ramp. Further, utilities to the CHSB token will also be granted within the XBorg protocol. Furthermore, XBorg is financially autonomous, precluding SwissBorg’s burn rate consumption.
+Consecuentemente, el éxito de XBorg aumenta el valor intrínseco de SwissBorg, incluido el valor de la equidad y del token. XBorg es crucial para mantener la relevancia de SwissBorg dentro de la industria de los juegos, un impulsor clave de la adopción masiva de criptomonedas. Los productos de SwissBorg se mencionan con frecuencia en las ofertas de XBorg, como el KYC del lanzamiento y la pasarela de juegos Off/On ramp. Además, también se otorgarán utilidades al token CHSB dentro del protocolo de XBorg. Además, XBorg es financieramente autónomo, lo que evita el consumo de la tasa de quema de SwissBorg.
 
 </details>
 
 <details>
 
-<summary>Where do you see XBorg's collaboration and integration with big Web2 gaming companies and their games/player base in the future (2-5 years)?</summary>
+<summary>¿Dónde ves la colaboración e integración de XBorg con las grandes compañías de juegos Web2 y su base de jugadores en el futuro (2-5 años)?</summary>
 
-XBorg is strategically pursuing negotiations with significant game publishers to secure licensing agreements providing access to invaluable in-game data. As we look towards the future, we anticipate that leading gaming companies will increasingly recognize the immense potential of our innovative technology and seek to integrate it into their platforms to enhance the user experience. In addition, XBorg is proactively exploring collaborative opportunities with prominent Web2 esports teams and influencers, with whom we are engaged in promising and productive discussions. These strategic partnerships are poised further to accelerate the growth and expansion of our groundbreaking platform.
+XBorg está buscando estratégicamente negociaciones con importantes editores de juegos para asegurar acuerdos de licencia que brinden acceso a valiosos datos dentro del juego. A medida que miramos hacia el futuro, anticipamos que las principales compañías de juegos reconocerán cada vez más el inmenso potencial de nuestra tecnología innovadora y buscarán integrarla en sus plataformas para mejorar la experiencia del usuario. Además, XBorg está explorando activamente oportunidades de colaboración con equipos prominentes de deportes electrónicos e influencers de Web2, con quienes estamos involucrados en discusiones prometedoras y productivas. Estas asociaciones estratégicas están preparadas para acelerar aún más el crecimiento y la expansión de nuestra plataforma revolucionaria.
 
 </details>
 
 <details>
 
-<summary>Are there any partnerships or collaborations in place to support the project?</summary>
+<summary>¿Existen asociaciones o colaboraciones para apoyar el proyecto?</summary>
 
-First, XBorg is the gaming venture of SwissBorg, the relationship goes well beyond a partnership agreement, but our operations are deeply rooted with SwissBorg. We benefit from the help of the C-level executives of SwissBorg, legal advice, marketing activations, and talent acquisition. SwissBorg helps XBorg grow and vice versa.
+En primer lugar, XBorg es la empresa de juegos de SwissBorg, la relación va mucho más allá de un acuerdo de asociación, nuestras operaciones están profundamente arraigadas con SwissBorg. Nos beneficiamos de la ayuda de los ejecutivos de nivel C de SwissBorg, asesoramiento legal, activaciones de marketing y adquisición de talento. SwissBorg ayuda a XBorg a crecer y viceversa.
 
-Regarding our partnerships, we have partnered with notable Web3 brands such as
+En cuanto a nuestras asociaciones, nos hemos asociado con marcas destacadas de Web3 como
 
 * [**Brave Software**](https://brave.com/)
 * [**Polygon Gaming**](https://polygon.technology/)
@@ -44,8 +44,8 @@ Regarding our partnerships, we have partnered with notable Web3 brands such as
 * [**Community Gaming**](https://www.communitygaming.io/)
 * [**Polkastarter Gaming**](https://polkastarter.gg/)
 
-and Web2 companies such as [TeamBDS](https://teambds.gg/)
+y compañías de Web2 como [TeamBDS](https://teambds.gg/)
 
-Additionally, we have partnered with **+30 Web3** games.
+Además, nos hemos asociado con **+30 juegos de Web3**.
 
 </details>
