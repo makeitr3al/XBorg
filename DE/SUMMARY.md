@@ -2,9 +2,9 @@
 
 * [XBorg's Ultimate FAQ](README.md)
 
-## ℹ 01 | CORE
+## ℹ 01 | KERN
 
-* [Information](01-or-core/information.md)
+* [Informationen](01-or-core/information.md)
 * [Zusammenarbeit](01-or-core/collaboration.md)
 * [Roadmap](01-or-core/roadmap.md)
 
@@ -18,7 +18,7 @@
 * [Governance](02-or-protocol/governance.md)
 * [Anreize](02-or-protocol/incentives.md)
 
-## 📈 03 | MARKET
+## 📈 03 | MARKT
 
 * [Wettbewerb](03-or-market/competition.md)
 
@@ -39,6 +39,6 @@
 * [Fundraising](06-or-token/fundraise.md)
 * [Seed-Runde](06-or-token/seed-round.md)
 
-## 💼 07 | ORGANIZATION
+## 💼 07 | ORGANISATION
 
 * [Rechtliches und Finanzielles](07-or-organization/legal-and-financial.md)

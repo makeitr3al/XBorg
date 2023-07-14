@@ -1,98 +1,98 @@
-# Roadmap
+# ロードマップ
 
 {% hint style="info" %}
-Please note that the following roadmap is subject to change and is not a binding commitment. The information provided is based on current estimates, assumptions, and projections and may be affected by various external factors such as market conditions, regulatory changes, and technological advancements. The roadmap is provided for informational purposes only and should not be relied upon to guarantee future results or performance. Actual results may differ materially from those expressed or implied in the roadmap. The company reserves the right to modify, update or discontinue any of the initiatives outlined therein at its sole discretion without prior notice.
+以下のロードマップは変更される可能性があり、拘束力のある約束ではありません。提供される情報は、現在の見積もり、仮定、予測に基づいており、市場状況、規制変更、技術の進歩などのさまざまな外部要因によって影響を受ける可能性があります。ロードマップは情報提供のみを目的としており、将来の結果やパフォーマンスを保証するものではありません。実際の結果は、ロードマップに明示または暗示されているものと異なる場合があります。会社は、予告なく、その製品やイニシアチブのいずれかを変更、更新、または中止する権利を留保します。
 {% endhint %}
 
 <details>
 
-<summary>Is there any general roadmap and progress map?</summary>
+<summary>一般的なロードマップと進捗状況はありますか？</summary>
 
-The general roadmap can be found in our latest [**deck**](https://docsend.com/view/5dwn74pn6izud3vb) and on our [**website**](https://www.xborg.com/).
-
-</details>
-
-<details>
-
-<summary>What are XBorg's objectives for 2023? </summary>
-
-* **1,000,000** users on the fan engagement app
-
-<!---->
-
-* **50** esports teams onboarded to the fan engagement app, alongside 20 other communities
-
-<!---->
-
-* **10** software engineers on the team
-
-<!---->
-
-* **$5m** seed round fundraising and public token sale
-
-<!---->
-
-* **Decentralization** of the credential network and developer grant program
-
-<!---->
-
-* Early product **monetization**
-
-<!---->
-
-* **+20,000** community members
+一般的なロードマップは、最新の[**デッキ**](https://docsend.com/view/5dwn74pn6izud3vb)および[**ウェブサイト**](https://www.xborg.com/)でご覧いただけます。
 
 </details>
 
 <details>
 
-<summary>Where will XBorg be in three years? </summary>
+<summary>XBorgの2023年の目標は何ですか？</summary>
 
-Our vision for the next three years is to transform XBorg into a fully decentralized protocol with a plethora of user applications while simultaneously establishing ourselves as the preeminent gaming credential network. Through grant programs and active support for player initiatives, we aspire to empower countless gamers and facilitate the rise of player-owned gaming entities, including esports teams and studios. With a commitment to ongoing innovation and progress, we anticipate XBorg emerging as the dominant gaming ecosystem in the Web3 sphere and beyond, paving the way for future forays into other entertainment sectors and community empowerment initiatives.\
-\
-Disclaimer: While we believe it is achievable, the statements made in this document regarding XBorg's vision for the next three years are forward-looking and based on assumptions, expectations, and projections about the gaming and blockchain industries. These statements involve risks and uncertainties, and actual results may differ materially from those described in these statements. XBorg does not guarantee or promise any specific results or outcomes. Any investment in XBorg or its products and services involves risk and may result in the loss of all or a portion of the investment. XBorg is not responsible for any damages or losses incurred as a result of any investment decision made based on the information in this document. Finally, nothing in this document should be construed as legal, financial, or investment advice.
+* ファンエンゲージメントアプリで**1,000,000**人のユーザーを獲得する
 
-</details>
+<!---->
 
-<details>
+* ファンエンゲージメントアプリに**50**のeスポーツチームと20の他のコミュニティをオンボードする
 
-<summary>What did XBorg achieve so far? </summary>
+<!---->
 
-* Built MVP of the gaming credential network with **10,000** users
-* First application use case, the soulbound launchpad with **six early-stage** deals
-* The most competitive gaming community in Web3
-* Partnerships with top brands in Web3 and Web2 (Team BDS, Brave, YGG, Polygon Gaming)
-* Largest tournament organizer in Web3, with 125 tournaments organized in 2022 and the largest Web3 league organized in 2023 (XCS)&#x20;
-* Strategic funding round
-* Prometheus mint
+* チームに**10**人のソフトウェアエンジニアを迎える
 
-</details>
+<!---->
 
-<details>
+* シードラウンドの資金調達と公開トークンセールで**$5m**を調達する
 
-<summary>What are XBorg's priorities for 2023? </summary>
+<!---->
 
-The top priorities of XBorg are focused on several critical areas of strategic development. Firstly, the team is actively building a robust and engaging Fan Engagement App (xborg.gg) that is both stable and captivating. Secondly, the company is committed to augmenting its technical talent pool to facilitate the continued growth and expansion of its applications and credential network. XBorg is also dedicated to pursuing strategic business development opportunities with leading Esports teams to enhance the platform's user engagement and appeal.\
-\
-With its focus on sustainable growth, XBorg is exploring a range of monetization strategies, including wearable drops, monthly user and business subscriptions, and other innovative revenue streams. Finally, XBorg is preparing for a decentralized future by launching the XBG token and making it available on Tier 1 exchanges, such as Binance and Coinbase, and Tier 2 exchanges, like Bybit, Bitfinex, and Kucoin. By pursuing these strategic priorities, XBorg is poised to revolutionize the gaming industry and cement its position as a leader in the rapidly-evolving world of Web3 technology.
+* 認証ネットワークと開発者グラントプログラムの**分散化**
+
+<!---->
+
+* 早期の製品**収益化**
+
+<!---->
+
+* **+20,000**のコミュニティメンバー
 
 </details>
 
 <details>
 
-<summary>What is the biggest threat (or weakness) to XBorg in implementing the roadmap?</summary>
+<summary>XBorgは3年後にどこにいる予定ですか？</summary>
 
-**Regulatory risks**
+私たちの3年後のビジョンは、XBorgを完全に分散化されたプロトコルに変革し、多数のユーザーアプリケーションを提供する一方で、ゲームの認証ネットワークの第一人者としての地位を確立することです。助成金プログラムとプレーヤーイニシアチブへの積極的なサポートを通じて、無数のゲーマーを力に満ちた存在にし、eスポーツチームやスタジオを含むプレーヤー所有のゲーミングエンティティの台頭を促進することを目指しています。持続的なイノベーションと進歩への取り組みを通じて、XBorgがWeb3の領域を超えて主導的なゲーミングエコシステムとなり、将来的に他のエンターテイメント部門やコミュニティのエンパワーメントイニシアチブへの進出の道を開くことを予想しています。
 
-Like every Web3 project, the regulatory landscape surrounding digital assets may impede the execution of certain roadmap items. Should certain NFTs or tokens be considered securities under certain jurisdictions, this would harm our ecosystem or may impact the utilities of the XBG token.
+免責事項：達成可能であると信じていますが、この文書で述べられているXBorgの3年後のビジョンに関する記述は、ゲームとブロックチェーン業界に関する仮定、期待、予測に基づいています。これらの記述にはリスクと不確実性が伴い、実際の結果はこれらの記述で説明されているものと異なる場合があります。XBorgは特定の結果や成果を保証または約束するものではありません。XBorgまたはその製品およびサービスへの投資にはリスクがあり、投資の一部または全部を失う可能性があります。この文書の情報に基づいて行われた投資の結果として生じるいかなる損害や損失についても、XBorgは責任を負いません。最後に、この文書の内容を法的、金融、投資の助言と解釈することはありません。
 
-**Data governance**
+</details>
 
-Furthermore, XBorg's utilization of third-party APIs sourced from reputable entities such as Steam and Faceit engenders potential data governance issues, as discontinuing said collaborations would inevitably result in diminished data quality.&#x20;
+<details>
 
-**Credential network traction**
+<summary>XBorgはこれまでに何を達成しましたか？</summary>
 
-The adoption risk for any protocol cannot be overstated, as it represents a potential hurdle to its success. Hence, a robust initial growth plan is essential. In line with this, we have identified the Fan engagement app and strategic partnerships with esports teams as the most effective avenues for attaining the critical mass of the XBorg protocol.
+* ゲームの認証ネットワークのMVPを**10,000**人のユーザーと共に構築しました
+* 最初のアプリケーションのユースケースであるソウルバウンドランチパッドで**6つの早期段階の**ディールを実現しました
+* Web3で最も競争力のあるゲーミングコミュニティ
+* Web3およびWeb2のトップブランドとのパートナーシップ（Team BDS、Brave、YGG、Polygon Gaming）
+* Web3で最大のトーナメントオーガナイザーであり、2022年には125のトーナメントを開催し、2023年には最大のWeb3リーグ（XCS）を開催しました
+* 戦略的な資金調達ラウンド
+* Prometheusの発行
+
+</details>
+
+<details>
+
+<summary>XBorgの2023年の優先事項は何ですか？</summary>
+
+XBorgの最優先事項は、戦略的な開発のいくつかの重要な領域に焦点を当てています。まず第一に、チームは安定して魅力的なファンエンゲージメントアプリ（xborg.gg）を構築しています。第二に、会社はアプリケーションと認証ネットワークの成長と拡大を促進するために、技術的な人材プールを増やすことに取り組んでいます。XBorgはまた、主要なeスポーツチームとの戦略的なビジネス開発の機会を追求し、プラットフォームのユーザーエンゲージメントと魅力を高めることに専念しています。
+
+持続可能な成長を重視して、XBorgはウェアラブルドロップ、月額ユーザーおよびビジネスの定期購読、その他の革新的な収益ストリームなど、さまざまな収益化戦略を検討しています。最後に、XBorgは分散化の未来に向けてXBGトークンを発行し、バイナンスやコインベースなどのTier 1取引所、Bybit、Bitfinex、KucoinなどのTier 2取引所で利用できるように準備しています。これらの戦略的な優先事項を追求することで、XBorgはゲーミング業界を革新し、急速に進化するWeb3テクノロジーの世界でのリーダーとしての地位を確立する準備が整っています。
+
+</details>
+
+<details>
+
+<summary>XBorgのロードマップの実施に対する最大の脅威（または弱点）は何ですか？</summary>
+
+**規制リスク**
+
+すべてのWeb3プロジェクトと同様に、デジタルアセットに関する規制環境は、特定のロードマップアイテムの実行を妨げる可能性があります。特定のNFTやトークンが特定の管轄区域で証券と見なされる場合、これは当社のエコシステムに損害を与える可能性があり、またXBGトークンのユーティリティに影響を与える可能性があります。
+
+**データガバナンス**
+
+さらに、XBorgがSteamやFaceitなどの信頼性のある第三者APIを利用していることは、潜在的なデータガバナンスの問題を引き起こします。これらの協力関係を中止すると、データの品質が低下することになります。
+
+**認証ネットワークの牽引力**
+
+どのプロトコルにおいても採用リスクは非常に重要であり、成功への潜在的な障害を示しています。したがって、堅牢な初期成長計画が不可欠です。これに合わせて、ファンエンゲージメントアプリとeスポーツチームとの戦略的なパートナーシップを、XBorgプロトコルのクリティカルマスを達成するための最も効果的な手段として特定しました。
 
 \
 

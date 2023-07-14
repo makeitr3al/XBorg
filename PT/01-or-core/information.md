@@ -22,7 +22,7 @@ O problema dos dados fragmentados dos jogadores é agravado pelo fato de que os 
 
 A XBorg está revolucionando a indústria de jogos, capacitando os jogadores a criar sua identidade digital de jogos por meio de uma rede de credenciais. Isso abre caminho para uma nova geração de aplicativos e casos de uso de jogos aprimorados.
 
-Com o potencial de trazer dezenas de milhões de jogadores para o ecossistema Web3, a XBorg está pronta para transformar o futuro dos jogos como o conhecemos.
+Com o potencial de atrair dezenas de milhões de jogadores para o ecossistema Web3, a XBorg está pronta para transformar o futuro dos jogos como o conhecemos.
 
 A XBorg conta com o apoio das melhores marcas e investidores do Web3 e é o lar dos jogadores mais competitivos do Web3 gaming.
 
@@ -32,13 +32,13 @@ A XBorg conta com o apoio das melhores marcas e investidores do Web3 e é o lar 
 
 <summary>Apresente o XBorg para uma criança de 5 anos</summary>
 
-Ei, criança! Você já jogou algum jogo no seu tablet ou celular? Bem, tem uma coisa muito legal chamada XBorg que vai deixar sua experiência de jogo ainda mais divertida!
+Ei, pequeno! Você já jogou algum jogo no seu tablet ou celular? Bem, tem uma coisa muito legal chamada XBorg que vai deixar sua experiência de jogo ainda mais divertida!
 
 A XBorg é como uma ferramenta especial que ajuda você a criar seu próprio personagem digital que você pode usar para jogar. É como criar seu próprio super-herói!
 
 E a melhor parte é que seu super-herói te dá superpoderes em outros aplicativos de jogos legais também. É como dar superpoderes para todos os jogadores do planeta.
 
-A XBorg está sendo apoiada por pessoas muito importantes e inteligentes que acham que isso vai mudar a forma como jogamos no futuro. Então prepare-se, porque a XBorg vai ser uma coisa muito grande!
+A XBorg está sendo apoiada por pessoas muito importantes e inteligentes que acham que isso vai mudar a forma como jogamos no futuro. Então se prepare, porque a XBorg vai ser muito importante!
 
 </details>
 
@@ -50,7 +50,7 @@ A rede de credenciais é como um hub pessoal de dados de jogos para cada jogador
 
 Nosso sistema rastreia três tipos de dados do usuário:
 
-1. Engajamento em esports
+1. Engajamento em eSports
 2. Desempenho em jogos
 3. Atividade social/fã
 
@@ -78,7 +78,7 @@ Temos a intenção de que o uso da rede de credenciais seja sem permissão, para
 
 <summary>Qual é a missão da XBorg?</summary>
 
-Nossa missão na XBorg é capacitar jogadores globalmente, fornecendo a eles oportunidades de propriedade, governança e experiências de usuário superiores. Acreditamos firmemente que o futuro dos jogos está nas mãos dos jogadores, e estamos comprometidos em ser a plataforma onde eles podem criar e possuir novos casos de uso para a indústria de jogos.
+Nossa missão na XBorg é capacitar jogadores globalmente, oferecendo a eles oportunidades de propriedade, governança e experiências de usuário superiores. Acreditamos firmemente que o futuro dos jogos está nas mãos dos jogadores, e estamos comprometidos em ser a plataforma onde eles podem criar e possuir novos casos de uso para a indústria de jogos.
 
 Na XBorg, priorizamos as necessidades dos nossos jogadores e nos esforçamos para criar um ambiente que promova a colaboração, a governança aberta, a descentralização e a inovação. Nosso objetivo é construir uma comunidade global de jogadores que possam assumir o controle de suas experiências de jogo, criar seus próprios aplicativos e contribuir para o crescimento da indústria.
 

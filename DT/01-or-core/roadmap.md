@@ -1,98 +1,98 @@
-# Roadmap
+# Routekaart
 
 {% hint style="info" %}
-Please note that the following roadmap is subject to change and is not a binding commitment. The information provided is based on current estimates, assumptions, and projections and may be affected by various external factors such as market conditions, regulatory changes, and technological advancements. The roadmap is provided for informational purposes only and should not be relied upon to guarantee future results or performance. Actual results may differ materially from those expressed or implied in the roadmap. The company reserves the right to modify, update or discontinue any of the initiatives outlined therein at its sole discretion without prior notice.
+Let op dat de volgende routekaart onderhevig is aan verandering en geen bindende verbintenis is. De verstrekte informatie is gebaseerd op huidige schattingen, aannames en projecties en kan worden beïnvloed door verschillende externe factoren zoals marktomstandigheden, regelgevingsveranderingen en technologische ontwikkelingen. De routekaart wordt alleen ter informatie verstrekt en mag niet worden gebruikt om toekomstige resultaten of prestaties te garanderen. Werkelijke resultaten kunnen aanzienlijk verschillen van de in de routekaart uitgedrukte of geïmpliceerde resultaten. Het bedrijf behoudt zich het recht voor om naar eigen goeddunken een van de daarin uiteengezette initiatieven te wijzigen, bij te werken of stop te zetten zonder voorafgaande kennisgeving.
 {% endhint %}
 
 <details>
 
-<summary>Is there any general roadmap and progress map?</summary>
+<summary>Is er een algemene routekaart en voortgangskaart?</summary>
 
-The general roadmap can be found in our latest [**deck**](https://docsend.com/view/5dwn74pn6izud3vb) and on our [**website**](https://www.xborg.com/).
-
-</details>
-
-<details>
-
-<summary>What are XBorg's objectives for 2023? </summary>
-
-* **1,000,000** users on the fan engagement app
-
-<!---->
-
-* **50** esports teams onboarded to the fan engagement app, alongside 20 other communities
-
-<!---->
-
-* **10** software engineers on the team
-
-<!---->
-
-* **$5m** seed round fundraising and public token sale
-
-<!---->
-
-* **Decentralization** of the credential network and developer grant program
-
-<!---->
-
-* Early product **monetization**
-
-<!---->
-
-* **+20,000** community members
+De algemene routekaart is te vinden in onze laatste [**presentatie**](https://docsend.com/view/5dwn74pn6izud3vb) en op onze [**website**](https://www.xborg.com/).
 
 </details>
 
 <details>
 
-<summary>Where will XBorg be in three years? </summary>
+<summary>Wat zijn de doelstellingen van XBorg voor 2023?</summary>
 
-Our vision for the next three years is to transform XBorg into a fully decentralized protocol with a plethora of user applications while simultaneously establishing ourselves as the preeminent gaming credential network. Through grant programs and active support for player initiatives, we aspire to empower countless gamers and facilitate the rise of player-owned gaming entities, including esports teams and studios. With a commitment to ongoing innovation and progress, we anticipate XBorg emerging as the dominant gaming ecosystem in the Web3 sphere and beyond, paving the way for future forays into other entertainment sectors and community empowerment initiatives.\
+* **1.000.000** gebruikers op de fan engagement-app
+
+<!---->
+
+* **50** esports-teams aan boord van de fan engagement-app, samen met 20 andere gemeenschappen
+
+<!---->
+
+* **10** software-engineers in het team
+
+<!---->
+
+* **$5 miljoen** aan seedronde-financiering en openbare tokenverkoop
+
+<!---->
+
+* **Decentralisatie** van het credential-netwerk en het ontwikkelaarsbeursprogramma
+
+<!---->
+
+* Vroege product **monetisatie**
+
+<!---->
+
+* **+20.000** gemeenschapsleden
+
+</details>
+
+<details>
+
+<summary>Waar zal XBorg over drie jaar zijn?</summary>
+
+Onze visie voor de komende drie jaar is om XBorg te transformeren tot een volledig gedecentraliseerd protocol met tal van gebruikerstoepassingen, terwijl we tegelijkertijd onszelf vestigen als het vooraanstaande gaming credential-netwerk. Door middel van beursprogramma's en actieve ondersteuning voor initiatieven van spelers streven we ernaar talloze gamers in staat te stellen en de opkomst van door spelers beheerde gaming-entiteiten, waaronder esports-teams en studio's, te faciliteren. Met een toewijding aan voortdurende innovatie en vooruitgang verwachten we dat XBorg naar voren zal komen als het dominante gaming-ecosysteem in de Web3-sfeer en daarbuiten, waardoor de weg wordt vrijgemaakt voor toekomstige uitstapjes naar andere entertainmentsectoren en initiatieven voor gemeenschapsversterking.\
 \
-Disclaimer: While we believe it is achievable, the statements made in this document regarding XBorg's vision for the next three years are forward-looking and based on assumptions, expectations, and projections about the gaming and blockchain industries. These statements involve risks and uncertainties, and actual results may differ materially from those described in these statements. XBorg does not guarantee or promise any specific results or outcomes. Any investment in XBorg or its products and services involves risk and may result in the loss of all or a portion of the investment. XBorg is not responsible for any damages or losses incurred as a result of any investment decision made based on the information in this document. Finally, nothing in this document should be construed as legal, financial, or investment advice.
+Disclaimer: Hoewel we geloven dat het haalbaar is, zijn de in dit document gemaakte uitspraken over de visie van XBorg voor de komende drie jaar toekomstgericht en gebaseerd op aannames, verwachtingen en projecties over de gaming- en blockchain-industrieën. Deze uitspraken houden risico's en onzekerheden in, en daadwerkelijke resultaten kunnen wezenlijk verschillen van de beschreven resultaten in deze uitspraken. XBorg garandeert of belooft geen specifieke resultaten of uitkomsten. Elke investering in XBorg of zijn producten en diensten brengt risico's met zich mee en kan leiden tot het verlies van de volledige investering of een deel daarvan. XBorg is niet verantwoordelijk voor enige schade of verliezen die worden geleden als gevolg van een beleggingsbeslissing die is genomen op basis van de informatie in dit document. Tot slot mag niets in dit document worden opgevat als juridisch, financieel of beleggingsadvies.
 
 </details>
 
 <details>
 
-<summary>What did XBorg achieve so far? </summary>
+<summary>Wat heeft XBorg tot nu toe bereikt?</summary>
 
-* Built MVP of the gaming credential network with **10,000** users
-* First application use case, the soulbound launchpad with **six early-stage** deals
-* The most competitive gaming community in Web3
-* Partnerships with top brands in Web3 and Web2 (Team BDS, Brave, YGG, Polygon Gaming)
-* Largest tournament organizer in Web3, with 125 tournaments organized in 2022 and the largest Web3 league organized in 2023 (XCS)&#x20;
-* Strategic funding round
-* Prometheus mint
+* MVP van het gaming credential-netwerk gebouwd met **10.000** gebruikers
+* Eerste toepassingsgeval, de soulbound launchpad met **zes vroege** deals
+* De meest competitieve gaminggemeenschap in Web3
+* Samenwerkingen met topmerken in Web3 en Web2 (Team BDS, Brave, YGG, Polygon Gaming)
+* Grootste toernooiorganisator in Web3, met 125 georganiseerde toernooien in 2022 en de grootste Web3-league georganiseerd in 2023 (XCS)&#x20;
+* Strategische financieringsronde
+* Prometheus-munt
 
 </details>
 
 <details>
 
-<summary>What are XBorg's priorities for 2023? </summary>
+<summary>Wat zijn de prioriteiten van XBorg voor 2023?</summary>
 
-The top priorities of XBorg are focused on several critical areas of strategic development. Firstly, the team is actively building a robust and engaging Fan Engagement App (xborg.gg) that is both stable and captivating. Secondly, the company is committed to augmenting its technical talent pool to facilitate the continued growth and expansion of its applications and credential network. XBorg is also dedicated to pursuing strategic business development opportunities with leading Esports teams to enhance the platform's user engagement and appeal.\
+De belangrijkste prioriteiten van XBorg zijn gericht op verschillende kritieke gebieden van strategische ontwikkeling. Ten eerste bouwt het team actief aan een robuuste en boeiende Fan Engagement App (xborg.gg) die zowel stabiel als meeslepend is. Ten tweede is het bedrijf toegewijd aan het vergroten van zijn technische talentenpool om de voortdurende groei en uitbreiding van zijn toepassingen en credential-netwerk te faciliteren. XBorg is ook toegewijd aan het nastreven van strategische zakelijke ontwikkelingsmogelijkheden met toonaangevende esports-teams om de gebruikersbetrokkenheid en aantrekkingskracht van het platform te vergroten.\
 \
-With its focus on sustainable growth, XBorg is exploring a range of monetization strategies, including wearable drops, monthly user and business subscriptions, and other innovative revenue streams. Finally, XBorg is preparing for a decentralized future by launching the XBG token and making it available on Tier 1 exchanges, such as Binance and Coinbase, and Tier 2 exchanges, like Bybit, Bitfinex, and Kucoin. By pursuing these strategic priorities, XBorg is poised to revolutionize the gaming industry and cement its position as a leader in the rapidly-evolving world of Web3 technology.
+Met de focus op duurzame groei onderzoekt XBorg een reeks monetisatiestrategieën, waaronder wearable drops, maandelijkse gebruikers- en bedrijfsabonnementen en andere innovatieve inkomstenstromen. Ten slotte bereidt XBorg zich voor op een gedecentraliseerde toekomst door de lancering van de XBG-token en deze beschikbaar te stellen op Tier 1-beurzen, zoals Binance en Coinbase, en Tier 2-beurzen, zoals Bybit, Bitfinex en Kucoin. Door deze strategische prioriteiten na te streven, staat XBorg op het punt om de gamingindustrie te revolutioneren en zijn positie als leider in de snel evoluerende wereld van Web3-technologie te versterken.
 
 </details>
 
 <details>
 
-<summary>What is the biggest threat (or weakness) to XBorg in implementing the roadmap?</summary>
+<summary>Wat is de grootste bedreiging (of zwakte) voor XBorg bij het implementeren van de routekaart?</summary>
 
-**Regulatory risks**
+**Regelgevingsrisico's**
 
-Like every Web3 project, the regulatory landscape surrounding digital assets may impede the execution of certain roadmap items. Should certain NFTs or tokens be considered securities under certain jurisdictions, this would harm our ecosystem or may impact the utilities of the XBG token.
+Net als elk Web3-project kan het regelgevingslandschap rond digitale activa de uitvoering van bepaalde routekaartitems belemmeren. Als bepaalde NFT's of tokens als effecten worden beschouwd onder bepaalde rechtsgebieden, kan dit schadelijk zijn voor ons ecosysteem of de bruikbaarheid van de XBG-token beïnvloeden.
 
-**Data governance**
+**Gegevensbeheer**
 
-Furthermore, XBorg's utilization of third-party APIs sourced from reputable entities such as Steam and Faceit engenders potential data governance issues, as discontinuing said collaborations would inevitably result in diminished data quality.&#x20;
+Bovendien brengt het gebruik van XBorg van API's van derden afkomstig van gerenommeerde entiteiten zoals Steam en Faceit potentiële problemen met gegevensbeheer met zich mee, aangezien het stopzetten van dergelijke samenwerkingen onvermijdelijk zou leiden tot verminderde gegevenskwaliteit.&#x20;
 
-**Credential network traction**
+**Traction van het credential-netwerk**
 
-The adoption risk for any protocol cannot be overstated, as it represents a potential hurdle to its success. Hence, a robust initial growth plan is essential. In line with this, we have identified the Fan engagement app and strategic partnerships with esports teams as the most effective avenues for attaining the critical mass of the XBorg protocol.
+Het adoptierisico voor elk protocol kan niet worden overschat, omdat het een mogelijke hindernis vormt voor het succes ervan. Daarom is een robuust groeiplan van essentieel belang. In lijn hiermee hebben we de Fan Engagement App en strategische partnerschappen met esports-teams geïdentificeerd als de meest effectieve wegen om de kritieke massa van het XBorg-protocol te bereiken.
 
 \
 
