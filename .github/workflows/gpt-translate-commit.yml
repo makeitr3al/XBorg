@@ -20,7 +20,7 @@ jobs:
           echo "files=$(git diff --name-only HEAD^ HEAD | grep '^EN/.*\.md$' | tr '\n' ' ')" >> $GITHUB_OUTPUT
 
       - name: Run GPT Translate
-        uses: 3ru/gpt-translate@v1.1.2
+        uses: 3ru/gpt-translate@master
         with:
           apikey: ${{ secrets.OPENAI_API_KEY }}
           inputFiles: ${{ steps.changed_files.outputs.files }}
