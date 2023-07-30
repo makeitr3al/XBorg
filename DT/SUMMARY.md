@@ -1,11 +1,11 @@
-# Inhoudsopgave
+# Table of contents
 
 * [XBorg's Ultimate FAQ](README.md)
 
 ## ℹ 01 | KERN
 
-* [Informatie](01-or-core/informatie.md)
-* [Samenwerking](01-or-core/samenwerking.md)
+* [Informatie](01-or-kern/informatie.md)
+* [Samenwerking](01-or-kern/samenwerking.md)
 * [Roadmap](01-or-core/roadmap.md)
 
 ## 📄 02 | PROTOCOL
@@ -20,7 +20,7 @@
 
 ## 📈 03 | MARKT
 
-* [Concurrentie](03-or-market/concurrentie.md)
+* [Concurrentie](03-or-markt/concurrentie.md)
 
 ## ♠ 04 | TEAM
 
@@ -41,4 +41,4 @@
 
 ## 💼 07 | ORGANISATIE
 
-* [Juridisch en Financieel](07-or-organization/juridisch-en-financieel.md)
+* [Juridisch en Financieel](07-or-organisatie/juridisch-en-financieel.md)
