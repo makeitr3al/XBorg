@@ -1,44 +1,44 @@
-# Table of contents
+# Inhoudsopgave
 
 * [XBorg's Ultimate FAQ](README.md)
 
-## ℹ 01 | CORE
+## ℹ 01 | KERN
 
-* [Information](01-or-core/information.md)
-* [Collaboration](01-or-core/collaboration.md)
-* [Roadmap](01-or-core/roadmap.md)
+* [Informatie](01-of-kern/informatie.md)
+* [Samenwerking](01-of-kern/samenwerking.md)
+* [Roadmap](01-of-kern/roadmap.md)
 
 ## 📄 02 | PROTOCOL
 
-* [Gaming Credential Network](02-or-protocol/gaming-credential-network.md)
-* [Gaming Application Network](02-or-protocol/gaming-application-network/README.md)
-  * [Gaming Engagement App](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
-  * [Soulbound Launchpad](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
-  * [Initial Team Offerings](02-or-protocol/gaming-application-network/initial-team-offerings.md)
-* [Governance](02-or-protocol/governance.md)
-* [Incentives](02-or-protocol/incentives.md)
+* [Gaming Credential Network](02-of-protocol/gaming-credential-network.md)
+* [Gaming Application Network](02-of-protocol/gaming-application-network/README.md)
+  * [Gaming Engagement App](02-of-protocol/gaming-application-network/gaming-engagement-app.md)
+  * [Soulbound Launchpad](02-of-protocol/gaming-application-network/soulbound-launchpad.md)
+  * [Initiële Team Aanbiedingen](02-of-protocol/gaming-application-network/initiële-team-aanbiedingen.md)
+* [Governance](02-of-protocol/governance.md)
+* [Incentives](02-of-protocol/incentives.md)
 
-## 📈 03 | MARKET
+## 📈 03 | MARKT
 
-* [Competition](03-or-market/competition.md)
+* [Concurrentie](03-of-markt/concurrentie.md)
 
 ## ♠ 04 | TEAM
 
-* [Meet the Team](04-or-team/meet-the-team.md)
-* [HR](04-or-team/hr.md)
+* [Ontmoet het Team](04-of-team/ontmoet-het-team.md)
+* [HR](04-of-team/hr.md)
 
 ## 🤝 05 | COMMUNITY
 
-* [NFT](05-or-community/nft.md)
-* [XP](05-or-community/xp.md)
-* [Esports](05-or-community/esports.md)
+* [NFT](05-of-community/nft.md)
+* [XP](05-of-community/xp.md)
+* [Esports](05-of-community/esports.md)
 
 ## 💰 06 | TOKEN
 
-* [XBG](06-or-token/xbg.md)
-* [Fundraise](06-or-token/fundraise.md)
-* [Seed Round](06-or-token/seed-round.md)
+* [XBG](06-of-token/xbg.md)
+* [Fundraise](06-of-token/fundraise.md)
+* [Seed Ronde](06-of-token/seed-ronde.md)
 
-## 💼 07 | ORGANIZATION
+## 💼 07 | ORGANISATIE
 
-* [Legal and Financial](07-or-organization/legal-and-financial.md)
+* [Juridisch en Financieel](07-of-organisatie/juridisch-en-financieel.md)
