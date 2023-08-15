@@ -1,33 +1,33 @@
-# Table of contents
+# Tabela e përmbajtjes
 
-* [XBorg's Ultimate FAQ](README.md)
+* [Pyetje të shpeshta për XBorg](README.md)
 
-## ℹ 01 | CORE
+## ℹ 01 | BAZA
 
-* [Information](01-or-core/information.md)
-* [Collaboration](01-or-core/collaboration.md)
-* [Roadmap](01-or-core/roadmap.md)
+* [Informacion](01-or-core/information.md)
+* [Bashkëpunim](01-or-core/collaboration.md)
+* [Rrugëtim](01-or-core/roadmap.md)
 
-## 📄 02 | PROTOCOL
+## 📄 02 | PROTOKOLL
 
-* [Gaming Credential Network](02-or-protocol/gaming-credential-network.md)
-* [Gaming Application Network](02-or-protocol/gaming-application-network/README.md)
-  * [Gaming Engagement App](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
+* [Rrjeti i Kredencialeve të Lojërave](02-or-protocol/gaming-credential-network.md)
+* [Rrjeti i Aplikacioneve të Lojërave](02-or-protocol/gaming-application-network/README.md)
+  * [Aplikacioni i Përplasjes së Lojërave](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
   * [Soulbound Launchpad](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
-  * [Initial Team Offerings](02-or-protocol/gaming-application-network/initial-team-offerings.md)
-* [Governance](02-or-protocol/governance.md)
-* [Incentives](02-or-protocol/incentives.md)
+  * [Ofertat e Ekipit të Parë](02-or-protocol/gaming-application-network/initial-team-offerings.md)
+* [Qeverisja](02-or-protocol/governance.md)
+* [Stimulime](02-or-protocol/incentives.md)
 
-## 📈 03 | MARKET
+## 📈 03 | TREG
 
-* [Competition](03-or-market/competition.md)
+* [Konkurencë](03-or-market/competition.md)
 
-## ♠ 04 | TEAM
+## ♠ 04 | EKIP
 
-* [Meet the Team](04-or-team/meet-the-team.md)
-* [HR](04-or-team/hr.md)
+* [Takoni Ekipin](04-or-team/meet-the-team.md)
+* [Burimet Njerëzore](04-or-team/hr.md)
 
-## 🤝 05 | COMMUNITY
+## 🤝 05 | KOMUNITET
 
 * [NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
@@ -36,9 +36,9 @@
 ## 💰 06 | TOKEN
 
 * [XBG](06-or-token/xbg.md)
-* [Fundraise](06-or-token/fundraise.md)
-* [Seed Round](06-or-token/seed-round.md)
+* [Mobilizim Fondesh](06-or-token/fundraise.md)
+* [Raundi i Parë](06-or-token/seed-round.md)
 
-## 💼 07 | ORGANIZATION
+## 💼 07 | ORGANIZATË
 
-* [Legal and Financial](07-or-organization/legal-and-financial.md)
+* [Ligjore dhe Financiare](07-or-organization/legal-and-financial.md)
