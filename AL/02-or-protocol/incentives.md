@@ -1,88 +1,88 @@
-# Incentives
+# Stimulime
 
-> XBorg has always said that all must experience the value they generate, and we have developed our ecosystem under these principles. The following section will highlight the various current and future mechanisms that will offer value to active members of the protocol.
+> XBorg gjithmonë ka thënë se të gjithë duhet të përjetojnë vlerën që ata gjenerojnë, dhe kemi zhvilluar ekosistemin tonë nën këto parime. Seksioni vijues do të theksojë mekanizmat e ndryshëm aktualë dhe të ardhshëm që do të ofrojnë vlerë për anëtarët aktivë të protokollit.
 
 <details>
 
-<summary>What are the XBorg protocol incentives?</summary>
+<summary>Çfarë janë stimulimet e protokollit XBorg?</summary>
 
-To foster the protocol development, certain rewards will be attributed to different demographics:
+Për të nxitur zhvillimin e protokollit, do të jepen shpërblime të caktuara për demografikat e ndryshme:&#x20;
 
-**Early Supporters**
+#### **Mbështetësit e hershëm**
 
-Core contributors, early protocol users, XP holders, and Prometheus holders.
+Kontribuesit kryesorë, përdoruesit e hershëm të protokollit, mbajtësit e XP dhe mbajtësit e Prometheus.
 
-**Community**
+#### **Komuniteti**
 
-XBorg council members, Honorary badge holders, competitive players, tournament organizers, and content creators.
+Anëtarët e këshillit të XBorg-ut, mbajtësit e flamurit nderi, lojtarët konkurrues, organizatorët e turneve dhe krijuesit e përmbajtjes.
 
-**Developer incentives**
+#### **Stimulime për zhvilluesit**
 
-Bug bounties, technical documentation, grants for developers building on our Application Network, and open-source contributions.
+Shpërblime për gjetjen e gabimeve, dokumentacion teknik, grantë për zhvilluesit që ndërtojnë në Rrjetin tonë të Aplikacioneve dhe kontributet e burimeve të hapura.
 
-**Protocol usage incentives**
+#### **Stimulime për përdorimin e protokollit**
 
-Esports teams, community business development, referral program, early game integrations, and credential network curators.\\
+Ekipet e sporteve elektronike, zhvillimi i biznesit të komunitetit, programi i referimit, integrimet e hershme të lojërave dhe kuratorët e rrjetit të kredencialeve.
 
 </details>
 
 <details>
 
-<summary>Why give incentives?</summary>
+<summary>Pse të jepen stimulime?</summary>
 
-XBorg operates under the guiding principle of incentivizing actors who contribute positively to its ecosystem. Whether one is a devoted community member, an innovative developer, or an active participant in the protocol's utilization, XBorg recognizes the importance of rewarding merit and promoting a meritocratic culture. Centralized value accrual runs counter to the notion of a community-centric philosophy. Thus XBorg remains steadfast in its commitment to ensuring the equitable distribution of rewards across its entire ecosystem.
-
-</details>
-
-<details>
-
-<summary>How much will be allocated to protocol incentives?</summary>
-
-As per the XBG token distribution, 6% of the total token supply is intended to be distributed for protocol incentives.
+XBorg vepron nën parimin udhëheqës të stimulimit të aktorëve që kontribuojnë pozitivisht në ekosistemin e tij. Pavarësisht nëse është një anëtar i përkushtuar i komunitetit, një zhvillues inovativ, apo një pjesëmarrës aktiv në përdorimin e protokollit, XBorg e njeh rëndësinë e shpërblimit të meritës dhe promovimit të një kulture meritokratike. Akumulimi i vlerës qendrore kundërvë në filozofinë qendrore të komunitetit. Prandaj, XBorg mbetet i vendosur në angazhimin e tij për të siguruar shpërndarjen e drejtë të shpërblimeve në të gjithë ekosistemin e tij.
 
 </details>
 
 <details>
 
-<summary>Will Prometheus holders receive an airdrop?</summary>
+<summary>Sa do të alokohet për stimulime të protokollit?</summary>
 
-Yes, the total airdrop amount will vary between 0.5% to 2% of the total token supply.
-
-_Why such an extensive range?_
-
-At this stage, we aren't able to give a pre-determined fixed amount due to the following factors:
-
-* Exchange listings
-* XBG valuation
-
-Indeed, some Tier 1 exchanges veto airdrop amounts and conditions.
+Sipas shpërndarjes së tokenit XBG, 6% e furnizimit total të tokenit është e destinuar për stimulime të protokollit.
 
 </details>
 
 <details>
 
-<summary>Will the Prometheus airdrop be vested?</summary>
+<summary>A do të marrin mbajtësit e Prometheus një airdrop?</summary>
 
-Yes, it will be released linearly for 12 months.
+Po, shuma totale e airdrop-it do të ndryshojë nga 0.5% deri në 2% të furnizimit total të tokenit.&#x20;
+
+_Pse një gamë kaq e gjerë?_&#x20;
+
+Në këtë fazë, ne nuk jemi në gjendje të japim një shumë të caktuar paraprake për shkak të faktorëve të mëposhtëm:&#x20;
+
+* Listat e këmbimit
+* Vlerësimi i XBG
+
+Në të vërtetë, disa këmbime të Nivelit 1 vendosin shuma dhe kushte të airdrop-it.&#x20;
 
 </details>
 
 <details>
 
-<summary>How can I farm the airdrop?</summary>
+<summary>A do të jetë airdrop-i i Prometheus-i i mbajtur?</summary>
 
-If you are looking to farm an airdrop, XBorg is not a place for you.
+Po, ai do të lansohet linearisht për 12 muaj.&#x20;
 
 </details>
 
 <details>
 
-<summary>Will the XP holders receive an airdrop?</summary>
+<summary>Si mund të marr airdrop-in?</summary>
 
-Yes, the most active contributors will receive an airdrop.
+Nëse po kërkoni të merrni një airdrop, XBorg nuk është një vend për ju.&#x20;
 
-_How much will 1 XP be worth?_
+</details>
 
-At this stage, we are unable to confirm.
+<details>
+
+<summary>A do të marrin mbajtësit e XP një airdrop?</summary>
+
+Po, kontribuesit më aktivë do të marrin një airdrop.&#x20;
+
+_Sa do të vlejë 1 XP?_&#x20;
+
+Në këtë fazë, ne nuk jemi në gjendje të konfirmojmë.&#x20;
 
 </details>
