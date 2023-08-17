@@ -1,19 +1,19 @@
 # NFT
 
-> The Prometheus NFT is the highest status of the XBorg protocol. If you are familiar with the SwissBorg ecosystem, it's similar to the Genesis status but locked to a 1'111 fixed supply. Possessing a Prometheus NFT is a testament to one's significant contributions to the XBorg ecosystem. It offers a plethora of advantages, including access to airdrops, governance capabilities, and in-game privileges, among other valuable benefits.
+> NFT-ja Prometheus është statusi më i lartë i protokollit XBorg. Nëse jeni të njohur me ekosistemin SwissBorg, është e ngjashme me statusin Genesis, por është e kufizuar në një furnizim të fiksuar prej 1'111. Të posedosh një NFT Prometheus është dëshmi e kontributeve të rëndësishme në ekosistemin XBorg. Ajo ofron një shumëllojshmëri avantazhesh, duke përfshirë qasje në airdrop, aftësi të qeverisjes dhe privilegje në lojë, ndër të tjera benefite të vlefshme.
 
 <details>
 
-<summary>Where can I purchase a Prometheus NFT?</summary>
+<summary>Ku mund të blej një NFT Prometheus?</summary>
 
-On Opensea or similar marketplaces:\
+Në Opensea ose tregje të ngjashme: \
 [https://opensea.io/collection/xborg-prometheus](https://opensea.io/collection/xborg-prometheus)
 
 </details>
 
 <details>
 
-<summary>On which blockchain is the Prometheus NFT deployed?</summary>
+<summary>Në cilin blockchain është implementuar NFT Prometheus?</summary>
 
 Ethereum.
 
@@ -21,90 +21,90 @@ Ethereum.
 
 <details>
 
-<summary>Historically, how much perks have been perceived by Prometheus NFTs?</summary>
+<summary>Historikisht, sa avantazhe janë marrë nga NFT Prometheus?</summary>
 
-Considering the mint price of $400, it can be estimated that Prometheus non-fungible token owners have received approximately $220 worth of perks. This represents a significant percentage, roughly 50%, of the initial mint value. Notably, this can be primarily attributed to the airdrop of the Lens handle, which has conferred considerable value upon Prometheus NFT holders.
-
-</details>
-
-<details>
-
-<summary>Will the Prometheus NFT receive an airdrop of XBG token?</summary>
-
-Around 0.5% to 2% of the XBG token supply will be airdropped to Prometheus holders.
+Duke marrë parasysh çmimin e prodhimit prej $400, mund të vlerësohet se pronarët e tokenit të patransheueshëm Prometheus kanë marrë rreth $220 avantazhe. Kjo përfaqëson një përqindje të rëndësishme, rreth 50%, të vlerës fillestare të prodhimit. Është vërejtur se kjo mund të atribuohet kryesisht airdrop-it të identifikuesit Lens, i cili ka dhënë vlerë të konsiderueshme mbajtësve të NFT Prometheus.
 
 </details>
 
 <details>
 
-<summary>How do you plan to retain the value of the Prometheus NFT after the XBorg token airdrop?</summary>
+<summary>A do të marrë NFT Prometheus një airdrop të tokenit XBG?</summary>
 
-We believe the utilities and the ecosystem's growth will outweigh the selling pressure from those only here to yield the airdrop. If this negative impact becomes excessively burdensome, the DAO retains the option to undertake a buyback of non-fungible tokens (NFTs) from its treasury.
-
-</details>
-
-<details>
-
-<summary>Will the look of the Prometheus NFT change?</summary>
-
-Yes, the NFT will be revealed later this year.
+Rreth 0.5% deri në 2% të furnizimit të tokenit XBG do të jepen si airdrop për mbajtësit e Prometheus.
 
 </details>
 
 <details>
 
-<summary>What will be the NFT utility post TGE?</summary>
+<summary>Si planifikoni të ruani vlerën e NFT Prometheus pas airdrop-it të tokenit XBorg?</summary>
 
-**GameFi opportunities**
-
-* Early access passes, whitelist spots, and NFT giveaway opportunities from the leading GameFi projects.
-
-**Priority access**
-
-* Early access to all XBorg products and applications.
-
-**XBorg investments opportunities**
-
-* Receive an airdrop of XBG tokens, partner tokens, and NFTs, and access XBorg's seed investment round at a discounted valuation.
-
-**XBorg premium**
-
-* Get lifetime fee-less access to all XBorg products, networks, and applications.
-
-**Protocol status**
-
-* The Prometheus NFT represents the highest status of the XBorg ecosystem and receives the highest perks.
+Ne besojmë se shfrytëzimet dhe rritja e ekosistemit do të tejkalojnë presionin e shitjes nga ata që janë këtu vetëm për të përfituar nga airdrop-i. Nëse ky ndikim negativ bëhet tepër i rëndë, DAO-ja ruan mundësinë për të blerë tokenet e patransheueshme (NFT) nga thesari i saj.
 
 </details>
 
 <details>
 
-<summary>What if I sell my NFT during the vested period?</summary>
+<summary>A do të ndryshojë pamja e NFT Prometheus?</summary>
 
-If an investor sells the NFT during the vested period, the non-claimed rewards will be nullified. However, the Prometheus governance could decide otherwise.
-
-</details>
-
-<details>
-
-<summary>Is it possible to align the value of Prometheus NFT with XBG token?</summary>
-
-It is possible to align the value of the NFT and the XBG token. The Prometheus NFT is a very scarce asset, with only 1'111 in circulation. The staking yield of the XBG token will be determined by the XP level of a user and the user's status in the app. As such, Prometheus holders will enjoy a higher staking yield. There is no dilution of value with regard to the equity, as no equity will be sold. The whole value of XBorg is redirected toward the DAO and hence the XBG token.
+Po, NFT do të zbulohet më vonë këtë vit.
 
 </details>
 
 <details>
 
-<summary>How long is the vesting period for the Airdrop of XBG?</summary>
+<summary>Cilësia e NFT pas TGE-së (Token Generation Event)?</summary>
 
-The vesting period is of 12 months, vested linearly.
+#### **Mundësi GameFi**&#x20;
+
+* Pashaporta për qasje të hershme, vende në listë të bardhë dhe mundësi dhurimi NFT nga projektet kryesore GameFi.
+
+#### **Qasje prioritare**&#x20;
+
+* Qasje e hershme në të gjitha produktet dhe aplikacionet e XBorg.
+
+#### Mundësi investimi në XBorg&#x20;
+
+* Marrje e tokenit XBG, partnerëve, dhe NFT-ve në airdrop, dhe qasje në raundin e investimeve të hershme të XBorg me një vlerësim të zbritur.
+
+#### XBorg premium
+
+* Merr qasje pa pagesë për gjithë jetën në të gjitha produktet, rrjetet dhe aplikacionet e XBorg.
+
+#### Statusi i protokollit
+
+* NFT Prometheus paraqet statusin më të lartë të ekosistemit XBorg dhe merr avantazhet më të larta.
 
 </details>
 
 <details>
 
-<summary>It was said that Prometheus NFT holders get additional allocation to buy XBG tokens. How big is the allocation per NFT?</summary>
+<summary>Çfarë ndodh nëse shes NFT-në time gjatë periudhës së veshjes?</summary>
 
-The private allocation for the Prometheus community is uncapped, meaning that allocations are guaranteed for Prometheus holders. We aimed to raise around $500'000 from the NFT holders and raised $1'000'000 in total.
+Nëse një investitor shet NFT-në gjatë periudhës së veshjes, shpërblimet e pa-pretura do të anulohen. Megjithatë, qeverisja e Prometheus mund të vendosë ndryshe.
+
+</details>
+
+<details>
+
+<summary>A është e mundur të pajis vlerën e NFT Prometheus me tokenin XBG?</summary>
+
+Është e mundur të pajisni vlerën e NFT dhe tokenit XBG. NFT Prometheus është një pasuri shumë e rrallë, me vetëm 1'111 në qarkullim. Rendimenti i staking të tokenit XBG do të përcaktohet nga niveli i XP i një përdoruesi dhe statusi i përdoruesit në aplikacion. Kështu, mbajtësit e Prometheus do të gëzojnë një rendiment më të lartë të staking-ut. Nuk ka dilucion të vlerës në lidhje me kapitalin, pasi nuk do të shiten aksione. Gjithë vlera e XBorg drejtohet drejt DAO-s dhe në këtë mënyrë drejt tokenit XBG.
+
+</details>
+
+<details>
+
+<summary>Sa zgjat periudha e veshjes për Airdrop-in e XBG?</summary>
+
+Periudha e veshjes është 12 muaj, e veshur linearisht.
+
+</details>
+
+<details>
+
+<summary>U tha se mbajtësit e NFT Prometheus marrin alokim shtesë për të blerë tokenet XBG. Sa është alokimi për çdo NFT?</summary>
+
+Alokimi privat për komunitetin e Prometheus është i pa-kufizuar, duke nënkuptuar se alokimet janë të garantuara për mbajtësit e Prometheus. Ne synuam të mbledhim rreth $500'000 nga mbajtësit e NFT dhe mbledhëm $1'000'000 në total.
 
 </details>
