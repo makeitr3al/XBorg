@@ -1,56 +1,56 @@
-# Legal and Financial
+# Ligjore dhe Financiare
 
 <details>
 
-<summary>What is the business model and how will the company generate revenue?</summary>
+<summary>Cili është modeli i biznesit dhe si do të gjenerojë kompania të ardhura?</summary>
 
-The revenues of the protocol can be described as follow:
+Të ardhurat e protokollit mund të përshkruhen si më poshtë:
 
-**Application Network**
+#### Rrjeti i Aplikacioneve
 
-* Seasons Pass and Account subscriptions (users)
-* Account subscriptions (businesses)
-* Primary collectible sales
-* Launchpad fees
+* Abonimet e sezonit dhe llogaritë (përdoruesit)
+* Abonimet e llogarive (bizneset)
+* Shitjet primare të objekteve të koleksionit
+* Tarifat e platformës së startimit
 
-**Decentralized gaming communities**
+#### Komunitetet e lojërave të decentralizuara
 
-* Proprietary Stake in Gaming Communities Initial Team Offering fees Player earnings tokenization fees
-* Credential network Credential API fees PGC fees Sequencer fees
-* DAO GameFi asset Management Direct investments in Web3 games Esports team sponsorship Tournament sponsorship.
+* Pjesëmarrje e pronësisë në Komunitetet e Lojërave Tarifat e ofertimit fillestar të ekipit të parë Tarifat e tokenizimit të ardhurave të lojtarit
+* Tarifat e rrjetit të kredencialeve Tarifat e API-ve të kredencialeve Tarifat e PGC Tarifat e Sekuencës
+* Menaxhimi i aseteve të GameFi të DAO Investime direkte në lojëra Web3 Sponsorizimi i ekipeve e-sport Sponsorizimi i turneve.
 
 </details>
 
 <details>
 
-<summary>What is the liquidity situation of XBorg? What amount is held in the treasury, and who has access to it currently?</summary>
+<summary>Si është situata e likuiditetit të XBorg? Sa shumë mbahet në thesari dhe kush ka qasje në të aktualisht?</summary>
 
-Excluding the ongoing seed round, XBorg currently holds $800,000 in its treasury. Given our gross monthly burn rate of $40,000, this equates to a runway of approximately 20 months, even if no additional profits are made during this period. As for treasury management, the funds are securely kept in several Gnosis safes (multi-signature wallets). Access to these funds is strictly controlled and currently managed by Louis (XBorg's CEO), the SwissBorg treasurer, along with one additional SwissBorg executive.
-
-</details>
-
-<details>
-
-<summary>How does XBorg approach risk management, especially in the event of an extended bear market?</summary>
-
-Risk management is a critical aspect of our operations at XBorg. We adopt a lean operational model that allows us to maintain a relatively low monthly burn rate of $40,000, which covers the compensation for our team of 12 full-time team members. By maintaining an average salary of approximately $3.3k per month per employee, we ensure we attract and retain high-quality talent while keeping our expenses manageable.
-
-In the case of an extended bear market, our current financial strategy provides us with a sufficient runway to continue executing our roadmap without an immediate need for additional funds.
+Përveç raundit të fuqishëm të fillimit, XBorg aktualisht mban 800,000 dollarë në thesarin e saj. Duke marrë parasysh shpenzimet bruto mujore prej 40,000 dollarësh, kjo përbën një periudhë të rreth 20 muajsh, edhe nëse nuk bëhen fitime shtesë gjatë kësaj periudhe. Për sa i përket menaxhimit të thesarit, fondet ruhen me siguri në disa kasaforta Gnosis (portofol të shumësinjatur). Qasja në këto fonde kontrollohet me kujdes dhe aktualisht menaxhohet nga Louis (CEO i XBorg), thesari i SwissBorg, së bashku me një ekzekutiv shtesë të SwissBorg.
 
 </details>
 
 <details>
 
-<summary>Does XBorg possess any licenses or certificates?</summary>
+<summary>Si i afrohet XBorg menaxhimit të rrezikut, veçanërisht në rast të një tregu të zbehtë të zgjatur?</summary>
 
-At present, XBorg does not hold any specific licenses or certificates. However, we have initiated the application process for a VARA license.
+Menaxhimi i rrezikut është një aspekt kritik i veprimtarisë sonë në XBorg. Ne adoptojmë një model operacional të shkurtër që na lejon të mbajmë një shkallë relativisht të ulët të shpenzimeve mujore prej 40,000 dollarësh, që përfshin pagën për ekipin tonë prej 12 anëtarëve të stafit të plotë kohë. Duke mbajtur një pagë mesatare prej rreth 3.3 mijë dollarësh në muaj për punonjësin, sigurojmë që tërheqim dhe mbajmë talente cilësore të lartë ndërsa mbajmë shpenzimet tona të menaxhueshme.
+
+Në rast të një tregu të zbehtë të zgjatur, strategjia jonë financiare aktuale na siguron një periudhë të mjaftueshme për të vazhduar zbatimin e planit tonë pa nevojën e menjëhershme për fonde shtesë.
 
 </details>
 
 <details>
 
-<summary>Where is XBorg registered as a company?</summary>
+<summary>A ka XBorg ndonjë licenca ose certifikata?</summary>
 
-XBorg is officially registered as XBorg DMCC in Dubai, within the Dubai Multi Commodities Centre (DMCC).
+Aktualisht, XBorg nuk posedon asnjë licencë ose certifikatë specifike. Megjithatë, kemi nisur procesin e aplikimit për një licencë VARA.
+
+</details>
+
+<details>
+
+<summary>Ku është regjistruar XBorg si kompani?</summary>
+
+XBorg është zyrtarisht regjistruar si XBorg DMCC në Dubaj, brenda Qendrës së Shumëfishtë e Mallrave të Dubait (DMCC).
 
 </details>
