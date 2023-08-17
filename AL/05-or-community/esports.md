@@ -1,91 +1,91 @@
 # Esports
 
-> XBorg's protocol and applications receive support from the top Web3 gaming esports team. This team, known as XBorg Esports, is highly regarded for its proficiency in organizing frequent and engaging tournaments within the Web3 ecosystem.
+> Protokolli dhe aplikacionet e XBorg marrin mbështetje nga ekipi i parë i lojërave esports në Web3. Ky ekip, i njohur si XBorg Esports, është i njohur për aftësinë e tij në organizimin e turneve të shpeshta dhe tërheqëse brenda ekosistemit Web3.
 
 <details>
 
-<summary>How does one participate in XBorg tournaments?</summary>
+<summary>Si mund të marr pjesë në turnetët e XBorg?</summary>
 
-Anyone can attend our tournaments. Most tournaments will be hosted on Community Gaming.
+Kushdo mund të marrë pjesë në turnetët tona. Shumica e turneve do të zhvillohen në Community Gaming.
 
 </details>
 
 <details>
 
-<summary>How does one play with player inside a guild ?</summary>
+<summary>Si mund të luaj me lojtarë brenda një guildi?</summary>
 
-You can find players of our clan on our [Discord ](https://discord.com/invite/xborg)server. Start by selecting relevant roles and then head to the appropriate gaming channels. There are always players excited to join in on the action. To join our competitive clans, seniority, and skills are required.
-
-</details>
-
-<details>
-
-<summary>What is the XCS?</summary>
-
-The Xtream Championship Series (XCS) is the first-ever multi-game esports league in Web3 with a **$100,000** cash prize. To learn more about the XCS, please visit [https://www.xborg.com/xtreme-championship-series](https://www.xborg.com/xtreme-championship-series).
+Mund të gjeni lojtarë të klanit tonë në serverin tonë të [Discord](https://discord.com/invite/xborg). Filloni duke zgjedhur role të rëndësishme dhe pastaj shkoni te kanalet e lojërave të përshtatshme. Gjithmonë ka lojtarë të emocionuar për të marrë pjesë në aksion. Për të bashkuar klanet tona të konkurrueshme, kërkohen përvojë dhe aftësi.
 
 </details>
 
 <details>
 
-<summary>How can I join the XCS?</summary>
+<summary>Çfarë është XCS?</summary>
 
-Start by registering for relevant tournaments. All tournaments can be found [here](https://www.xborg.com/xtreme-championship-series).
-
-</details>
-
-<details>
-
-<summary>Do you plan on hosting XCS leagues in the future, with bigger, and more aggressive marketing, as seen in Web2 leagues?</summary>
-
-Indeed, our team is currently crafting a meticulously designed league that will encompass a significantly broader scope, featuring participation from many traditional esports teams and players. The planned launch date for this initiative is set for the year 2024.
+Xtream Championship Series (XCS) është liga e parë e lojërave esports me shumë lojëra në Web3 me një çmim në para të **$100,000**. Për të mësuar më shumë rreth XCS, ju lutemi vizitoni [https://www.xborg.com/xtreme-championship-series](https://www.xborg.com/xtreme-championship-series).
 
 </details>
 
 <details>
 
-<summary>How is the XCS bringing revenue to XBorg?</summary>
+<summary>Si mund të bashkohem me XCS?</summary>
 
-Via sponsorship. The total revenues derived from the league are equal to **$300,000**.
-
-</details>
-
-<details>
-
-<summary>Why is XBorg launching an esports league now?</summary>
-
-This growth mechanism is a powerful tool for bolstering our product and expanding our community. Notably, it also contributes to heightening awareness and exposure of Web3 players and fans, underscoring the benefits and opportunities presented by this innovative technological domain.
+Filloni duke u regjistruar për turnetët e përshtatshme. Të gjitha turnetët mund të gjenden [këtu](https://www.xborg.com/xtreme-championship-series).&#x20;
 
 </details>
 
 <details>
 
-<summary>Why is there another Discord server for the XCS?</summary>
+<summary>A keni plane për të organizuar liga XCS në të ardhmen, me marketing më të madh dhe më agresiv, siç shihet në ligat Web2?</summary>
 
-To streamline and expedite the overall experience, we have considered the diverse preferences and priorities of the XBorg community. In recognition that some community members may not wish to participate in the XCS, and vice versa, we have implemented measures to ensure greater flexibility and autonomy.
-
-</details>
-
-<details>
-
-<summary>How much is the XCS costing XBorg?</summary>
-
-The XCS is a profitable event thanks to our partners and sponsors. We can't highlight the exact profit amount.
+Në të vërtetë, ekipi ynë aktualisht po harton një ligë të projektuar me kujdes që do të përfshijë një gamë shumë më të gjerë, duke përfshirë pjesëmarrjen e shumë ekipesh tradicionale të lojërave esports dhe lojtarëve. Data e planifikuar për fillimin e kësaj iniciative është vendosur për vitin 2024.
 
 </details>
 
 <details>
 
-<summary>What is the total XCS cash prize?</summary>
+<summary>Si XCS sjell të ardhura për XBorg?</summary>
 
-The total cash prize is **$100,000**, distributed over **five games**.
+Përmes sponsorizimeve. Të ardhurat totale që vijnë nga liga janë të barabarta me **$300,000**.
 
 </details>
 
 <details>
 
-<summary>Where can I submit my suggestions for improvements?</summary>
+<summary>Pse XBorg po lanson një ligë esports tani?</summary>
 
-We sincerely appreciate feedback, and you can submit any comments and improvements directly on our [Discord server](https://discord.gg/xborg). Our team and moderators are always available to assist.
+Ky mekanizëm rritjeje është një mjet i fuqishëm për forcimin e produktit tonë dhe zgjerimin e komunitetit tonë. Në veçanti, ai gjithashtu ndihmon në rritjen e vetëdijes dhe ekspozimit të lojtarëve dhe tifozëve të Web3, duke nënvizuar përfitimet dhe mundësitë që ofron kjo fushë teknologjike inovative.
+
+</details>
+
+<details>
+
+<summary>Pse ka një server tjetër Discord për XCS?</summary>
+
+Për të lehtësuar dhe shpejtësuar përvojën në përgjithësi, kemi marrë parasysh preferencat dhe prioritete të ndryshme të komunitetit XBorg. Duke njohur se disa anëtarë të komunitetit mund të mos dëshirojnë të marrin pjesë në XCS, dhe anasjelltas, kemi zbatuar masa për të siguruar më shumë fleksibilitet dhe autonomi.
+
+</details>
+
+<details>
+
+<summary>Sa kushton XCS për XBorg?</summary>
+
+XCS është një ngjarje e fitueshme falë partnerëve dhe sponsorëve tanë. Nuk mund të theksojmë saktësisht shumën e fitimit.&#x20;
+
+</details>
+
+<details>
+
+<summary>Çfarë është shuma totale e çmimit në para të XCS?</summary>
+
+Çmimi total në para është **$100,000**, i ndarë në **pesë lojëra**.
+
+</details>
+
+<details>
+
+<summary>Ku mund të paraqes sugjerimet e mia për përmirësime?</summary>
+
+Ne vërtetë vlerësojmë komentet dhe sugjerimet, dhe mund të paraqisni çdo koment dhe përmirësim direkt në [serverin tonë Discord](https://discord.gg/xborg). Ekipi ynë dhe moderatorët janë gjithmonë në dispozicion për të ndihmuar.&#x20;
 
 </details>
