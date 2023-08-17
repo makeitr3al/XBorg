@@ -1,161 +1,162 @@
-# Fundraise
+# Mbledhje e Fondeve
 
-As a startup with significant potential for growth, XBorg is utilizing its utility token, XBG, to secure additional funding. In addition to relying solely on traditional investors such as venture capitalists and business angels, XBorg is opening up investment opportunities to a limited number of community members early. This approach ensures a strong foundation for XBorg and secures the longevity of its DAO.
+Si një startup me potencial të madh për rritje, XBorg po përdor tokenin e tij utility, XBG, për të siguruar fonde shtesë. Përveç mbështetjes vetëm nga investitorë tradicionalë si kapitalistët e riskut dhe engjëjt e biznesit, XBorg po hap mundësi investimi për një numër të kufizuar anëtarësh të komunitetit në fillim. Ky qasje siguron një bazë të fortë për XBorg dhe siguron që DAO-ja e tij të jetë e qëndrueshme në të ardhmen.
 
 <details>
 
-<summary>What is your fundraising strategy?</summary>
+<summary>Cili është strategjia juaj për mbledhjen e fondeve?</summary>
 
-Our objective in raising capital is to facilitate growth and cover the team's monthly expenses. We are mindful of not over-raising and instead prioritize value over quantity of capital. At present, XBorg has a robust financial position, with a 20-month runway, and thus, there is no pressing need to raise additional funds.
+Qëllimi ynë në rritjen e kapitalit është të lehtësojmë rritjen dhe të mbulojmë shpenzimet mujore të ekipit. Jemi të vetëdijshëm që të mos mbledhim shumë fonde dhe në vend të kësaj, kemi prioritet vlerën mbi sasinë e kapitalit. Aktualisht, XBorg ka një pozicion financiar të qëndrueshëm, me një rezervë të mjaftueshme për 20 muaj, dhe prandaj, nuk ka nevojë të shtypshme për të mbledhur fonde shtesë.
 
-**Strategic round**
+#### Raundi strategjik
 
-* Date: Summer 2022
-* Amount raised: $1m
-* Valuation: $25m
+* Data: Verë 2022
+* Shuma e mbledhur: $1m
+* Vlerësimi: $25m
 
-**Seed round**
+#### Raundi i farës
 
-* Date: April-September 2023
-* Amount: $5m
-* Valuation: $45-55m
+* Data: Prill-Shtator 2023
+* Shuma: $5m
+* Vlerësimi: $45-55m
 
-As we prepare to launch our token, our current plan does not include raising any additional funding rounds. However, we remain open to adjusting our strategy based on the traction we observe with the protocol and any potential needs for additional hires. Ultimately, we will decide based on what is best for the long-term growth and success of XBorg.\\
+Duke u përgatitur për lëshimin e tokenit tonë, plani ynë aktual nuk përfshin mbledhjen e ndonjë runde shtesë të fondeve. Megjithatë, mbetemi të hapur për të rregulluar strategjinë tonë në bazë të ndikimit që vëzhgojmë me protokollin dhe nevojave potenciale për punëtorë shtesë. Në fund të fundit, do të vendosim në bazë të atij që është më e mira për rritjen dhe suksesin afatgjatë të XBorg.
 
 </details>
 
 <details>
 
-<summary>What are the locking and vesting terms for private investors?</summary>
+<summary>Cilat janë kushtet e mbylljes dhe veshjes për investitorët privatë?</summary>
 
-Private investors will have 10% of their tokens unlocked at the Token Generation Event (TGE), followed by a lock-in period of 3 months. After the lock-in period, the remaining tokens will vest over the course of 18 months.
+Investitorët privatë do të kenë 10% të tokenëve të tyre të liruar gjatë Eventit të Gjenerimit të Tokenit (TGE), pasuar nga një periudhë mbylljeje prej 3 muajsh. Pas periudhës së mbylljes, tokenët e mbetur do të veshen gjatë 18 muajve.
 
-\
-It is important to remember that our approach may be subject to change based on the specific requirements of the exchanges we engage with. It's not uncommon for tier 1 exchanges to have a say in the tokenomics and vesting/locking schedule of a given token, and we may need to adjust our strategy to meet their standards.
-
-</details>
-
-<details>
-
-<summary>Who are your investors? on which criteria were they selected?</summary>
-
-We've been meticulous in selecting our investors for the initial funding round, prioritizing those who bring more than just financial capital but also add value to XBorg in other significant ways. Our investors come from a variety of backgrounds, including:
-
-* Aave and Lens Protocol: Professionals from these companies bring deep expertise in blockchain technology and cryptocurrency.
-* Yield Guild Games: Experience in virtual economies and blockchain gaming.
-* ESL/Face it, Faze, G2: These represent some of the biggest names in the esports industry, offering insights and networks into competitive gaming.
-* Ethereum France, Consensys: These contributors have extensive knowledge of Ethereum and blockchain development.
-* French Esports: Brings a strong understanding of the esports landscape in France.
-* Savvy Games: Experts in game development and strategy.
+Është e rëndësishme të kujtojmë se qasja jonë mund të ndryshojë në bazë të kërkesave specifike të bursave me të cilat angazhohemi. Nuk është e pazakontë që bursat e nivelit 1 të kenë një fjalë të thotë në tokenomikën dhe programin e veshjes/mbylljes së një tokeni të caktuar, dhe ne mund të duhet të rregullojmë strategjinë tonë për të përmbushur standardet e tyre.
 
 </details>
 
 <details>
 
-<summary>How is the cap table distributed?</summary>
+<summary>Kush janë investitorët tuaj? Sipas cilave kritere janë ata zgjedhur?</summary>
 
-For the strategic round, we implemented a cap of $50,000 per investment ticket to ensure a fair distribution on the cap table.
+Ne kemi qenë shumë kujdesshëm në zgjedhjen e investitorëve tanë për raundin fillestar të financimit, duke i dhënë prioritet atyre që sjellin më shumë se kapitali financiar, por shtojnë vlerë në mënyra të tjera të rëndësishme për XBorg. Investitorët tanë vijnë nga një gamë e gjerë sfondesh, duke përfshirë:
 
-</details>
-
-<details>
-
-<summary>What kind of value added do you expect from an investor?</summary>
-
-An investor can add significant value to XBorg by bringing strategic guidance, mentorship, and financial support beyond the initial investment. Investors can offer insights into the competitive landscape, industry trends, and potential growth opportunities that may not be immediately apparent to the XBorg team. They can also provide access to their networks and resources, including introductions to potential partners, advisors, and customers. This can help XBorg build its user base, establish partnerships, and expand its reach in the market.
-
-Beyond financial support, investors can also bring credibility and validation to XBorg, which can be critical in a competitive and rapidly evolving industry. This can help XBorg stand out among its peers, attract additional investment, and build a strong brand reputation.
-
-Overall, investors can offer a wealth of knowledge, expertise, and resources to help XBorg succeed in the long term. They can provide value beyond just capital and help XBorg navigate the challenges of a dynamic and constantly evolving industry.
+* Aave dhe Lens Protocol: Profesionistë nga këto kompani sjellin njohuri të thella në teknologjinë e blockchain dhe kriptovalutat.
+* Yield Guild Games: Përvojë në ekonomitë virtuale dhe lojërat me blockchain.
+* ESL/Face it, Faze, G2: Këta përfaqësojnë disa nga emrat më të mëdhenj në industrinë e sporteve elektronike, duke ofruar njohuri dhe rrjetë në lojërat konkurruese.
+* Ethereum France, Consensys: Këta kontribues kanë njohuri të gjërë mbi Ethereum dhe zhvillimin e blockchain.
+* French Esports: Sjell një kuptim të fortë të peisazhit e-sport në Francë.
+* Savvy Games: Ekspertë në zhvillimin dhe strategjinë e lojërave.
 
 </details>
 
 <details>
 
-<summary>Are you selling shares or tokens?</summary>
+<summary>Si është shpërndarja e tabelës së kapitalit?</summary>
 
-To date, XBorg has only sold tokens without any shares being offered for sale. Currently, the company's sole shareholders are SwissBorg and the founder of XBorg. This approach was deliberately chosen to ensure a streamlined focus on value accrual for the company without diluting attention or resources by distributing shares.
-
-</details>
-
-<details>
-
-<summary>How are raised funds used?</summary>
-
-We are raising a $5m seed round. The raised funds will be allocated as follows and will be spent over three years.
-
-* Technical developments: 60% ($3'000'000) of the funds will be allocated to technical developments and infrastructure costs. This represents the cost of 10 FTE engineers for three years at an average market salary of $7'000 per month.
-* Marketing: 20% ($1'000'000) of the fund will be allocated to marketing expenditures, influencer campaigns, PR, sponsorship opportunities, and events.
-* Liquidity and exchange listings: 10% ($500'000) of the fund will be allocated to exchange listing payments and liquidity provision.
-* Operating costs: 10% ($500'000) of the funds will be allocated to office rent, legal fees, and software subscriptions.
-* The current treasury covers the non-technical HR costs.
+Për raundin strategjik, kemi zbatuar një kufi prej $50,000 për biletën e investimit për të siguruar një shpërndarje të drejtë në tabelën e kapitalit.
 
 </details>
 
 <details>
 
-<summary>What is the anticipated financial runway resulting from this fundraising round?</summary>
+<summary>Cilin lloj vlerë shtesë pritet nga një investitor?</summary>
 
-The funds raised from this round are expected to provide XBorg with a financial runway of approximately three years. This means we anticipate the resources obtained will sustain our operations and growth strategies for this period.
+Një investitor mund të shtojë vlerë të konsiderueshme në XBorg duke sjellë udhëzime strategjike, mentorim dhe mbështetje financiare përtej investimit fillestar. Investitorët mund të ofrojnë perspektiva mbi peisazhin konkurrues, trendet e industrisë dhe mundësitë potenciale të rritjes që nuk janë të dukshme menjëherë për ekipin e XBorg. Ata gjithashtu mund të ofrojnë qasje në rrjetet dhe burimet e tyre, duke përfshirë prezantime për partnerë potencialë, këshilltarë dhe klientë. Kjo mund të ndihmojë XBorg të ndërtojë bazën e përdoruesve të saj, të vendosë partneritete dhe të zgjerohet në treg.
 
-</details>
+Përveç mbështetjes financiare, investitorët gjithashtu mund të sjellin kredibilitet dhe vlefshmëri në XBorg, e cila mund të jetë kritike në një industrinë konkurruese dhe në zhvillim të shpejtë. Kjo mund të ndihmojë XBorg të dalë në pah ndaj konkurrentëve të saj, të tërheqë investime shtesë dhe të ndërtojë një reputacion të fortë të markës.
 
-<details>
-
-<summary>As a private investor, am I eligible to invest early in XBorg?</summary>
-
-XBorg extends early investment opportunities primarily to strategic investors with extensive experience in gaming, esports, and/or the entertainment industry. Apart from the community raise, if you do not meet these qualifications, early investment might not be possible. However, once we reach the public round stage, it will be open to all interested investors, regardless of their background or expertise.
+Në përgjithësi, investitorët mund të ofrojnë një pasuri të njohurive, ekspertizës dhe burimeve për të ndihmuar XBorg të ketë sukses në afat të gjatë. Ata mund të ofrojnë vlerë përtej kapitalit dhe të ndihmojnë XBorg të navigojë sfidat e një industrie dinamike dhe në vazhdim të zhvillimit.
 
 </details>
 
 <details>
 
-<summary>Given the current market conditions, are you confident about your ability to raise?</summary>
+<summary>A po shisni aksione apo tokenë?</summary>
 
-To date, XBorg has generated significant interest from venture capitalists and business angels, resulting in approximately $1.5 million in potential funding for the seed round. Our team recognizes that our ability to attract investors is contingent upon demonstrating progress in executing our roadmap and gaining traction in the market. While we remain committed to securing funding, our approach prioritizes attracting high-quality investors over accumulating a large investment.
-
-</details>
-
-<details>
-
-<summary>How did you compute your valuation?</summary>
-
-Our valuation is based on comparables. The list of project comparables can be found [here](https://docs.google.com/spreadsheets/d/11sEz9B5ruauiKs3jPzSYJAc9VVpLu7QKnZHOLvxK\_ws/edit?usp=sharing).
-
-At this stage of our company's development, utilizing traditional valuation methods based on earning multiples, discounted cash flows, book value, or liquidation value would not provide a comprehensive or accurate picture of XBorg's valuation. As a nascent startup operating in the highly dynamic and rapidly evolving field of GameFi and SocialFi, our value is largely determined by more intangible factors such as our technology, team expertise, and market potential. Therefore, our team is taking a more holistic approach to valuation that incorporates various metrics and considers the unique characteristics of our industry and company.
-
-As part of our due diligence process, our team analyzed comparable projects within the GameFi and SocialFi spaces, taking into account the current trading value of similar tokens and the results of the latest investment rounds. While these factors played a role in determining our overall strategy, we also recognize that other variables, such as current traction in the market, can influence investor appetite. Ultimately, we determined that a valuation of $45 million represented the best trade-off between attracting high-quality investors and generating sufficient overall investment interest.
+Deri më tani, XBorg ka shisur vetëm tokenë pa ofruar për shitje ndonjë aksion. Aktualisht, aksionarët e vetëm të kompanisë janë SwissBorg dhe themeluesi i XBorg. Ky qasje është zgjedhur me qëllim të sigurimit të një fokusi të qëndrueshëm në akumulimin e vlerës për kompaninë pa zvogëluar vëmendjen ose burimet duke shpërndarë aksione.
 
 </details>
 
 <details>
 
-<summary>What is the anticipated price of the token at the Token Generation Event (TGE)?</summary>
+<summary>Si përdoren fondet e mbledhura?</summary>
 
-The public fundraising is set to be facilitated through a Balancer Liquidity Bootstrapping Pool, with the starting price for tokens established at $0.5. The pool will begin with a weight ratio of 96:4 and gradually balance out to a 50:50 ratio over a 72-hour period. However, it's important to note that this initial pricing and weighting structure may be subject to change, in accordance with the specific conditions and requirements of any future exchanges that XBorg collaborates with.
+Ne po mbledhim një raund farës prej $5m. Fondet e mbledhura do të ndahen si vijon dhe do të shpenzohen nëpër tre vite.
 
-</details>
-
-<details>
-
-<summary>Which protocol is utilised for the Liquidity Bootstrapping Pool during the Initial Token Offering (ITO)?</summary>
-
-The Liquidity Bootstrapping Pool for our Initial Token Offering employs the Balancer protocol.
+* Zhvillime teknike: 60% ($3'000'000) e fondeve do të ndahen për zhvillime teknike dhe kosto infrastrukture. Kjo përfaqëson koston e 10 inxhinierëve për tre vite me një pagë mesatare tregu prej $7'000 në muaj.
+* Marketing: 20% ($1'000'000) e fondeve do të ndahen për shpenzime marketingu, fushata influencer, PR, mundësi sponsorizimi dhe ngjarje.
+* Likuiditet dhe listime në bursa: 10% ($500'000) e fondeve do të ndahen për pagesa të listimit në bursa dhe sigurimin e likuiditetit.
+* Kostot operative: 10% ($500'000) e fondeve do të ndahen për qirane zyre, tarifa ligjore dhe abonime softuerike.
+* Thesarin aktual e mbulon kostot e HR jo-teknike.
 
 </details>
 
 <details>
 
-<summary>What mechanism does XBorg use to determine the starting price and valuation, given that the Liquidity Bootstrapping Pool (LBP) greatly influences future price sentiment and movement?</summary>
+<summary>Cili është pritshmëria për rezervën financiare rezultuese nga ky raund mbledhjeje fonde?</summary>
 
-The Liquidity Bootstrapping Pool (LBP) serves as the key mechanism that facilitates a smooth price discovery process for the token. It enables a fair and efficient market-driven evaluation, providing a natural and dynamic balance between supply and demand. You can learn more about LBPs [here](https://docs.balancer.fi/concepts/pools/liquidity-bootstrapping.html#mental-model).
+Fondet e mbledhura nga ky raund pritet të sigurojnë për XBorg një rezervë financiare për rreth tre vite. Kjo do të thotë se paratë e fituara do të mbështesin operacionet tona dhe strategjitë e rritjes për këtë periudhë.
 
 </details>
 
 <details>
 
-<summary>What can I expect in terms of return on investment?</summary>
+<summary>Si investitor privat, a jam i kualifikuar për të investuar herët në XBorg?</summary>
 
-Although the XBG tokens are expected to be offered at a higher price post the seed round, it's crucial to understand that investments inherently come with risks, and we cannot provide a guarantee of a positive return on investment. Like any investment, the performance of XBG tokens is subject to market conditions and other factors that may influence their value.
+XBorg ofron mundësi investimi të hershëm kryesisht për investitorët strategjikë me përvojë të gjerë në lojëra, e-sport dhe/ose industrinë e argëtimit. Përveç mbledhjes së komunitetit, nëse nuk plotësoni këto kualifikime, investimi i hershëm mund të mos jetë i mundur. Megjithatë, sapo të arrijmë fazën e rrethit publik, do të jetë i hapur për të gjithë investitorët e interesuar, pavarësisht prejardhjes së tyre ose ekspertizës.
 
 </details>
+
+<details>
+
+<summary>Duke iu referuar kushteve aktuale të tregut, a jeni të sigurt për aftësinë tuaj për të mbledhur fonde?</summary>
+
+Deri më tani, XBorg ka shkaktuar interes të konsiderueshëm nga kapitalistët e riskut dhe engjëjt e biznesit, duke rezultuar në rreth $1.5 milionë potencialë për financimin e farës. Ekipi ynë e njeh se aftësia jonë për të tërhequr investitorë është e kushtëzuar nga demonstrimi i progresit në zbatimin e planit tonë dhe fitimi i vëmendjes në treg. Ndërsa mbetemi të angazhuar për të siguruar fonde, qasja jonë ka prioritet të tërheqë investitorë cilësorë mbi akumulimin e një investimi të madh.
+
+</details>
+
+<details>
+
+<summary>Si keni llogaritur vlerësimin tuaj?</summary>
+
+Vlerësimi ynë bazohet në krahasime. Lista e projekteve të krahasueshme mund të gjendet [këtu](https://docs.google.com/spreadsheets/d/11sEz9B5ruauiKs3jPzSYJAc9VVpLu7QKnZHOLvxK\_ws/edit?usp=sharing).
+
+Në këtë fazë të zhvillimit të kompanisë sonë, përdorimi i metodave tradicionale të vlerësimit bazuar në shumëfishimin e fitimeve, rrjedhjen e parave të zbritura, vlerën e librit, ose vlerën e likuidimit nuk do të ofronte një pamje të plotë ose të saktë të vlerësimit të XBorg. Si një startup i ri që operon në fushën e GameFi dhe SocialFi, e cila është shumë dinamike dhe në zhvillim të shpejtë, vlera jonë përcaktohet kryesisht nga faktorë më të paqartë si teknologjia jonë, ekspertiza e ekipit dhe potenciali i tregut. Prandaj, ekipi ynë po ndjek një qasje më holistike për vlerësim që përfshin metrika të ndryshme dhe merr parasysh karakteristikat unike të industrisë dhe kompanisë sonë.
+
+Si pjesë e procesit tonë të vlerësimit të kujdesshëm, ekipi ynë ka analizuar projekte të krahasueshme brenda hapësirave GameFi dhe SocialFi, duke marrë parasysh vlerën tregtare aktuale të tokenëve të ngjashëm dhe rezultatet e rundeve të fundit të investimeve. Ndërsa këto faktorë kanë luajtur një rol në përcaktimin e strategjisë sonë të përgjithshme, ne gjithashtu e kuptojmë që variabla të tjera, si ndikimi aktual në treg, mund të ndikojnë në apetitin e investitorëve. Në fund të fundit, përcaktuam se një vlerësim prej $45 milionë paraqiste kompromisin më të mirë mes të tërhequrit investitorë cilësorë dhe gjenerimit të mjaftueshëm të interesit të përgjithshëm për investim.
+
+</details>
+
+<details>
+
+<summary>Cili është çmimi pritshëm i tokenit gjatë Eventit të Gjenerimit të Tokenit (TGE)?</summary>
+
+Mbledhja publike e fondeve është e planifikuar të realizohet përmes një Balancer Liquidity Bootstrapping Pool, me çmimin fillestar të tokenëve të caktuar në $0.5. Pulu do të fillojë me një raport peshash 96:4 dhe gradualisht do të balancohet në një raport 50:50 gjatë një periudhe 72 orësh. Megjithatë, është e rëndësishme të theksohet se ky çmim fillestar dhe struktura e peshave mund të ndryshojnë, në përputhje me kushtet dhe kërkesat specifike të bursave të ardhshme me të cilat XBorg bashkëpunon.
+
+</details>
+
+<details>
+
+<summary>Cili protokoll përdoret për Balancer Liquidity Bootstrapping Pool gjatë Ofertës së Parë të Tokenit (ITO)?</summary>
+
+Balancer protokolli përdoret për Balancer Liquidity Bootstrapping Pool në Ofertën Tonë të Parë të Tokenit.
+
+</details>
+
+<details>
+
+<summary>Cilin mekanizëm përdor XBorg për të përcaktuar çmimin fillestar dhe vlerësimin, duke marrë parasysh se Balancer Liquidity Bootstrapping Pool (LBP) ndikon shumë në ndjenjën dhe lëvizjen e çmimit të ardhshëm?</summary>
+
+Balancer Liquidity Bootstrapping Pool (LBP) shërben si mekanizmi kyç që mundëson një proces zbulimi të çmimit të shëndetshëm për tokenin. Ai mundëson një vlerësim të drejtë dhe efikas në bazë të tregut, duke siguruar një ekuilibër natyral dhe dinamik midis ofertës dhe kërkesës. Më shumë për LBPs mund të mësoni [këtu](https://docs.balancer.fi/concepts/pools/liquidity-bootstrapping.html#mental-model).
+
+</details>
+
+<details>
+
+<summary>Cilëndohet që të pres nga pikëpamja e kthimit të investimit?</summary>
+
+Edhe pse pritet që tokenët XBG të ofrohen në një çmim më të lartë pas raundit të farës, është e rëndësishme të kuptohet se investimet vijnë me rreziqe, dhe ne nuk mund të ofrojmë garanci për një kthim pozitiv të investimit. Si çdo investim, performanca e tokenëve XBG është e nënshtruar ndikimeve të kushteve të tregut dhe faktorëve të tjerë që mund të ndikojnë në vlerën e tyre.
+
+</details>
+
+&#x20;
