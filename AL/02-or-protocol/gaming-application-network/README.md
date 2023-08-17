@@ -1,52 +1,52 @@
-# Gaming Application Network
+# Rrjeti i Aplikacioneve të Lojërave
 
-> Before reading the additional questions, go through the presentation of the Gaming Application Network. #what-is-a-gaming-application-network
+> Para se të lexoni pyetjet shtesë, shfletoni prezantimin e Rrjetit të Aplikacioneve të Lojërave. #çfarë-është-rrjeti-i-aplikacioneve-të-lojërave
 
 <details>
 
-<summary>What are examples of applications within the network?</summary>
+<summary>Cilat janë shembujt e aplikacioneve brenda rrjetit?</summary>
 
-* **Soulbound launchpad**: Connect gamers with games based on their digital identity so that games can offer unique investment opportunities to gamers that like the corresponding genre.
-* **Player engagement app (xborg.gg)**: An engagement layer on top of any games and communities connected to a unique avatar. This serves as a great acquisition tool for games and gaming communities.
-* **In-game integration**: Integrate the credential layer within a game and offer unique game modes and perks for experts in the genre.
-* **Communication protocol**: Allow brands to connect with players based on their credentials. Players can set a communication fee.
-* **Reputation-based asset lending**: Lend your assets not based on collaterals but on your credentials and reputation.
-* **Matchmaking**: Allow for more efficient in-game matchmaking based on the entire history of the gamers.
-* **Decentralized gaming communities**: An app that allows for the creation of decentralized gaming communities.
-* **Esports player scouting**: An app that allows for the scouting of esports players by esports teams or decentralized gaming communities.
-* **Tournament platform**: A more efficient tournament platform, gated upon the performance of certain players.
-* **Gaming data app**: A dating app that matches players based on their credentials.
+* **Soulbound launchpad**: Lidh lojtarët me lojëra bazuar në identitetin e tyre digital, në mënyrë që lojërat të ofrojnë mundësi unike të investimeve për lojtarët që pëlqejnë zhanrin përkatës.&#x20;
+* **Player engagement app (xborg.gg)**: Një shtresë angazhimi mbi çdo lojë dhe komunitete të lidhura me një avatar unik. Kjo shërben si një mjet i shkëlqyeshëm për të fituar lojtarë për lojëra dhe komunitete lojërash.&#x20;
+* **Integrim në lojë**: Integro shtresën e kredencialeve brenda një loje dhe ofro mënyra unike të lojës dhe avantazhe për ekspertët në zhanër. 
+* **Protokolli i komunikimit**: Lejo markat të lidhen me lojtarët bazuar në kredencialet e tyre. Lojtarët mund të caktojnë një tarifë komunikimi.&#x20;
+* **Dhënia e pasurive bazuar në reputacion**: Jepi huazimet e tua jo bazuar në kolateralë, por në kredencialet dhe reputacionin tënd.
+* **Matchmaking**: Lejo për një matchmaking më efikas në lojë bazuar në tërë historinë e lojtarëve.&#x20;
+* **Komunitete lojërash decentralizuar**: Një aplikacion që lejon krijimin e komuniteteve lojërash decentralizuar.
+* **Shfrytëzimi i lojtarëve në sportet elektronike**: Një aplikacion që lejon shfrytëzimin e lojtarëve në sportet elektronike nga ekipet e sporteve elektronike ose komunitetet lojërash decentralizuar.&#x20;
+* **Platforma e turneve**: Një platformë turnesh më efikase, e kufizuar në performancën e disa lojtarëve të caktuar.&#x20;
+* **Aplikacioni i të dhënave të lojërave**: Një aplikacion takimesh që përputh lojtarët bazuar në kredencialet e tyre.
 
 </details>
 
 <details>
 
-<summary>What are the advantages of integrating the Credential Network?</summary>
+<summary>Cilat janë avantazhet e integrimin e Rrjetit të Kredencialeve?</summary>
 
-The utilization of the credential network by developers provides a seamless and streamlined process for onboarding players onto the network, leading to heightened operational efficiencies and, more importantly, an enhanced user experience for the players. The advantages offered by the credential network are far-reaching, such that any gaming application that integrates it is poised to provide an unparalleled experience to its user base.
-
-</details>
-
-<details>
-
-<summary>What are the first gaming applications being developed?</summary>
-
-Soulbound launchpad and the player engagement app.
+Përdorimi i rrjetit të kredencialeve nga zhvilluesit ofron një proces tërheqës dhe tërheqës për të futur lojtarët në rrjet, duke çuar në efikasitet të lartë operacional dhe, më e rëndësishmja, një përvojë të përmirësuar për përdoruesit. Avantazhet që ofron rrjeti i kredencialeve janë të gjera, në mënyrë që çdo aplikacion lojërash që e integron është i gatshëm të ofrojë një përvojë të pa krahasuar për bazën e përdoruesve të saj.
 
 </details>
 
 <details>
 
-<summary>Who is developing those applications?</summary>
+<summary>Cilat janë aplikacionet e parë të lojërave që po zhvillohen?</summary>
 
-XBorg Labs is the main developer of those applications. However, upon decentralization, we intend to upon the development of these applications for any developers.
+Soulbound launchpad dhe aplikacioni i angazhimit të lojtarit.&#x20;
 
 </details>
 
 <details>
 
-<summary>How does XBorg incentive the development of applications on top of the Gaming Credential Network?</summary>
+<summary>Kush po zhvillon këto aplikacione?</summary>
 
-A grant program will allow for the incentivization of application developments.
+XBorg Labs është zhvilluesi kryesor i këtyre aplikacioneve. Megjithatë, pas decentralizimit, ne kemi në plan të hapim zhvillimin e këtyre aplikacioneve për çdo zhvillues.&#x20;
+
+</details>
+
+<details>
+
+<summary>Si e inkurajon XBorg zhvillimin e aplikacioneve nëpër Rrjetin e Kredencialeve të Lojërave?</summary>
+
+Një program granti do të lejojë inkurajimin e zhvillimit të aplikacioneve.&#x20;
 
 </details>

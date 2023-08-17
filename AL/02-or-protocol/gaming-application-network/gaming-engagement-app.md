@@ -1,122 +1,122 @@
-# Gaming Engagement App
+# Aplikacioni për Përmbajtje dhe Angazhim në Lojëra
 
-> Players can connect with communities and games they are a fan of. Complete quests and create avatars by earning and equipping wearables offered by various community NFTs. Additionally, communities can create custom experiences for their community members by leveraging the infrastructure, which will be highlighted in a later section. This product is currently in a live Beta for two months and has 3 games that players can access for quests. The platform had 10,000 early sign-ups and is currently demonstrating 1000 weekly active users who collectively shared 4,000 badges across social media platforms.
+> Lojtarët mund të lidhen me komunitetet dhe lojërat për të cilat janë fansa. Plotësojnë sfida dhe krijojnë avatarë duke fituar dhe pajisur veshje të ofruara nga NFT-të e ndryshme të komuniteteve. Për më tepër, komunitetet mund të krijojnë përvoja të personalizuara për anëtarët e tyre duke përdorur infrastrukturën, e cila do të përshkruhet në një seksion më vonë. Ky produkt aktualisht është në fazën Beta për dy muaj dhe ka 3 lojëra në të cilat lojtarët mund të hyjnë për sfida. Platforma ka pasur 10,000 regjistrime të hershme dhe aktualisht tregon 1000 përdorues të aktivë javorë që kanë ndarë së bashku 4,000 medalje në platformat e mediave sociale.
 
 <details>
 
-<summary>What is the Gaming Engagement App?</summary>
+<summary>Ç'mund të bëjë Aplikacioni për Përmbajtje dhe Angazhim në Lojëra?</summary>
 
-The Gaming Engagement App is an app that allows games and communities to be closer to their fans and increase their engagement.
+Aplikacioni për Përmbajtje dhe Angazhim në Lojëra është një aplikacion që lejon lojërat dhe komunitetet të jenë më afër fansave të tyre dhe të rrisin angazhimin e tyre.
 
-* **For players:** it is an app that will enable players to stay connected to their favorite games and communities.
-* **For games:** it creates fun challenges that players can complete in-game and share with their friends, and players get rewarded for their accomplishments.
-* **For communities:** it offers challenges related to their group, and players earn special wearable items to customize their avatars.
+* **Për lojtarët:** është një aplikacion që do t'u mundësojë lojtarëve të qëndrojnë të lidhur me lojërat dhe komunitetet e tyre të preferuara.
+* **Për lojërat:** krijon sfida argëtuese që lojtarët mund të plotësojnë brenda lojës dhe t'i ndajnë me miqtë e tyre, dhe lojtarët marrin shpërblime për arritjet e tyre.
+* **Për komunitetet:** ofron sfida të lidhura me grupin e tyre, dhe lojtarët fitojnë objekte të veçanta të veshjeve për të personalizuar avatarët e tyre.
 
-It is a simple and convenient solution for keeping gamers engaged and excited.
+Është një zgjidhje e thjeshtë dhe e përshtatshme për të mbajtur lojtarët të angazhuar dhe të emocionuar.
 
 </details>
 
 <details>
 
-<summary>What are the features of the Gaming Engagement App?</summary>
+<summary>Cilat janë veçoritë e Aplikacionit për Përmbajtje dhe Angazhim në Lojëra?</summary>
 
-* Create and join communities
-* Create unique quests based on social platforms and games (Twitter, Discord, Twitch, Manual submission, and any supported games)
-* Attach quest success with a unique wearable
-* Create a unique composable avatar with multiple traits and wearables
-* Drop wearables in exchange for a fee
-
-</details>
-
-<details>
-
-<summary>What is the current traction of the App?</summary>
-
-The app's alpha has gathered **10,000** unique users with over **30,000** quests completed. The app supports games across Web3 and Web2, currently boasting **Ev.io**, **Dota2**, and **CSGO**. More games will be integrated.
+* Krijoni dhe bashkohuni me komunitete
+* Krijoni sfida unike bazuar në platformat sociale dhe lojëra (Twitter, Discord, Twitch, dorëzim manual dhe çdo lojë e mbështetur)
+* Lidhni suksesin e sfidave me një veshje të veçantë
+* Krijoni një avatar të veçantë me shumë karakteristika dhe veshje
+* Shpërndani veshjet në këmbim të një tarife
 
 </details>
 
 <details>
 
-<summary>How do I get whitelisted for the Alpha?</summary>
+<summary>Cili është angazhimi aktual i Aplikacionit?</summary>
 
-The whitelisting process for the Alpha has ended.
-
-</details>
-
-<details>
-
-<summary>When will the Gaming Engagement App V1 going to be released?</summary>
-
-Around Q2 2023.
+Alpha e aplikacionit ka mbledhur **10,000** përdorues unikë me mbi **30,000** sfida të plotësuara. Aplikacioni mbështet lojëra në Web3 dhe Web2, duke bërë reklamë aktualisht për **Ev.io**, **Dota2** dhe **CSGO**. Do të integrohen më shumë lojëra.
 
 </details>
 
 <details>
 
-<summary>What is unique about the Gaming Engagement App?</summary>
+<summary>Si mund të marrë whitelisting për Alpha?</summary>
 
-* In-game quest engine
-* Avatar inventory and wearable drops
-
-</details>
-
-<details>
-
-<summary>At launch, which community will be integrated into the App?</summary>
-
-Team BDS will be the first community. XBorg has secured and will announce more partnerships with top-tier esports teams.
+Procesi i whitelisting për Alpha ka përfunduar.
 
 </details>
 
 <details>
 
-<summary>Is it a Dapp or traditional application?</summary>
+<summary>Kur do të lansohet Aplikacioni për Përmbajtje dhe Angazhim në Lojëra V1?</summary>
 
-The app is a hybrid Web3, meaning that the user experience will be the same whether the user is using Web2 or Web3 authentication. Though if users opt in for Web3, they will retain ownership of their assets (wearables, avatars)
-
-</details>
-
-<details>
-
-<summary>Are the wearables and avatars NFTs?</summary>
-
-Yes, the wearables are transferable NFTs, while the avatar is a non-transferable NFT.
+Rreth Q2 2023.
 
 </details>
 
 <details>
 
-<summary>Who are the target users of the App?</summary>
+<summary>Cilat janë gjërat unike në Aplikacionin për Përmbajtje dhe Angazhim në Lojëra?</summary>
 
-For **users**, players that have an interest in esports or players that are fans of specific communities or games.
-
-For **communities**, esports teams and influencers communities.
-
-</details>
-
-<details>
-
-<summary>What are the main revenue drivers of the App?</summary>
-
-* User subscriptions
-* Wearable drops
-* Wearable exchange fees
+* Motori i sfidave në lojë
+* Inventari i avatarëve dhe veshjeve të ndara
 
 </details>
 
 <details>
 
-<summary>Will the application be a mobile app?</summary>
+<summary>Në fillim, cilët komunitete do të jenë të integruara në Aplikacion?</summary>
 
-Initially, no. But we intend to launch on mobile in later iterations.
+Ekipi BDS do të jetë komuniteti i parë. XBorg ka siguruar dhe do të njoftojë më shumë partneritete me ekipet e larta të e-sportit.
 
 </details>
 
 <details>
 
-<summary>What is the difference between the Gaming Engagement App and XBorg.gg?</summary>
+<summary>A është një Dapp ose aplikacion tradicional?</summary>
 
-The gaming engagement app is hosted under the domain **xborg.gg**
+Aplikacioni është një hibrid Web3, që do të thotë se përvoja e përdoruesit do të jetë e njëjtë, qoftë përdoruesi të përdorë autentifikim Web2 ose Web3. Megjithëse, nëse përdoruesit zgjedhin Web3, ata do të mbajnë pronësinë e aseteve të tyre (veshje, avatarë).
+
+</details>
+
+<details>
+
+<summary>A janë veshjet dhe avatarët NFT?</summary>
+
+Po, veshjet janë NFT të transferueshme, ndërsa avatarët janë NFT të papërmbajtshëm.
+
+</details>
+
+<details>
+
+<summary>Kush janë përdoruesit e synuar të Aplikacionit?</summary>
+
+Për **përdoruesit**, lojtarë që kanë interes në e-sport ose lojtarë që janë fansa të komuniteteve ose lojërave të caktuara.
+
+Për **komunitetet**, ekipet e-sportive dhe komunitetet e influencuesve.
+
+</details>
+
+<details>
+
+<summary>Cilat janë faktorët kryesorë të të ardhurave të Aplikacionit?</summary>
+
+* Abonimet e përdoruesve
+* Shpërndarja e veshjeve
+* Tarifat e shkëmbimit të veshjeve
+
+</details>
+
+<details>
+
+<summary>A do të jetë aplikacioni një aplikacion mobil?</summary>
+
+Fillimisht, jo. Por kemi qëllim të lansojmë në mobil në iteracionet më të mëvonshme.
+
+</details>
+
+<details>
+
+<summary>Cili është dallimi midis Aplikacionit për Përmbajtje dhe Angazhim në Lojëra dhe XBorg.gg?</summary>
+
+Aplikacioni për Përmbajtje dhe Angazhim në Lojëra hostohet në domainin **xborg.gg**.
 
 </details>
