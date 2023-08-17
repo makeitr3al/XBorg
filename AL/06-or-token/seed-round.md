@@ -1,108 +1,110 @@
-# Seed Round
+# Raundi i Parë i Sjelljes
 
-> XBorg is currently raising a $5m seed round. As part of the round, community members will be able to participate. The exact round details and timing can be found [here](https://www.xborg.com/seed-round).
+> XBorg aktualisht po mbledh një fond prej $5 milionësh për raundin e parë të sjelljes. Si pjesë e këtij raundi, anëtarët e komunitetit do të kenë mundësinë të marrin pjesë. Detajet e sakta të raundit dhe koha mund të gjenden [këtu](https://www.xborg.com/seed-round).&#x20;
 >
-> It's important to keep in mind that the vesting and locking terms associated with XBG token may be subject to change. As is common with early-stage projects, many of the details and conditions surrounding investments can be subject to adjustment as the project evolves.
+> Është e rëndësishme të mbani parasysh se kushtet e veshjes dhe mbylljes të lidhura me XBG token mund të ndryshojnë. Siç është e zakonshme me projekte në fazat fillestare, shumica e detajeve dhe kushteve që lidhen me investimet mund të ndryshojnë si projektet zhvillohen.
 >
-> Additionally, it's worth noting that the statement below should not be interpreted as an invitation or encouragement to purchase XBG token. Any decision to invest in this or any other cryptocurrency carries inherent risk and should be carefully considered before taking any action.
+> Për më tepër, është vlerësuar se deklarata më poshtë nuk duhet të kuptohet si një ftesë ose inkurajim për të blerë XBG token. Çdo vendim për të investuar në këtë ose çdo kriptovalutë tjetër ka rreziqet e veta dhe duhet të merret parasysh me kujdes para se të ndërmerret ndonjë veprim.
 
 <details>
 
-<summary>When is the seed round opening?</summary>
+<summary>Kur hapet raundi i parë i sjelljes?</summary>
 
-The seed round opened on the 16th of May 2023 with the Prometheus vault hosted on [XBorg's launchpad](https://launchpad.xborg.com/project/xborg).
+Raundi i parë i sjelljes u hap më 16 maj 2023 me arkivën Prometheus të vendosur në [platformën e XBorg](https://launchpad.xborg.com/project/xborg).
 
-As for the SwissBorg vaults, the first Public vault opens on the 23rd of May 2023 at 2 pm CET, followed by three additional vaults. The exact dates and vault sizes can be found on [our website](https://www.xborg.com/how-to-invest).
+Për sa i përket arkivave të SwissBorg, arkiva publike e parë hapet më 23 maj 2023 në orën 2 pasdite CET, ndjekur nga tre arkiva të tjera. Datat dhe madhësitë e saktë mund të gjenden në [faqen tonë zyrtare](https://www.xborg.com/how-to-invest).
 
 </details>
 
 <details>
 
-<summary>How can I take part in the round?</summary>
+<summary>Si mund të marr pjesë në raund?</summary>
 
-To participate in the round, you may acquire a Prometheus NFT [here](https://opensea.io/collection/xborg-prometheus) and take part in our [launchpad](https://launchpad.xborg.com/). Alternatively, you can download the SwissBorg app to access the investment opportunities. However, it should be noted that only Prometheus holders are guaranteed an allocation, and the current level of interest for the round surpasses $4.5 million. Consequently, we may not be able to assure allocations through the SwissBorg app. The exact details can be found [here](https://www.xborg.com/how-to-invest).
-
-</details>
-
-<details>
-
-<summary>What is the token price for the seed round?</summary>
-
-* VCs, BAs, and Prometheus: $0.045
-* SwissBorg Series A, Genesis, and Generation: $0.05
-* Public: $0.055
+Për të marrë pjesë në raund, mund të bleni një NFT Prometheus [këtu](https://opensea.io/collection/xborg-prometheus) dhe të merrni pjesë në [platformën tonë](https://launchpad.xborg.com/). Alternativisht, mund të shkarkoni aplikacionin SwissBorg për të pasur qasje në mundësitë e investimeve. Megjithatë, duhet të theksohet se vetëm mbajtësit e arkivave Prometheus kanë garantuar një alokim, ndërsa nivelin aktual të interesit për raundin e tejkalon $4.5 milionë. Si rezultat, nuk mund të sigurojmë alokimet përmes aplikacionit SwissBorg. Detajet e sakta mund të gjenden [këtu](https://www.xborg.com/how-to-invest).&#x20;
 
 </details>
 
 <details>
 
-<summary>Is there a vesting period?</summary>
+<summary>Cili është çmimi i tokenit për raundin e parë të sjelljes?</summary>
 
-For strategic and seed round participants, your investment comes with a lock-in period of 3 months, followed by an 18-month vesting schedule post-TGE. Moreover, 10% of the XBG tokens purchased will be immediately available upon TGE. Please be aware that these terms are subject to change as we adapt to meet the requirements of crypto exchanges.
-
-</details>
-
-<details>
-
-<summary>Is it a great investment opportunity?</summary>
-
-While it's the cheapest price at which someone can buy XBG tokens, it's important to note that we can't guarantee a positive return on investment. In fact, no investment can be guaranteed to yield a positive outcome.
+* VC-të, BA-të dhe Prometheus: $0.045
+* SwissBorg Seria A, Genesis dhe Generation: $0.05
+* Publiku: $0.055
 
 </details>
 
 <details>
 
-<summary>How are the fundraising rounds structured until the TGE?</summary>
+<summary>A ka një periudhë veshjeje?</summary>
 
-* **Strategic round:** $1m raised at $0.025 / XBG token.
-* **Seed round:** $5m raised at $0.045-0.055 / XBG token.
-* **Public round:** As per the LBP.
+Për pjesëmarrësit strategjikë dhe të raundit të parë, investimi juaj vjen me një periudhë mbylljeje prej 3 muajsh, pasuar nga një skemë veshjeje 18-mujore pas TGE. Për më tepër, 10% e tokenave XBG të blera do të jenë në dispozicion menjëherë pas TGE. Ju lutemi të keni parasysh se këto kushte mund të ndryshojnë si ne adaptohemi për të përmbushur kërkesat e bursave kriptovalutash.
 
 </details>
 
 <details>
 
-<summary>Is there a KYC process for participating in the seed round?</summary>
+<summary>A është një mundësi e shkëlqyeshme investimi?</summary>
 
-Yes, both the Seed and public rounds will be subject to a KYC procedure. On the XBorg launchpad, the KYC procedure occurs here: [https://launchpad.xborg.com/kyc](https://launchpad.xborg.com/kyc)
-
-</details>
-
-<details>
-
-<summary>How raised funds will be used?</summary>
-
-We are raising a $5m seed round. The raised funds will be allocated as follows and will be spent over the course of 3 years.
-
-* **Technical developments:** 60% ($3'000'000) of the funds will be allocated to technical developments and infrastructure costs. This represents the cost of 10 FTE engineers for three years at an average market salary of $7'000 per month.
-* **Marketing:** 20% ($1'000'000) of the fund will be allocated to marketing expenditures, influencer campaigns, PR, sponsorship opportunities, and events.
-* **Liquidity and exchange listings:** 10% ($500'000) of the fund will be allocated to exchange listing payments and liquidity provision.
-* **Operating costs:** 10% ($500'000) of the funds will be allocated to office rent, legal fees, and software subscriptions.
-
-The current treasury covers the non-technical HR costs.
+Edhe pse është çmimi më i ulët për të blerë tokenet XBG, është e rëndësishme të theksohet se nuk mund të garantohet një kthim pozitiv në investim. Faktikisht, asnjë investim nuk mund të garantohet të sjellë një rezultat pozitiv.
 
 </details>
 
 <details>
 
-<summary>What are the minimum and maximum investment limits for the seed round?</summary>
+<summary>Si janë strukturuar raundet e mbledhjes së fondeve deri te TGE-ja?</summary>
 
-If you are a Prometheus holder, the minimum investment threshold is set at $100, while the maximum limit stands at $3,000 per NFT. For SwissBorg users, investment limits are tier-based and vary accordingly. Please refer to our detailed tier structure on [our website](https://www.xborg.com/how-to-invest).
-
-</details>
-
-<details>
-
-<summary>How will the company handle any unsold tokens?</summary>
-
-In the case of unsold tokens, those could be kept in the treasury and eventually sold OTC to large investors.
+* **Raundi strategjik:** $1milion u mbledhën në $0.025 / XBG token.
+* **Raundi i parë i sjelljes:** $5 milionë u mbledhën në $0.045-0.055 / XBG token.&#x20;
+* **Raundi publik:** Sipas LBP-së.&#x20;
 
 </details>
 
 <details>
 
-<summary>Will there be any buy benefits for the SwissBorg token holders regarding their Premium level?</summary>
+<summary>A ka një proces KYC për të marrë pjesë në raundin e parë të sjelljes?</summary>
 
-Series A investors and Genesis/Generation premiums will be able to purchase XBG tokens during the Seed round, albeit at a higher valuation than Prometheus holders.
+Po, si raundi i sjelljes ashtu edhe raundi publik do të nënshtrohen një proceduri KYC. Në platformën e XBorg, procedura KYC ndodh këtu: [https://launchpad.xborg.com/kyc](https://launchpad.xborg.com/kyc)
 
 </details>
+
+<details>
+
+<summary>Si do të përdoren fondet e mbledhura?</summary>
+
+Po mbledhim një fond prej $5 milionësh për raundin e parë të sjelljes. Fondet e mbledhura do të ndahen si vijon dhe do të shpenzohen nëpër 3 vite.
+
+* **Zhvillimet teknike:** 60% ($3'000'000) e fondeve do të ndahen për zhvillimet teknike dhe kostot e infrastrukturës. Kjo përfaqëson koston e 10 inxhinierëve të punësuar për tre vite me një pagë mesatare tregu prej $7'000 në muaj.
+* **Marketingu:** 20% ($1'000'000) e fondeve do të ndahen për shpenzime marketingu, fushata influencer, PR, mundësi sponsorizimi dhe ngjarje.
+* **Liqiditeti dhe listimet në bursa:** 10% ($500'000) e fondeve do të ndahen për pagesa listimi në bursa dhe sigurimin e likuiditetit.
+* **Kostot operative:** 10% ($500'000) e fondeve do të ndahen për qiranë zyre, tarifa ligjore dhe abonime softuerike.
+
+Thesarin aktual e mbulon kostot jashtë teknike të burimeve njerëzore.
+
+</details>
+
+<details>
+
+<summary>Cilat janë kufijtë minimal dhe maksimal të investimit për raundin e parë të sjelljes?</summary>
+
+Nëse jeni mbajtës i arkivës Prometheus, kufiri minimal i investimit është vendosur në $100, ndërsa kufiri maksimal është $3,000 për NFT. Për përdoruesit e SwissBorg, kufijtë e investimit varen nga nivelët dhe ndryshojnë sipas tyre. Ju lutemi të referoheni në strukturën e detajuar të niveleve në [faqen tonë zyrtare](https://www.xborg.com/how-to-invest).
+
+</details>
+
+<details>
+
+<summary>Si do të trajtojë kompania tokenet e pazbërthyer?</summary>
+
+Në rastin e tokenëve të pazbërthyer, ato mund të mbahen në thesar dhe më vonë të shiten në mënyrë të drejtpërdrejtë (OTC) te investitorët e mëdhenj.
+
+</details>
+
+<details>
+
+<summary>A do të ketë ndonjë benefit blerjeje për mbajtësit e tokenit SwissBorg në lidhje me nivelin e tyre Premium?</summary>
+
+Investitorët e Serisë A dhe mbajtësit e niveleve Premium Genesis/Generation do të kenë mundësinë të blejnë tokenet XBG gjatë raundit të parë të sjelljes, megjithëse në një vlerësim më të lartë se mbajtësit e arkivave Prometheus.
+
+</details>
+
+&#x20;
