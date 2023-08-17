@@ -1,67 +1,65 @@
 # HR
 
-> Following its seed raise, XBorg intends to grow as a team and expand capabilities. This section will highlight all questions relating to the organization's growth, and how it intends to maintain team commitments to the project, and its mission.
+> Pas mbledhjes së fondeve të saj, XBorg synon të rritet si një ekip dhe të zgjerojë aftësitë. Kjo seksion do të theksojë të gjitha pyetjet lidhur me rritjen e organizatës, dhe se si synon të mbajë angazhimet e ekipit ndaj projektit dhe misionit të tij.
 
 <details>
 
-<summary>Who are you planning to recruit in the near future?</summary>
+<summary>Kë planifikoni të rekrutoni në të ardhmen e afërt?</summary>
 
-As part of our strategic growth plan, we have initiated recruiting 2 to 3 senior software engineers in the upcoming quarter (Q2 2023). This hiring drive is a critical step towards realizing our comprehensive 18-month roadmap, which outlines our ambitious plans and objectives for the future.
+Si pjesë e planit tonë strategjik për rritje, kemi nisur rekrutimin e 2 deri në 3 inxhinierëve të mëdhenj të softuerit në tremujorin e ardhshëm (Q2 2023). Ky përpjekje për rekrutim është një hap kritik drejt realizimit të planit tonë të gjerë 18-mujor, i cili përcakton planet dhe objektivat tona ambicioze për të ardhmen.
 
 </details>
 
 <details>
 
-<summary>How do you attract employees to the company?</summary>
+<summary>Si i tërheqni punonjësit në kompani?</summary>
 
-At XBorg, we recognize that the foundation of our success lies in the caliber of talent that we attract and retain. To ensure we have access to the best and brightest minds in the industry, we have employed a multi-faceted approach to talent acquisition, leveraging the power of our community, SwissBorg's career website, word-of-mouth recommendations, and a robust referral program. As we move forward, we remain committed to refining and strengthening our outreach strategies to enable us to attract top-tier technical profiles to join our dynamic and innovative team.
-
-</details>
-
-<details>
-
-<summary>What are the average compensations at XBorg?</summary>
-
-At XBorg, we have implemented a compensation structure that features an average remuneration of **$3,200 USDC**, supplemented by incentivization in the form of **XBG tokens**. While this approach reflects our commitment to aligning the interests of our team members with those of the XBorg ecosystem, it is noteworthy that our compensation rates remain below the prevailing market standards, a reflection of the deep involvement and dedication of our team members to the success of our shared vision. Remunerations for software engineers are higher, ranging from $4,000 USDC to $8,000 USDC.
+Në XBorg, ne e kuptojmë se themeli i suksesit tonë qëndron në cilësinë e talenteve që tërheqim dhe mbajmë. Për të siguruar që kemi qasje në mendjet më të mira dhe më të ndritshme në industrinë, kemi përdorur një qasje shumëdimensionale për fitimin e talenteve, duke përdorur fuqinë e komunitetit tonë, faqen e karrierës së SwissBorg, rekomandime nga goja në gojë dhe një program referimi të fuqishëm. Ndërsa ecim përpara, mbetemi të angazhuar për përmirësimin dhe forcimin e strategjive tona të komunikimit për të na lejuar të tërheqim profile teknike të nivelit të lartë për të bashkëngjitur ekipin tonë dinamik dhe inovativ.
 
 </details>
 
 <details>
 
-<summary>What is the HR plan for the coming 18 months?</summary>
+<summary>Cilat janë kompensimet mesatare në XBorg?</summary>
 
-To expand our operational capabilities and enhance the performance of our infrastructure, we are looking to hire more engineers, specifically in the areas of backend development, smart contract engineering, and DevOps. We aim to bring 15 highly skilled engineers on board over the next 18 months. In addition to our technical team, we are also planning to recruit professionals in business development, legal counsel, and accounting to support the growth of the protocol. We will issue grants to third-party developers as we scale the number of ecosystem applications.
-
-</details>
-
-<details>
-
-<summary>What is the time commitment of each of the founders?</summary>
-
-Louis is the sole founder of XBorg, fully immersed in his role and devoting his undivided attention to the realm of XBorg, with no other concurrent ventures vying for his time and focus.
+Në XBorg, kemi zbatuar një strukturë kompensimi që përfshin një pagë mesatare prej **3,200 USDC**, e plotësuar me stimulime në formën e **XBG tokens**. Ndërsa kjo qasje reflekton angazhimin tonë për të pajisur anëtarët e ekipit tonë me interesat e ekosistemit XBorg, është vlerësuar se normat tona të kompensimit mbeten më poshtë standardeve tregtare aktuale, një reflektim i përfshirjes së thellë dhe përkushtimit të anëtarëve të ekipit tonë ndaj suksesit të vizionit tonë të përbashkët. Kompensimet për inxhinierët e softuerit janë më të larta, duke u lëvizur nga 4,000 USDC deri në 8,000 USDC.&#x20;
 
 </details>
 
 <details>
 
-<summary>What is the founders' salary (including benefits, cars, etc.)?</summary>
+<summary>Cili është plani i HR për 18 muajt e ardhshëm?</summary>
 
-The founder's salary is **3,000 USDC**, below the team average. No other perks are derived.
-
-</details>
-
-<details>
-
-<summary>Are the technical developments of the protocol done in-house?</summary>
-
-At XBorg, we believe in developing technical solutions in-house, utilizing the expertise of our dedicated engineering team. We view outsourcing to contractors as a short-term solution, lacking the benefits of long-term investment in our own team's capabilities. As such, we prioritize building our internal team and fostering their growth to maximize the value of our technical developments.
+Për të zgjeruar aftësitë tona operative dhe për të përmirësuar performancën e infrastrukturës sonë, po kërkojmë të punësojmë më shumë inxhinierë, veçanërisht në fushat e zhvillimit të backend-it, inxhinierisë së kontratave inteligjente dhe DevOps. Synojmë të sjellim në bord 15 inxhinierë të shkëlqyer të aftë për 18 muajt e ardhshëm. Përveç ekipit tonë teknik, gjithashtu planifikojmë të rekrutojmë profesionistë në zhvillimin e biznesit, këshillimin ligjor dhe llogaritari për të mbështetur rritjen e protokollit. Do të jepim subvencione për zhvilluesit e palëve të treta ndërsa rrit numrin e aplikacioneve në ekosistemin tonë.
 
 </details>
 
 <details>
 
-<summary>How do you motivate people in your team?</summary>
+<summary>Cili është angazhimi kohor i secilit prej themeluesve?</summary>
 
-To align the interests of our team members with those of the XBorg ecosystem, we have devised a compensation framework that features a combination of USDC-based remuneration alongside an allocation of XBG tokens sourced from the Team token supply. This approach incentivizes and motivates our team members toward attaining our collective objectives while fostering a sense of shared ownership and alignment of interests.
+Louis është themeluesi i vetëm i XBorg, i përfshirë plotësisht në rolin e tij dhe i kushtuar plotësisht vëmendjen e tij në botën e XBorg, pa projekte të tjera paralele që i kërkojnë kohë dhe fokusin e tij.
 
 </details>
+
+<details>
+
+<summary>Cili është paga e themeluesve (përfshirë benefitet, makinat, etj.)?</summary>
+
+Paga e themeluesit është **3,000 USDC**, më poshtë mesatares së ekipit. Nuk ka asnjë avantazh tjetër.
+
+</details>
+
+<details>
+
+<summary>A zhvillohen zhvillimet teknike të protokollit brenda kompanisë?</summary>
+
+Në XBorg, ne besojmë në zhvillimin e zgjidhjeve teknike brenda kompanisë, duke përdorur ekspertizën e ekipit tonë të përkushtuar inxhinierik. Ne shohim outsourcing-un te kontraktorët si një zgjidhje të shkurtër afat, që mungon nga avantazhet e investimit afatgjatë në aftësitë e ekipit tonë të vet. Prandaj, ne e vlerësojmë ndërtimin e ekipit tonë të brendshëm dhe nxitjen e rritjes së tyre për të maksimizuar vlerën e zhvillimeve tona teknike.
+
+</details>
+
+<details>
+
+<summary>Si i motivoni njerëzit në ekipin tuaj?</summary>
+
+Për të përputhur interesat e anëtarëve të ekipit tonë me ato të ekosistemit XBorg, kemi krijuar një strukturë kompensimi që përfshin një kombinim të pagave në bazë të USDC-ve së bashku me një alokim të XBG tokens të siguruar nga oferta e Token-eve të Ekipit. Ky qasje inkurajon dhe motivon anëtarët e ekipit tonë për të arritur objektivat tona kolektive ndërsa nxit një ndjenjë të pronësisë së përbashkët dhe përputhje të interesave.
