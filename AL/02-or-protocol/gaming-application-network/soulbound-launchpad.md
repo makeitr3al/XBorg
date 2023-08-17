@@ -1,127 +1,127 @@
 # Soulbound Launchpad
 
-> Players will be able to access investment opportunities based on their in-game data, and developers can target players and communities that show a propensity for interest in their projects. This product’s V1 is live and, since its launch, has kickstarted 6 games, with a total investment of $200,000 in investments.
+> Lojtarët do të kenë mundësi të hyjnë në mundësi investimi bazuar në të dhënat e tyre në lojë, ndërsa zhvilluesit mund të synojnë lojtarë dhe komunitete që tregojnë një prirje për interes në projektet e tyre. V1 e këtij produkti është e gjallë dhe, që nga lansimi i saj, ka nisur 6 lojëra, me një investim total prej $200,000 në investime.
 
 <details>
 
-<summary>What is the soulbound launchpad?</summary>
+<summary>Ç'mund të jetë Soulbound Launchpad? </summary>
 
-The Soulbound Launchpad is a platform that connects gamers with games raising capital based on their digital identity. It enables game developers to target specific players using their digital identities and raise funds.
+Soulbound Launchpad është një platformë që lidh lojtarët me lojëra që po mblidhin kapital bazuar në identitetin e tyre digjital. Ajo mundëson zhvilluesve të lojërave të synojnë lojtarë specifikë duke përdorur identitetet e tyre digjitale dhe të mblidhin fonde.
 
 </details>
 
 <details>
 
-<summary>What is the difference between your launchpad and others?</summary>
+<summary>Cila është ndryshimi midis launchpad-it tuaj dhe të tjerëve? </summary>
 
-Players connected to the Soulbound launchpad through the credential network are granted access to deals tailored to their gaming credentials. This means an FPS player is more likely to receive an opportunity related to FPS gaming.
-
-</details>
-
-<details>
-
-<summary>How are launchpad projects selected?</summary>
-
-The investment council conducts a thorough multi-stage due diligence process, culminating in a comprehensive report. Across the private market (Venture Capitalist, Business Angels), we maintain some of the most comprehensive and detailed due diligence reports in the GameFi sector.
+Lojtarët që janë të lidhur me Soulbound launchpad përmes rrjetit të kredencialeve kanë qasje në ofertat e përshtatura me kredencialet e tyre të lojërave. Kjo do të thotë se një lojtar FPS ka më shumë gjasa të marrë një mundësi të lidhur me lojërat FPS.
 
 </details>
 
 <details>
 
-<summary>What is the frequency of opportunities?</summary>
+<summary>Si zgjidhen projektet e launchpad-it? </summary>
 
-Our ability to accept projects depends entirely on the quality of our deal flow. Therefore, we only consider projects that meet high standards of quality.
-
-</details>
-
-<details>
-
-<summary>Where can I find the launchpad?</summary>
-
-You can find the launchpad [here](https://launchpad.xborg.com/).
+Këshilli i investimeve kryen një proces të hollësishëm të vlerësimit të rreptë në shumë faza, që përfundon me një raport të plotë. Në tregun privat (kapitalistët e riskut, engjëjt e biznesit), ne mbajmë disa nga raportet më të hollësishme dhe të detajuara të vlerësimit të rreptë në sektorin GameFi.
 
 </details>
 
 <details>
 
-<summary>What nationalities do you support?</summary>
+<summary>Sa shpesh janë mundësitë? </summary>
 
-We support the countries supported by SwissBorg. The complete list can be found here: [https://swissborg.com/supported-countries](https://swissborg.com/supported-countries)
-
-</details>
-
-<details>
-
-<summary>What do terms like vesting, locking, and FDV refer to?</summary>
-
-* **Vesting** refers to the period during which the tokens are distributed
-* **Locked** refers to the period during which the tokens are locked
-* **FDV** refers to the valuation of a token, computed by multiplying its price by the max supply. (Fully Diluted Valuation)
+Aftësia jonë për të pranuar projekte varet plotësisht nga cilësia e rrjedhës së ofertave tona. Prandaj, ne marrim në konsideratë vetëm projekte që përmbushin standarde të larta cilësie.
 
 </details>
 
 <details>
 
-<summary>Which chain do I have to use for sending my commitment?</summary>
+<summary>Ku mund të gjej launchpad-in? </summary>
 
-Ethereum, via USDC (ERC-20).
-
-</details>
-
-<details>
-
-<summary>I invested in a deal, but the Launchpad UI doesn’t show my commitment, what do I do?</summary>
-
-If the launchpad does not show the commitment, please open a support ticket on Discord.
+Mund të gjeni launchpad-in [këtu](https://launchpad.xborg.com/).
 
 </details>
 
 <details>
 
-<summary>I live in a country that does not allow me to install the SwissBorg app, so I cannot KYC. What is the solution to this?</summary>
+<summary>Cilat kombësi mbështetni? </summary>
 
-At the moment, we only support nationalities available on the SwissBorg app. XBorg is actively working on expanding its network, and in time more regions and nationalities will be eligible for KYC.
-
-</details>
-
-<details>
-
-<summary>Is there a difference between Prometheus, Partner, and Public rounds?</summary>
-
-The rounds in which users are eligible vary according to their demographic. Prometheus holders receive the greatest benefits and are not required to pay fees, while other rounds have different fees and allocation sizes.
+Ne mbështesim vendet që mbështeten nga SwissBorg. Lista e plotë mund të gjendet këtu: [https://swissborg.com/supported-countries](https://swissborg.com/supported-countries)
 
 </details>
 
 <details>
 
-<summary>Can I send BUSD, USDT or other stablecoins instead of USDC?</summary>
+<summary>Cilat janë kuptime të termave si vesting, locking dhe FDV?</summary>
 
-Currently, we only support USDC.
-
-</details>
-
-<details>
-
-<summary>How can I acquire USDC?</summary>
-
-SwissBorg is one of the best options to acquire USDC from other cryptocurrencies or fiat.
+* **Vesting** përmend periudhën gjatë të cilës tokenët shpërndahen
+* **Locked** përmend periudhën gjatë të cilës tokenët janë të mbyllur
+* **FDV** përmend vlerësimin e një tokeni, i llogaritur duke shumëzuar çmimin e tij me furnizimin maksimal. (Fully Diluted Valuation)
 
 </details>
 
 <details>
 
-<summary>Do I get my funds back when a project fails or rugs?</summary>
+<summary>Cilin rrjet duhet të përdor për të dërguar angazhimin tim?</summary>
 
-We do thorough due diligence on the launchpad opportunities of XBorg to limit the number of projects that fails.
-
-No refund will be implemented if it's deemed the investors' fault.
+Ethereum, përmes USDC (ERC-20).
 
 </details>
 
 <details>
 
-<summary>Why do I need to KYC?</summary>
+<summary>Investova në një ofertë, por ndërfaqja e Launchpad-it nuk tregon angazhimin tim, çfarë duhet të bëj? </summary>
 
-For XBorg to comply with relevant jurisdiction relative to launchpads.
+Nëse launchpad-i nuk tregon angazhimin, ju lutemi hapni një biletë ndihmëse në Discord.&#x20;
+
+</details>
+
+<details>
+
+<summary>Jetoj në një vend që nuk më lejon të instaloj aplikacionin SwissBorg, kështu që nuk mund të bëj KYC. Cili është zgjidhja për këtë?</summary>
+
+Aktualisht, ne mbështesim vetëm kombësitë që janë në dispozicion në aplikacionin SwissBorg. XBorg është aktivisht duke punuar për zgjerimin e rrjetit të tij, dhe me kalimin e kohës më shumë rajone dhe kombësi do të kualifikohen për KYC.
+
+</details>
+
+<details>
+
+<summary>A ka ndonjë dallim midis raundeve Prometheus, Partner dhe Publike?</summary>
+
+Raundet në të cilat përdoruesit janë të kualifikuar ndryshojnë sipas demografisë së tyre. Mbajtësit e Prometheus marrin më shumë avantazhe dhe nuk duhet të paguajnë tarifa, ndërsa raundet e tjera kanë tarifa dhe madhësi alokimesh të ndryshme.
+
+</details>
+
+<details>
+
+<summary>A mund të dërgoj BUSD, USDT ose stablecoin-e të tjera në vend të USDC?</summary>
+
+Aktualisht, ne mbështesim vetëm USDC.
+
+</details>
+
+<details>
+
+<summary>Si mund të fitoj USDC?</summary>
+
+SwissBorg është një nga opsionet më të mira për të fituar USDC nga kriptovalutat e tjera ose fiat.
+
+</details>
+
+<details>
+
+<summary>A marr fonde mbrapsht kur një projekt dështon ose bëhet "rug"? </summary>
+
+Ne kryejmë vlerësim të hollësishëm të mundësive të launchpad-it të XBorg për të kufizuar numrin e projekteve që dështojnë.&#x20;
+
+Nuk do të zbatohet rimbursim nëse vlerësohet se fajin e kanë investitorët.
+
+</details>
+
+<details>
+
+<summary>Pse duhet të bëj KYC? </summary>
+
+Për të lejuar XBorg të përmbushë kërkesat e juridiksioneve të rëndësishme në lidhje me launchpad-et.
 
 </details>
