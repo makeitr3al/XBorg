@@ -1,33 +1,33 @@
 # Tabela e përmbajtjes
 
-* [Pyetje të shpeshta për XBorg](README.md)
+* [Pyetje të shpeshta të XBorg](README.md)
 
 ## ℹ 01 | BAZA
 
-* [Informacion](01-or-core/information.md)
-* [Bashkëpunim](01-or-core/collaboration.md)
-* [Rrugëtim](01-or-core/roadmap.md)
+* [Informacion](01-or-core/informacion.md)
+* [Bashkëpunim](01-or-core/bashkepunim.md)
+* [Harta e rrugës](01-or-core/harta-e-rruges.md)
 
 ## 📄 02 | PROTOKOLL
 
-* [Rrjeti i Kredencialeve të Lojërave](02-or-protocol/gaming-credential-network.md)
-* [Rrjeti i Aplikacioneve të Lojërave](02-or-protocol/gaming-application-network/README.md)
-  * [Aplikacioni i Përplasjes së Lojërave](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
-  * [Soulbound Launchpad](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
-  * [Ofertat e Ekipit të Parë](02-or-protocol/gaming-application-network/initial-team-offerings.md)
-* [Qeverisja](02-or-protocol/governance.md)
-* [Stimulime](02-or-protocol/incentives.md)
+* [Rrjeti i Kredencialeve të Lojërave](02-or-protocol/rrjeti-i-kredencialeve-te-lojerave.md)
+* [Rrjeti i Aplikacioneve të Lojërave](02-or-protocol/rrjeti-i-aplikacioneve-te-lojerave/README.md)
+  * [Aplikacioni i Angazhimit në Lojëra](02-or-protocol/rrjeti-i-aplikacioneve-te-lojerave/aplikacioni-i-angazhimit-ne-lojera.md)
+  * [Rampa e Nisjes Soulbound](02-or-protocol/rrjeti-i-aplikacioneve-te-lojerave/rampa-e-nisjes-soulbound.md)
+  * [Ofertat e Parë të Ekipit](02-or-protocol/rrjeti-i-aplikacioneve-te-lojerave/ofertat-e-pare-te-ekipit.md)
+* [Qeverisje](02-or-protocol/qeverisje.md)
+* [Incentivat](02-or-protocol/incentivat.md)
 
-## 📈 03 | TREG
+## 📈 03 | TREGU
 
-* [Konkurencë](03-or-market/competition.md)
+* [Konkurrenca](03-or-market/konkurrenca.md)
 
 ## ♠ 04 | EKIP
 
-* [Takoni Ekipin](04-or-team/meet-the-team.md)
-* [Burimet Njerëzore](04-or-team/hr.md)
+* [Njihuni me Ekipin](04-or-team/njihuni-me-ekipin.md)
+* [Burime Njerëzore](04-or-team/burime-njerezore.md)
 
-## 🤝 05 | KOMUNITET
+## 🤝 05 | KOMUNITETI
 
 * [NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
@@ -36,9 +36,9 @@
 ## 💰 06 | TOKEN
 
 * [XBG](06-or-token/xbg.md)
-* [Mobilizim Fondesh](06-or-token/fundraise.md)
-* [Raundi i Parë](06-or-token/seed-round.md)
+* [Mbledhja e fondeve](06-or-token/mbledhja-e-fondeve.md)
+* [Raundi i Parë](06-or-token/raundi-i-pare.md)
 
 ## 💼 07 | ORGANIZATË
 
-* [Ligjore dhe Financiare](07-or-organization/legal-and-financial.md)
+* [Aspektet Ligjore dhe Financiare](07-or-organization/aspektet-ligjore-dhe-financiare.md)
