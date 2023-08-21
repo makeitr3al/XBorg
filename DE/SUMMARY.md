@@ -1,21 +1,21 @@
 # Inhaltsverzeichnis
 
-* [XBorg's Ultimate FAQ](README.md)
+* [XBorgs ultimative FAQ](README.md)
 
 ## ℹ 01 | KERN
 
-* [Informationen](01-or-core/information.md)
+* [Information](01-or-core/information.md)
 * [Zusammenarbeit](01-or-core/collaboration.md)
-* [Roadmap](01-or-core/roadmap.md)
+* [Fahrplan](01-or-core/roadmap.md)
 
-## 📄 02 | PROTOCOL
+## 📄 02 | PROTOKOLL
 
-* [Gaming Credential Network](02-or-protocol/gaming-credential-network.md)
-* [Gaming Application Network](02-or-protocol/gaming-application-network/README.md)
+* [Gaming Credential Netzwerk](02-or-protocol/gaming-credential-network.md)
+* [Gaming Anwendungsnetzwerk](02-or-protocol/gaming-application-network/README.md)
   * [Gaming Engagement App](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
   * [Soulbound Launchpad](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
-  * [Initial Team Offerings](02-or-protocol/gaming-application-network/initial-team-offerings.md)
-* [Governance](02-or-protocol/governance.md)
+  * [Erstangebote von Teams](02-or-protocol/gaming-application-network/initial-team-offerings.md)
+* [Verwaltung](02-or-protocol/governance.md)
 * [Anreize](02-or-protocol/incentives.md)
 
 ## 📈 03 | MARKT
@@ -24,10 +24,10 @@
 
 ## ♠ 04 | TEAM
 
-* [Das Team kennenlernen](04-or-team/meet-the-team.md)
+* [Treffen Sie das Team](04-or-team/meet-the-team.md)
 * [Personalwesen](04-or-team/hr.md)
 
-## 🤝 05 | COMMUNITY
+## 🤝 05 | GEMEINSCHAFT
 
 * [NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
@@ -41,4 +41,4 @@
 
 ## 💼 07 | ORGANISATION
 
-* [Rechtliches und Finanzielles](07-or-organization/legal-and-financial.md)
+* [Rechtliches und Finanzen](07-or-organization/legal-and-financial.md)
