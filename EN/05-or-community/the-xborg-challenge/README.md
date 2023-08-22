@@ -100,9 +100,19 @@ While both TGEs and ICOs (Initial Coin Offerings) are methods to fundraise using
 
 <details>
 
-<summary></summary>
+<summary>What happens if my reach decreases due to external factors?</summary>
 
+If you don't maintain or increase engagement, your influencer rank will decline, resulting in fewer daily points. However, points you've already earned is not lost.
 
+</details>
+
+<details>
+
+<summary>How does the qualifier phase work in terms of earning points and advancing to the league system?</summary>
+
+During the qualification phases, participants gather daily points and ascend the ranks of the leaderboard. We will retain a final ranking snapshot from both Qualification Phase 1 and Qualification Phase 2. Following this, based on the total number of participants and the success of collective objectives, slots will be made available in various Leagues. The highest performers from each qualification phase will then receive invitations to join the most fitting league based on their skill level.
+
+Through these leagues, the inaugural season will begin, bringing with it rewards that are too enticing to overlook. This marks the true commencement of the game. Beyond the substantial rewards, qualifying should stand as a paramount goal for many throughout the qualification phases.
 
 </details>
 
