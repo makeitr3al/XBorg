@@ -101,3 +101,5 @@ While both TGEs and ICOs (Initial Coin Offerings) are methods to fundraise using
 {% hint style="info" %}
 If you need assistance, please reach out on our Discord (https://discord.gg/xborg), and if required, open a support ticket.
 {% endhint %}
+
+Test
