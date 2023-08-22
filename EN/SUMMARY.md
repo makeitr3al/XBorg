@@ -32,6 +32,13 @@
 * [NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
 * [Esports](05-or-community/esports.md)
+* [The XBorg Challenge](05-or-community/the-xborg-challenge/README.md)
+  * [Rules](05-or-community/the-xborg-challenge/rules.md)
+  * [Rewards](05-or-community/the-xborg-challenge/rewards.md)
+  * [Scoring](05-or-community/the-xborg-challenge/scoring/README.md)
+    * [Leaderboard](05-or-community/the-xborg-challenge/scoring/leaderboard.md)
+    * [Leagues](05-or-community/the-xborg-challenge/scoring/leagues.md)
+    * [LunarCrush](05-or-community/the-xborg-challenge/scoring/lunarcrush.md)
 
 ## 💰 06 | TOKEN
 
