@@ -4,7 +4,7 @@ descrição: Tudo o que você precisa saber sobre o concurso da comunidade XBorg
 
 # O Desafio XBorg
 
-> O quarto trimestre de 2023 oferece muitos eventos que mudam o jogo no universo XBorg. Um deles é o Desafio XBorg, onde você, como contribuidor, pode ajudar a espalhar a palavra e ser recompensado por isso! 💰
+> O quarto trimestre de 2023 oferece muitos eventos inovadores no universo XBorg. Um deles é o Desafio XBorg, onde você, como colaborador, pode ajudar a espalhar a palavra e ser recompensado por isso! 💰
 
 **Elegibilidade**
 
@@ -14,7 +14,15 @@ Para ser elegível, você precisa ter mais de 500 seguidores e usar as hashtags 
 
 <summary>Por que estamos fazendo isso?</summary>
 
-Nosso objetivo é aumentar a conscientização sobre o XBorg enquanto mostramos nossa fantástica comunidade, produtos e token. Organizar um concurso é o nosso método escolhido para promover uma experiência agradável e colaborativa.
+Nosso objetivo é aumentar a conscientização sobre a XBorg, ao mesmo tempo em que mostramos nossa comunidade fantástica, produtos e token. Organizar um concurso é o método escolhido para promover uma experiência agradável e colaborativa.
+
+</details>
+
+<details>
+
+<summary>Como funciona?</summary>
+
+Participe ativamente, seguindo as [regras](rules.md) e as melhores práticas (link para as melhores práticas). Você acumulará pontos com base no impacto do seu envolvimento, e quanto mais habilmente você conseguir isso, maiores serão as recompensas que você e sua liga podem obter.
 
 </details>
 
@@ -22,7 +30,7 @@ Nosso objetivo é aumentar a conscientização sobre o XBorg enquanto mostramos 
 
 <summary>Quando o concurso começa?</summary>
 
-O concurso está planejado para começar em 1º de setembro ou 30 de setembro de 2023, dependendo do nosso progresso.
+O concurso está planejado para começar em 1º de setembro ou 30 de setembro de 2023, com base em nosso progresso.
 
 </details>
 
@@ -30,13 +38,21 @@ O concurso está planejado para começar em 1º de setembro ou 30 de setembro de
 
 <summary>Quando o concurso termina?</summary>
 
-O concurso terminará duas semanas após o Evento de Geração de Token ([TGE](./#what-is-a-tge)), cuja data específica será comunicada posteriormente.
+O concurso terminará duas semanas após o Evento de Geração de Tokens ([TGE](./#o-que-é-um-tge)), cuja data específica será comunicada posteriormente.
 
 </details>
 
 <details>
 
-<summary>Todo mundo pode participar do desafio?</summary>
+<summary>Como posso participar deste desafio?</summary>
+
+Ao atender ao requisito de ter mais de 500 seguidores no Twitter, pontos serão atribuídos com base no seu Rank de Engajamento de Influenciadores XBorg diário no LunarCrush. Lembre-se de incluir #XBorg, $XBG ou #XBG em seus tweets para um reconhecimento preciso.
+
+</details>
+
+<details>
+
+<summary>Todos podem participar do desafio?</summary>
 
 O desafio está aberto a todos, mas seus pontos só serão contados se você tiver um mínimo de 500 seguidores no Twitter.
 
@@ -44,9 +60,9 @@ O desafio está aberto a todos, mas seus pontos só serão contados se você tiv
 
 <details>
 
-<summary>Onde é medida minha participação nas redes sociais?</summary>
+<summary>Onde meu engajamento social é medido?</summary>
 
-O LunarCrush obtém dados diretamente do Twitter, permitindo-nos extrair e analisar essas informações. Consequentemente, focamos exclusivamente em medir seu engajamento no Twitter. Por favor, esteja ciente de que os engajamentos em outras plataformas sociais não são levados em consideração. Para mais informações, visite [https://lunarcrush.com/faq.](https://lunarcrush.com/faq.)
+O LunarCrush obtém dados diretamente do Twitter, permitindo-nos extrair e analisar essas informações. Portanto, nos concentramos exclusivamente em medir seu engajamento no Twitter. Esteja ciente de que o engajamento em outras plataformas sociais não é levado em consideração. Para obter mais informações, visite [https://lunarcrush.com/faq.](https://lunarcrush.com/faq.)
 
 </details>
 
@@ -54,7 +70,7 @@ O LunarCrush obtém dados diretamente do Twitter, permitindo-nos extrair e anali
 
 <summary>Você pode dar um exemplo de bom engajamento?</summary>
 
-Um engajamento eficaz envolve a criação de conteúdo cativante usando hashtags, cashtags e emojis. Para obter mais orientações, você pode consultar nosso guia completo de melhores práticas: {LINK}
+Um engajamento eficaz envolve a criação de conteúdo cativante usando hashtags, cashtags e emojis. Para obter mais orientações, consulte nosso guia abrangente de melhores práticas: {LINK}
 
 </details>
 
@@ -62,15 +78,15 @@ Um engajamento eficaz envolve a criação de conteúdo cativante usando hashtags
 
 <summary>O que é um TGE?</summary>
 
-TGE significa "Token Generation Event", um termo usado principalmente nos setores de blockchain e criptomoedas.
+TGE significa "Token Generation Event" (Evento de Geração de Tokens), um termo usado principalmente nos setores de blockchain e criptomoedas.
 
 **O que acontece durante um TGE?**&#x20;
 
-Um TGE envolve a criação e distribuição de uma nova criptomoeda ou token para os primeiros participantes, geralmente para arrecadar fundos para um novo projeto. Este processo envolve a empresa ou organização emissora alocando um número definido de tokens para os primeiros apoiadores ou investidores.
+Um TGE envolve a criação e distribuição de uma nova criptomoeda ou token para participantes iniciais, geralmente para arrecadar fundos para um novo projeto. Esse processo envolve a alocação de um número definido de tokens aos apoiadores ou investidores iniciais pela empresa ou organização emissora.
 
 **Como um TGE difere de um ICO?**&#x20;
 
-Embora TGEs e ICOs (Ofertas Iniciais de Moedas) sejam métodos para arrecadar fundos usando tokens, os termos são às vezes usados ​​de forma intercambiável. No entanto, os insiders da indústria costumam preferir "TGE" porque destaca a geração e distribuição de tokens, em vez do aspecto de "oferta" ou venda.
+Embora tanto os TGEs quanto os ICOs (Ofertas Iniciais de Moedas) sejam métodos para arrecadar fundos usando tokens, os termos às vezes são usados ​​indistintamente. No entanto, os especialistas do setor geralmente preferem "TGE" porque destaca a geração e distribuição de tokens, em vez do aspecto de "oferta" ou venda.
 
 </details>
 
@@ -84,9 +100,19 @@ Embora TGEs e ICOs (Ofertas Iniciais de Moedas) sejam métodos para arrecadar fu
 
 <details>
 
-<summary></summary>
+<summary>O que acontece se meu alcance diminuir devido a fatores externos?</summary>
 
+Se você não mantiver ou aumentar o engajamento, seu ranking de influenciador diminuirá, resultando em menos pontos diários. No entanto, os pontos que você já ganhou não serão perdidos.
 
+</details>
+
+<details>
+
+<summary>Como funciona a fase de qualificação em termos de ganhar pontos e avançar para o sistema de ligas?</summary>
+
+Durante as fases de qualificação, os participantes acumulam pontos diários e sobem nas classificações do leaderboard. Manteremos uma captura de tela final das classificações tanto da Fase de Qualificação 1 quanto da Fase de Qualificação 2. Em seguida, com base no número total de participantes e no sucesso dos objetivos coletivos, vagas serão disponibilizadas em várias Ligas. Os melhores desempenhos de cada fase de qualificação receberão convites para ingressar na liga mais adequada com base em seu nível de habilidade.
+
+Através dessas ligas, a temporada inaugural começará, trazendo recompensas tão tentadoras que não podem ser ignoradas. Isso marca o verdadeiro início do jogo. Além das recompensas substanciais, a qualificação deve ser um objetivo primordial para muitos durante as fases de qualificação.
 
 </details>
 
@@ -99,7 +125,7 @@ Embora TGEs e ICOs (Ofertas Iniciais de Moedas) sejam métodos para arrecadar fu
 </details>
 
 {% hint style="info" %}
-Se você precisar de ajuda, entre em contato conosco no nosso Discord (https://discord.gg/xborg) e, se necessário, abra um ticket de suporte.
-{% endhint %}
+Se você precisar de ajuda, entre em nosso Discord (https://discord.gg/xborg) e, se necessário, nossa incrível comunidade irá ajudá-lo rapidamente.&#x20;
 
-Teste
+Observação: Nossa comunidade/moderadores/membros da equipe não devem e nunca entrarão em contato com você primeiro.
+{% endhint %}
