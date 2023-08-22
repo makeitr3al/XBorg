@@ -20,6 +20,14 @@ Our objective is to raise awareness about XBorg while showcasing our fantastic c
 
 <details>
 
+<summary>How does it work?</summary>
+
+Participate extensively while adhering to the [rules ](rules.md)and following best practices (link to best practices). You'll accumulate points based on the impact of your engagement, and the more skillfully you achieve this, the greater the rewards that both you and your league can attain.
+
+</details>
+
+<details>
+
 <summary>When does the contest start?</summary>
 
 The contest is planned to commence on either September 1st or September 30th, 2023, based on our progress.
@@ -31,6 +39,14 @@ The contest is planned to commence on either September 1st or September 30th, 20
 <summary>When does the contest end?</summary>
 
 The contest will conclude two weeks after the Token Generation Event ([TGE](./#what-is-a-tge)), the specific date of which will be communicated at a later time.
+
+</details>
+
+<details>
+
+<summary>How can I take part in this challenge?</summary>
+
+Upon meeting the requirement of having more than 500 Twitter followers, points will be assigned based on your daily XBorg Influencers Engagement Rank on LunarCrush. Remember to include #XBorg, $XBG, or #XBG in your tweets for precise recognition.
 
 </details>
 
@@ -99,7 +115,8 @@ While both TGEs and ICOs (Initial Coin Offerings) are methods to fundraise using
 </details>
 
 {% hint style="info" %}
-If you need assistance, please reach out on our Discord (https://discord.gg/xborg), and if required, open a support ticket.
+If you need assistance, please reach out on our Discord (https://discord.gg/xborg), and if required, our awesome community will help you quick.&#x20;
+
+NB: Our community/mods/staff members shouldn't and will never DM you first.
 {% endhint %}
 
-Test
