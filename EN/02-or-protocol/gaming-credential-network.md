@@ -74,7 +74,7 @@ Iterations of the protocol in the future will allow players to disclose pertinen
 * Player
 * Game
 
-### ![](../.gitbook/assets/modules.png)
+#### ![](../.gitbook/assets/modules.png)
 
 </details>
 

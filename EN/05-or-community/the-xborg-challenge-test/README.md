@@ -2,7 +2,7 @@
 description: All you need to know about XBorg's community contest. Coming in September 2023
 ---
 
-# The XBorg Challenge
+# The XBorg Challenge Test
 
 > Q4 2023 offers a lot of game-changing events in the XBorg universe. One of them is the XBorg Challenge, where you as a contributor can help spreading the word and get rewarded for doing it! 💰
 
@@ -22,7 +22,7 @@ Our objective is to raise awareness about XBorg while showcasing our fantastic c
 
 <summary>How does it work?</summary>
 
-Participate extensively while adhering to the [rules ](rules.md)and following best practices (link to best practices). You'll accumulate points based on the impact of your engagement, and the more skillfully you achieve this, the greater the rewards that both you and your league can attain.
+Participate extensively while adhering to the [rules ](rules-test.md)and following best practices (link to best practices). You'll accumulate points based on the impact of your engagement, and the more skillfully you achieve this, the greater the rewards that both you and your league can attain.
 
 </details>
 
