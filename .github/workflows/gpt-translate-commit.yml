@@ -23,8 +23,8 @@ jobs:
         uses: 3ru/gpt-translate@master
         with:
           apikey: ${{ secrets.OPENAI_API_KEY }}
-          #model: "gpt-3.5-turbo-16k"
-          model: "gpt-4"
+          model: "gpt-3.5-turbo-16k"
+          #model: "gpt-4"
           inputFiles: ${{ steps.changed_files.outputs.files }}
           outputFiles: "DE/**/*.md IT/**/*.md FR/**/*.md PT/**/*.md AR/**/*.md SP/**/*.md JP/**/*.md CN/**/*.md DT/**/*.md AL/**/*.md"
           languages: "German Italian French Portuguese Arabic Spanish Japanese Chinese Dutch Albanian"
