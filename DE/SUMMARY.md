@@ -4,18 +4,18 @@
 
 ## ℹ 01 | KERN
 
-* [Information](01-or-core/information.md)
+* [Informationen](01-or-core/information.md)
 * [Zusammenarbeit](01-or-core/collaboration.md)
-* [Fahrplan](01-or-core/roadmap.md)
+* [Roadmap](01-or-core/roadmap.md)
 
-## 📄 02 | PROTOKOLL
+## 📄 02 | PROTOCOL
 
-* [Gaming Credential Netzwerk](02-or-protocol/gaming-credential-network.md)
-* [Gaming Anwendungsnetzwerk](02-or-protocol/gaming-application-network/README.md)
+* [Gaming Credential Network](02-or-protocol/gaming-credential-network.md)
+* [Gaming Application Network](02-or-protocol/gaming-application-network/README.md)
   * [Gaming Engagement App](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
   * [Soulbound Launchpad](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
-  * [Erstangebote von Teams](02-or-protocol/gaming-application-network/initial-team-offerings.md)
-* [Verwaltung](02-or-protocol/governance.md)
+  * [Initial Team Offerings](02-or-protocol/gaming-application-network/initial-team-offerings.md)
+* [Governance](02-or-protocol/governance.md)
 * [Anreize](02-or-protocol/incentives.md)
 
 ## 📈 03 | MARKT
@@ -24,14 +24,21 @@
 
 ## ♠ 04 | TEAM
 
-* [Treffen Sie das Team](04-or-team/meet-the-team.md)
+* [Das Team kennenlernen](04-or-team/meet-the-team.md)
 * [Personalwesen](04-or-team/hr.md)
 
-## 🤝 05 | GEMEINSCHAFT
+## 🤝 05 | COMMUNITY
 
 * [NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
 * [Esports](05-or-community/esports.md)
+* [Die XBorg Challenge](05-or-community/the-xborg-challenge-test/README.md)
+  * [Regeln](05-or-community/the-xborg-challenge-test/rules-test.md)
+  * [Belohnungen](05-or-community/the-xborg-challenge-test/rewards-test.md)
+  * [Punktevergabe](05-or-community/the-xborg-challenge-test/scoring-test/README.md)
+    * [Bestenliste](05-or-community/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
+    * [Ligen](05-or-community/the-xborg-challenge-test/scoring-test/leagues-test.md)
+    * [LunarCrush](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
 
 ## 💰 06 | TOKEN
 
@@ -41,4 +48,4 @@
 
 ## 💼 07 | ORGANISATION
 
-* [Rechtliches und Finanzen](07-or-organization/legal-and-financial.md)
+* [Rechtliches und Finanzielles](07-or-organization/legal-and-financial.md)
