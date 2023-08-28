@@ -1,44 +1,51 @@
 # Tabela e përmbajtjes
 
-* [Pyetje të shpeshta të XBorg](README.md)
+* [FAQ e plotë e XBorg](README.md)
 
 ## ℹ 01 | BAZA
 
-* [Informacion](01-or-core/informacion.md)
-* [Bashkëpunim](01-or-core/bashkepunim.md)
-* [Harta e rrugës](01-or-core/harta-e-rruges.md)
+* [Informacion](01-or-core/information.md)
+* [Bashkëpunim](01-or-core/collaboration.md)
+* [Rrugëtimi](01-or-core/roadmap.md)
 
 ## 📄 02 | PROTOKOLL
 
-* [Rrjeti i Kredencialeve të Lojërave](02-or-protocol/rrjeti-i-kredencialeve-te-lojerave.md)
-* [Rrjeti i Aplikacioneve të Lojërave](02-or-protocol/rrjeti-i-aplikacioneve-te-lojerave/README.md)
-  * [Aplikacioni i Angazhimit në Lojëra](02-or-protocol/rrjeti-i-aplikacioneve-te-lojerave/aplikacioni-i-angazhimit-ne-lojera.md)
-  * [Rampa e Nisjes Soulbound](02-or-protocol/rrjeti-i-aplikacioneve-te-lojerave/rampa-e-nisjes-soulbound.md)
-  * [Ofertat e Parë të Ekipit](02-or-protocol/rrjeti-i-aplikacioneve-te-lojerave/ofertat-e-pare-te-ekipit.md)
-* [Qeverisje](02-or-protocol/qeverisje.md)
-* [Incentivat](02-or-protocol/incentivat.md)
+* [Rrjeti i Kredencialeve të Lojërave](02-or-protocol/gaming-credential-network.md)
+* [Rrjeti i Aplikacioneve të Lojërave](02-or-protocol/gaming-application-network/README.md)
+  * [Aplikacioni i Përfshirjes në Lojë](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
+  * [Soulbound Launchpad](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
+  * [Ofertat e Ekipit të Parë](02-or-protocol/gaming-application-network/initial-team-offerings.md)
+* [Qeverisja](02-or-protocol/governance.md)
+* [Stimulimi](02-or-protocol/incentives.md)
 
-## 📈 03 | TREGU
+## 📈 03 | TREG
 
-* [Konkurrenca](03-or-market/konkurrenca.md)
+* [Konkurencë](03-or-market/competition.md)
 
 ## ♠ 04 | EKIP
 
-* [Njihuni me Ekipin](04-or-team/njihuni-me-ekipin.md)
-* [Burime Njerëzore](04-or-team/burime-njerezore.md)
+* [Takoni Ekipin](04-or-team/meet-the-team.md)
+* [HR](04-or-team/hr.md)
 
-## 🤝 05 | KOMUNITETI
+## 🤝 05 | KOMUNITET
 
 * [NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
 * [Esports](05-or-community/esports.md)
+* [Provokimi XBorg](05-or-community/the-xborg-challenge-test/README.md)
+  * [Rregullat](05-or-community/the-xborg-challenge-test/rules-test.md)
+  * [Shpërblimet](05-or-community/the-xborg-challenge-test/rewards-test.md)
+  * [Vlerësimi](05-or-community/the-xborg-challenge-test/scoring-test/README.md)
+    * [Tabela e Përmbajtjes](05-or-community/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
+    * [Ligat](05-or-community/the-xborg-challenge-test/scoring-test/leagues-test.md)
+    * [LunarCrush](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
 
 ## 💰 06 | TOKEN
 
 * [XBG](06-or-token/xbg.md)
-* [Mbledhja e fondeve](06-or-token/mbledhja-e-fondeve.md)
-* [Raundi i Parë](06-or-token/raundi-i-pare.md)
+* [Mbledhja e Fondeve](06-or-token/fundraise.md)
+* [Raundi i Parë](06-or-token/seed-round.md)
 
-## 💼 07 | ORGANIZATË
+## 💼 07 | ORGANIZATA
 
-* [Aspektet Ligjore dhe Financiare](07-or-organization/aspektet-ligjore-dhe-financiare.md)
+* [Ligjore dhe Financiare](07-or-organization/legal-and-financial.md)

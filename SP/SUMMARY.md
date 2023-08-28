@@ -1,8 +1,8 @@
 # Índice
 
-* [Preguntas frecuentes definitivas de XBorg](README.md)
+* [Preguntas frecuentes sobre el Ultimate de XBorg](README.md)
 
-## ℹ 01 | CORE
+## ℹ 01 | NÚCLEO
 
 * [Información](01-or-core/information.md)
 * [Colaboración](01-or-core/collaboration.md)
@@ -32,6 +32,13 @@
 * [NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
 * [Esports](05-or-community/esports.md)
+* [El desafío de XBorg](05-or-community/the-xborg-challenge-test/README.md)
+  * [Reglas](05-or-community/the-xborg-challenge-test/rules-test.md)
+  * [Recompensas](05-or-community/the-xborg-challenge-test/rewards-test.md)
+  * [Puntuación](05-or-community/the-xborg-challenge-test/scoring-test/README.md)
+    * [Tabla de clasificación](05-or-community/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
+    * [Ligas](05-or-community/the-xborg-challenge-test/scoring-test/leagues-test.md)
+    * [LunarCrush](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
 
 ## 💰 06 | TOKEN
 

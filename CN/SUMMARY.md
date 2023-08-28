@@ -32,6 +32,13 @@
 * [非同质化代币](05-or-community/nft.md)
 * [经验值](05-or-community/xp.md)
 * [电子竞技](05-or-community/esports.md)
+* [XBorg挑战赛](05-or-community/the-xborg-challenge-test/README.md)
+  * [规则](05-or-community/the-xborg-challenge-test/rules-test.md)
+  * [奖励](05-or-community/the-xborg-challenge-test/rewards-test.md)
+  * [得分](05-or-community/the-xborg-challenge-test/scoring-test/README.md)
+    * [排行榜](05-or-community/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
+    * [联赛](05-or-community/the-xborg-challenge-test/scoring-test/leagues-test.md)
+    * [LunarCrush](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
 
 ## 💰 06 | 代币
 

@@ -1,6 +1,6 @@
 # جدول المحتويات
 
-* [أسئلة وأجوبة نهائية لشركة XBorg](README.md)
+* [أسئلة وأجوبة نهائية حول XBorg](README.md)
 
 ## ℹ 01 | النواة
 
@@ -32,11 +32,18 @@
 * [NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
 * [الرياضات الإلكترونية](05-or-community/esports.md)
+* [تحدي XBorg](05-or-community/the-xborg-challenge-test/README.md)
+  * [القواعد](05-or-community/the-xborg-challenge-test/rules-test.md)
+  * [المكافآت](05-or-community/the-xborg-challenge-test/rewards-test.md)
+  * [التسجيل](05-or-community/the-xborg-challenge-test/scoring-test/README.md)
+    * [لوحة الصدارة](05-or-community/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
+    * [الدوريات](05-or-community/the-xborg-challenge-test/scoring-test/leagues-test.md)
+    * [LunarCrush](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
 
 ## 💰 06 | الرمز
 
 * [XBG](06-or-token/xbg.md)
-* [جمع الأموال](06-or-token/fundraise.md)
+* [جمع التبرعات](06-or-token/fundraise.md)
 * [جولة البذور](06-or-token/seed-round.md)
 
 ## 💼 07 | المنظمة
