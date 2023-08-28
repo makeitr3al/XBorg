@@ -32,13 +32,13 @@
 * [NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
 * [Esports](05-or-community/esports.md)
-* [The XBorg Challenge Test](05-or-community/the-xborg-challenge-test/README.md)
-  * [Rules Test](05-or-community/the-xborg-challenge-test/rules-test.md)
-  * [Rewards Test](05-or-community/the-xborg-challenge-test/rewards-test.md)
-  * [Scoring Test](05-or-community/the-xborg-challenge-test/scoring-test/README.md)
-    * [Leaderboard Test](05-or-community/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
-    * [Leagues Test](05-or-community/the-xborg-challenge-test/scoring-test/leagues-test.md)
-    * [LunarCrush Test](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
+* [The XBorg Challenge](05-or-community/the-xborg-challenge-test/README.md)
+  * [Rules](05-or-community/the-xborg-challenge-test/rules-test.md)
+  * [Rewards](05-or-community/the-xborg-challenge-test/rewards-test.md)
+  * [Scoring](05-or-community/the-xborg-challenge-test/scoring-test/README.md)
+    * [Leaderboard](05-or-community/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
+    * [Leagues](05-or-community/the-xborg-challenge-test/scoring-test/leagues-test.md)
+    * [LunarCrush](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
 
 ## 💰 06 | TOKEN
 
