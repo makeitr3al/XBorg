@@ -62,7 +62,7 @@ La sfida è aperta a tutti, ma i tuoi punti saranno conteggiati solo se hai alme
 
 <summary>Dove viene misurato il mio coinvolgimento sui social?</summary>
 
-LunarCrush raccoglie direttamente i dati da Twitter, consentendoci di estrarre e analizzare queste informazioni. Di conseguenza, ci concentriamo esclusivamente sulla misurazione del tuo coinvolgimento su Twitter. Tieni presente che gli interazioni su altre piattaforme social non vengono prese in considerazione. Per ulteriori informazioni, visita [https://lunarcrush.com/faq.](https://lunarcrush.com/faq.)
+LunarCrush raccoglie dati direttamente da Twitter, consentendoci di estrarre e analizzare queste informazioni. Di conseguenza, ci concentriamo esclusivamente sulla misurazione del tuo coinvolgimento su Twitter. Sii consapevole che gli interazioni su altre piattaforme social non vengono prese in considerazione. Per ulteriori informazioni, visita [https://lunarcrush.com/faq.](https://lunarcrush.com/faq.)
 
 </details>
 
@@ -70,7 +70,7 @@ LunarCrush raccoglie direttamente i dati da Twitter, consentendoci di estrarre e
 
 <summaryPuoi darmi un esempio di coinvolgimento efficace?</summary>
 
-Un coinvolgimento efficace consiste nel creare contenuti accattivanti utilizzando hashtag, cashtag ed emoji. Per ulteriori indicazioni, puoi consultare la nostra completa guida alle migliori pratiche: {LINK}
+Un coinvolgimento efficace comporta la creazione di contenuti accattivanti utilizzando hashtag, cashtag ed emoji. Per ulteriori indicazioni, puoi consultare la nostra completa guida alle migliori pratiche: {LINK}
 
 </details>
 
@@ -78,7 +78,7 @@ Un coinvolgimento efficace consiste nel creare contenuti accattivanti utilizzand
 
 <summary>Cos'è un TGE?</summary>
 
-TGE sta per "Token Generation Event", un termine principalmente utilizzato nel settore della blockchain e delle criptovalute.
+TGE sta per "Token Generation Event", un termine utilizzato principalmente nel settore delle criptovalute e della blockchain.
 
 **Cosa succede durante un TGE?**
 
@@ -86,7 +86,7 @@ Un TGE comporta la creazione e la distribuzione di una nuova criptovaluta o toke
 
 **In cosa differisce un TGE da un ICO?**
 
-Sebbene sia i TGE (Token Generation Events) che gli ICO (Initial Coin Offerings) siano metodi per raccogliere fondi utilizzando token, i termini vengono talvolta usati in modo intercambiabile. Tuttavia, gli addetti ai lavori preferiscono spesso "TGE" perché mette in evidenza la generazione e la distribuzione dei token, anziché l'aspetto "offerta" o vendita.
+Sebbene sia i TGE (Token Generation Events) che gli ICO (Initial Coin Offerings) siano metodi per raccogliere fondi utilizzando token, i termini vengono talvolta usati in modo intercambiabile. Tuttavia, gli addetti ai lavori preferiscono spesso "TGE" perché mette in evidenza la generazione e la distribuzione dei token, anziché l'aspetto dell'"offerta" o della vendita.
 
 </details>
 
@@ -94,7 +94,7 @@ Sebbene sia i TGE (Token Generation Events) che gli ICO (Initial Coin Offerings)
 
 <summary>Cos'è $XBG?</summary>
 
-[$XBG](../../06-or-token/xbg.md) è un token digitale collegato al progetto XBorg.
+[$XBG](../../06-or-token/xbg.md) è un token digitale legato al progetto XBorg.
 
 </details>
 
@@ -110,9 +110,19 @@ Se non mantieni o aumenti il coinvolgimento, il tuo rank di influencer diminuir�
 
 <summary>Come funziona la fase di qualificazione in termini di guadagnare punti e avanzare nel sistema delle leghe?</summary>
 
-Durante le fasi di qualificazione, i partecipanti accumulano punti giornalieri e salgono nella classifica. Conserveremo uno snapshot finale della classifica sia della Fase di Qualificazione 1 che della Fase di Qualificazione 2. Successivamente, in base al numero totale di partecipanti e al successo degli obiettivi collettivi, saranno disponibili posti in varie Leghe. I migliori performer di ciascuna fase di qualificazione riceveranno poi inviti per unirsi alla lega più adatta in base al loro livello di abilità.
+Durante le fasi di qualificazione, i partecipanti accumulano punti giornalieri e salgono nella classifica. Conserveremo uno snapshot finale della classifica sia per la Fase di Qualificazione 1 che per la Fase di Qualificazione 2. Successivamente, in base al numero totale di partecipanti e al successo degli obiettivi collettivi, saranno disponibili posti in diverse Leghe. I migliori performer di ciascuna fase di qualificazione riceveranno poi inviti per unirsi alla lega più adatta in base al loro livello di abilità.
 
-Attraverso queste leghe, inizierà la stagione inaugurale, portando con sé ricompense troppo allettanti per essere trascurate. Questo segna il vero inizio del gioco. Oltre alle consistenti ricompense, la qualificazione dovrebbe essere un obiettivo primario per molti durante le fasi di qualificazione.
+Attraverso queste leghe, inizierà la stagione inaugurale, portando con sé ricompense troppo allettanti per essere trascurate. Questo segna il vero inizio del gioco. Oltre alle sostanziali ricompense, la qualificazione dovrebbe essere un obiettivo primario per molti durante le fasi di qualificazione.
+
+</details>
+
+<details>
+
+<summary>C'è una scadenza per completare azioni specifiche per guadagnare punti?</summary>
+
+Sì, ci sono scadenze per guadagnare punti in base alle fasi del gioco. Ci sono due fasi di qualificazione, seguite dal lancio delle [leghe](scoring-test/leagues-test.md). Durante ogni fase, i partecipanti hanno tempo fino alla fine per accumulare il massimo dei punti e assicurarsi una posizione nella [classifica](scoring-test/leaderboard-test.md). Una volta lanciate le leghe, il gioco funziona su base stagionale.
+
+Inoltre, i punti vengono guadagnati giornalmente e i dati vengono estratti dall'API di [LunarCrush](scoring-test/lunarcrush-test.md) ogni sera prima della mezzanotte per calcolare i punti. A causa di problemi tecnici, alcuni dati possono richiedere fino a 48 ore per essere riflessi nella [classifica](scoring-test/leaderboard-test.md).
 
 </details>
 

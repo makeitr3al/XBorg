@@ -22,7 +22,7 @@ Unser Ziel ist es, das Bewusstsein für XBorg zu schärfen und gleichzeitig unse
 
 <summary>Wie funktioniert es?</summary>
 
-Nimm umfangreich teil, indem du dich an die [Regeln](rules-test.md) hältst und bewährte Verfahren befolgst (Link zu bewährten Verfahren). Du sammelst Punkte basierend auf der Wirkung deines Engagements, und je geschickter du dies erreichst, desto größer sind die Belohnungen, die sowohl du als auch deine Liga erreichen können.
+Nimm umfangreich teil, indem du dich an die [Regeln](rules-test.md) hältst und bewährte Verfahren befolgst (Link zu bewährten Verfahren). Du sammelst Punkte basierend auf der Wirkung deines Engagements, und je geschickter du dies erreichst, desto größer sind die Belohnungen, die sowohl du als auch deine Liga erzielen können.
 
 </details>
 
@@ -38,7 +38,7 @@ Der Wettbewerb soll entweder am 1. oder am 30. September 2023 beginnen, abhängi
 
 <summary>Wann endet der Wettbewerb?</summary>
 
-Der Wettbewerb endet zwei Wochen nach dem Token Generation Event ([TGE](./#was-ist-ein-tge)), dessen genaues Datum zu einem späteren Zeitpunkt bekannt gegeben wird.
+Der Wettbewerb endet zwei Wochen nach dem Token Generation Event ([TGE](./#what-is-a-tge)), dessen genaues Datum zu einem späteren Zeitpunkt bekannt gegeben wird.
 
 </details>
 
@@ -46,7 +46,7 @@ Der Wettbewerb endet zwei Wochen nach dem Token Generation Event ([TGE](./#was-i
 
 <summary>Wie kann ich an dieser Challenge teilnehmen?</summary>
 
-Wenn du die Anforderung erfüllst, mehr als 500 Twitter-Follower zu haben, werden Punkte basierend auf deinem täglichen XBorg Influencers Engagement Rank auf LunarCrush vergeben. Vergiss nicht, #XBorg, $XBG oder #XBG in deinen Tweets für eine genaue Anerkennung einzuschließen.
+Nach Erfüllung der Anforderung, mehr als 500 Twitter-Follower zu haben, werden Punkte basierend auf deinem täglichen XBorg Influencers Engagement Rank auf LunarCrush vergeben. Vergiss nicht, #XBorg, $XBG oder #XBG in deinen Tweets für eine genaue Anerkennung einzufügen.
 
 </details>
 
@@ -60,7 +60,7 @@ Die Challenge steht allen offen, aber deine Punkte werden nur gezählt, wenn du 
 
 <details>
 
-<summary>Wo wird mein soziales Engagement gemessen?</summary>
+<summary>Wo wird mein Social Engagement gemessen?</summary>
 
 LunarCrush bezieht Daten direkt von Twitter, was es uns ermöglicht, diese Informationen zu extrahieren und zu analysieren. Daher konzentrieren wir uns ausschließlich auf die Messung deines Engagements auf Twitter. Bitte beachte, dass Engagements auf anderen sozialen Plattformen nicht berücksichtigt werden. Für weitere Einblicke besuche [https://lunarcrush.com/faq.](https://lunarcrush.com/faq.)
 
@@ -82,7 +82,7 @@ TGE steht für "Token Generation Event", ein Begriff, der hauptsächlich in den 
 
 **Was passiert während eines TGE?**
 
-Ein TGE beinhaltet die Erstellung und Verteilung einer neuen Kryptowährung oder eines Tokens an frühe Teilnehmer, in der Regel zur Finanzierung eines neuen Projekts. Dieser Prozess beinhaltet, dass das ausgebende Unternehmen oder die Organisation eine festgelegte Anzahl von Tokens an anfängliche Unterstützer oder Investoren zuweist.
+Ein TGE beinhaltet die Erstellung und Verteilung einer neuen Kryptowährung oder eines Tokens an frühe Teilnehmer, in der Regel zur Finanzierung eines neuen Projekts. Dieser Prozess beinhaltet, dass das ausgebende Unternehmen oder die Organisation eine festgelegte Anzahl von Tokens an anfängliche Unterstützer oder Investoren vergibt.
 
 **Wie unterscheidet sich ein TGE von einem ICO?**
 
@@ -110,9 +110,19 @@ Wenn du dein Engagement nicht aufrechterhältst oder steigerst, wird dein Influe
 
 <summary>Wie funktioniert die Qualifikationsphase in Bezug auf das Punktesammeln und den Aufstieg im Ligasystem?</summary>
 
-Während der Qualifikationsphasen sammeln die Teilnehmer täglich Punkte und steigen in den Rängen der Bestenliste auf. Wir werden einen endgültigen Ranglisten-Snapshot sowohl von Qualifikationsphase 1 als auch von Qualifikationsphase 2 behalten. Basierend auf der Gesamtzahl der Teilnehmer und dem Erfolg der gemeinsamen Ziele werden anschließend Plätze in verschiedenen Ligen verfügbar gemacht. Die besten Performer jeder Qualifikationsphase erhalten dann Einladungen, je nach ihrem Fähigkeitsniveau der am besten geeigneten Liga beizutreten.
+Während der Qualifikationsphasen sammeln die Teilnehmer täglich Punkte und steigen in den Rängen der Bestenliste auf. Wir werden einen endgültigen Ranglisten-Snapshot sowohl von Qualifikationsphase 1 als auch von Qualifikationsphase 2 behalten. Basierend auf der Gesamtzahl der Teilnehmer und dem Erfolg der gemeinsamen Ziele werden anschließend Plätze in verschiedenen Ligen verfügbar gemacht. Die besten Performer jeder Qualifikationsphase erhalten dann Einladungen, der Liga beizutreten, die am besten ihrem Fähigkeitsniveau entspricht.
 
-Durch diese Ligen wird die erste Saison beginnen und damit Belohnungen, die zu verlockend sind, um sie zu übersehen. Dies markiert den wahren Beginn des Spiels. Neben den erheblichen Belohnungen sollte die Qualifikation während der Qualifikationsphasen für viele ein vorrangiges Ziel darstellen.
+Durch diese Ligen beginnt die erste Saison und bringt Belohnungen mit sich, die zu verlockend sind, um sie zu übersehen. Dies markiert den wahren Beginn des Spiels. Neben den erheblichen Belohnungen sollte die Qualifikation für viele während der Qualifikationsphasen ein vorrangiges Ziel darstellen.
+
+</details>
+
+<details>
+
+<summary>Gibt es eine Frist, um bestimmte Aktionen zur Punkteerzielung abzuschließen?</summary>
+
+Ja, es gibt Fristen für das Punktesammeln basierend auf den Stadien des Spiels. Es gibt zwei Qualifikationsphasen, gefolgt vom Start der [Ligen](scoring-test/leagues-test.md). Während jeder Phase haben die Teilnehmer bis zum Ende Zeit, um die maximalen Punkte zu sammeln und ihre Position auf der [Bestenliste](scoring-test/leaderboard-test.md) zu sichern. Sobald die Ligen gestartet sind, läuft das Spiel saisonal.
+
+Zusätzlich werden täglich Punkte verdient und die Daten werden jeden Abend vor Mitternacht aus der [LunarCrush ](scoring-test/lunarcrush-test.md)API extrahiert, um die Punkte zu berechnen. Aufgrund technischer Einschränkungen kann es bis zu 48 Stunden dauern, bis einige Daten auf der [Bestenliste](scoring-test/leaderboard-test.md) angezeigt werden.
 
 </details>
 

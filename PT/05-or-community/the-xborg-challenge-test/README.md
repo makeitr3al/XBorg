@@ -4,7 +4,7 @@ descrição: Tudo o que você precisa saber sobre o concurso da comunidade XBorg
 
 # O Desafio XBorg
 
-> O quarto trimestre de 2023 oferece muitos eventos revolucionários no universo XBorg. Um deles é o Desafio XBorg, onde você, como colaborador, pode ajudar a espalhar a palavra e ser recompensado por isso! 💰
+> O quarto trimestre de 2023 oferece muitos eventos inovadores no universo XBorg. Um deles é o Desafio XBorg, onde você, como colaborador, pode ajudar a espalhar a palavra e ser recompensado por isso! 💰
 
 **Elegibilidade**
 
@@ -70,7 +70,7 @@ O LunarCrush obtém dados diretamente do Twitter, permitindo-nos extrair e anali
 
 <summary>Você pode dar um exemplo de bom engajamento?</summary>
 
-Um engajamento eficaz envolve a criação de conteúdo cativante usando hashtags, cashtags e emojis. Para obter mais orientações, consulte nosso guia abrangente de melhores práticas: {LINK}
+O engajamento efetivo envolve a criação de conteúdo cativante usando hashtags, cashtags e emojis. Para obter mais orientações, consulte nosso guia abrangente de melhores práticas: {LINK}
 
 </details>
 
@@ -82,7 +82,7 @@ TGE significa "Token Generation Event" (Evento de Geração de Tokens), um termo
 
 **O que acontece durante um TGE?**
 
-Um TGE envolve a criação e distribuição de uma nova criptomoeda ou token para participantes iniciais, geralmente para arrecadar fundos para um novo projeto. Esse processo envolve a alocação de um número determinado de tokens aos apoiadores ou investidores iniciais pela empresa ou organização emissora.
+Um TGE envolve a criação e distribuição de uma nova criptomoeda ou token para participantes iniciais, geralmente para arrecadar fundos para um novo projeto. Esse processo envolve a alocação de um número definido de tokens aos apoiadores ou investidores iniciais pela empresa ou organização emissora.
 
 **Como um TGE difere de um ICO?**
 
@@ -110,14 +110,24 @@ Se você não mantiver ou aumentar o engajamento, seu ranking de influenciador d
 
 <summary>Como funciona a fase de qualificação em termos de ganhar pontos e avançar para o sistema de ligas?</summary>
 
-Durante as fases de qualificação, os participantes acumulam pontos diários e sobem nas classificações do leaderboard. Faremos uma captura de tela final da classificação tanto da Fase de Qualificação 1 quanto da Fase de Qualificação 2. Em seguida, com base no número total de participantes e no sucesso dos objetivos coletivos, vagas serão disponibilizadas em várias Ligas. Os melhores desempenhos de cada fase de qualificação receberão convites para ingressar na liga mais adequada com base em seu nível de habilidade.
+Durante as fases de qualificação, os participantes acumulam pontos diários e sobem nas classificações do leaderboard. Manteremos uma captura de tela final das classificações tanto da Fase de Qualificação 1 quanto da Fase de Qualificação 2. Com base no número total de participantes e no sucesso dos objetivos coletivos, vagas serão disponibilizadas em várias Ligas. Os melhores desempenhos de cada fase de qualificação receberão convites para ingressar na liga mais adequada com base em seu nível de habilidade.
 
 Através dessas ligas, a temporada inaugural começará, trazendo recompensas tão tentadoras que não podem ser ignoradas. Isso marca o verdadeiro início do jogo. Além das recompensas substanciais, a qualificação deve ser um objetivo primordial para muitos durante as fases de qualificação.
 
 </details>
 
+<details>
+
+<summary>Existe um prazo para concluir ações específicas para ganhar pontos?</summary>
+
+Sim, existem prazos para ganhar pontos com base nas etapas do jogo. Existem duas fases de qualificação, seguidas pelo lançamento das [ligas](scoring-test/leagues-test.md). Durante cada fase, os participantes têm até o final para acumular o máximo de pontos e garantir sua posição no [leaderboard](scoring-test/leaderboard-test.md). Uma vez que as ligas são lançadas, o jogo funciona com base em temporadas.
+
+Além disso, os pontos são acumulados diariamente e os dados são extraídos da API do [LunarCrush](scoring-test/lunarcrush-test.md) todas as noites antes da meia-noite para calcular os pontos. Devido a questões técnicas, alguns dados podem levar até 48 horas para serem refletidos no [leaderboard](scoring-test/leaderboard-test.md).
+
+</details>
+
 {% hint style="info" %}
-Se precisar de ajuda, entre em nosso Discord (https://discord.gg/xborg) e, se necessário, nossa incrível comunidade ajudará você rapidamente.
+Se você precisar de ajuda, entre em nosso Discord (https://discord.gg/xborg) e, se necessário, nossa incrível comunidade o ajudará rapidamente.
 
 NB: Nossa comunidade/moderadores/membros da equipe não devem e nunca entrarão em contato com você primeiro.
 {% endhint %}
