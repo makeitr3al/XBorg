@@ -80,11 +80,11 @@ Effective engagement involves creating captivating content using hashtags, casht
 
 TGE stands for "Token Generation Event," a term primarily used in the blockchain and cryptocurrency sectors.
 
-**What happens during a TGE?**&#x20;
+**What happens during a TGE?**
 
 A TGE involves the creation and distribution of a new cryptocurrency or token to early participants, typically to raise funds for a new project. This process entails the issuing company or organization allocating a set number of tokens to initial supporters or investors.
 
-**How does a TGE differ from an ICO?**&#x20;
+**How does a TGE differ from an ICO?**
 
 While both TGEs and ICOs (Initial Coin Offerings) are methods to fundraise using tokens, the terms are sometimes used interchangeably. However, industry insiders often prefer "TGE" because it highlights the generation and distribution of tokens, rather than the "offering" or sale aspect.
 
@@ -116,17 +116,8 @@ Through these leagues, the inaugural season will begin, bringing with it rewards
 
 </details>
 
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
 {% hint style="info" %}
-If you need assistance, please reach out on our Discord (https://discord.gg/xborg), and if required, our awesome community will help you quick.&#x20;
+If you need assistance, please reach out on our Discord (https://discord.gg/xborg), and if required, our awesome community will help you quick.
 
 NB: Our community/mods/staff members shouldn't and will never DM you first.
 {% endhint %}
-
