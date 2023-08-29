@@ -1,6 +1,6 @@
 # Inhoudsopgave
 
-* [XBorg's Ultimate FAQ](README.md)
+* [XBorg's Ultieme FAQ](README.md)
 
 ## ℹ 01 | KERN
 
@@ -14,7 +14,7 @@
 * [Gaming Application Network](02-of-protocol/gaming-application-network/README.md)
   * [Gaming Engagement App](02-of-protocol/gaming-application-network/gaming-engagement-app.md)
   * [Soulbound Launchpad](02-of-protocol/gaming-application-network/soulbound-launchpad.md)
-  * [Initiële Team Aanbiedingen](02-of-protocol/gaming-application-network/initiële-team-aanbiedingen.md)
+  * [Aanbiedingen voor het initiële team](02-of-protocol/gaming-application-network/initial-team-offerings.md)
 * [Governance](02-of-protocol/governance.md)
 * [Incentives](02-of-protocol/incentives.md)
 
@@ -36,15 +36,15 @@
   * [Regels](05-of-community/de-xborg-uitdaging-test/regels-test.md)
   * [Beloningen](05-of-community/de-xborg-uitdaging-test/beloningen-test.md)
   * [Scoren](05-of-community/de-xborg-uitdaging-test/scoren-test/README.md)
+    * [LunarCrush](05-of-community/de-xborg-uitdaging-test/scoren-test/lunarcrush-test.md)
     * [Leaderboard](05-of-community/de-xborg-uitdaging-test/scoren-test/leaderboard-test.md)
     * [Competities](05-of-community/de-xborg-uitdaging-test/scoren-test/competities-test.md)
-    * [LunarCrush](05-of-community/de-xborg-uitdaging-test/scoren-test/lunarcrush-test.md)
 
 ## 💰 06 | TOKEN
 
 * [XBG](06-of-token/xbg.md)
 * [Fundraise](06-of-token/fundraise.md)
-* [Seed Ronde](06-of-token/seed-ronde.md)
+* [Seedronde](06-of-token/seedronde.md)
 
 ## 💼 07 | ORGANISATIE
 

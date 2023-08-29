@@ -36,9 +36,9 @@
   * [Regras](05-or-community/o-desafio-xborg-teste/regras-teste.md)
   * [Recompensas](05-or-community/o-desafio-xborg-teste/recompensas-teste.md)
   * [Pontuação](05-or-community/o-desafio-xborg-teste/pontuacao-teste/README.md)
+    * [LunarCrush](05-or-community/o-desafio-xborg-teste/pontuacao-teste/lunarcrush-teste.md)
     * [Classificação](05-or-community/o-desafio-xborg-teste/pontuacao-teste/classificacao-teste.md)
     * [Ligas](05-or-community/o-desafio-xborg-teste/pontuacao-teste/ligas-teste.md)
-    * [LunarCrush](05-or-community/o-desafio-xborg-teste/pontuacao-teste/lunarcrush-teste.md)
 
 ## 💰 06 | TOKEN
 

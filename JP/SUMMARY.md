@@ -36,9 +36,9 @@
   * [ルール](05-or-community/the-xborg-challenge-test/rules-test.md)
   * [報酬](05-or-community/the-xborg-challenge-test/rewards-test.md)
   * [スコアリング](05-or-community/the-xborg-challenge-test/scoring-test/README.md)
+    * [LunarCrush](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
     * [リーダーボード](05-or-community/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
     * [リーグ](05-or-community/the-xborg-challenge-test/scoring-test/leagues-test.md)
-    * [LunarCrush](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
 
 ## 💰 06 | トークン
 

@@ -36,15 +36,15 @@
   * [Règles](05-or-community/the-xborg-challenge-test/rules-test.md)
   * [Récompenses](05-or-community/the-xborg-challenge-test/rewards-test.md)
   * [Classement](05-or-community/the-xborg-challenge-test/scoring-test/README.md)
+    * [LunarCrush](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
     * [Tableau des leaders](05-or-community/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
     * [Ligues](05-or-community/the-xborg-challenge-test/scoring-test/leagues-test.md)
-    * [LunarCrush](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
 
 ## 💰 06 | JETON
 
 * [XBG](06-or-token/xbg.md)
 * [Collecte de fonds](06-or-token/fundraise.md)
-* [Tour de financement initial](06-or-token/seed-round.md)
+* [Tour de table](06-or-token/seed-round.md)
 
 ## 💼 07 | ORGANISATION
 

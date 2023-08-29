@@ -12,7 +12,7 @@
 
 * [شبكة اعتماد الألعاب](02-or-protocol/gaming-credential-network.md)
 * [شبكة تطبيقات الألعاب](02-or-protocol/gaming-application-network/README.md)
-  * [تطبيق مشاركة الألعاب](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
+  * [تطبيق انخراط الألعاب](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
   * [منصة Soulbound](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
   * [عروض الفريق الأولية](02-or-protocol/gaming-application-network/initial-team-offerings.md)
 * [الحوكمة](02-or-protocol/governance.md)
@@ -36,9 +36,9 @@
   * [القواعد](05-or-community/the-xborg-challenge-test/rules-test.md)
   * [المكافآت](05-or-community/the-xborg-challenge-test/rewards-test.md)
   * [التسجيل](05-or-community/the-xborg-challenge-test/scoring-test/README.md)
-    * [لوحة الصدارة](05-or-community/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
-    * [الدوريات](05-or-community/the-xborg-challenge-test/scoring-test/leagues-test.md)
     * [LunarCrush](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
+    * [لوحة المتصدرين](05-or-community/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
+    * [الدوريات](05-or-community/the-xborg-challenge-test/scoring-test/leagues-test.md)
 
 ## 💰 06 | الرمز
 

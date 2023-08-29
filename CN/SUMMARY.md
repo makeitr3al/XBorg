@@ -1,6 +1,6 @@
 # 目录
 
-* [XBorg的终极FAQ](README.md)
+* [XBorg的终极常见问题解答](README.md)
 
 ## ℹ 01 | 核心
 
@@ -36,9 +36,9 @@
   * [规则](05-or-community/the-xborg-challenge-test/rules-test.md)
   * [奖励](05-or-community/the-xborg-challenge-test/rewards-test.md)
   * [得分](05-or-community/the-xborg-challenge-test/scoring-test/README.md)
+    * [LunarCrush](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
     * [排行榜](05-or-community/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
     * [联赛](05-or-community/the-xborg-challenge-test/scoring-test/leagues-test.md)
-    * [LunarCrush](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
 
 ## 💰 06 | 代币
 
