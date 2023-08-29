@@ -6,13 +6,13 @@
 
 <summary>Welche Belohnung erhalte ich?</summary>
 
-Basierend auf deinem Punktestand und den gemeinsam erreichten Zielen erhältst du eine individuelle Belohnung in Form von $XBG-Token sowie eine kollektive Belohnung in Form von $XBG-Token. Alle Belohnungen sind [geblockt](rewards-test.md#how-long-are-rewards-vested).
+Basierend auf Ihrer Punktzahl und den erreichten gemeinsamen Zielen erhalten Sie eine individuelle Belohnung in $XBG-Token sowie eine gemeinsame Belohnung in $XBG-Token. Alle Belohnungen sind [gesperrt](rewards-test.md#how-long-are-rewards-vested).
 
 </details>
 
 <details>
 
-<summary>Wie lange sind Belohnungen blockiert?</summary>
+<summary>Wie lange sind Belohnungen gesperrt?</summary>
 
 
 
@@ -22,13 +22,13 @@ Basierend auf deinem Punktestand und den gemeinsam erreichten Zielen erhältst d
 
 <summary>Wie erhalte ich meine Belohnung?</summary>
 
-Nach Abschluss des Qualifikations- oder Saisonzeitraums werden die Belohnungen basierend auf deinem endgültigen Rang nach Abschluss des Wettbewerbs an die von dir angegebene Wallet gesendet. Hinweis: Alle Belohnungen sind [geblockt](rewards-test.md#how-long-are-rewards-vested).
+Am Ende des Qualifikations- oder Saisonzeitraums werden die Belohnungen basierend auf Ihrer endgültigen Platzierung nach Abschluss des Wettbewerbs an die von Ihnen angegebene Brieftasche gesendet. Hinweis: Alle Belohnungen sind [gesperrt](rewards-test.md#how-long-are-rewards-vested).
 
 </details>
 
 <details>
 
-<summary>Wo kann ich meine Wallet angeben?</summary>
+<summary>Wo kann ich meine Brieftasche angeben?</summary>
 
 
 
@@ -38,23 +38,23 @@ Nach Abschluss des Qualifikations- oder Saisonzeitraums werden die Belohnungen b
 
 <summary>Warum erhalte ich eine Belohnung?</summary>
 
-Wir belohnen dich als Anerkennung für deine aktive Teilnahme und deinen Beitrag zur Erweiterung der XBorg-Community sowie für die Förderung unseres $XBG-Tokens.
+Wir belohnen Sie als Anerkennung für Ihre aktive Teilnahme und Ihren Beitrag zur Erweiterung der XBorg-Community und zur Förderung unseres $XBG-Tokens.
 
 </details>
 
 <details>
 
-<summary>Was ist eine kollektive Belohnung?</summary>
+<summary>Was ist eine gemeinsame Belohnung?</summary>
 
-Eine kollektive Belohnung ist ein Ausdruck unserer Anerkennung für die gemeinsame Anstrengung der Teilnehmer, bei der Belohnungen durch das Erreichen von Meilensteinen während der Saison erhöht werden. Abhängig von deinem Rang am Ende der Saison erhältst du eine zusätzliche Belohnung aus dem kollektiven Pool.
+Eine gemeinsame Belohnung ist ein Ausdruck unserer Anerkennung für die gemeinsamen Anstrengungen der Teilnehmer, bei der Belohnungen bei Erreichen von Meilensteinen während der Saison erhöht werden. Je nach Platzierung am Ende der Saison erhalten Sie eine zusätzliche Belohnung aus dem gemeinsamen Pool.
 
 </details>
 
 <details>
 
-<summary>Wie wird die kollektive Belohnung aufgeteilt? Was kann ich tun, um sie zu erhöhen?</summary>
+<summary>Wie wird die gemeinsame Belohnung aufgeteilt? Was kann ich tun, um sie zu erhöhen?</summary>
 
-Die Aufteilung der kollektiven Belohnung wird durch deine Platzierung bestimmt und kann durch das Erreichen von gemeinsamen Meilensteinen oder das Abschließen von Blitzaktionen gemeinsam erhöht werden. Weitere Informationen findest du in den [Regeln](rules-test.md).
+Die Aufteilung der gemeinsamen Belohnung wird durch Ihre Platzierung bestimmt und kann durch das Erreichen gemeinsamer Meilensteine oder das Abschließen von Blitzaktionen gemeinsam erhöht werden. Weitere Informationen finden Sie in den [Regeln](rules-test.md).
 
 </details>
 
@@ -62,21 +62,21 @@ Die Aufteilung der kollektiven Belohnung wird durch deine Platzierung bestimmt u
 
 <summary>Was kann ich tun, um meine Belohnung zu erhöhen?</summary>
 
-Der beste Weg, um deine Belohnung zu maximieren, besteht darin, Konsistenz mit Viralität zu kombinieren. Je größer deine Reichweite ist, desto höher steigst du auf der Rangliste auf.
+Der beste Weg, um Ihre Belohnung zu maximieren, besteht darin, Konstanz mit Viralität zu kombinieren. Je größer Ihre Reichweite ist, desto höher steigen Sie auf der Rangliste auf.
 
 </details>
 
 <details>
 
-<summary></summary>
+<summary>Welche Belohnungen gibt es für die erste Qualifikationsphase?</summary>
 
-
+In der ersten Qualifikationsphase summiert sich die Gesamtbelohnung auf maximal 100.000 XBG, wobei ein Teil an das erfolgreiche Erreichen gemeinsamer Ziele gebunden ist.
 
 </details>
 
 <details>
 
-<summary></summary>
+<summary>Was ist die Belohnungszone?</summary>
 
 
 

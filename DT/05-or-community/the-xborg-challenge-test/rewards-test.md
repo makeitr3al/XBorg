@@ -46,7 +46,7 @@ We belonen je als blijk van waardering voor je actieve deelname en bijdrage aan 
 
 <summary>Wat is een gezamenlijke beloning?</summary>
 
-Een gezamenlijke beloning is een blijk van waardering voor de gezamenlijke inspanning van de deelnemers, waarbij beloningen worden verhoogd bij het behalen van mijlpaalniveaus tijdens het seizoen. Afhankelijk van je eindrangschikking aan het einde van het seizoen, ontvang je een extra beloning uit de gezamenlijke pool.
+Een gezamenlijke beloning is een blijk van waardering voor de gezamenlijke inspanning van de deelnemers, waarbij beloningen worden verhoogd bij het behalen van mijlpaalniveaus tijdens het seizoen. Afhankelijk van je eindrangschikking ontvang je een extra beloning uit de gezamenlijke pool.
 
 </details>
 
@@ -68,15 +68,15 @@ De beste manier om je beloning te maximaliseren is door consistentie te combiner
 
 <details>
 
-<summary></summary>
+<summary>Wat zijn de beloningen voor de eerste kwalificatiefase?</summary>
 
-
+In de eerste kwalificatiefase bedraagt de totale beloning maximaal 100k XBG, waarvan een deel gekoppeld is aan het succesvol behalen van gezamenlijke doelen.
 
 </details>
 
 <details>
 
-<summary></summary>
+<summary>Wat is de beloningszone?</summary>
 
 
 

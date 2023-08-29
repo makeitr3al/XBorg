@@ -6,7 +6,7 @@
 
 <summary>Quelle récompense vais-je recevoir ?</summary>
 
-En fonction de votre total de points et des objectifs collectifs atteints, vous recevrez une récompense individuelle en jetons $XBG, ainsi qu'une récompense collective en jetons $XBG. Toutes les récompenses sont [soumises à un délai de blocage](rewards-test.md#how-long-are-rewards-vested).
+En fonction de votre total de points et des objectifs collectifs atteints, vous recevrez une récompense individuelle en jetons $XBG, ainsi qu'une récompense collective en jetons $XBG. Toutes les récompenses sont [bloquées](rewards-test.md#how-long-are-rewards-vested).
 
 </details>
 
@@ -22,7 +22,7 @@ En fonction de votre total de points et des objectifs collectifs atteints, vous 
 
 <summary>Comment vais-je recevoir ma récompense ?</summary>
 
-À la fin du qualificatif ou de la saison, les récompenses seront envoyées à votre portefeuille, en fonction de votre classement final une fois le concours terminé. Note : Toutes les récompenses sont [soumises à un délai de blocage](rewards-test.md#how-long-are-rewards-vested).
+À la fin de la phase de qualification ou de la saison, les récompenses seront envoyées au portefeuille que vous avez fourni, en fonction de votre classement final une fois le concours terminé. Note : Toutes les récompenses sont [bloquées](rewards-test.md#how-long-are-rewards-vested).
 
 </details>
 
@@ -38,7 +38,7 @@ En fonction de votre total de points et des objectifs collectifs atteints, vous 
 
 <summary>Pourquoi est-ce que je reçois une récompense ?</summary>
 
-Nous vous récompensons en signe d'appréciation pour votre participation active et votre contribution à l'expansion de la communauté XBorg et pour la promotion de notre jeton $XBG.
+Nous vous récompensons en reconnaissance de votre participation active et de votre contribution à l'expansion de la communauté XBorg et pour la promotion de notre jeton $XBG.
 
 </details>
 
@@ -62,21 +62,21 @@ La répartition de la récompense collective est déterminée par votre classeme
 
 <summary>Que puis-je faire pour augmenter ma récompense ?</summary>
 
-La meilleure façon de maximiser votre récompense est de combiner régularité et viralité. Plus votre portée est grande, plus vous monterez dans le classement.
+La meilleure façon de maximiser votre récompense est de combiner la constance avec la viralité. Plus votre portée est grande, plus vous monterez dans le classement.
 
 </details>
 
 <details>
 
-<summary></summary>
+<summary>Quelles sont les récompenses pour la première phase de qualification ?</summary>
 
-
+Dans la première phase de qualification, les récompenses totales s'élèvent à un maximum de 100 000 XBG, une partie étant liée à la réalisation des objectifs collectifs.
 
 </details>
 
 <details>
 
-<summary></summary>
+<summary>Qu'est-ce que la zone de récompense ?</summary>
 
 
 
