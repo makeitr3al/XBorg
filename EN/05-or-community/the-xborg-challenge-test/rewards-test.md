@@ -68,15 +68,15 @@ The best way to maximize your reward is through consistency combined with virali
 
 <details>
 
-<summary></summary>
+<summary>What are the rewards for the first qualification phase?</summary>
 
-
+In the first qualification phase, the total rewards sum up to a maximum of 100k XBG, with a portion tied to the successful completion of collective goals.
 
 </details>
 
 <details>
 
-<summary></summary>
+<summary>What is the reward zone?</summary>
 
 
 
