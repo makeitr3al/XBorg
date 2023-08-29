@@ -4,7 +4,7 @@ beschrijving: Alles wat je moet weten over de communitywedstrijd van XBorg. Komt
 
 # De XBorg Uitdaging
 
-> Het vierde kwartaal van 2023 biedt veel baanbrekende evenementen in het XBorg universum. Een daarvan is de XBorg Uitdaging, waarbij jij als bijdrager kunt helpen om het woord te verspreiden en beloond kunt worden voor je inzet! 💰
+> Het vierde kwartaal van 2023 biedt veel baanbrekende evenementen in het XBorg universum. Een daarvan is de XBorg Uitdaging, waarbij jij als deelnemer kunt helpen om het woord te verspreiden en beloond kunt worden voor je inzet! 💰
 
 **In aanmerking komen**
 
@@ -14,7 +14,7 @@ Om in aanmerking te komen, moet je meer dan 500 volgers hebben en de juiste hash
 
 <summary>Waarom doen we dit?</summary>
 
-Ons doel is om bekendheid te geven aan XBorg terwijl we onze fantastische community, producten en token laten zien. Het organiseren van een wedstrijd is onze gekozen methode om een plezierige en samenwerkende ervaring te bevorderen.
+Ons doel is om bekendheid te creëren voor XBorg terwijl we onze fantastische community, producten en token laten zien. Het organiseren van een wedstrijd is onze gekozen methode om een plezierige en samenwerkende ervaring te bevorderen.
 
 </details>
 
@@ -86,7 +86,7 @@ Een TGE houdt de creatie en distributie in van een nieuwe cryptocurrency of toke
 
 **Hoe verschilt een TGE van een ICO?**
 
-Hoewel zowel TGE's als ICO's (Initial Coin Offerings) methoden zijn om geld in te zamelen met behulp van tokens, worden de termen soms door elkaar gebruikt. Echter, insiders uit de industrie geven vaak de voorkeur aan "TGE" omdat het de generatie en distributie van tokens benadrukt, in plaats van het "aanbieden" of verkopen aspect.
+Hoewel zowel TGE's als ICO's (Initial Coin Offerings) methoden zijn om geld in te zamelen met behulp van tokens, worden de termen soms door elkaar gebruikt. Insiders in de industrie geven echter vaak de voorkeur aan "TGE" omdat het de generatie en distributie van tokens benadrukt, in plaats van het "aanbieden" of verkopen.
 
 </details>
 
@@ -94,7 +94,7 @@ Hoewel zowel TGE's als ICO's (Initial Coin Offerings) methoden zijn om geld in t
 
 <summary>Wat is $XBG?</summary>
 
-[$XBG](../../06-or-token/xbg.md) is een digitale token gekoppeld aan het XBorg project.
+[$XBG](../../06-or-token/xbg.md) is een digitale token gekoppeld aan het XBorg-project.
 
 </details>
 
@@ -102,22 +102,32 @@ Hoewel zowel TGE's als ICO's (Initial Coin Offerings) methoden zijn om geld in t
 
 <summary>Wat gebeurt er als mijn bereik afneemt door externe factoren?</summary>
 
-Als je je betrokkenheid niet behoudt of vergroot, zal je influencer-rangorde dalen, wat resulteert in minder dagelijkse punten. De punten die je al hebt verdiend gaan echter niet verloren.
+Als je betrokkenheid niet behoudt of vergroot, zal je influencer-rang dalen, wat resulteert in minder dagelijkse punten. De punten die je al hebt verdiend, gaan echter niet verloren.
 
 </details>
 
 <details>
 
-<summary>Hoe werkt de kwalificatiefase in termen van het verdienen van punten en het doorgaan naar het leaguesysteem?</summary>
+<summary>Hoe werkt de kwalificatiefase wat betreft het verdienen van punten en het doorstromen naar het leaguesysteem?</summary>
 
-Tijdens de kwalificatiefasen verzamelen deelnemers dagelijks punten en stijgen ze op de ranglijst. We zullen een definitieve ranglijst maken van zowel Kwalificatiefase 1 als Kwalificatiefase 2. Daarna, op basis van het totale aantal deelnemers en het succes van collectieve doelstellingen, zullen er plaatsen beschikbaar worden gesteld in verschillende Leagues. De beste presteerders van elke kwalificatiefase ontvangen vervolgens uitnodigingen om zich aan te sluiten bij de meest geschikte league op basis van hun vaardigheidsniveau.
+Tijdens de kwalificatiefasen verzamelen deelnemers dagelijks punten en stijgen ze op de ranglijst. We behouden een definitieve ranglijst-snapshot van zowel Kwalificatiefase 1 als Kwalificatiefase 2. Op basis hiervan, afhankelijk van het totale aantal deelnemers en het succes van collectieve doelstellingen, zullen er plaatsen beschikbaar worden gesteld in verschillende Leagues. De best presterende deelnemers van elke kwalificatiefase ontvangen vervolgens uitnodigingen om zich aan te sluiten bij de meest geschikte league op basis van hun vaardigheidsniveau.
 
-Via deze leagues zal het inaugurele seizoen beginnen, met beloningen die te verleidelijk zijn om te negeren. Dit markeert het ware begin van het spel. Naast de aanzienlijke beloningen zou kwalificatie een belangrijk doel moeten zijn voor velen gedurende de kwalificatiefasen.
+Via deze leagues zal het inaugurele seizoen beginnen, met beloningen die te verleidelijk zijn om te negeren. Dit markeert het echte begin van het spel. Naast de aanzienlijke beloningen zou kwalificatie een belangrijk doel moeten zijn voor velen gedurende de kwalificatiefasen.
+
+</details>
+
+<details>
+
+<summary>Is er een deadline om specifieke acties te voltooien om punten te verdienen?</summary>
+
+Ja, er zijn deadlines voor het verdienen van punten op basis van de fasen van het spel. Er zijn twee kwalificatiefasen, gevolgd door de lancering van de [leagues](scoring-test/leagues-test.md). Tijdens elke fase hebben deelnemers tot het einde de tijd om de maximale punten te verzamelen en hun positie op het [leaderboard](scoring-test/leaderboard-test.md) veilig te stellen. Zodra de leagues zijn gelanceerd, werkt het spel op seizoensbasis.
+
+Bovendien worden punten dagelijks verdiend en wordt de data elke avond voor middernacht uit de [LunarCrush](scoring-test/lunarcrush-test.md) API gehaald om de punten te berekenen. Vanwege technische beperkingen kan het tot 48 uur duren voordat sommige gegevens worden weergegeven op het [leaderboard](scoring-test/leaderboard-test.md).
 
 </details>
 
 {% hint style="info" %}
 Als je hulp nodig hebt, neem dan contact met ons op via onze Discord (https://discord.gg/xborg), en indien nodig zal onze geweldige community je snel helpen.
 
-NB: Onze community/mods/staff-leden zullen je nooit als eerste een bericht sturen.
+NB: Onze community/mods/staff-leden zullen je nooit als eerste een privébericht sturen.
 {% endhint %}

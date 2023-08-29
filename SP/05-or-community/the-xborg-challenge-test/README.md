@@ -4,11 +4,11 @@ descripción: Todo lo que necesitas saber sobre el concurso de la comunidad de X
 
 # El Desafío de XBorg
 
-> El cuarto trimestre de 2023 ofrece muchos eventos que cambiarán el juego en el universo de XBorg. Uno de ellos es el Desafío de XBorg, donde tú como colaborador puedes ayudar a difundir la palabra y ser recompensado por hacerlo. 💰
+> El cuarto trimestre de 2023 ofrece muchos eventos revolucionarios en el universo de XBorg. Uno de ellos es el Desafío de XBorg, donde tú como colaborador puedes ayudar a difundir la palabra y ser recompensado por hacerlo. 💰
 
 **Elegibilidad**
 
-Para ser elegible, necesitas tener más de 500 seguidores y usar los hashtags y cashtags apropiados ($XBG, #XBorg y #XBG).
+Para ser elegible, necesitas tener más de 500 seguidores y usar los hashtags y cashtags apropiados ($XBG, #XBorg y #XBG)
 
 <details>
 
@@ -52,7 +52,7 @@ Una vez que cumplas con el requisito de tener más de 500 seguidores en Twitter,
 
 <details>
 
-<summary>¿Puede todo el mundo unirse al desafío?</summary>
+<summary>¿Puede cualquiera unirse al desafío?</summary>
 
 El desafío está abierto para todos, pero tus puntos solo se contarán si tienes un mínimo de 500 seguidores en Twitter.
 
@@ -110,9 +110,19 @@ Si no mantienes o aumentas la participación, tu rango de influencer disminuirá
 
 <summary>¿Cómo funciona la fase de clasificación en términos de ganar puntos y avanzar en el sistema de ligas?</summary>
 
-Durante las fases de clasificación, los participantes acumulan puntos diarios y ascienden en la clasificación. Conservaremos una instantánea final de la clasificación tanto de la Fase de Clasificación 1 como de la Fase de Clasificación 2. Después de esto, según el número total de participantes y el éxito de los objetivos colectivos, se abrirán plazas en varias Ligas. Los mejores participantes de cada fase de clasificación recibirán invitaciones para unirse a la liga más adecuada según su nivel de habilidad.
+Durante las fases de clasificación, los participantes acumulan puntos diarios y ascienden en la clasificación. Conservaremos una instantánea final de la clasificación tanto de la Fase de Clasificación 1 como de la Fase de Clasificación 2. A partir de esto, según el número total de participantes y el éxito de los objetivos colectivos, se abrirán plazas en varias Ligas. Los mejores participantes de cada fase de clasificación recibirán invitaciones para unirse a la liga más adecuada según su nivel de habilidad.
 
 A través de estas ligas, comenzará la temporada inaugural, trayendo consigo recompensas demasiado tentadoras para ignorar. Esto marca el verdadero comienzo del juego. Más allá de las recompensas sustanciales, la clasificación debería ser un objetivo primordial para muchos durante las fases de clasificación.
+
+</details>
+
+<details>
+
+<summary>¿Hay una fecha límite para completar acciones específicas para ganar puntos?</summary>
+
+Sí, hay fechas límite para ganar puntos basadas en las etapas del juego. Hay dos fases de clasificación, seguidas del lanzamiento de las [ligas](scoring-test/leagues-test.md). Durante cada fase, los participantes tienen hasta el final para acumular la máxima cantidad de puntos y asegurar su posición en la [clasificación](scoring-test/leaderboard-test.md). Una vez que se lanzan las ligas, el juego funciona de manera estacional.
+
+Además, los puntos se ganan diariamente y los datos se extraen de la API de [LunarCrush](scoring-test/lunarcrush-test.md) cada noche antes de la medianoche para calcular los puntos. Debido a la responsabilidad técnica, algunos datos pueden tardar hasta 48 horas en reflejarse en la [clasificación](scoring-test/leaderboard-test.md).
 
 </details>
 
