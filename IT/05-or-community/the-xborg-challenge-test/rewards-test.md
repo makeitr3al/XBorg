@@ -1,7 +1,5 @@
 # Ricompense
 
-
-
 <details>
 
 <summary>Che ricompensa ricevo?</summary>
@@ -46,7 +44,7 @@ Ti ricompensiamo in segno di apprezzamento per la tua partecipazione attiva e il
 
 <summary>Cosa significa una ricompensa collettiva?</summary>
 
-Una ricompensa collettiva è una dimostrazione del nostro apprezzamento per lo sforzo collettivo dei partecipanti, in cui le ricompense vengono potenziate raggiungendo livelli di traguardo durante la stagione. A seconda del tuo rango alla fine della stagione, riceverai una ricompensa aggiuntiva dal fondo collettivo.
+Una ricompensa collettiva è una dimostrazione del nostro apprezzamento per l'impegno collettivo dei partecipanti, in cui le ricompense vengono aumentate raggiungendo livelli di traguardo durante la stagione. A seconda del tuo rango alla fine della stagione, riceverai una ricompensa aggiuntiva dal fondo collettivo.
 
 </details>
 
@@ -68,15 +66,15 @@ Il modo migliore per massimizzare la tua ricompensa è attraverso la costanza co
 
 <details>
 
-<summary></summary>
+<summary>Quali sono le ricompense per la prima fase di qualificazione?</summary>
 
-
+Nella prima fase di qualificazione, le ricompense totali ammontano a un massimo di 100.000 XBG, con una parte legata al raggiungimento degli obiettivi collettivi.
 
 </details>
 
 <details>
 
-<summary></summary>
+<summary>Cosa significa "reward zone"?</summary>
 
 
 
