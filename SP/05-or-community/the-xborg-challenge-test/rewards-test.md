@@ -1,16 +1,20 @@
 # Recompensas
 
+<figure><img src="../../.gitbook/assets/XBG_Coin_new.png" alt="" width="375"><figcaption><p>Este es nuestro querido $XBG. Tu boleto para increíbles beneficios de juegos.</p></figcaption></figure>
+
 <details>
 
 <summary>¿Qué recompensa obtengo?</summary>
 
-En función de tu total de puntos y de los objetivos colectivos alcanzados, recibirás una recompensa individual en tokens $XBG, así como una recompensa colectiva en tokens $XBG. Todas las recompensas están [restringidas](rewards-test.md#how-long-are-rewards-vested).
+En función de tu total de puntos y los objetivos colectivos alcanzados, recibirás una recompensa individual en tokens $XBG, así como una recompensa colectiva en tokens $XBG. Todas las recompensas están [bloqueadas](rewards-test.md#how-long-are-rewards-vested).
+
+![](../../.gitbook/assets/Rewards.png)
 
 </details>
 
 <details>
 
-<summary>¿Cuánto tiempo están restringidas las recompensas?</summary>
+<summary>¿Cuánto tiempo están bloqueadas las recompensas?</summary>
 
 
 
@@ -20,7 +24,7 @@ En función de tu total de puntos y de los objetivos colectivos alcanzados, reci
 
 <summary>¿Cómo recibiré mi recompensa?</summary>
 
-Al finalizar la fase clasificatoria o la temporada, las recompensas se enviarán a la billetera que proporcionaste, según tu posición final después de que haya terminado el concurso. Nota: Todas las recompensas están [restringidas](rewards-test.md#how-long-are-rewards-vested).
+Al finalizar la fase de clasificación o la temporada, las recompensas se enviarán a la billetera que proporcionaste, según tu clasificación final después de que termine el concurso. Nota: Todas las recompensas están [bloqueadas](rewards-test.md#how-long-are-rewards-vested).
 
 </details>
 
@@ -44,7 +48,7 @@ Te recompensamos en agradecimiento por tu participación activa y contribución 
 
 <summary>¿Qué es una recompensa colectiva?</summary>
 
-Una recompensa colectiva es una muestra de nuestro agradecimiento por el esfuerzo colectivo de los participantes, donde las recompensas se incrementan al alcanzar niveles de hitos durante la temporada. Dependiendo de tu posición al final de la temporada, recibirás una recompensa adicional del fondo colectivo.
+Una recompensa colectiva es una demostración de nuestro agradecimiento por el esfuerzo colectivo de los participantes, donde las recompensas se incrementan al alcanzar niveles de hitos durante la temporada. Dependiendo de tu clasificación al final de la temporada, recibirás una recompensa adicional del fondo colectivo.
 
 </details>
 
@@ -68,7 +72,7 @@ La mejor manera de maximizar tu recompensa es mediante la consistencia combinada
 
 <summary>¿Cuáles son las recompensas para la primera fase de clasificación?</summary>
 
-En la primera fase de clasificación, las recompensas totales suman un máximo de 100k XBG, con una parte vinculada al logro exitoso de los objetivos colectivos.
+En la primera fase de clasificación, las recompensas totales suman un máximo de 100k XBG, con una parte vinculada al logro exitoso de objetivos colectivos.
 
 </details>
 
