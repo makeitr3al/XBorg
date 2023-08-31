@@ -32,20 +32,25 @@
 * [NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
 * [Esports](05-or-community/esports.md)
-* [La sfida di XBorg](05-or-community/the-xborg-challenge-test/README.md)
-  * [Regole](05-or-community/the-xborg-challenge-test/rules-test.md)
-  * [Premi](05-or-community/the-xborg-challenge-test/rewards-test.md)
-  * [Punteggio](05-or-community/the-xborg-challenge-test/scoring-test/README.md)
-    * [LunarCrush](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
-    * [Classifica](05-or-community/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
-    * [Leghe](05-or-community/the-xborg-challenge-test/scoring-test/leagues-test.md)
 
-## 💰 06 | TOKEN
+## 🪙 06 | TOKEN
 
 * [XBG](06-or-token/xbg.md)
 * [Raccolta fondi](06-or-token/fundraise.md)
-* [Round di finanziamento iniziale](06-or-token/seed-round.md)
+* [Seed Round](06-or-token/seed-round.md)
 
-## 💼 07 | ORGANIZZAZIONE
+## 🤑 07 | PROGRAMMI DI INCENTIVAZIONE
 
-* [Legale e finanziario](07-or-organization/legal-and-financial.md)
+* [La Sfida di XBorg](07-or-incentive-programs/the-xborg-challenge-test/README.md)
+  * [Regole](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
+  * [Ricompense](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
+  * [Punteggio](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)
+    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
+    * [Classifica](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
+    * [Leghe](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leagues-test.md)
+* [Programma di Referral](07-or-incentive-programs/referral-program.md)
+* [Programma di Ambasciatori](07-or-incentive-programs/ambassador-program.md)
+
+## 💼 08 | ORGANIZZAZIONE
+
+* [Legale e Finanziario](08-or-organization/legal-and-financial.md)

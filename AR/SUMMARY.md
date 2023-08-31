@@ -6,7 +6,7 @@
 
 * [معلومات](01-or-core/information.md)
 * [التعاون](01-or-core/collaboration.md)
-* [خارطة الطريق](01-or-core/roadmap.md)
+* [خريطة الطريق](01-or-core/roadmap.md)
 
 ## 📄 02 | البروتوكول
 
@@ -32,20 +32,25 @@
 * [NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
 * [الرياضات الإلكترونية](05-or-community/esports.md)
-* [تحدي XBorg](05-or-community/the-xborg-challenge-test/README.md)
-  * [القواعد](05-or-community/the-xborg-challenge-test/rules-test.md)
-  * [المكافآت](05-or-community/the-xborg-challenge-test/rewards-test.md)
-  * [التسجيل](05-or-community/the-xborg-challenge-test/scoring-test/README.md)
-    * [LunarCrush](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
-    * [لوحة المتصدرين](05-or-community/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
-    * [الدوريات](05-or-community/the-xborg-challenge-test/scoring-test/leagues-test.md)
 
-## 💰 06 | الرمز
+## 🪙 06 | الرمز
 
 * [XBG](06-or-token/xbg.md)
-* [جمع التبرعات](06-or-token/fundraise.md)
+* [جمع الأموال](06-or-token/fundraise.md)
 * [جولة البذور](06-or-token/seed-round.md)
 
-## 💼 07 | المنظمة
+## 🤑 07 | برامج الحوافز
 
-* [القانون والمالية](07-or-organization/legal-and-financial.md)
+* [تحدي XBorg](07-or-incentive-programs/the-xborg-challenge-test/README.md)
+  * [القواعد](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
+  * [المكافآت](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
+  * [التسجيل](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)
+    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
+    * [لوحة المتصدرين](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
+    * [الدوريات](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leagues-test.md)
+* [برنامج الإحالة](07-or-incentive-programs/referral-program.md)
+* [برنامج السفراء](07-or-incentive-programs/ambassador-program.md)
+
+## 💼 08 | المنظمة
+
+* [القانون والمالية](08-or-organization/legal-and-financial.md)

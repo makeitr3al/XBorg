@@ -1,6 +1,6 @@
 # Índice
 
-* [Preguntas frecuentes sobre el Ultimate de XBorg](README.md)
+* [Preguntas frecuentes definitivas de XBorg](README.md)
 
 ## ℹ 01 | NÚCLEO
 
@@ -32,20 +32,25 @@
 * [NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
 * [Esports](05-or-community/esports.md)
-* [El desafío de XBorg](05-or-community/the-xborg-challenge-test/README.md)
-  * [Reglas](05-or-community/the-xborg-challenge-test/rules-test.md)
-  * [Recompensas](05-or-community/the-xborg-challenge-test/rewards-test.md)
-  * [Puntuación](05-or-community/the-xborg-challenge-test/scoring-test/README.md)
-    * [LunarCrush](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
-    * [Tabla de clasificación](05-or-community/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
-    * [Ligas](05-or-community/the-xborg-challenge-test/scoring-test/leagues-test.md)
 
-## 💰 06 | TOKEN
+## 🪙 06 | TOKEN
 
 * [XBG](06-or-token/xbg.md)
 * [Recaudación de fondos](06-or-token/fundraise.md)
 * [Ronda de financiación inicial](06-or-token/seed-round.md)
 
-## 💼 07 | ORGANIZACIÓN
+## 🤑 07 | PROGRAMAS DE INCENTIVOS
 
-* [Legal y financiero](07-or-organization/legal-and-financial.md)
+* [El desafío de XBorg](07-or-incentive-programs/the-xborg-challenge-test/README.md)
+  * [Reglas](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
+  * [Recompensas](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
+  * [Puntuación](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)
+    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
+    * [Tabla de clasificación](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
+    * [Ligas](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leagues-test.md)
+* [Programa de referidos](07-or-incentive-programs/referral-program.md)
+* [Programa de embajadores](07-or-incentive-programs/ambassador-program.md)
+
+## 💼 08 | ORGANIZACIÓN
+
+* [Legal y financiero](08-or-organization/legal-and-financial.md)

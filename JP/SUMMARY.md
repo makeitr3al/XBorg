@@ -2,13 +2,13 @@
 
 * [XBorgの究極のFAQ](README.md)
 
-## ℹ 01 | コア
+## ℹ 01 | CORE
 
 * [情報](01-or-core/information.md)
 * [コラボレーション](01-or-core/collaboration.md)
 * [ロードマップ](01-or-core/roadmap.md)
 
-## 📄 02 | プロトコル
+## 📄 02 | PROTOCOL
 
 * [ゲーミングクレデンシャルネットワーク](02-or-protocol/gaming-credential-network.md)
 * [ゲーミングアプリケーションネットワーク](02-or-protocol/gaming-application-network/README.md)
@@ -18,34 +18,39 @@
 * [ガバナンス](02-or-protocol/governance.md)
 * [インセンティブ](02-or-protocol/incentives.md)
 
-## 📈 03 | マーケット
+## 📈 03 | MARKET
 
 * [競争](03-or-market/competition.md)
 
-## ♠ 04 | チーム
+## ♠ 04 | TEAM
 
-* [チームに会おう](04-or-team/meet-the-team.md)
+* [チームについて](04-or-team/meet-the-team.md)
 * [人事](04-or-team/hr.md)
 
-## 🤝 05 | コミュニティ
+## 🤝 05 | COMMUNITY
 
 * [NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
 * [eスポーツ](05-or-community/esports.md)
-* [XBorgチャレンジ](05-or-community/the-xborg-challenge-test/README.md)
-  * [ルール](05-or-community/the-xborg-challenge-test/rules-test.md)
-  * [報酬](05-or-community/the-xborg-challenge-test/rewards-test.md)
-  * [スコアリング](05-or-community/the-xborg-challenge-test/scoring-test/README.md)
-    * [LunarCrush](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
-    * [リーダーボード](05-or-community/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
-    * [リーグ](05-or-community/the-xborg-challenge-test/scoring-test/leagues-test.md)
 
-## 💰 06 | トークン
+## 🪙 06 | TOKEN
 
 * [XBG](06-or-token/xbg.md)
 * [資金調達](06-or-token/fundraise.md)
 * [シードラウンド](06-or-token/seed-round.md)
 
-## 💼 07 | 組織
+## 🤑 07 | インセンティブプログラム
 
-* [法務と財務](07-or-organization/legal-and-financial.md)
+* [XBorgチャレンジ](07-or-incentive-programs/the-xborg-challenge-test/README.md)
+  * [ルール](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
+  * [報酬](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
+  * [スコアリング](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)
+    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
+    * [リーダーボード](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
+    * [リーグ](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leagues-test.md)
+* [紹介プログラム](07-or-incentive-programs/referral-program.md)
+* [アンバサダープログラム](07-or-incentive-programs/ambassador-program.md)
+
+## 💼 08 | 組織
+
+* [法務と財務](08-or-organization/legal-and-financial.md)
