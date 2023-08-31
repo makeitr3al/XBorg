@@ -1,6 +1,6 @@
 # 目录
 
-* [XBorg的终极常见问题解答](README.md)
+* [XBorg的终极FAQ](README.md)
 
 ## ℹ 01 | 核心
 
@@ -32,20 +32,25 @@
 * [非同质化代币](05-or-community/nft.md)
 * [经验值](05-or-community/xp.md)
 * [电子竞技](05-or-community/esports.md)
-* [XBorg挑战赛](05-or-community/the-xborg-challenge-test/README.md)
-  * [规则](05-or-community/the-xborg-challenge-test/rules-test.md)
-  * [奖励](05-or-community/the-xborg-challenge-test/rewards-test.md)
-  * [得分](05-or-community/the-xborg-challenge-test/scoring-test/README.md)
-    * [LunarCrush](05-or-community/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
-    * [排行榜](05-or-community/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
-    * [联赛](05-or-community/the-xborg-challenge-test/scoring-test/leagues-test.md)
 
-## 💰 06 | 代币
+## 🪙 06 | 代币
 
 * [XBG](06-or-token/xbg.md)
 * [筹款](06-or-token/fundraise.md)
 * [种子轮](06-or-token/seed-round.md)
 
-## 💼 07 | 组织
+## 🤑 07 | 激励计划
 
-* [法律和财务](07-or-organization/legal-and-financial.md)
+* [XBorg挑战](07-or-incentive-programs/the-xborg-challenge-test/README.md)
+  * [规则](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
+  * [奖励](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
+  * [评分](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)
+    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
+    * [排行榜](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
+    * [联盟](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leagues-test.md)
+* [推荐计划](07-or-incentive-programs/referral-program.md)
+* [大使计划](07-or-incentive-programs/ambassador-program.md)
+
+## 💼 08 | 组织
+
+* [法律和财务](08-or-organization/legal-and-financial.md)
