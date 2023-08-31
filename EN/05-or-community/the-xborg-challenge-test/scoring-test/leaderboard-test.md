@@ -2,6 +2,8 @@
 
 
 
+<figure><img src="../../../.gitbook/assets/Prometheus_Throne.png" alt="" width="375"><figcaption><p>This could be you... 👀</p></figcaption></figure>
+
 <details>
 
 <summary>I made a tweet, why are my points not updated?</summary>

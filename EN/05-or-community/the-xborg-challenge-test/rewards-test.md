@@ -1,12 +1,16 @@
 # Rewards
 
-
+<figure><img src="../../.gitbook/assets/XBG_Coin_new.png" alt="" width="375"><figcaption><p>This is our beloved $XBG. Your ticket to stunning gaming-perks.</p></figcaption></figure>
 
 <details>
 
 <summary>What reward do I get?</summary>
 
 Based on your point total and the collective goals achieved, you will receive an individual reward in $XBG tokens, as well as a collective reward in $XBG tokens. All rewards are [vested](rewards-test.md#how-long-are-rewards-vested).
+
+
+
+![](../../.gitbook/assets/Rewards.png)
 
 </details>
 
