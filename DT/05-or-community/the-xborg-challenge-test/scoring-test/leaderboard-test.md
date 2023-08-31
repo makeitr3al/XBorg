@@ -6,9 +6,9 @@
 
 <details>
 
-<summary>Ik heb een tweet geplaatst, waarom zijn mijn punten niet bijgewerkt?</summary>
+<summary>Ik heb een tweet gemaakt, waarom zijn mijn punten niet bijgewerkt?</summary>
 
-We vernieuwen de gegevens elke 24 uur, dus je score wordt dienovereenkomstig bijgewerkt. Houd er rekening mee dat een tweet eerst een bepaalde mate van betrokkenheid (weergaven, likes, reacties, retweets) moet hebben om te worden geteld door [LunarCrush](lunarcrush-test.md). Dit kan leiden tot een vertraging van maximaal 48 uur. Het is vermeldenswaard dat er geen limiet is aan het aantal tweets dat je per dag kunt plaatsen. Wanneer je regelmatig en consistent tweet, heeft de verwerkingssnelheid van LunarCrush minder invloed.
+We vernieuwen de gegevens elke 24 uur, dus je score wordt dienovereenkomstig bijgewerkt. Houd er rekening mee dat een tweet eerst een bepaalde mate van betrokkenheid (weergaven, likes, reacties, retweets) moet hebben om te worden geteld door [LunarCrush](lunarcrush-test.md). Dit kan leiden tot een vertraging van maximaal 48 uur. Het is vermeldenswaard dat er geen limiet is aan het aantal tweets dat je per dag kunt plaatsen. Bij frequent en consistent tweeten hebben de verwerkingsvertragingen van LunarCrush minder impact.
 
 </details>
 
@@ -18,9 +18,9 @@ We vernieuwen de gegevens elke 24 uur, dus je score wordt dienovereenkomstig bij
 
 Om de hoogste punten voor het seizoen te behalen, is het doel om elke dag de hoogste positie in de ranglijst te bereiken. Voortdurend behoren tot de top 300 deelnemers vormt een sterke basis, maar het behalen van een prominente rang is een prestatie die de maximale punten veiligstelt.
 
-Het is belangrijk om regelmatig aanwezig te zijn om geen dagelijkse punten mis te lopen. Om je dagelijkse punten verder te optimaliseren, overweeg de volgende beste praktijken:
+Het is cruciaal om regelmatig aanwezig te zijn om geen dagelijkse punten mis te lopen. Om je dagelijkse punten verder te optimaliseren, overweeg de volgende beste praktijken:
 
-Maak gebruik van de [LunarCrush](lunarcrush-test.md) invloedsscore. Houd een consistent publicatieschema aan (10-40 keer per dag voor topinfluencers). Gebruik nauwkeurige $tickers en #hashtags (#XBorg, $XBG en #XBG). Bied waardevolle inhoud aan om je volgers te betrekken. Interacteer met relevante berichten, met name die gerelateerd zijn aan tokens, beurzen of NFT's waar je gepassioneerd over bent. Geef prioriteit aan visuele aantrekkingskracht door gebruik te maken van hoogwaardige visuals. Tag andere invloedrijke personen en opmerkelijke figuren die geassocieerd zijn met de tokens waar je je op richt. Vermijd overmatig gebruik van irrelevante hashtags om spam te voorkomen.
+Maak gebruik van de [LunarCrush](lunarcrush-test.md) invloedsscore. Houd een consistent publicatieschema aan (10-40 keer per dag voor top-influencers). Gebruik nauwkeurige $tickers en #hashtags (#XBorg, $XBG en #XBG). Bied waardevolle inhoud aan om je volgers te betrekken. Interacteer met relevante berichten, met name die gerelateerd zijn aan tokens, beurzen of NFT's waar je gepassioneerd over bent. Geef prioriteit aan visuele aantrekkingskracht door gebruik te maken van hoogwaardige visuals. Tag andere invloedrijke personen en opmerkelijke figuren die geassocieerd zijn met de tokens waar je je op richt. Vermijd overmatig gebruik van irrelevante hashtags om spam te voorkomen.
 
 </details>
 
@@ -52,38 +52,15 @@ Bezoek <mark style="color:red;">**{LINK NAAR SCOREBORD}**</mark>. De ranglijst w
 
 <summary>Hoe werkt de dagelijkse ranglijst?</summary>
 
-Op basis van je ranglijst, berekend en gemeten van de afgelopen 24 uur door LunarCrush, ontvang je dagelijks punten.
+Op basis van je rangschikking, berekend en gemeten van de afgelopen 24 uur door LunarCrush, krijg je dagelijks punten.
 
 De punten worden als volgt toegekend:
 
-* 1e plaats: 100 punten
-* 2e plaats: 95 punten
-* 3e plaats: 90 punten
-* 4e plaats: 88 punten
-* 5e plaats: 86 punten
-
-Voor opeenvolgende ranglijsten:
-
-* 6e tot 10e plaats: Punten dalen respectievelijk van 84 tot 80.
-* 11e tot 15e plaats: Punten dalen respectievelijk van 75 tot 71.
-
-Voor grotere groepsranglijsten:
-
-* 16e tot 25e plaats: Allen ontvangen 70 punten
-* 26e tot 35e plaats: Allen ontvangen 65 punten
-* 36e tot 50e plaats: Allen ontvangen 60 punten
-* 51e tot 70e plaats: Allen ontvangen 55 punten
-* 71e tot 100e plaats: Allen ontvangen 50 punten
-* 101e tot 150e plaats: Allen ontvangen 40 punten
-* 151e tot 200e plaats: Allen ontvangen 30 punten
-* 201e tot 240e plaats: Allen ontvangen 20 punten
-* 241e tot 270e plaats: Allen ontvangen 15 punten
-* 271e tot 290e plaats: Allen ontvangen 10 punten
-* 291e tot 300e plaats: Allen ontvangen 5 punten
+<img src="../../../.gitbook/assets/points_distribution.png" alt="" data-size="original">
 
 Als je rang buiten de 300e plaats valt, ontvang je geen punten voor die dag. Maar dat is het voordeel van deze ranglijst: Elke dag krijg je een nieuwe kans om te presteren.
 
-We hopen dat deze uitleg duidelijkheid geeft over hoe punten worden verzameld.
+We hopen dat deze uitleg duidelijkheid geeft over hoe punten worden opgebouwd.
 
 </details>
 
@@ -91,7 +68,7 @@ We hopen dat deze uitleg duidelijkheid geeft over hoe punten worden verzameld.
 
 <summary>Hoe vaak worden de punten en ranglijsten bijgewerkt?</summary>
 
-We voeren dagelijks gegevensextractie uit en kennen punten toe aan de top 300 influencers van de dag. Hierdoor verandert het scorebord elke 24 uur.
+We voeren dagelijks gegevensextractie uit en kennen punten toe aan de top 300 influencers van de dag. Hierdoor verandert het scorebord eens in de 24 uur.
 
 </details>
 
@@ -99,6 +76,6 @@ We voeren dagelijks gegevensextractie uit en kennen punten toe aan de top 300 in
 
 <summary>Hoe wordt het scorebord bijgewerkt?</summary>
 
-Elke dag verdien je punten op basis van je dagelijkse rang. Deze punten worden dagelijks opgeteld om het scorebord samen te stellen. Dit scorebord speelt een cruciale rol bij het bepalen van je beloningen aan het einde van de kwalificatie- of seizoensperiode.
+Elke dag verdien je punten op basis van je dagelijkse rangschikking. Deze punten worden dagelijks opgeteld om het scorebord samen te stellen. Dit scorebord speelt een cruciale rol bij het bepalen van je beloningen aan het einde van de kwalificatie- of seizoensperiode.
 
 </details>
