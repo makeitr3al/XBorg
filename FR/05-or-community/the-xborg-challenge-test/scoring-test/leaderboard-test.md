@@ -1,11 +1,13 @@
 # Classement
 
 
+<figure><img src="../../../.gitbook/assets/Prometheus_Throne.png" alt="" width="375"><figcaption><p>Cela pourrait être vous... 👀</p></figcaption></figure>
+
 <details>
 
 <summary>J'ai fait un tweet, pourquoi mes points ne sont-ils pas mis à jour ?</summary>
 
-Nous actualisons les données toutes les 24 heures, donc votre score sera mis à jour en conséquence. Gardez à l'esprit qu'un tweet doit d'abord avoir un certain niveau d'engagement (vues, likes, commentaires, retweets) pour être pris en compte par [LunarCrush](lunarcrush-test.md). Cela peut entraîner un délai pouvant aller jusqu'à 48 heures. Il est important de noter qu'il n'y a pas de limite au nombre de tweets que vous pouvez publier par jour. Lorsque vous tweetez fréquemment et de manière cohérente, les retards de traitement de LunarCrush ont moins d'impact.
+Nous actualisons les données toutes les 24 heures, donc votre score sera mis à jour en conséquence. Gardez à l'esprit qu'un tweet doit d'abord avoir un certain niveau d'engagement (vues, likes, commentaires, retweets) pour être comptabilisé par [LunarCrush](lunarcrush-test.md). Cela peut entraîner un délai pouvant aller jusqu'à 48 heures. Il est important de noter qu'il n'y a pas de limite au nombre de tweets que vous pouvez publier par jour. En tweetant fréquemment et de manière cohérente, les retards de traitement de LunarCrush ont moins d'impact.
 
 </details>
 
@@ -13,9 +15,9 @@ Nous actualisons les données toutes les 24 heures, donc votre score sera mis à
 
 <summary>Que dois-je faire pour obtenir le plus de points ?</summary>
 
-Pour obtenir le plus de points possible pour la saison, l'objectif est de viser la meilleure position dans le classement chaque jour. Faire partie régulièrement des 300 premiers participants forme une base solide, mais atteindre un rang élevé est un exploit qui garantit le maximum de points.
+Pour obtenir le plus de points possible pour la saison, l'objectif est de viser la meilleure position dans le classement chaque jour. Être régulièrement parmi les 300 premiers participants forme une base solide, mais atteindre un rang élevé est un exploit qui garantit le maximum de points.
 
-Maintenir une présence régulière est crucial pour ne pas manquer de points quotidiens. Pour optimiser davantage vos points quotidiens, tenez compte des bonnes pratiques suivantes :
+Maintenir une présence régulière est crucial pour ne pas manquer de points quotidiens. Pour optimiser davantage vos points quotidiens, prenez en compte ces bonnes pratiques :
 
 Utilisez le score d'influence de [LunarCrush](lunarcrush-test.md). Maintenez un calendrier de publication régulier (10 à 40 fois par jour pour les influenceurs les plus populaires). Utilisez des $tickers et des #hashtags précis (#XBorg, $XBG et #XBG). Offrez un contenu de valeur pour engager vos followers. Interagissez avec des publications pertinentes, en particulier celles liées aux tokens, aux échanges ou aux NFT qui vous passionnent. Accordez une importance particulière à l'aspect visuel en utilisant des visuels de haute qualité. Mentionnez d'autres personnes influentes et des personnalités notables associées aux tokens sur lesquels vous vous concentrez. Évitez d'utiliser de manière excessive des hashtags non pertinents pour éviter le spam.
 
@@ -33,7 +35,7 @@ Comme nous nous appuyons sur [LunarCrush](lunarcrush-test.md), nous n'attribuons
 
 <summary>Comment les points sont-ils récompensés en fonction de ma portée ?</summary>
 
-Les activités d'engagement cumulatif, comprenant des actions telles que les tweets, les likes, les retweets, les commentaires et les followers, jouent un rôle dans la détermination de votre classement quotidien d'influenceur tel que mesuré par LunarCrush. XBorg attribue des points sur une base quotidienne tout au long de la phase en fonction de ce classement. Obtenir un rang plus élevé à la fin de la phase entraîne une récompense plus importante.
+Les activités d'engagement cumulatif, comprenant des actions telles que les tweets, les likes, les retweets, les commentaires et les followers, jouent un rôle dans la détermination de votre classement quotidien d'influenceur tel que mesuré par LunarCrush. XBorg attribue des points quotidiennement tout au long de la phase en fonction de ce classement. Atteindre un rang plus élevé à la fin de la phase entraîne une récompense plus importante.
 
 </details>
 
@@ -49,7 +51,7 @@ Rendez-vous sur <mark style="color:red;">**{LIEN VERS LE CLASSEMENT}**</mark>. L
 
 <summary>Comment fonctionne le classement quotidien ?</summary>
 
-Sur la base de votre classement, calculé et mesuré sur les 24 dernières heures par LunarCrush, vous obtenez des points sur une base quotidienne.
+Sur la base de votre classement, calculé et mesuré au cours des 24 dernières heures par LunarCrush, vous obtenez des points sur une base quotidienne.
 
 Les points sont attribués comme suit :
 
@@ -88,7 +90,7 @@ Nous espérons que cette répartition clarifie la manière dont les points sont 
 
 <summary>À quelle fréquence les points et les classements sont-ils mis à jour ?</summary>
 
-Nous effectuons une extraction de données quotidiennement et attribuons des points aux 300 meilleurs influenceurs de la journée. Par conséquent, le classement change une fois toutes les 24 heures.
+Nous effectuons une extraction de données quotidienne et attribuons des points aux 300 meilleurs influenceurs de la journée. Par conséquent, le classement change une fois toutes les 24 heures.
 
 </details>
 

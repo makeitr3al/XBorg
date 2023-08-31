@@ -1,5 +1,6 @@
 # Classifica
 
+<figure><img src="../../../.gitbook/assets/Prometheus_Throne.png" alt="" width="375"><figcaption><p>Potresti essere tu... 👀</p></figcaption></figure>
 
 <details>
 
@@ -15,9 +16,9 @@ Aggiorniamo i dati ogni 24 ore, quindi il tuo punteggio verrà aggiornato di con
 
 Per ottenere il massimo dei punti per la stagione, l'obiettivo è puntare alla posizione più alta nella classifica ogni giorno. Essere costantemente tra i primi 300 partecipanti forma una solida base, ma raggiungere una posizione prominente è un risultato che garantisce il massimo dei punti.
 
-Mantenere una presenza regolare è fondamentale per evitare di perdere punti giornalieri. Per ottimizzare ulteriormente i tuoi punti giornalieri, considera queste buone pratiche:
+Mantenere una presenza regolare è fondamentale per evitare di perdere punti giornalieri. Per ottimizzare ulteriormente i tuoi punti giornalieri, considera queste migliori pratiche:
 
-Utilizza il punteggio di influenza di [LunarCrush](lunarcrush-test.md). Mantieni un programma di pubblicazione costante (10-40 volte al giorno per i migliori influencer). Utilizza correttamente i $ticker e gli #hashtag (#XBorg, $XBG e #XBG). Offri contenuti di valore per coinvolgere i tuoi follower. Interagisci con post rilevanti, in particolare quelli legati a token, exchange o NFT di cui sei appassionato. Dai priorità all'aspetto visivo utilizzando immagini di alta qualità. Tagga altre persone influenti e figure importanti associate ai token su cui ti concentri. Evita di utilizzare in modo eccessivo hashtag non pertinenti per evitare lo spam.
+Utilizza il punteggio di influenza di [LunarCrush](lunarcrush-test.md). Mantieni un programma di pubblicazione regolare (10-40 volte al giorno per i principali influencer). Utilizza correttamente i $ticker e gli #hashtag (#XBorg, $XBG e #XBG). Offri contenuti di valore per coinvolgere i tuoi follower. Interagisci con post rilevanti, in particolare quelli legati a token, exchange o NFT di cui sei appassionato. Dai priorità all'aspetto visivo utilizzando immagini di alta qualità. Tagga altre persone influenti e figure di spicco associate ai token su cui ti concentri. Evita l'uso eccessivo di hashtag non pertinenti per evitare lo spam.
 
 </details>
 
@@ -25,7 +26,7 @@ Utilizza il punteggio di influenza di [LunarCrush](lunarcrush-test.md). Mantieni
 
 <summary>Quanti punti ottengo per un tweet, un mi piace, un commento e un retweet?</summary>
 
-Poiché ci affidiamo a [LunarCrush](lunarcrush-test.md), non assegniamo punti per azioni isolate. LunarCrush misura il tuo coinvolgimento complessivo nel progetto XBorg durante la giornata e genera una classifica. In base a questa classifica giornaliera, il giocatore accumula punti. Per ulteriori dettagli su come viene generata la classifica di influenza, consulta [le FAQ di LunarCrush](https://lunarcrush.com/faq/how-does-lunarcrush-calculate-social-influence).
+Poiché ci affidiamo a [LunarCrush](lunarcrush-test.md), non assegniamo punti per azioni isolate. LunarCrush misura il tuo coinvolgimento complessivo nel progetto XBorg durante la giornata e genera una classifica. In base a questa classifica giornaliera, il giocatore accumula punti. Per ulteriori dettagli su come viene generata la classifica di influenza, consulta [FAQ di LunarCrush](https://lunarcrush.com/faq/how-does-lunarcrush-calculate-social-influence).
 
 </details>
 
@@ -78,7 +79,7 @@ Per classifiche di gruppo più ampie:
 * Dal 271° al 290° posto: tutti ricevono 10 punti.
 * Dal 291° al 300° posto: tutti ricevono 5 punti.
 
-Se la tua posizione scende al di là del 300° posto, non riceverai punti per quel giorno. Ma questo è il vantaggio di questa classifica: ogni giorno hai una nuova possibilità di ottenere risultati.
+Se la tua posizione cade al di là del 300° posto, non riceverai punti per quel giorno. Ma questo è il vantaggio di questa classifica: ogni giorno hai una nuova possibilità di fare bene.
 
 Speriamo che questa spiegazione fornisca chiarezza su come vengono accumulati i punti.
 
@@ -88,7 +89,7 @@ Speriamo che questa spiegazione fornisca chiarezza su come vengono accumulati i 
 
 <summary>Con quale frequenza vengono aggiornati i punti e le classifiche?</summary>
 
-Eseguiamo l'estrazione dei dati quotidianamente e assegniamo punti ai primi 300 influencer del giorno. Di conseguenza, la classifica cambia una volta ogni 24 ore.
+Eseguiamo l'estrazione dei dati quotidianamente e assegniamo punti ai primi 300 influencer del giorno. Di conseguenza, la classifica cambia ogni 24 ore.
 
 </details>
 
@@ -96,6 +97,6 @@ Eseguiamo l'estrazione dei dati quotidianamente e assegniamo punti ai primi 300 
 
 <summary>Come viene aggiornata la classifica?</summary>
 
-Ogni giorno guadagni punti in base alla tua posizione giornaliera. Questi punti vengono accumulati giornalmente per compilare la classifica. Questa classifica svolge un ruolo cruciale nel determinare le tue ricompense alla fine del periodo di qualificazione o della stagione.
+Ogni giorno guadagni punti in base alla tua posizione giornaliera. Questi punti vengono accumulati quotidianamente per compilare la classifica. Questa classifica svolge un ruolo cruciale nel determinare le tue ricompense alla fine del periodo di qualificazione o della stagione.
 
 </details>

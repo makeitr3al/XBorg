@@ -1,10 +1,12 @@
 # Classificação
 
+<figure><img src="../../../.gitbook/assets/Prometheus_Throne.png" alt="" width="375"><figcaption><p>Isso poderia ser você... 👀</p></figcaption></figure>
+
 <details>
 
 <summary>Fiz um tweet, por que meus pontos não foram atualizados?</summary>
 
-Atualizamos os dados a cada 24 horas, então sua pontuação será atualizada de acordo. Tenha em mente que um tweet precisa ter uma certa quantidade de engajamento (visualizações, curtidas, comentários, retweets) para ser contabilizado pelo [LunarCrush](lunarcrush-test.md). Isso pode resultar em um atraso de até 48 horas. Vale ressaltar que não há limite para o número de tweets que você pode postar em um dia. Ao tweetar com frequência e consistência, os atrasos de processamento do LunarCrush têm um impacto menor.
+Atualizamos os dados a cada 24 horas, então sua pontuação será atualizada de acordo. Tenha em mente que um tweet precisa ter uma certa quantidade de engajamento (visualizações, curtidas, comentários, retweets) para ser contado pelo [LunarCrush](lunarcrush-test.md). Isso pode resultar em um atraso de até 48 horas. Vale ressaltar que não há limite para o número de tweets que você pode postar em um dia. Ao tweetar com frequência e consistência, os atrasos de processamento do LunarCrush têm um impacto menor.
 
 </details>
 
@@ -12,7 +14,7 @@ Atualizamos os dados a cada 24 horas, então sua pontuação será atualizada de
 
 <summary>O que preciso fazer para obter a maior quantidade de pontos?</summary>
 
-Para garantir a maior quantidade de pontos para a temporada, o objetivo é buscar a posição mais alta no ranking a cada dia. Estar consistentemente entre os 300 primeiros participantes forma uma base sólida, mas alcançar uma posição proeminente é uma conquista que garante a pontuação máxima.
+Para garantir a maior quantidade de pontos para a temporada, o objetivo é buscar a posição mais alta no ranking a cada dia. Estar consistentemente entre os 300 primeiros participantes forma uma base sólida, mas alcançar uma posição proeminente é uma conquista que garante a quantidade máxima de pontos.
 
 Manter uma presença regular é crucial para não perder pontos diários. Para otimizar ainda mais seus pontos diários, considere as melhores práticas a seguir:
 
@@ -95,6 +97,6 @@ Realizamos a extração de dados diariamente e atribuímos pontos aos 300 princi
 
 <summary>Como a classificação é atualizada?</summary>
 
-A cada dia, você ganha pontos de acordo com sua posição diária. Esses pontos são acumulados diariamente para compilar a classificação. Essa classificação desempenha um papel crucial na determinação de suas recompensas no final da fase classificatória ou temporada.
+A cada dia, você ganha pontos de acordo com sua posição diária. Esses pontos são acumulados diariamente para compilar a classificação. Essa classificação desempenha um papel crucial na determinação de suas recompensas no final da fase de qualificação ou temporada.
 
 </details>
