@@ -18,7 +18,7 @@ Per ottenere il massimo dei punti per la stagione, l'obiettivo è puntare alla p
 
 Mantenere una presenza regolare è fondamentale per evitare di perdere punti giornalieri. Per ottimizzare ulteriormente i tuoi punti giornalieri, considera queste migliori pratiche:
 
-Utilizza il punteggio di influenza di [LunarCrush](lunarcrush-test.md). Mantieni un programma di pubblicazione regolare (10-40 volte al giorno per i principali influencer). Utilizza correttamente i $ticker e gli #hashtag (#XBorg, $XBG e #XBG). Offri contenuti di valore per coinvolgere i tuoi follower. Interagisci con post rilevanti, in particolare quelli legati a token, exchange o NFT di cui sei appassionato. Dai priorità all'aspetto visivo utilizzando immagini di alta qualità. Tagga altre persone influenti e figure di spicco associate ai token su cui ti concentri. Evita l'uso eccessivo di hashtag non pertinenti per evitare lo spam.
+Utilizza il punteggio di influenza di [LunarCrush](lunarcrush-test.md). Mantieni un programma di pubblicazione coerente (10-40 volte al giorno per i migliori influencer). Utilizza $ticker e #hashtag accurati (#XBorg, $XBG e #XBG). Offri contenuti di valore per coinvolgere i tuoi follower. Interagisci con post rilevanti, in particolare quelli legati a token, exchange o NFT di cui sei appassionato. Dai priorità all'aspetto visivo utilizzando immagini di alta qualità. Tagga altre persone influenti e figure di spicco associate ai token su cui ti concentri. Evita l'uso eccessivo di hashtag irrilevanti per evitare lo spam.
 
 </details>
 
@@ -54,32 +54,9 @@ In base alla tua classifica, calcolata e misurata nelle ultime 24 ore da LunarCr
 
 I punti vengono assegnati come segue:
 
-* 1° posto: 100 punti
-* 2° posto: 95 punti
-* 3° posto: 90 punti
-* 4° posto: 88 punti
-* 5° posto: 86 punti
+<img src="../../../.gitbook/assets/points_distribution.png" alt="" data-size="original">
 
-Per le posizioni successive:
-
-* Dal 6° al 10° posto: i punti diminuiscono rispettivamente da 84 a 80.
-* Dal 11° al 15° posto: i punti diminuiscono rispettivamente da 75 a 71.
-
-Per classifiche di gruppo più ampie:
-
-* Dal 16° al 25° posto: tutti ricevono 70 punti.
-* Dal 26° al 35° posto: tutti ricevono 65 punti.
-* Dal 36° al 50° posto: tutti ricevono 60 punti.
-* Dal 51° al 70° posto: tutti ricevono 55 punti.
-* Dal 71° al 100° posto: tutti ricevono 50 punti.
-* Dal 101° al 150° posto: tutti ricevono 40 punti.
-* Dal 151° al 200° posto: tutti ricevono 30 punti.
-* Dal 201° al 240° posto: tutti ricevono 20 punti.
-* Dal 241° al 270° posto: tutti ricevono 15 punti.
-* Dal 271° al 290° posto: tutti ricevono 10 punti.
-* Dal 291° al 300° posto: tutti ricevono 5 punti.
-
-Se la tua posizione cade al di là del 300° posto, non riceverai punti per quel giorno. Ma questo è il vantaggio di questa classifica: ogni giorno hai una nuova possibilità di fare bene.
+Se la tua posizione scende al di là del 300º posto, non riceverai punti per quel giorno. Ma questo è il vantaggio di questa classifica: ogni giorno hai una nuova possibilità di fare bene.
 
 Speriamo che questa spiegazione fornisca chiarezza su come vengono accumulati i punti.
 
@@ -89,7 +66,7 @@ Speriamo che questa spiegazione fornisca chiarezza su come vengono accumulati i 
 
 <summary>Con quale frequenza vengono aggiornati i punti e le classifiche?</summary>
 
-Eseguiamo l'estrazione dei dati quotidianamente e assegniamo punti ai primi 300 influencer del giorno. Di conseguenza, la classifica cambia ogni 24 ore.
+Eseguiamo l'estrazione dei dati quotidianamente e assegniamo punti ai primi 300 influencer del giorno. Di conseguenza, la classifica cambia una volta ogni 24 ore.
 
 </details>
 
@@ -97,6 +74,6 @@ Eseguiamo l'estrazione dei dati quotidianamente e assegniamo punti ai primi 300 
 
 <summary>Come viene aggiornata la classifica?</summary>
 
-Ogni giorno guadagni punti in base alla tua posizione giornaliera. Questi punti vengono accumulati quotidianamente per compilare la classifica. Questa classifica svolge un ruolo cruciale nel determinare le tue ricompense alla fine del periodo di qualificazione o della stagione.
+Ogni giorno guadagni punti in base alla tua posizione giornaliera. Questi punti vengono accumulati giornalmente per compilare la classifica. Questa classifica svolge un ruolo cruciale nel determinare le tue ricompense alla fine del periodo di qualificazione o della stagione.
 
 </details>
