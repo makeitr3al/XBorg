@@ -1,6 +1,6 @@
 # Regeln
 
-
+<figure><img src="../../.gitbook/assets/Prometheus.png" alt="" width="375"><figcaption></figcaption></figure>
 
 <details>
 
@@ -28,7 +28,7 @@ Ja, die Zusammenarbeit mit anderen Influencern kann die Interaktion mit Ihren Tw
 
 <details>
 
-<summary>Wie viele Follower brauche ich, um teilzunehmen?</summary>
+<summary>Wie viele Follower muss ich haben, um teilnehmen zu können?</summary>
 
 Die Challenge steht allen offen, aber Ihre Punkte werden nur gezählt, wenn Sie mindestens 500 Twitter-Follower haben.
 
@@ -54,7 +54,7 @@ Ja, die Zusammenarbeit mit anderen Influencern kann die Interaktion mit Ihren Tw
 
 <summary>Gibt es Konsequenzen für Handlungen, die gegen die Richtlinien des Spiels verstoßen?</summary>
 
-LunarCrush verfügt über automatisierte Systeme zur Erkennung verschiedener Arten von Fehlverhalten. Bei Erkennung wird LunarCrush Sie nicht mehr als Influencer anerkennen, was zur Einstellung der Punkteansammlung führt. Bei Bedarf können Sie auch von dem Wettbewerb disqualifiziert werden und somit die Berechtigung zum Erhalt von Belohnungen verlieren.
+LunarCrush verfügt über automatisierte Systeme zur Erkennung verschiedener Arten von Fehlverhalten. Bei Erkennung wird LunarCrush Sie nicht mehr als Influencer anerkennen, was zur Einstellung der Punkteakkumulation führt. Bei Bedarf können Sie auch von dem Wettbewerb disqualifiziert werden und somit die Berechtigung zum Erhalt von Belohnungen verlieren.
 
 </details>
 
@@ -64,25 +64,25 @@ LunarCrush verfügt über automatisierte Systeme zur Erkennung verschiedener Art
 
 > **Die XBorg Challenge**
 
-**Einführung:** Seien Sie der engagierteste und einflussreichste XBorg X Influencer, um XBG-Token zu gewinnen!&#x20;
+**Einführung:** Werden Sie der engagierteste und einflussreichste XBorg X Influencer, um XBG-Token zu gewinnen!&#x20;
 
 **Konzept:** \
 Täglich werden die 300 Accounts mit der höchsten Interaktion auf Inhalten mit den Hashtags #XBORG, #XBG oder $XBG verfolgt. Basierend auf ihrer täglichen Leistung sammeln sie Punkte, die auf unserer Bestenliste sichtbar sind. Am Ende der Saison erhalten die Spieler ihre Belohnungen basierend auf ihrer Platzierung.&#x20;
 
 **Bewertungskriterien:** \
-Nur Twitter-Accounts mit mehr als 500 Followern können Punkte sammeln. Gemeinsam mit LunarCrush analysieren und bewerten wir Tweets mit den Hashtags #XBG, #XBorg oder $XBG. Ihr System gewährleistet die Integrität des Wettbewerbs und schützt vor Spam und Betrug. Um ihre Kriterien zu verstehen, lesen Sie die LunarCrush FAQ. Basierend auf der Bewertung von LunarCrush werden täglich Punkte gemäß unserer detaillierten Skala \[Tabelle 1] vergeben. Die konsolidierten Rankings finden Sie auf {XBorg.com}.&#x20;
+Nur Twitter-Konten mit mehr als 500 Followern können Punkte sammeln. Gemeinsam mit LunarCrush analysieren und bewerten wir Tweets mit den Hashtags #XBG, #XBorg oder $XBG. Ihr System gewährleistet die Integrität des Wettbewerbs und schützt vor Spam und Betrug. Um ihre Kriterien zu verstehen, lesen Sie die LunarCrush FAQ. Basierend auf der Bewertung von LunarCrush werden täglich Punkte gemäß unserer detaillierten Skala \[Tabelle 1] vergeben. Die konsolidierten Rankings finden Sie auf {XBorg.com}.&#x20;
 
 **Belohnungen:** \
-Ein Budget von 100.000 $XBG wurde für diese erste Saison bereitgestellt und zwischen individuellen (33%) und kollektiven Belohnungen (66%) aufgeteilt. Das Erreichen kollektiver Ziele schaltet kollektive Belohnungen für alle frei. Mitglieder in der Reward Zone am Ende der Challenge teilen sich die Belohnungen gemäß der Skala \[Tabelle 2]. Die XBG-Token werden nach dem TGE (Token Generation Event) gesendet und zunächst für einen Monat gesperrt und über sechs Monate verteilt. Es gibt auch Überraschungsbelohnungen, die nach dem Ermessen von XBorg vergeben werden.&#x20;
+Ein Budget von 100.000 $XBG wurde für diese erste Saison bereitgestellt und zwischen individuellen (33%) und kollektiven Belohnungen (66%) aufgeteilt. Das Erreichen gemeinsamer Ziele schaltet kollektive Belohnungen für alle frei. Mitglieder in der Reward Zone am Ende der Challenge teilen sich die Belohnungen gemäß der Skala \[Tabelle 2]. Die XBG-Token werden nach dem TGE (Token Generation Event) versendet und zunächst für einen Monat gesperrt und über sechs Monate verteilt. Es gibt auch Überraschungsbelohnungen, die nach dem Ermessen von XBorg vergeben werden.&#x20;
 
 **Fair-Play-Regeln:** \
 Wir legen Wert auf Kreativität, Authentizität und Ethik. Wir haben Werkzeuge und Maßnahmen eingerichtet, um unangemessenes Verhalten zu erkennen. Betrüger und Bot-Benutzer werden identifiziert und disqualifiziert. Die Entscheidungen von XBorg sind endgültig.&#x20;
 
 **Haftungsausschluss:** \
-Jeder Teilnehmer muss die Teilnahmebedingungen gelesen und akzeptiert haben, um an der XBorg Challenge teilzunehmen. XBorg haftet nicht für Handlungen, Unterlassungen, technische Probleme, Serverausfälle, Fehler, Serviceunterbrechungen, Löschungen, Mängel, Übertragungsverzögerungen, Diebstähle, Zerstörungen, unbefugten Zugriff oder Änderungen in Bezug auf Dritte wie LunarCrush, X oder jegliches unvorhergesehenes Ereignis, das den ordnungsgemäßen Ablauf des Wettbewerbs stören könnte.&#x20;
+Jeder Teilnehmer muss die Teilnahmebedingungen gelesen und akzeptiert haben, um an der XBorg Challenge teilnehmen zu können. XBorg haftet nicht für Handlungen, Unterlassungen, technische Probleme, Serverausfälle, Fehler, Serviceunterbrechungen, Löschungen, Mängel, Übertragungsverzögerungen, Diebstähle, Zerstörungen, unbefugten Zugriff oder Änderungen in Bezug auf Dritte wie LunarCrush, X oder unvorhergesehene Ereignisse, die den ordnungsgemäßen Ablauf des Wettbewerbs stören könnten.&#x20;
 
 **Änderungsrechte:** \
-Wir behalten uns das Recht vor, die Bedingungen der Challenge nach eigenem Ermessen zu ändern. Wir können dies ohne vorherige Ankündigung tun, werden jedoch immer bemüht sein, etwaige wesentliche Änderungen den Teilnehmern so schnell wie möglich mitzuteilen.&#x20;
+Wir behalten uns das Recht vor, die Bedingungen der Challenge nach eigenem Ermessen zu ändern. Obwohl wir dies ohne vorherige Ankündigung tun können, werden wir immer bestrebt sein, etwaige wesentliche Änderungen den Teilnehmern so schnell wie möglich mitzuteilen.&#x20;
 
 **Haftungsbeschränkung:** \
 Durch die Teilnahme an dieser Challenge erklären Sie sich damit einverstanden, XBorg von jeglicher Haftung in Bezug auf Verluste, Schäden oder Verletzungen freizustellen, die direkt oder indirekt aus Ihrer Teilnahme resultieren, einschließlich, aber nicht beschränkt auf Schäden durch Computerviren oder andere schädliche Elemente, die durch die Nutzung der Website des Wettbewerbs oder einer anderen davon verlinkten Website erhalten wurden.

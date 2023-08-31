@@ -1,12 +1,12 @@
 # Regels
 
-
+<figure><img src="../../.gitbook/assets/Prometheus.png" alt="" width="375"><figcaption></figcaption></figure>
 
 <details>
 
 <summary>Wat zijn de regels?</summary>
 
-Gelieve naar beneden te scrollen voor de regels. Houd er rekening mee dat deze worden aangevuld met de Algemene Voorwaarden waarmee elke deelnemer akkoord gaat.
+Gelieve [naar beneden te scrollen](rules-test.md#regels). Houd er rekening mee dat deze regels worden aangevuld door de Algemene Voorwaarden waarmee elke deelnemer akkoord gaat.
 
 </details>
 
@@ -36,9 +36,9 @@ De uitdaging staat open voor iedereen, maar je punten worden alleen geteld als j
 
 <details>
 
-<summary>Waar moet ik op letten bij het plaatsen van een tweet?</summary>
+<summary>Waar moet ik op letten bij het tweeten?</summary>
 
-Verschillende factoren worden in aanmerking genomen om spam te identificeren: herhaalde woorden, irrelevante hashtags en verboden termen zoals "Giveaways", "Airdrops" en "Sweepstakes". Voor meer informatie, bezoek: [https://lunarcrush.com/faq/how-does-lunarcrush-recognize-spam](https://lunarcrush.com/faq/how-does-lunarcrush-recognize-spam)
+Verschillende factoren worden in aanmerking genomen om spam te identificeren: herhaalde woorden, irrelevante hashtags en verboden termen zoals "Giveaways," "Airdrops" en "Sweepstakes." Voor meer informatie, bezoek: [https://lunarcrush.com/faq/how-does-lunarcrush-recognize-spam](https://lunarcrush.com/faq/how-does-lunarcrush-recognize-spam)
 
 </details>
 
@@ -54,7 +54,7 @@ Absoluut, samenwerken met andere influencers kan de betrokkenheid bij je tweets 
 
 <summary>Zijn er consequenties voor acties die in strijd zijn met de richtlijnen van het spel?</summary>
 
-LunarCrush heeft geautomatiseerde systemen om verschillende vormen van wangedrag te detecteren. Bij detectie zal LunarCrush je niet langer erkennen als een influencer, wat resulteert in het stopzetten van het verzamelen van punten. Indien nodig kun je ook gediskwalificeerd worden voor de wedstrijd, waardoor je niet langer in aanmerking komt voor beloningen.
+LunarCrush heeft geautomatiseerde systemen om verschillende vormen van wangedrag te detecteren. Bij detectie zal LunarCrush je niet langer erkennen als een influencer, wat resulteert in het stopzetten van het verzamelen van punten. Indien nodig kun je ook gediskwalificeerd worden voor de wedstrijd, waardoor je niet in aanmerking komt om beloningen te claimen.
 
 </details>
 
@@ -73,13 +73,13 @@ Elke dag worden de top 300 accounts met de hoogste betrokkenheid bij inhoud met 
 Alleen Twitter-accounts met meer dan 500 volgers kunnen punten verzamelen. Samen met LunarCrush analyseren en rangschikken we tweets met de hashtags #XBG, #XBorg of $XBG. Hun systeem zorgt voor de integriteit van de wedstrijd met bescherming tegen spam en valsspelen. Voor meer informatie over hun criteria, raadpleeg de LunarCrush FAQ. Op basis van de rangschikking van LunarCrush worden dagelijks punten toegekend volgens onze gedetailleerde schaal \[Tabel 1]. De geconsolideerde ranglijsten zijn te vinden op {XBorg.com}.&#x20;
 
 **Beloningen:** \
-Er is een budget van 100k $XBG toegewezen voor dit inaugurele seizoen, verdeeld tussen individuele (33%) en collectieve beloningen (66%). Het behalen van collectieve doelen ontgrendelt collectieve beloningen voor iedereen. Leden in de Reward Zone aan het einde van de uitdaging delen beloningen op basis van de schaal \[Tabel 2]. De XBG-tokens worden na het TGE (Token Generation Event) verzonden en worden aanvankelijk voor één maand vergrendeld en over zes maanden uitgegeven. Er zijn ook verrassingsbeloningen beschikbaar en deze worden naar goeddunken van XBorg uitgereikt.&#x20;
+Er is een budget van 100k $XBG toegewezen voor dit eerste seizoen, verdeeld tussen individuele (33%) en collectieve beloningen (66%). Het behalen van collectieve doelen ontgrendelt collectieve beloningen voor iedereen. Leden in de Reward Zone aan het einde van de uitdaging delen beloningen op basis van de schaal \[Tabel 2]. De XBG-tokens worden na het TGE (Token Generation Event) verzonden en worden aanvankelijk voor één maand vergrendeld en over zes maanden gevestigd. Er zijn ook verrassingsbeloningen beschikbaar en worden naar goeddunken van XBorg uitgereikt.&#x20;
 
 **Fair-Play Regels:** \
-We hechten waarde aan creativiteit, authenticiteit en ethiek. We hebben tools en maatregelen opgezet om ongepast gedrag te identificeren. Valsspelers en gebruikers van bots worden geïdentificeerd en gediskwalificeerd. De beslissingen van XBorg zijn definitief.&#x20;
+We waarderen creativiteit, authenticiteit en ethiek. We hebben tools en maatregelen opgezet om ongepast gedrag te identificeren. Valsspelers en gebruikers van bots worden geïdentificeerd en gediskwalificeerd. De beslissingen van XBorg zijn definitief.&#x20;
 
 **Disclaimer:** \
-Elke deelnemer moet de algemene voorwaarden hebben gelezen en geaccepteerd om deel te nemen aan de XBorg Uitdaging. XBorg is niet aansprakelijk voor acties, omissies, technische problemen, serverstoringen, fouten, onderbrekingen van de dienst, verwijderingen, defecten, vertragingen in de verzending, diefstal, vernietiging, ongeoorloofde toegang of wijzigingen die verband houden met derden zoals LunarCrush, X of enige onvoorziene gebeurtenis die de goede werking van de wedstrijd kan verstoren.&#x20;
+Elke deelnemer moet de algemene voorwaarden hebben gelezen en geaccepteerd om deel te nemen aan de XBorg Uitdaging. XBorg is niet aansprakelijk voor acties, omissies, technische problemen, serverstoringen, fouten, onderbrekingen van de dienst, verwijderingen, defecten, vertragingen in de verzending, diefstallen, vernielingen, ongeoorloofde toegang of wijzigingen met betrekking tot derden zoals LunarCrush, X of enige onvoorziene gebeurtenis die de goede werking van de wedstrijd zou kunnen verstoren.&#x20;
 
 **Wijzigingsrechten:** \
 We behouden ons het recht voor om de voorwaarden van de uitdaging naar eigen goeddunken te wijzigen. Hoewel we dit zonder voorafgaande kennisgeving kunnen doen, zullen we altijd proberen eventuele belangrijke wijzigingen zo snel mogelijk aan de deelnemers te communiceren.&#x20;
