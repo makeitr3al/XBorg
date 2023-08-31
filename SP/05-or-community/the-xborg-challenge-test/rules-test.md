@@ -1,12 +1,12 @@
 # Reglas
 
-
+<figure><img src="../../.gitbook/assets/Prometheus.png" alt="" width="375"><figcaption></figcaption></figure>
 
 <details>
 
 <summary>¿Cuáles son las reglas?</summary>
 
-Por favor, [desplázate hacia abajo](rules-test.md#rules). Ten en cuenta que estas reglas se complementan con los Términos y Condiciones a los que todos los participantes aceptan.
+Por favor, [desplázate hacia abajo](rules-test.md#rules). Ten en cuenta que estas reglas se complementan con los Términos y Condiciones a los que todo participante acepta.
 
 </details>
 
@@ -22,7 +22,7 @@ Personalizar tu perfil o avatar en XBorg.gg o Twitter durante el juego no afecta
 
 <summary>¿Puedo colaborar con otros influencers en beneficio mutuo?</summary>
 
-Absolutamente, colaborar con otros influencers puede mejorar significativamente la interacción de tus tweets y amplificar la visibilidad de nuestro proyecto. Siempre y cuando estas colaboraciones cumplan con las pautas, son alentadas.
+Absolutamente, colaborar con otros influencers puede mejorar significativamente la interacción de tus tweets y amplificar la visibilidad de nuestro proyecto. Siempre y cuando estas colaboraciones cumplan con las pautas, se fomentan.
 
 </details>
 
@@ -30,7 +30,7 @@ Absolutamente, colaborar con otros influencers puede mejorar significativamente 
 
 <summary>¿Cuántos seguidores necesito tener para participar?</summary>
 
-El desafío está abierto para todos, pero tus puntos solo serán contados si tienes un mínimo de 500 seguidores en Twitter.
+El desafío está abierto para todos, pero tus puntos solo se contarán si tienes un mínimo de 500 seguidores en Twitter.
 
 </details>
 
@@ -46,7 +46,7 @@ Se tienen en cuenta varios factores para identificar el spam: palabras repetidas
 
 <summary>¿Puedo formar equipos o alianzas con otros influencers?</summary>
 
-Por supuesto, colaborar con otros influencers puede mejorar significativamente la interacción de tus tweets y amplificar la visibilidad de nuestro proyecto. Siempre y cuando estas colaboraciones cumplan con las pautas, son alentadas.
+Por supuesto, colaborar con otros influencers puede mejorar significativamente la interacción de tus tweets y amplificar la visibilidad de nuestro proyecto. Siempre y cuando estas colaboraciones cumplan con las pautas, se fomentan.
 
 </details>
 
@@ -54,7 +54,7 @@ Por supuesto, colaborar con otros influencers puede mejorar significativamente l
 
 <summary>¿Existen consecuencias por acciones que violen las pautas del juego?</summary>
 
-LunarCrush tiene sistemas automatizados para detectar diferentes tipos de conductas indebidas. Al ser detectado, LunarCrush dejará de considerarte como un influencer, lo que resultará en la interrupción de la acumulación de puntos. Si es necesario, también podrías ser descalificado del concurso, perdiendo así la elegibilidad para reclamar recompensas.
+LunarCrush cuenta con sistemas automatizados para detectar diferentes tipos de conductas indebidas. Al detectarlas, LunarCrush dejará de considerarte como un influencer, lo que resultará en la interrupción de la acumulación de puntos. Si es necesario, también podrías ser descalificado del concurso, perdiendo así la elegibilidad para reclamar recompensas.
 
 </details>
 
@@ -67,19 +67,19 @@ LunarCrush tiene sistemas automatizados para detectar diferentes tipos de conduc
 **Introducción:** ¡Sé el influencer más comprometido e influyente de XBorg X para ganar tokens XBG!&#x20;
 
 **Concepto:** \
-Cada día, se rastrean las 300 cuentas principales con mayor interacción en contenido con los hashtags #XBORG, #XBG o $XBG. Según su rendimiento diario, acumulan puntos visibles en nuestro tablero de clasificación. Al final de la temporada, los jugadores recibirán sus recompensas según su clasificación.&#x20;
+Todos los días, se rastrean las 300 cuentas principales con mayor interacción en contenido con los hashtags #XBORG, #XBG o $XBG. Según su rendimiento diario, acumulan puntos que se muestran en nuestra tabla de clasificación. Al final de la temporada, los jugadores recibirán sus recompensas según su clasificación.&#x20;
 
-**Criterios de Puntuación:** \
-Solo las cuentas de Twitter con más de 500 seguidores pueden acumular puntos. Junto con LunarCrush, analizamos y clasificamos los tweets con los hashtags #XBG, #XBorg o $XBG. Su sistema garantiza la integridad del concurso con protección contra el spam y el fraude. Para comprender sus criterios, consulta las preguntas frecuentes de LunarCrush. Según la clasificación de LunarCrush, se otorgan puntos diariamente de acuerdo con nuestra escala detallada \[Tabla 1]. Las clasificaciones consolidadas se pueden encontrar en {XBorg.com}.&#x20;
+**Criterios de puntuación:** \
+Solo las cuentas de Twitter con más de 500 seguidores pueden acumular puntos. Junto con LunarCrush, analizamos y clasificamos los tweets con los hashtags #XBG, #XBorg o $XBG. Su sistema garantiza la integridad del concurso con protección contra el spam y el fraude. Para comprender sus criterios, consulta las preguntas frecuentes de LunarCrush. Según la clasificación de LunarCrush, se otorgan puntos diariamente según nuestra escala detallada \[Tabla 1]. Las clasificaciones consolidadas se pueden encontrar en {XBorg.com}.&#x20;
 
 **Recompensas:** \
 Se ha asignado un presupuesto de 100k $XBG para esta temporada inaugural, dividido entre recompensas individuales (33%) y recompensas colectivas (66%). Al cumplir los objetivos colectivos, se desbloquean recompensas colectivas para todos. Los miembros en la Zona de Recompensas al final del desafío compartirán las recompensas según la escala \[Tabla 2]. Los tokens XBG se enviarán después del TGE (Evento de Generación de Tokens) y estarán inicialmente bloqueados durante un mes, y se liberarán gradualmente durante seis meses. También hay recompensas sorpresa que se entregarán a discreción de XBorg.&#x20;
 
 **Reglas de Juego Limpio:** \
-Valoramos la creatividad, autenticidad y ética. Hemos establecido herramientas y medidas para identificar comportamientos inapropiados. Los tramposos, así como los usuarios de bots, serán identificados y descalificados. Las decisiones de XBorg son finales.&#x20;
+Valoramos la creatividad, autenticidad y ética. Hemos establecido herramientas y medidas para identificar comportamientos inapropiados. Los tramposos, así como los usuarios de bots, serán identificados y descalificados. Las decisiones de XBorg son definitivas.&#x20;
 
-**Descargo de Responsabilidad:** \
-Cada participante debe haber leído y aceptado los términos y condiciones para participar en el Desafío XBorg. XBorg no se hace responsable de acciones, omisiones, problemas técnicos, fallas del servidor, errores, interrupciones del servicio, eliminaciones, defectos, retrasos en la transmisión, robos, destrucciones, accesos no autorizados o alteraciones relacionadas con terceros como LunarCrush, X o cualquier evento imprevisto que pueda interrumpir el funcionamiento adecuado del concurso.&#x20;
+**Descargo de responsabilidad:** \
+Cada participante debe haber leído y aceptado los términos y condiciones para participar en el Desafío XBorg. XBorg no se hace responsable de acciones, omisiones, problemas técnicos, interrupciones del servidor, errores, interrupciones del servicio, eliminaciones, defectos, retrasos en la transmisión, robos, destrucciones, accesos no autorizados o alteraciones relacionadas con terceros como LunarCrush, X o cualquier evento imprevisto que pueda interrumpir el funcionamiento adecuado del concurso.&#x20;
 
 **Derechos de Modificación:** \
 Nos reservamos el derecho de cambiar los términos y condiciones del desafío a nuestra discreción. Si bien podemos hacerlo sin previo aviso, siempre nos esforzaremos por comunicar cualquier cambio significativo a los participantes lo antes posible.&#x20;

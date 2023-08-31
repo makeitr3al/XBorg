@@ -1,12 +1,12 @@
 # Regole
 
-
+<figure><img src="../../.gitbook/assets/Prometheus.png" alt="" width="375"><figcaption></figcaption></figure>
 
 <details>
 
 <summary>Quali sono le regole?</summary>
 
-Si prega di [scorrere verso il basso](rules-test.md#rules). Si prega di notare che queste regole sono integrate dai Termini e Condizioni a cui ogni partecipante accetta.
+Si prega di [scorrere verso il basso](rules-test.md#rules). Si prega di notare che sono integrate dai Termini e Condizioni a cui ogni partecipante accetta.
 
 </details>
 
@@ -54,7 +54,7 @@ Assolutamente, collaborare con altri influencer può migliorare significativamen
 
 <summary>Ci sono conseguenze per azioni che violano le linee guida del gioco?</summary>
 
-LunarCrush dispone di sistemi automatizzati per rilevare diversi tipi di comportamenti scorretti. Una volta rilevati, LunarCrush non ti riconoscerà più come influencer, con conseguente cessazione dell'accumulo dei punti. Se necessario, potresti anche essere squalificato dal concorso, perdendo così l'eligibilità per reclamare premi.
+LunarCrush dispone di sistemi automatizzati per rilevare diversi tipi di comportamenti scorretti. Una volta rilevati, LunarCrush non ti riconoscerà più come influencer, con conseguente cessazione dell'accumulo dei punti. Se necessario, potresti anche essere squalificato dal concorso, perdendo così l'opportunità di reclamare le ricompense.
 
 </details>
 
@@ -64,16 +64,16 @@ LunarCrush dispone di sistemi automatizzati per rilevare diversi tipi di comport
 
 > **La Sfida XBorg**
 
-**Introduzione:** Sii l'influencer più coinvolto e influente di XBorg X per vincere token XBG!&#x20;
+**Introduzione:** Sii l'influencer più coinvolto e influente di XBorg X per vincere i token XBG!&#x20;
 
 **Concept:** \
-Ogni giorno vengono tracciati i primi 300 account con il maggior coinvolgimento sui contenuti con gli hashtag #XBORG, #XBG o $XBG. In base alle loro prestazioni giornaliere, accumulano punti visibili sulla nostra classifica. Alla fine della stagione, i giocatori riceveranno i loro premi in base alla loro posizione in classifica.&#x20;
+Ogni giorno vengono monitorati i primi 300 account con il maggior coinvolgimento nei contenuti con gli hashtag #XBORG, #XBG o $XBG. In base alle loro prestazioni giornaliere, accumulano punti visibili nella nostra classifica. Alla fine della stagione, i giocatori riceveranno le loro ricompense in base alla loro posizione in classifica.&#x20;
 
-**Criteri di punteggio:** \
+**Criteri di valutazione:** \
 Solo gli account Twitter con più di 500 follower possono accumulare punti. Insieme a LunarCrush analizziamo e classifichiamo i tweet con gli hashtag #XBG, #XBorg o $XBG. Il loro sistema garantisce l'integrità del concorso con protezione contro lo spam e il cheating. Per comprendere i loro criteri, consulta le FAQ di LunarCrush. In base alla classifica di LunarCrush, vengono assegnati punti giornalieri secondo la nostra scala dettagliata \[Tabella 1]. Le classifiche consolidate possono essere trovate su {XBorg.com}.&#x20;
 
-**Premi:** \
-Un budget di 100.000 $XBG è stato allocato per questa stagione inaugurale, diviso tra premi individuali (33%) e premi collettivi (66%). Il raggiungimento degli obiettivi collettivi sblocca premi collettivi per tutti. I membri nella Reward Zone alla fine della sfida condivideranno i premi in base alla scala \[Tabella 2]. I token XBG verranno inviati dopo l'evento di generazione dei token (TGE) e inizialmente saranno bloccati per un mese, per poi essere distribuiti nel corso di sei mesi. Ci sono anche premi sorpresa in serbo che verranno assegnati a discrezione di XBorg.&#x20;
+**Ricompense:** \
+Un budget di 100.000 $XBG è stato allocato per questa stagione inaugurale, diviso tra ricompense individuali (33%) e ricompense collettive (66%). Il raggiungimento degli obiettivi collettivi sblocca ricompense collettive per tutti. I membri nella Reward Zone alla fine della sfida condivideranno le ricompense in base alla scala \[Tabella 2]. I token XBG verranno inviati dopo l'evento di generazione dei token (TGE) e inizialmente saranno bloccati per un mese, per poi essere distribuiti nel corso di sei mesi. Ci sono anche ricompense sorpresa in serbo che saranno distribuite a discrezione di XBorg.&#x20;
 
 **Regole di Fair-Play:** \
 Valorizziamo la creatività, l'autenticità e l'etica. Abbiamo messo a punto strumenti e misure per identificare comportamenti inappropriati. I cheater, così come gli utenti di bot, verranno identificati e squalificati. Le decisioni di XBorg sono definitive.&#x20;
@@ -81,8 +81,8 @@ Valorizziamo la creatività, l'autenticità e l'etica. Abbiamo messo a punto str
 **Disclaimer:** \
 Ogni partecipante deve aver letto e accettato i termini e le condizioni per partecipare alla Sfida XBorg. XBorg non è responsabile per azioni, omissioni, problemi tecnici, interruzioni del server, errori, interruzioni del servizio, cancellazioni, difetti, ritardi di trasmissione, furti, distruzioni, accessi non autorizzati o modifiche legate a terze parti come LunarCrush, X o qualsiasi evento imprevisto che potrebbe interrompere il corretto funzionamento del concorso.&#x20;
 
-**Diritti di Modifica:** \
+**Diritti di modifica:** \
 Ci riserviamo il diritto di modificare i termini e le condizioni della sfida a nostra discrezione. Sebbene possiamo farlo senza preavviso, cercheremo sempre di comunicare eventuali modifiche significative ai partecipanti il prima possibile.&#x20;
 
-**Limitazione di Responsabilità:** \
+**Limitazione di responsabilità:** \
 Partecipando a questa sfida, accetti di sollevare XBorg da qualsiasi responsabilità per perdite, danni o lesioni derivanti direttamente o indirettamente dalla tua partecipazione, inclusi ma non limitati a danni causati da virus informatici o altri elementi dannosi ottenuti dall'utilizzo del sito web del concorso o di qualsiasi altro sito ad esso collegato.
