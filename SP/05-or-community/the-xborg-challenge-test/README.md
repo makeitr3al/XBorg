@@ -1,10 +1,12 @@
----
-descripción: Todo lo que necesitas saber sobre el concurso de la comunidad de XBorg. Llegará en septiembre de 2023
----
+# El Desafío XBorg
 
-# El Desafío de XBorg
+> El cuarto trimestre de 2023 ofrece muchos eventos revolucionarios en el universo XBorg. Uno de ellos es el Desafío XBorg, donde tú como colaborador puedes ayudar a difundir la palabra y ser recompensado por hacerlo. 💰
+>
+> \
+> Esta sección proporciona todo lo que necesitas saber al respecto. \
+> Llegará en septiembre de 2023.
 
-> El cuarto trimestre de 2023 ofrece muchos eventos revolucionarios en el universo de XBorg. Uno de ellos es el Desafío de XBorg, donde tú como colaborador puedes ayudar a difundir la palabra y ser recompensado por hacerlo. 💰
+
 
 **Elegibilidad**
 
@@ -52,7 +54,7 @@ Una vez que cumplas con el requisito de tener más de 500 seguidores en Twitter,
 
 <details>
 
-<summary>¿Puede cualquiera unirse al desafío?</summary>
+<summary>¿Puede todo el mundo unirse al desafío?</summary>
 
 El desafío está abierto para todos, pero tus puntos solo se contarán si tienes un mínimo de 500 seguidores en Twitter.
 
@@ -70,7 +72,7 @@ LunarCrush obtiene datos directamente de Twitter, lo que nos permite extraer y a
 
 <summary>¿Puedes dar un ejemplo de una buena participación?</summary>
 
-Una participación efectiva implica crear contenido cautivador utilizando hashtags, cashtags y emojis. Para obtener más orientación, puedes consultar nuestra guía completa de mejores prácticas: {ENLACE}
+Una participación efectiva implica crear contenido cautivador utilizando hashtags, cashtags y emojis. Para obtener más orientación, puedes consultar nuestra completa guía de mejores prácticas: {ENLACE}
 
 </details>
 
@@ -82,7 +84,7 @@ TGE significa "Evento de Generación de Tokens", un término utilizado principal
 
 **¿Qué sucede durante un TGE?**
 
-Un TGE implica la creación y distribución de una nueva criptomoneda o token a participantes tempranos, generalmente para recaudar fondos para un nuevo proyecto. Este proceso implica que la empresa u organización emisora ​​asigne un número determinado de tokens a los primeros seguidores o inversores.
+Un TGE implica la creación y distribución de una nueva criptomoneda o token a participantes tempranos, generalmente para recaudar fondos para un nuevo proyecto. Este proceso implica que la empresa u organización emisora ​​asigne un número determinado de tokens a los seguidores o inversores iniciales.
 
 **¿En qué se diferencia un TGE de una ICO?**
 
@@ -118,9 +120,9 @@ A través de estas ligas, comenzará la temporada inaugural, trayendo consigo re
 
 <details>
 
-<summary>¿Hay una fecha límite para completar acciones específicas para ganar puntos?</summary>
+<summary>¿Hay una fecha límite para completar acciones específicas y ganar puntos?</summary>
 
-Sí, hay fechas límite para ganar puntos basadas en las etapas del juego. Hay dos fases de clasificación, seguidas del lanzamiento de las [ligas](scoring-test/leagues-test.md). Durante cada fase, los participantes tienen hasta el final para acumular la máxima cantidad de puntos y asegurar su posición en la [clasificación](scoring-test/leaderboard-test.md). Una vez que se lanzan las ligas, el juego funciona de manera estacional.
+Sí, hay fechas límite para ganar puntos según las etapas del juego. Hay dos fases de clasificación, seguidas del lanzamiento de las [ligas](scoring-test/leagues-test.md). Durante cada fase, los participantes tienen hasta el final para acumular la máxima cantidad de puntos y asegurar su posición en la [clasificación](scoring-test/leaderboard-test.md). Una vez que se lanzan las ligas, el juego funciona en base a temporadas.
 
 Además, los puntos se ganan diariamente y los datos se extraen de la API de [LunarCrush](scoring-test/lunarcrush-test.md) cada noche antes de la medianoche para calcular los puntos. Debido a la responsabilidad técnica, algunos datos pueden tardar hasta 48 horas en reflejarse en la [clasificación](scoring-test/leaderboard-test.md).
 

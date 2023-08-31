@@ -1,20 +1,22 @@
----
-description: Tout ce que vous devez savoir sur le concours communautaire de XBorg. Arrive en septembre 2023
----
-
 # Le défi XBorg
 
-> Le quatrième trimestre de 2023 offre de nombreux événements révolutionnaires dans l'univers de XBorg. L'un d'entre eux est le défi XBorg, où vous, en tant que contributeur, pouvez aider à faire connaître et être récompensé pour cela ! 💰
+> Le quatrième trimestre de 2023 offre de nombreux événements révolutionnaires dans l'univers XBorg. L'un d'entre eux est le défi XBorg, où vous, en tant que contributeur, pouvez aider à faire connaître et être récompensé pour cela ! 💰
+>
+> \
+> Cette section vous fournit tout ce que vous devez savoir à ce sujet. \
+> Arrive en septembre 2023.
+
+
 
 **Éligibilité**
 
-Pour être éligible, vous devez avoir plus de 500 abonnés et utiliser les hashtags et cashtags appropriés ($XBG, #XBorg et #XBG)
+Pour être éligible, vous devez avoir plus de 500 abonnés et utiliser les hashtags et cashtags appropriés ($XBG, #XBorg et #XBG).
 
 <details>
 
 <summary>Pourquoi faisons-nous cela ?</summary>
 
-Notre objectif est de sensibiliser les gens à XBorg tout en mettant en valeur notre fantastique communauté, nos produits et notre jeton. Organiser un concours est notre méthode choisie pour favoriser une expérience agréable et collaborative.
+Notre objectif est de sensibiliser à XBorg tout en mettant en valeur notre fantastique communauté, nos produits et notre jeton. Organiser un concours est notre méthode choisie pour favoriser une expérience agréable et collaborative.
 
 </details>
 
@@ -28,7 +30,7 @@ Participez activement en respectant les [règles](rules-test.md) et en suivant l
 
 <details>
 
-<summary>Quand est-ce que le concours commence ?</summary>
+<summary>Quand commence le concours ?</summary>
 
 Le concours est prévu pour commencer le 1er septembre ou le 30 septembre 2023, en fonction de notre avancement.
 
@@ -36,7 +38,7 @@ Le concours est prévu pour commencer le 1er septembre ou le 30 septembre 2023, 
 
 <details>
 
-<summary>Quand est-ce que le concours se termine ?</summary>
+<summary>Quand se termine le concours ?</summary>
 
 Le concours se terminera deux semaines après l'événement de génération de jetons ([TGE](./#what-is-a-tge)), dont la date précise sera communiquée ultérieurement.
 
@@ -46,7 +48,7 @@ Le concours se terminera deux semaines après l'événement de génération de j
 
 <summary>Comment puis-je participer à ce défi ?</summary>
 
-Une fois que vous avez atteint la condition d'avoir plus de 500 abonnés sur Twitter, des points vous seront attribués en fonction de votre classement quotidien d'engagement des influenceurs XBorg sur LunarCrush. N'oubliez pas d'inclure #XBorg, $XBG ou #XBG dans vos tweets pour une reconnaissance précise.
+Une fois que vous avez atteint l'exigence d'avoir plus de 500 abonnés sur Twitter, des points vous seront attribués en fonction de votre classement quotidien d'engagement des influenceurs XBorg sur LunarCrush. N'oubliez pas d'inclure #XBorg, $XBG ou #XBG dans vos tweets pour une reconnaissance précise.
 
 </details>
 
@@ -60,9 +62,9 @@ Le défi est ouvert à tous, mais vos points ne seront comptabilisés que si vou
 
 <details>
 
-<summary>Où est mesuré mon engagement social ?</summary>
+<summary>Où ma participation sociale est-elle mesurée ?</summary>
 
-LunarCrush collecte directement des données sur Twitter, ce qui nous permet de les extraire et de les analyser. Par conséquent, nous nous concentrons exclusivement sur la mesure de votre engagement sur Twitter. Veuillez noter que les engagements sur d'autres plateformes sociales ne sont pas pris en compte. Pour plus d'informations, visitez [https://lunarcrush.com/faq.](https://lunarcrush.com/faq.)
+LunarCrush collecte directement des données depuis Twitter, ce qui nous permet d'extraire et d'analyser ces informations. Par conséquent, nous nous concentrons exclusivement sur la mesure de votre engagement sur Twitter. Veuillez noter que les engagements sur d'autres plateformes sociales ne sont pas pris en compte. Pour plus d'informations, visitez [https://lunarcrush.com/faq.](https://lunarcrush.com/faq.)
 
 </details>
 
@@ -82,11 +84,11 @@ TGE signifie "Token Generation Event", un terme principalement utilisé dans les
 
 **Que se passe-t-il pendant un TGE ?**
 
-Un TGE implique la création et la distribution d'une nouvelle cryptomonnaie ou d'un nouveau jeton aux premiers participants, généralement pour lever des fonds pour un nouveau projet. Ce processus implique que l'entreprise ou l'organisation émettrice attribue un certain nombre de jetons aux premiers supporters ou investisseurs.
+Un TGE implique la création et la distribution d'une nouvelle cryptomonnaie ou d'un nouveau jeton aux premiers participants, généralement pour collecter des fonds pour un nouveau projet. Ce processus implique que l'entreprise ou l'organisation émettrice attribue un certain nombre de jetons aux premiers supporters ou investisseurs.
 
 **En quoi un TGE diffère-t-il d'une ICO ?**
 
-Bien que les TGE et les ICO (Initial Coin Offerings) soient tous deux des méthodes de collecte de fonds utilisant des jetons, les termes sont parfois utilisés de manière interchangeable. Cependant, les professionnels du secteur préfèrent souvent "TGE" car cela met l'accent sur la génération et la distribution de jetons, plutôt que sur l'"offre" ou la vente.
+Bien que les TGE et les ICO (Initial Coin Offerings) soient tous deux des méthodes de collecte de fonds utilisant des jetons, les termes sont parfois utilisés de manière interchangeable. Cependant, les professionnels du secteur préfèrent souvent "TGE" car cela met en évidence la génération et la distribution de jetons, plutôt que l'aspect "offre" ou vente.
 
 </details>
 
@@ -102,7 +104,7 @@ Bien que les TGE et les ICO (Initial Coin Offerings) soient tous deux des métho
 
 <summary>Que se passe-t-il si ma portée diminue en raison de facteurs externes ?</summary>
 
-Si vous ne maintenez pas ou n'augmentez pas votre engagement, votre classement d'influenceur diminuera, ce qui se traduira par moins de points quotidiens. Cependant, les points que vous avez déjà gagnés ne seront pas perdus.
+Si vous ne maintenez pas ou n'augmentez pas votre engagement, votre classement d'influenceur diminuera, ce qui entraînera moins de points quotidiens. Cependant, les points que vous avez déjà gagnés ne seront pas perdus.
 
 </details>
 
@@ -129,5 +131,5 @@ De plus, les points sont gagnés quotidiennement et les données sont extraites 
 {% hint style="info" %}
 Si vous avez besoin d'aide, veuillez nous contacter sur notre Discord (https://discord.gg/xborg), et si nécessaire, notre formidable communauté vous aidera rapidement.
 
-NB : Les membres de notre communauté/modérateurs/personnel ne devraient jamais vous envoyer de message en premier.
+NB : Les membres de notre communauté/modérateurs/personnel ne doivent pas et ne vous enverront jamais de message en premier.
 {% endhint %}

@@ -1,10 +1,12 @@
----
-Beschreibung: Alles, was du über den Community-Wettbewerb von XBorg wissen musst. Kommt im September 2023
----
-
 # Die XBorg Challenge
 
-> Das vierte Quartal 2023 bietet viele bahnbrechende Ereignisse im XBorg-Universum. Eines davon ist die XBorg Challenge, bei der du als Beitragender helfen kannst, die Botschaft zu verbreiten und dafür belohnt wirst! 💰
+> Das vierte Quartal 2023 bietet viele bahnbrechende Ereignisse im XBorg-Universum. Eines davon ist die XBorg Challenge, bei der du als Teilnehmer helfen kannst, die Botschaft zu verbreiten und dafür belohnt wirst! 💰
+>
+> \
+> Dieser Abschnitt liefert alle Informationen, die du dazu benötigst. \
+> Start im September 2023.
+
+
 
 **Teilnahmeberechtigung**
 
@@ -14,7 +16,7 @@ Um teilnahmeberechtigt zu sein, musst du mehr als 500 Follower haben und die ent
 
 <summary>Warum machen wir das?</summary>
 
-Unser Ziel ist es, das Bewusstsein für XBorg zu schärfen und gleichzeitig unsere fantastische Community, Produkte und Token zu präsentieren. Die Organisation eines Wettbewerbs ist unsere gewählte Methode, um eine angenehme und kooperative Erfahrung zu fördern.
+Unser Ziel ist es, das Bewusstsein für XBorg zu schärfen und gleichzeitig unsere fantastische Community, Produkte und Token zu präsentieren. Die Organisation eines Wettbewerbs ist unsere gewählte Methode, um eine unterhaltsame und kooperative Erfahrung zu fördern.
 
 </details>
 
@@ -22,7 +24,7 @@ Unser Ziel ist es, das Bewusstsein für XBorg zu schärfen und gleichzeitig unse
 
 <summary>Wie funktioniert es?</summary>
 
-Nimm umfangreich teil, indem du dich an die [Regeln](rules-test.md) hältst und bewährte Verfahren befolgst (Link zu bewährten Verfahren). Du sammelst Punkte basierend auf der Wirkung deines Engagements, und je geschickter du dies erreichst, desto größer sind die Belohnungen, die sowohl du als auch deine Liga erzielen können.
+Nimm umfangreich teil, indem du dich an die [Regeln](rules-test.md) hältst und bewährte Praktiken befolgst (Link zu bewährten Praktiken). Du sammelst Punkte basierend auf der Wirkung deines Engagements, und je geschickter du dies erreichst, desto größer sind die Belohnungen, die sowohl du als auch deine Liga erreichen können.
 
 </details>
 
@@ -46,7 +48,7 @@ Der Wettbewerb endet zwei Wochen nach dem Token Generation Event ([TGE](./#what-
 
 <summary>Wie kann ich an dieser Challenge teilnehmen?</summary>
 
-Nach Erfüllung der Anforderung, mehr als 500 Twitter-Follower zu haben, werden Punkte basierend auf deinem täglichen XBorg Influencers Engagement Rank auf LunarCrush vergeben. Vergiss nicht, #XBorg, $XBG oder #XBG in deinen Tweets für eine genaue Anerkennung einzufügen.
+Sobald du die Anforderung erfüllst, mehr als 500 Twitter-Follower zu haben, werden Punkte basierend auf deinem täglichen XBorg Influencers Engagement Rank auf LunarCrush vergeben. Vergiss nicht, #XBorg, $XBG oder #XBG in deinen Tweets für eine genaue Anerkennung einzufügen.
 
 </details>
 
@@ -70,7 +72,7 @@ LunarCrush bezieht Daten direkt von Twitter, was es uns ermöglicht, diese Infor
 
 <summary>Kannst du ein Beispiel für gutes Engagement geben?</summary>
 
-Effektives Engagement beinhaltet das Erstellen von fesselndem Inhalt unter Verwendung von Hashtags, Cashtags und Emojis. Für weitere Anleitungen kannst du unseren umfassenden Leitfaden für bewährte Verfahren konsultieren: {LINK}
+Effektives Engagement beinhaltet das Erstellen von fesselndem Inhalt unter Verwendung von Hashtags, Cashtags und Emojis. Für weitere Anleitungen kannst du unseren umfassenden Leitfaden für bewährte Praktiken konsultieren: {LINK}
 
 </details>
 
@@ -78,7 +80,7 @@ Effektives Engagement beinhaltet das Erstellen von fesselndem Inhalt unter Verwe
 
 <summary>Was ist ein TGE?</summary>
 
-TGE steht für "Token Generation Event", ein Begriff, der hauptsächlich in den Bereichen Blockchain und Kryptowährung verwendet wird.
+TGE steht für "Token Generation Event" und ist ein Begriff, der hauptsächlich in den Bereichen Blockchain und Kryptowährung verwendet wird.
 
 **Was passiert während eines TGE?**
 
@@ -110,9 +112,9 @@ Wenn du dein Engagement nicht aufrechterhältst oder steigerst, wird dein Influe
 
 <summary>Wie funktioniert die Qualifikationsphase in Bezug auf das Punktesammeln und den Aufstieg im Ligasystem?</summary>
 
-Während der Qualifikationsphasen sammeln die Teilnehmer täglich Punkte und steigen in den Rängen der Bestenliste auf. Wir werden einen endgültigen Ranglisten-Snapshot sowohl von Qualifikationsphase 1 als auch von Qualifikationsphase 2 behalten. Basierend auf der Gesamtzahl der Teilnehmer und dem Erfolg der gemeinsamen Ziele werden anschließend Plätze in verschiedenen Ligen verfügbar gemacht. Die besten Performer jeder Qualifikationsphase erhalten dann Einladungen, der Liga beizutreten, die am besten ihrem Fähigkeitsniveau entspricht.
+Während der Qualifikationsphasen sammeln die Teilnehmer täglich Punkte und steigen in der Rangliste auf. Wir werden einen endgültigen Ranglisten-Snapshot sowohl von Qualifikationsphase 1 als auch von Qualifikationsphase 2 behalten. Basierend auf der Gesamtzahl der Teilnehmer und dem Erfolg der gemeinsamen Ziele werden anschließend Plätze in verschiedenen Ligen verfügbar gemacht. Die besten Performer jeder Qualifikationsphase erhalten dann Einladungen, je nach ihrem Fähigkeitsniveau der am besten geeigneten Liga beizutreten.
 
-Durch diese Ligen beginnt die erste Saison und bringt Belohnungen mit sich, die zu verlockend sind, um sie zu übersehen. Dies markiert den wahren Beginn des Spiels. Neben den erheblichen Belohnungen sollte die Qualifikation für viele während der Qualifikationsphasen ein vorrangiges Ziel darstellen.
+Durch diese Ligen wird die erste Saison beginnen und damit Belohnungen, die zu verlockend sind, um sie zu übersehen. Dies markiert den wahren Beginn des Spiels. Neben den erheblichen Belohnungen sollte die Qualifikation für viele während der Qualifikationsphasen ein vorrangiges Ziel darstellen.
 
 </details>
 
@@ -120,14 +122,14 @@ Durch diese Ligen beginnt die erste Saison und bringt Belohnungen mit sich, die 
 
 <summary>Gibt es eine Frist, um bestimmte Aktionen zur Punkteerzielung abzuschließen?</summary>
 
-Ja, es gibt Fristen für das Punktesammeln basierend auf den Stadien des Spiels. Es gibt zwei Qualifikationsphasen, gefolgt vom Start der [Ligen](scoring-test/leagues-test.md). Während jeder Phase haben die Teilnehmer bis zum Ende Zeit, um die maximalen Punkte zu sammeln und ihre Position auf der [Bestenliste](scoring-test/leaderboard-test.md) zu sichern. Sobald die Ligen gestartet sind, läuft das Spiel saisonal.
+Ja, es gibt Fristen für das Punktesammeln basierend auf den Stadien des Spiels. Es gibt zwei Qualifikationsphasen, gefolgt vom Start der [Ligen](scoring-test/leagues-test.md). Während jeder Phase haben die Teilnehmer bis zum Ende Zeit, um die maximalen Punkte zu sammeln und ihre Position auf der [Rangliste](scoring-test/leaderboard-test.md) zu sichern. Sobald die Ligen gestartet sind, läuft das Spiel saisonal.
 
-Zusätzlich werden täglich Punkte verdient und die Daten werden jeden Abend vor Mitternacht aus der [LunarCrush ](scoring-test/lunarcrush-test.md)API extrahiert, um die Punkte zu berechnen. Aufgrund technischer Einschränkungen kann es bis zu 48 Stunden dauern, bis einige Daten auf der [Bestenliste](scoring-test/leaderboard-test.md) angezeigt werden.
+Zusätzlich werden täglich Punkte verdient und die Daten werden jeden Abend vor Mitternacht aus der [LunarCrush ](scoring-test/lunarcrush-test.md)API extrahiert, um die Punkte zu berechnen. Aufgrund technischer Einschränkungen kann es bis zu 48 Stunden dauern, bis einige Daten auf der [Rangliste](scoring-test/leaderboard-test.md) angezeigt werden.
 
 </details>
 
 {% hint style="info" %}
-Wenn du Hilfe benötigst, wende dich bitte an unseren Discord (https://discord.gg/xborg), und wenn nötig, wird dir unsere großartige Community schnell helfen.
+Wenn du Hilfe benötigst, wende dich bitte an unseren Discord (https://discord.gg/xborg), und unsere großartige Community wird dir schnell helfen, falls erforderlich.
 
-NB: Unsere Community/Mods/Mitarbeiter sollten dich nicht anschreiben und werden es auch nie tun.
+NB: Unsere Community/Mods/Mitarbeiter sollten dich niemals zuerst anschreiben.
 {% endhint %}

@@ -1,10 +1,12 @@
----
-beschrijving: Alles wat je moet weten over de communitywedstrijd van XBorg. Komt in september 2023
----
-
 # De XBorg Uitdaging
 
-> Het vierde kwartaal van 2023 biedt veel baanbrekende evenementen in het XBorg universum. Een daarvan is de XBorg Uitdaging, waarbij jij als deelnemer kunt helpen om het woord te verspreiden en beloond kunt worden voor je inzet! 💰
+> Q4 2023 biedt veel baanbrekende gebeurtenissen in het XBorg universum. Een daarvan is de XBorg Uitdaging, waarbij je als bijdrager kunt helpen om het woord te verspreiden en beloond kunt worden voor je inzet! 💰
+>
+> \
+> Deze sectie geeft je alle informatie die je nodig hebt. \
+> Komt in september 2023.
+
+
 
 **In aanmerking komen**
 
@@ -14,7 +16,7 @@ Om in aanmerking te komen, moet je meer dan 500 volgers hebben en de juiste hash
 
 <summary>Waarom doen we dit?</summary>
 
-Ons doel is om bekendheid te creëren voor XBorg terwijl we onze fantastische community, producten en token laten zien. Het organiseren van een wedstrijd is onze gekozen methode om een plezierige en samenwerkende ervaring te bevorderen.
+Ons doel is om bekendheid te creëren voor XBorg en tegelijkertijd onze fantastische community, producten en token te laten zien. Het organiseren van een wedstrijd is onze gekozen methode om een plezierige en samenwerkende ervaring te bevorderen.
 
 </details>
 
@@ -38,7 +40,7 @@ De wedstrijd is gepland om te beginnen op 1 september of 30 september 2023, afha
 
 <summary>Wanneer eindigt de wedstrijd?</summary>
 
-De wedstrijd eindigt twee weken na het Token Generation Event ([TGE](./#wat-is-een-tge)), de specifieke datum hiervan wordt op een later tijdstip gecommuniceerd.
+De wedstrijd eindigt twee weken na het Token Generation Event ([TGE](./#what-is-a-tge)), de specifieke datum hiervan wordt op een later tijdstip gecommuniceerd.
 
 </details>
 
@@ -46,7 +48,7 @@ De wedstrijd eindigt twee weken na het Token Generation Event ([TGE](./#wat-is-e
 
 <summary>Hoe kan ik deelnemen aan deze uitdaging?</summary>
 
-Als je voldoet aan de eis van meer dan 500 Twitter-volgers, worden punten toegekend op basis van je dagelijkse XBorg Influencers Engagement Rank op LunarCrush. Vergeet niet om #XBorg, $XBG of #XBG op te nemen in je tweets voor nauwkeurige herkenning.
+Als je aan de eis voldoet om meer dan 500 Twitter-volgers te hebben, worden punten toegekend op basis van je dagelijkse XBorg Influencers Engagement Rank op LunarCrush. Vergeet niet om #XBorg, $XBG of #XBG op te nemen in je tweets voor nauwkeurige herkenning.
 
 </details>
 
@@ -78,15 +80,15 @@ Effectieve betrokkenheid houdt in dat je boeiende inhoud creëert met behulp van
 
 <summary>Wat is een TGE?</summary>
 
-TGE staat voor "Token Generation Event", een term die voornamelijk wordt gebruikt in de blockchain- en cryptocurrency-sector.
+TGE staat voor "Token Generation Event", een term die voornamelijk wordt gebruikt in de blockchain- en cryptocurrencysectoren.
 
 **Wat gebeurt er tijdens een TGE?**
 
-Een TGE houdt de creatie en distributie in van een nieuwe cryptocurrency of token aan vroege deelnemers, meestal om fondsen te werven voor een nieuw project. Dit proces houdt in dat het uitgevende bedrijf of de organisatie een vast aantal tokens toewijst aan de eerste supporters of investeerders.
+Een TGE omvat de creatie en distributie van een nieuwe cryptocurrency of token aan vroege deelnemers, meestal om fondsen te werven voor een nieuw project. Dit proces houdt in dat het uitgevende bedrijf of de organisatie een vast aantal tokens toewijst aan de eerste supporters of investeerders.
 
 **Hoe verschilt een TGE van een ICO?**
 
-Hoewel zowel TGE's als ICO's (Initial Coin Offerings) methoden zijn om geld in te zamelen met behulp van tokens, worden de termen soms door elkaar gebruikt. Insiders in de industrie geven echter vaak de voorkeur aan "TGE" omdat het de generatie en distributie van tokens benadrukt, in plaats van het "aanbieden" of verkopen.
+Hoewel zowel TGE's als ICO's (Initial Coin Offerings) methoden zijn om geld in te zamelen met behulp van tokens, worden de termen soms door elkaar gebruikt. Echter, insiders in de industrie geven vaak de voorkeur aan "TGE" omdat het de generatie en distributie van tokens benadrukt, in plaats van het "aanbieden" of verkopen aspect.
 
 </details>
 
@@ -100,9 +102,9 @@ Hoewel zowel TGE's als ICO's (Initial Coin Offerings) methoden zijn om geld in t
 
 <details>
 
-<summary>Wat gebeurt er als mijn bereik afneemt door externe factoren?</summary>
+<summary>Wat gebeurt er als mijn bereik afneemt als gevolg van externe factoren?</summary>
 
-Als je betrokkenheid niet behoudt of vergroot, zal je influencer-rang dalen, wat resulteert in minder dagelijkse punten. De punten die je al hebt verdiend, gaan echter niet verloren.
+Als je je betrokkenheid niet behoudt of vergroot, zal je influencer-rang dalen, wat resulteert in minder dagelijkse punten. De punten die je al hebt verdiend, gaan echter niet verloren.
 
 </details>
 
@@ -110,9 +112,9 @@ Als je betrokkenheid niet behoudt of vergroot, zal je influencer-rang dalen, wat
 
 <summary>Hoe werkt de kwalificatiefase wat betreft het verdienen van punten en het doorstromen naar het leaguesysteem?</summary>
 
-Tijdens de kwalificatiefasen verzamelen deelnemers dagelijks punten en stijgen ze op de ranglijst. We behouden een definitieve ranglijst-snapshot van zowel Kwalificatiefase 1 als Kwalificatiefase 2. Op basis hiervan, afhankelijk van het totale aantal deelnemers en het succes van collectieve doelstellingen, zullen er plaatsen beschikbaar worden gesteld in verschillende Leagues. De best presterende deelnemers van elke kwalificatiefase ontvangen vervolgens uitnodigingen om zich aan te sluiten bij de meest geschikte league op basis van hun vaardigheidsniveau.
+Tijdens de kwalificatiefasen verzamelen deelnemers dagelijks punten en stijgen ze op de ranglijst. We zullen een definitieve ranglijst-snapshot behouden van zowel Kwalificatiefase 1 als Kwalificatiefase 2. Op basis hiervan, afhankelijk van het totale aantal deelnemers en het succes van collectieve doelstellingen, zullen er plaatsen beschikbaar worden gesteld in verschillende Leagues. De beste presteerders van elke kwalificatiefase ontvangen vervolgens uitnodigingen om zich aan te sluiten bij de meest geschikte league op basis van hun vaardigheidsniveau.
 
-Via deze leagues zal het inaugurele seizoen beginnen, met beloningen die te verleidelijk zijn om te negeren. Dit markeert het echte begin van het spel. Naast de aanzienlijke beloningen zou kwalificatie een belangrijk doel moeten zijn voor velen gedurende de kwalificatiefasen.
+Via deze leagues zal het inaugurele seizoen beginnen, met beloningen die te verleidelijk zijn om te negeren. Dit markeert het echte begin van het spel. Naast de aanzienlijke beloningen zou het kwalificeren een belangrijk doel moeten zijn voor velen gedurende de kwalificatiefasen.
 
 </details>
 
