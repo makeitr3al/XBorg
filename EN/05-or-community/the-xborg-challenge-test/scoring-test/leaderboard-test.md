@@ -56,30 +56,7 @@ Based on your ranking, calculated and measured from the past 24h by LunarCrush, 
 
 The points are awarded as follows:
 
-* 1st place: 100 points&#x20;
-* 2nd place: 95 points&#x20;
-* 3rd place: 90 points&#x20;
-* 4th place: 88 points&#x20;
-* 5th place: 86 points&#x20;
-
-For subsequent rankings:
-
-* 6th to 10th place: Points decrease from 84 to 80 respectively.&#x20;
-* 11th to 15th place: Points decrease from 75 to 71 respectively.&#x20;
-
-For larger group rankings:
-
-* 16th to 25th place: All receive 70 points&#x20;
-* 26th to 35th place: All receive 65 points&#x20;
-* 36th to 50th place: All receive 60 points&#x20;
-* 51st to 70th place: All receive 55 points&#x20;
-* 71st to 100th place: All receive 50 points&#x20;
-* 101st to 150th place: All receive 40 points&#x20;
-* 151st to 200th place: All receive 30 points&#x20;
-* 201st to 240th place: All receive 20 points&#x20;
-* 241st to 270th place: All receive 15 points&#x20;
-* 271st to 290th place: All receive 10 points&#x20;
-* 291st to 300th place: All receive 5 points
+<img src="../../../.gitbook/assets/points_distribution.png" alt="" data-size="original">
 
 If your rank falls beyond 300th place, you will not receive points for that day. But that's the advantage of this ranking: Every day you get a new chance to perform.
 
