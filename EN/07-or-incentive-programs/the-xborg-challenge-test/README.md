@@ -124,7 +124,7 @@ Through these leagues, the inaugural season will begin, bringing with it rewards
 
 Yes, there are deadlines for earning points based on the game's stages. There are two qualifying phases, followed by the launch of the [leagues](scoring-test/leagues-test.md). During each phase, participants have until the end to accumulate the maximum points and secure their position on the [leaderboard](scoring-test/leaderboard-test.md). Once the leagues are launched, the game operates on a seasonal basis.
 
-Additionally, points are earned daily, and data is extracted from the [LunarCrush ](scoring-test/lunarcrush-test.md)API each evening before midnight to calculate the points. Due to tech liability some data can take up to 48H to be reflected on the [leaderboard](scoring-test/leaderboard-test.md).
+Additionally, points are earned daily, and data is extracted from the [LunarCrush ](scoring-test/lunarcrush-test.md)API each evening before midnight (UTC) to calculate the points. Due to tech liability some data can take up to 48H to be reflected on the [leaderboard](scoring-test/leaderboard-test.md).
 
 </details>
 
