@@ -64,7 +64,7 @@ Le défi est ouvert à tous, mais vos points ne seront comptabilisés que si vou
 
 <summary>Où est mesuré mon engagement social ?</summary>
 
-LunarCrush collecte directement les données de Twitter, ce qui nous permet de les extraire et de les analyser. Par conséquent, nous nous concentrons exclusivement sur la mesure de votre engagement sur Twitter. Veuillez noter que les engagements sur d'autres plateformes sociales ne sont pas pris en compte. Pour plus d'informations, visitez [https://lunarcrush.com/faq.](https://lunarcrush.com/faq.)
+LunarCrush collecte directement des données depuis Twitter, ce qui nous permet de les extraire et de les analyser. Par conséquent, nous nous concentrons exclusivement sur la mesure de votre engagement sur Twitter. Veuillez noter que les interactions sur d'autres plateformes sociales ne sont pas prises en compte. Pour plus d'informations, visitez [https://lunarcrush.com/faq.](https://lunarcrush.com/faq.)
 
 </details>
 
@@ -72,7 +72,7 @@ LunarCrush collecte directement les données de Twitter, ce qui nous permet de l
 
 <summary>Pouvez-vous donner un exemple d'un bon engagement ?</summary>
 
-Un engagement efficace consiste à créer un contenu captivant en utilisant des hashtags, des cashtags et des emojis. Pour plus de conseils, vous pouvez consulter notre guide complet des meilleures pratiques : {LIEN}
+Un engagement efficace consiste à créer du contenu captivant en utilisant des hashtags, des cashtags et des emojis. Pour plus de conseils, vous pouvez consulter notre guide complet des meilleures pratiques : {LIEN}
 
 </details>
 
@@ -88,7 +88,7 @@ Un TGE implique la création et la distribution d'une nouvelle cryptomonnaie ou 
 
 **En quoi un TGE diffère-t-il d'une ICO ?**
 
-Bien que les TGE et les ICO (Initial Coin Offerings) soient tous deux des méthodes de collecte de fonds utilisant des jetons, les termes sont parfois utilisés de manière interchangeable. Cependant, les professionnels du secteur préfèrent souvent "TGE" car cela met en avant la génération et la distribution de jetons, plutôt que l'aspect "offre" ou vente.
+Bien que les TGE et les ICO (Initial Coin Offerings) soient tous deux des méthodes de collecte de fonds utilisant des jetons, les termes sont parfois utilisés de manière interchangeable. Cependant, les professionnels du secteur préfèrent souvent "TGE" car cela met l'accent sur la génération et la distribution de jetons, plutôt que sur l'"offre" ou la vente.
 
 </details>
 
@@ -104,7 +104,7 @@ Bien que les TGE et les ICO (Initial Coin Offerings) soient tous deux des métho
 
 <summary>Que se passe-t-il si ma portée diminue en raison de facteurs externes ?</summary>
 
-Si vous ne maintenez pas ou n'augmentez pas votre engagement, votre classement d'influenceur diminuera, ce qui se traduira par moins de points quotidiens. Cependant, les points que vous avez déjà gagnés ne seront pas perdus.
+Si vous ne maintenez pas ou n'augmentez pas votre engagement, votre classement d'influenceur diminuera, ce qui entraînera moins de points quotidiens. Cependant, les points que vous avez déjà gagnés ne seront pas perdus.
 
 </details>
 
@@ -124,7 +124,7 @@ Pendant les phases de qualification, les participants accumulent des points quot
 
 Oui, il y a des délais pour gagner des points en fonction des étapes du jeu. Il y a deux phases de qualification, suivies du lancement des [ligues](scoring-test/leagues-test.md). Pendant chaque phase, les participants ont jusqu'à la fin pour accumuler le maximum de points et sécuriser leur position dans le [classement](scoring-test/leaderboard-test.md). Une fois les ligues lancées, le jeu fonctionne sur une base saisonnière.
 
-De plus, les points sont gagnés quotidiennement et les données sont extraites de l'API [LunarCrush](scoring-test/lunarcrush-test.md) chaque soir avant minuit pour calculer les points. En raison de la responsabilité technique, certaines données peuvent prendre jusqu'à 48 heures pour apparaître dans le [classement](scoring-test/leaderboard-test.md).
+De plus, les points sont gagnés quotidiennement et les données sont extraites de l'API [LunarCrush](scoring-test/lunarcrush-test.md) chaque soir avant minuit (UTC) pour calculer les points. En raison de la responsabilité technique, certaines données peuvent prendre jusqu'à 48 heures pour apparaître dans le [classement](scoring-test/leaderboard-test.md).
 
 </details>
 

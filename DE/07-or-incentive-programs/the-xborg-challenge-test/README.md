@@ -1,9 +1,9 @@
 # Die XBorg Challenge
 
-> Das vierte Quartal 2023 bietet viele bahnbrechende Ereignisse im XBorg-Universum. Eines davon ist die XBorg Challenge, bei der du als Beitragender helfen kannst, die Botschaft zu verbreiten und dafür belohnt wirst! 💰
+> Das vierte Quartal 2023 bietet viele bahnbrechende Ereignisse im XBorg-Universum. Eines davon ist die XBorg Challenge, bei der du als Teilnehmer helfen kannst, die Botschaft zu verbreiten und dafür belohnt wirst! 💰
 >
 > \
-> Dieser Abschnitt liefert alles, was du darüber wissen musst. \
+> Dieser Abschnitt liefert alle Informationen, die du dazu wissen musst. \
 > Start im September 2023.
 
 
@@ -40,7 +40,7 @@ Der Wettbewerb soll entweder am 1. oder am 30. September 2023 beginnen, abhängi
 
 <summary>Wann endet der Wettbewerb?</summary>
 
-Der Wettbewerb endet zwei Wochen nach dem Token Generation Event ([TGE](./#what-is-a-tge)), dessen genaues Datum zu einem späteren Zeitpunkt mitgeteilt wird.
+Der Wettbewerb endet zwei Wochen nach dem Token Generation Event ([TGE](./#what-is-a-tge)), dessen genaues Datum zu einem späteren Zeitpunkt bekannt gegeben wird.
 
 </details>
 
@@ -112,7 +112,7 @@ Wenn du dein Engagement nicht aufrechterhältst oder steigerst, wird dein Influe
 
 <summary>Wie funktioniert die Qualifikationsphase in Bezug auf das Punktesammeln und den Aufstieg im Ligasystem?</summary>
 
-Während der Qualifikationsphasen sammeln die Teilnehmer täglich Punkte und steigen in den Rängen der Bestenliste auf. Wir werden einen endgültigen Ranglisten-Snapshot sowohl von Qualifikationsphase 1 als auch von Qualifikationsphase 2 behalten. Basierend auf der Gesamtzahl der Teilnehmer und dem Erfolg der gemeinsamen Ziele werden dann Plätze in verschiedenen Ligen verfügbar gemacht. Die besten Performer jeder Qualifikationsphase erhalten dann Einladungen, je nach ihrem Fähigkeitsniveau der am besten geeigneten Liga beizutreten.
+Während der Qualifikationsphasen sammeln die Teilnehmer täglich Punkte und steigen in der Rangliste auf. Wir werden einen endgültigen Ranglisten-Snapshot sowohl von Qualifikationsphase 1 als auch von Qualifikationsphase 2 behalten. Basierend auf der Gesamtzahl der Teilnehmer und dem Erfolg der gemeinsamen Ziele werden anschließend Plätze in verschiedenen Ligen verfügbar gemacht. Die besten Teilnehmer jeder Qualifikationsphase erhalten dann Einladungen, der Liga beizutreten, die ihrem Fähigkeitsniveau am besten entspricht.
 
 Durch diese Ligen beginnt die erste Saison und bringt Belohnungen mit sich, die zu verlockend sind, um sie zu übersehen. Dies markiert den wahren Beginn des Spiels. Neben den großzügigen Belohnungen sollte die Qualifikation für viele während der Qualifikationsphasen ein vorrangiges Ziel sein.
 
@@ -122,14 +122,14 @@ Durch diese Ligen beginnt die erste Saison und bringt Belohnungen mit sich, die 
 
 <summary>Gibt es eine Frist, um bestimmte Aktionen zur Punkteerzielung abzuschließen?</summary>
 
-Ja, es gibt Fristen für das Punktesammeln basierend auf den Phasen des Spiels. Es gibt zwei Qualifikationsphasen, gefolgt vom Start der [Ligen](scoring-test/leagues-test.md). Während jeder Phase haben die Teilnehmer bis zum Ende Zeit, um die maximalen Punkte zu sammeln und ihre Position auf der [Bestenliste](scoring-test/leaderboard-test.md) zu sichern. Sobald die Ligen gestartet sind, läuft das Spiel saisonal.
+Ja, es gibt Fristen für das Punktesammeln basierend auf den Stadien des Spiels. Es gibt zwei Qualifikationsphasen, gefolgt vom Start der [Ligen](scoring-test/leagues-test.md). Während jeder Phase haben die Teilnehmer bis zum Ende Zeit, um die maximalen Punkte zu sammeln und ihre Position auf der [Rangliste](scoring-test/leaderboard-test.md) zu sichern. Sobald die Ligen gestartet sind, läuft das Spiel saisonal.
 
-Zusätzlich werden täglich Punkte verdient und die Daten werden jeden Abend vor Mitternacht aus der [LunarCrush ](scoring-test/lunarcrush-test.md)API extrahiert, um die Punkte zu berechnen. Aufgrund technischer Einschränkungen kann es bis zu 48 Stunden dauern, bis einige Daten auf der [Bestenliste](scoring-test/leaderboard-test.md) angezeigt werden.
+Zusätzlich werden täglich Punkte verdient und die Daten werden jeden Abend vor Mitternacht (UTC) aus der [LunarCrush ](scoring-test/lunarcrush-test.md)API extrahiert, um die Punkte zu berechnen. Aufgrund technischer Einschränkungen kann es bis zu 48 Stunden dauern, bis einige Daten auf der [Rangliste](scoring-test/leaderboard-test.md) angezeigt werden.
 
 </details>
 
 {% hint style="info" %}
-Wenn du Hilfe benötigst, wende dich bitte an unseren Discord (https://discord.gg/xborg), und wenn nötig, wird dir unsere großartige Community schnell helfen.
+Wenn du Hilfe benötigst, wende dich bitte an unseren Discord (https://discord.gg/xborg), und unsere großartige Community wird dir schnell helfen, falls erforderlich.
 
-NB: Unsere Community/Mods/Mitarbeiter sollten dich nicht anschreiben und werden es auch nie tun.
+NB: Unsere Community/Mods/Mitarbeiter sollten dich niemals zuerst anschreiben.
 {% endhint %}
