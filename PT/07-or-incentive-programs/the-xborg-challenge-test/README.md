@@ -1,6 +1,6 @@
 # O Desafio XBorg
 
-> O quarto trimestre de 2023 traz muitos eventos revolucionários no universo XBorg. Um deles é o Desafio XBorg, onde você, como colaborador, pode ajudar a espalhar a palavra e ser recompensado por isso! 💰
+> O quarto trimestre de 2023 traz muitos eventos inovadores no universo XBorg. Um deles é o Desafio XBorg, onde você, como colaborador, pode ajudar a espalhar a palavra e ser recompensado por isso! 💰
 >
 > \
 > Esta seção fornece tudo o que você precisa saber sobre isso. \
@@ -48,7 +48,7 @@ O concurso terminará duas semanas após o Evento de Geração de Tokens ([TGE](
 
 <summary>Como posso participar deste desafio?</summary>
 
-Ao atender ao requisito de ter mais de 500 seguidores no Twitter, pontos serão atribuídos com base no seu Rank de Engajamento de Influenciadores XBorg diário no LunarCrush. Lembre-se de incluir #XBorg, $XBG ou #XBG em seus tweets para um reconhecimento preciso.
+Ao atender ao requisito de ter mais de 500 seguidores no Twitter, pontos serão atribuídos com base no seu ranking diário de Engajamento de Influenciadores XBorg no LunarCrush. Lembre-se de incluir #XBorg, $XBG ou #XBG em seus tweets para um reconhecimento preciso.
 
 </details>
 
@@ -72,7 +72,7 @@ O LunarCrush obtém dados diretamente do Twitter, permitindo-nos extrair e anali
 
 <summary>Você pode dar um exemplo de bom engajamento?</summary>
 
-O engajamento efetivo envolve a criação de conteúdo cativante usando hashtags, cashtags e emojis. Para obter mais orientações, você pode consultar nosso guia abrangente de melhores práticas: {LINK}
+O engajamento efetivo envolve a criação de conteúdo cativante usando hashtags, cashtags e emojis. Para obter mais orientações, consulte nosso guia abrangente de melhores práticas: {LINK}
 
 </details>
 
@@ -84,7 +84,7 @@ TGE significa "Token Generation Event" (Evento de Geração de Tokens), um termo
 
 **O que acontece durante um TGE?**
 
-Um TGE envolve a criação e distribuição de uma nova criptomoeda ou token para participantes iniciais, geralmente para arrecadar fundos para um novo projeto. Esse processo envolve a alocação de um número definido de tokens aos apoiadores ou investidores iniciais pela empresa ou organização emissora.
+Um TGE envolve a criação e distribuição de uma nova criptomoeda ou token para participantes iniciais, geralmente para arrecadar fundos para um novo projeto. Esse processo envolve a alocação de um número definido de tokens para apoiadores ou investidores iniciais pela empresa ou organização emissora.
 
 **Como um TGE difere de um ICO?**
 
@@ -124,12 +124,12 @@ Através dessas ligas, a temporada inaugural começará, trazendo recompensas t�
 
 Sim, existem prazos para ganhar pontos com base nas etapas do jogo. Existem duas fases de qualificação, seguidas pelo lançamento das [ligas](scoring-test/leagues-test.md). Durante cada fase, os participantes têm até o final para acumular o máximo de pontos e garantir sua posição no [ranking](scoring-test/leaderboard-test.md). Uma vez que as ligas são lançadas, o jogo funciona em uma base sazonal.
 
-Além disso, os pontos são acumulados diariamente e os dados são extraídos da API do [LunarCrush](scoring-test/lunarcrush-test.md) todas as noites antes da meia-noite para calcular os pontos. Devido a questões técnicas, alguns dados podem levar até 48 horas para serem refletidos no [ranking](scoring-test/leaderboard-test.md).
+Além disso, os pontos são acumulados diariamente e os dados são extraídos da API do [LunarCrush](scoring-test/lunarcrush-test.md) todas as noites antes da meia-noite (UTC) para calcular os pontos. Devido a questões técnicas, alguns dados podem levar até 48 horas para serem refletidos no [ranking](scoring-test/leaderboard-test.md).
 
 </details>
 
 {% hint style="info" %}
-Se você precisar de ajuda, entre em nosso Discord (https://discord.gg/xborg) e, se necessário, nossa incrível comunidade irá ajudá-lo rapidamente.
+Se você precisar de ajuda, entre em nosso Discord (https://discord.gg/xborg) e, se necessário, nossa incrível comunidade o ajudará rapidamente.
 
 Observação: Nossa comunidade/moderadores/membros da equipe não devem e nunca entrarão em contato com você primeiro.
 {% endhint %}

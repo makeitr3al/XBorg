@@ -48,7 +48,7 @@ De wedstrijd eindigt twee weken na het Token Generation Event ([TGE](./#what-is-
 
 <summary>Hoe kan ik deelnemen aan deze uitdaging?</summary>
 
-Als je aan de vereiste van meer dan 500 Twitter-volgers voldoet, worden punten toegekend op basis van je dagelijkse XBorg Influencers Engagement Rank op LunarCrush. Vergeet niet om #XBorg, $XBG of #XBG op te nemen in je tweets voor nauwkeurige herkenning.
+Als je voldoet aan de eis van meer dan 500 Twitter-volgers, worden punten toegekend op basis van je dagelijkse XBorg Influencers Engagement Rank op LunarCrush. Vergeet niet om #XBorg, $XBG of #XBG op te nemen in je tweets voor nauwkeurige herkenning.
 
 </details>
 
@@ -80,7 +80,7 @@ Effectieve betrokkenheid houdt in dat je boeiende inhoud creëert met behulp van
 
 <summary>Wat is een TGE?</summary>
 
-TGE staat voor "Token Generation Event", een term die voornamelijk wordt gebruikt in de blockchain- en cryptocurrency-sector.
+TGE staat voor "Token Generation Event", een term die voornamelijk wordt gebruikt in de blockchain- en cryptocurrencysectoren.
 
 **Wat gebeurt er tijdens een TGE?**
 
@@ -88,7 +88,7 @@ Een TGE omvat de creatie en distributie van een nieuwe cryptocurrency of token a
 
 **Hoe verschilt een TGE van een ICO?**
 
-Hoewel zowel TGE's als ICO's (Initial Coin Offerings) methoden zijn om geld in te zamelen met behulp van tokens, worden de termen soms door elkaar gebruikt. Echter, insiders in de industrie geven vaak de voorkeur aan "TGE" omdat het de generatie en distributie van tokens benadrukt, in plaats van het "aanbieden" of verkopen aspect.
+Hoewel zowel TGE's als ICO's (Initial Coin Offerings) methoden zijn om geld in te zamelen met behulp van tokens, worden de termen soms door elkaar gebruikt. Deskundigen in de branche geven echter vaak de voorkeur aan "TGE" omdat het de generatie en distributie van tokens benadrukt, in plaats van het "aanbieden" of verkopen aspect.
 
 </details>
 
@@ -104,7 +104,7 @@ Hoewel zowel TGE's als ICO's (Initial Coin Offerings) methoden zijn om geld in t
 
 <summary>Wat gebeurt er als mijn bereik afneemt als gevolg van externe factoren?</summary>
 
-Als je je betrokkenheid niet behoudt of vergroot, zal je influencer-rangorde dalen, wat resulteert in minder dagelijkse punten. De punten die je al hebt verdiend gaan echter niet verloren.
+Als je betrokkenheid niet behoudt of vergroot, zal je influencer-rang dalen, wat resulteert in minder dagelijkse punten. De punten die je al hebt verdiend, gaan echter niet verloren.
 
 </details>
 
@@ -112,9 +112,9 @@ Als je je betrokkenheid niet behoudt of vergroot, zal je influencer-rangorde dal
 
 <summary>Hoe werkt de kwalificatiefase wat betreft het verdienen van punten en het doorstromen naar het leaguesysteem?</summary>
 
-Tijdens de kwalificatiefasen verzamelen deelnemers dagelijks punten en stijgen ze op de ranglijst. We behouden een definitieve ranglijst-snapshot van zowel Kwalificatiefase 1 als Kwalificatiefase 2. Op basis hiervan, afhankelijk van het totale aantal deelnemers en het succes van collectieve doelstellingen, zullen er plaatsen beschikbaar worden gesteld in verschillende Leagues. De best presterende deelnemers van elke kwalificatiefase ontvangen vervolgens uitnodigingen om zich aan te sluiten bij de meest geschikte league op basis van hun vaardigheidsniveau.
+Tijdens de kwalificatiefasen verzamelen deelnemers dagelijks punten en stijgen ze op de ranglijst. We zullen een definitieve ranglijst-snapshot behouden van zowel Kwalificatiefase 1 als Kwalificatiefase 2. Op basis hiervan, afhankelijk van het totale aantal deelnemers en het succes van collectieve doelstellingen, zullen er plaatsen beschikbaar worden gesteld in verschillende Leagues. De beste presteerders van elke kwalificatiefase ontvangen vervolgens uitnodigingen om zich aan te sluiten bij de meest geschikte league op basis van hun vaardigheidsniveau.
 
-Via deze leagues zal het inaugurele seizoen beginnen, met beloningen die te verleidelijk zijn om te negeren. Dit markeert het echte begin van het spel. Naast de aanzienlijke beloningen zou kwalificatie een belangrijk doel moeten zijn voor velen gedurende de kwalificatiefasen.
+Via deze leagues begint het inaugurele seizoen, met beloningen die te verleidelijk zijn om te negeren. Dit markeert het echte begin van het spel. Naast de aanzienlijke beloningen zou kwalificatie een belangrijk doel moeten zijn voor velen gedurende de kwalificatiefasen.
 
 </details>
 
@@ -124,7 +124,7 @@ Via deze leagues zal het inaugurele seizoen beginnen, met beloningen die te verl
 
 Ja, er zijn deadlines voor het verdienen van punten op basis van de fasen van het spel. Er zijn twee kwalificatiefasen, gevolgd door de lancering van de [leagues](scoring-test/leagues-test.md). Tijdens elke fase hebben deelnemers tot het einde de tijd om de maximale punten te verzamelen en hun positie op het [leaderboard](scoring-test/leaderboard-test.md) veilig te stellen. Zodra de leagues zijn gelanceerd, werkt het spel op seizoensbasis.
 
-Bovendien worden punten dagelijks verdiend en wordt de data elke avond voor middernacht uit de [LunarCrush](scoring-test/lunarcrush-test.md) API gehaald om de punten te berekenen. Vanwege technische beperkingen kan het tot 48 uur duren voordat sommige gegevens worden weergegeven op het [leaderboard](scoring-test/leaderboard-test.md).
+Bovendien worden punten dagelijks verdiend en wordt de data elke avond voor middernacht (UTC) uit de [LunarCrush](scoring-test/lunarcrush-test.md) API gehaald om de punten te berekenen. Vanwege technische beperkingen kan het tot 48 uur duren voordat sommige gegevens worden weergegeven op het [leaderboard](scoring-test/leaderboard-test.md).
 
 </details>
 
