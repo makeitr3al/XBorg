@@ -42,6 +42,7 @@
 ## 🤑 07 | INCENTIVE PROGRAMS
 
 * [The XBorg Challenge](07-or-incentive-programs/the-xborg-challenge-test/README.md)
+  * [Terms and Conditions](07-or-incentive-programs/the-xborg-challenge-test/terms-and-conditions.md)
   * [Rules](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
   * [Rewards](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
   * [Scoring](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)
