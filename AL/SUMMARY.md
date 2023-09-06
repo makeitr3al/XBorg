@@ -41,12 +41,13 @@
 
 ## 🤑 07 | PROGRAMET E STIMULIMIT
 
-* [Sfidat e XBorg-ut](07-or-incentive-programs/the-xborg-challenge-test/README.md)
+* [Thirrja XBorg](07-or-incentive-programs/the-xborg-challenge-test/README.md)
+  * [Kushtet dhe Kushtetuta](07-or-incentive-programs/the-xborg-challenge-test/terms-and-conditions.md)
   * [Rregullat](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
   * [Shpërblimet](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
   * [Vlerësimi](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)
     * [LunarCrush](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
-    * [Tabela e Klasifikimit](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
+    * [Tabela e Liderëve](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
     * [Ligat](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leagues-test.md)
 * [Programi i Referimit](07-or-incentive-programs/referral-program.md)
 * [Programi i Ambasadorëve](07-or-incentive-programs/ambassador-program.md)

@@ -42,11 +42,12 @@
 ## 🤑 07 | PROGRAMMES D'INCITATION
 
 * [Le défi XBorg](07-or-incentive-programs/the-xborg-challenge-test/README.md)
+  * [Termes et conditions](07-or-incentive-programs/the-xborg-challenge-test/terms-and-conditions.md)
   * [Règles](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
   * [Récompenses](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
   * [Classement](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)
     * [LunarCrush](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
-    * [Tableau des leaders](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
+    * [Classement](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
     * [Ligues](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leagues-test.md)
 * [Programme de parrainage](07-or-incentive-programs/referral-program.md)
 * [Programme d'ambassadeur](07-or-incentive-programs/ambassador-program.md)

@@ -1,6 +1,6 @@
 # Inhoudsopgave
 
-* [XBorg's Ultieme FAQ](README.md)
+* [XBorg's Ultimate FAQ](README.md)
 
 ## ℹ 01 | KERN
 
@@ -14,7 +14,7 @@
 * [Gaming Application Network](02-of-protocol/gaming-application-network/README.md)
   * [Gaming Engagement App](02-of-protocol/gaming-application-network/gaming-engagement-app.md)
   * [Soulbound Launchpad](02-of-protocol/gaming-application-network/soulbound-launchpad.md)
-  * [Initiële Team Aanbiedingen](02-of-protocol/gaming-application-network/initial-team-offerings.md)
+  * [Initial Team Offerings](02-of-protocol/gaming-application-network/initial-team-offerings.md)
 * [Governance](02-of-protocol/governance.md)
 * [Incentives](02-of-protocol/incentives.md)
 
@@ -37,19 +37,20 @@
 
 * [XBG](06-of-token/xbg.md)
 * [Fundraise](06-of-token/fundraise.md)
-* [Seed Ronde](06-of-token/seed-ronde.md)
+* [Seedronde](06-of-token/seedronde.md)
 
 ## 🤑 07 | INCENTIVE PROGRAMMA'S
 
-* [De XBorg Uitdaging](07-of-incentive-programmas/de-xborg-uitdaging-test/README.md)
-  * [Regels](07-of-incentive-programmas/de-xborg-uitdaging-test/regels-test.md)
-  * [Beloningen](07-of-incentive-programmas/de-xborg-uitdaging-test/beloningen-test.md)
-  * [Scoren](07-of-incentive-programmas/de-xborg-uitdaging-test/scoren-test/README.md)
-    * [LunarCrush](07-of-incentive-programmas/de-xborg-uitdaging-test/scoren-test/lunarcrush-test.md)
-    * [Leaderboard](07-of-incentive-programmas/de-xborg-uitdaging-test/scoren-test/leaderboard-test.md)
-    * [Leagues](07-of-incentive-programmas/de-xborg-uitdaging-test/scoren-test/leagues-test.md)
-* [Verwijzingsprogramma](07-of-incentive-programmas/verwijzingsprogramma.md)
-* [Ambassadeur Programma](07-of-incentive-programmas/ambassadeur-programma.md)
+* [De XBorg Uitdaging](07-of-incentive-programma's/de-xborg-uitdaging-test/README.md)
+  * [Voorwaarden](07-of-incentive-programma's/de-xborg-uitdaging-test/voorwaarden.md)
+  * [Regels](07-of-incentive-programma's/de-xborg-uitdaging-test/regels-test.md)
+  * [Beloningen](07-of-incentive-programma's/de-xborg-uitdaging-test/beloningen-test.md)
+  * [Scoren](07-of-incentive-programma's/de-xborg-uitdaging-test/scoren-test/README.md)
+    * [LunarCrush](07-of-incentive-programma's/de-xborg-uitdaging-test/scoren-test/lunarcrush-test.md)
+    * [Leaderboard](07-of-incentive-programma's/de-xborg-uitdaging-test/scoren-test/leaderboard-test.md)
+    * [Competities](07-of-incentive-programma's/de-xborg-uitdaging-test/scoren-test/competities-test.md)
+* [Verwijzingsprogramma](07-of-incentive-programma's/verwijzingsprogramma.md)
+* [Ambassadeursprogramma](07-of-incentive-programma's/ambassadeursprogramma.md)
 
 ## 💼 08 | ORGANISATIE
 

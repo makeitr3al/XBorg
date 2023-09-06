@@ -42,6 +42,7 @@
 ## 🤑 07 | 激励计划
 
 * [XBorg挑战](07-or-incentive-programs/the-xborg-challenge-test/README.md)
+  * [条款和条件](07-or-incentive-programs/the-xborg-challenge-test/terms-and-conditions.md)
   * [规则](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
   * [奖励](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
   * [评分](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)
