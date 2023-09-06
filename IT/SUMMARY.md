@@ -1,6 +1,6 @@
 # Indice
 
-* [FAQ ultime di XBorg](README.md)
+* [XBorg's Ultimate FAQ](README.md)
 
 ## ℹ 01 | CORE
 
@@ -10,11 +10,11 @@
 
 ## 📄 02 | PROTOCOLLO
 
-* [Rete di credenziali di gioco](02-or-protocol/gaming-credential-network.md)
-* [Rete di applicazioni di gioco](02-or-protocol/gaming-application-network/README.md)
-  * [App di coinvolgimento nel gioco](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
+* [Gaming Credential Network](02-or-protocol/gaming-credential-network.md)
+* [Gaming Application Network](02-or-protocol/gaming-application-network/README.md)
+  * [Gaming Engagement App](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
   * [Soulbound Launchpad](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
-  * [Offerte iniziali del team](02-or-protocol/gaming-application-network/initial-team-offerings.md)
+  * [Initial Team Offerings](02-or-protocol/gaming-application-network/initial-team-offerings.md)
 * [Governance](02-or-protocol/governance.md)
 * [Incentivi](02-or-protocol/incentives.md)
 
@@ -37,18 +37,18 @@
 
 * [XBG](06-or-token/xbg.md)
 * [Raccolta fondi](06-or-token/fundraise.md)
-* [Round di seed](06-or-token/seed-round.md)
+* [Seed Round](06-or-token/seed-round.md)
 
-## 🤑 07 | PROGRAMMI DI INCENTIVI
+## 🤑 07 | PROGRAMMI DI INCENTIVAZIONE
 
-* [La sfida di XBorg](07-or-incentive-programs/the-xborg-challenge-test/README.md)
-  * [Termini e condizioni](07-or-incentive-programs/the-xborg-challenge-test/terms-and-conditions.md)
-  * [Regole](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
-  * [Premi](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
-  * [Punteggio](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)
-    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
-    * [Classifica](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
-    * [Leghe](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leagues-test.md)
+* [La sfida di XBorg](07-or-incentive-programs/the-xborg-challenge/README.md)
+  * [Termini e condizioni](07-or-incentive-programs/the-xborg-challenge/terms-and-conditions.md)
+  * [Regole](07-or-incentive-programs/the-xborg-challenge/rules.md)
+  * [Premi](07-or-incentive-programs/the-xborg-challenge/rewards.md)
+  * [Punteggio](07-or-incentive-programs/the-xborg-challenge/scoring/README.md)
+    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge/scoring/lunarcrush.md)
+    * [Classifica](07-or-incentive-programs/the-xborg-challenge/scoring/leaderboard.md)
+    * [Leghe](07-or-incentive-programs/the-xborg-challenge/scoring/leagues.md)
 * [Programma di referral](07-or-incentive-programs/referral-program.md)
 * [Programma di ambasciatori](07-or-incentive-programs/ambassador-program.md)
 

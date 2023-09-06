@@ -6,7 +6,7 @@
 
 <summary>Welche Belohnung erhalte ich?</summary>
 
-Basierend auf deinem Punktestand und den erreichten gemeinsamen Zielen erhältst du eine individuelle Belohnung in $XBG-Token sowie eine gemeinsame Belohnung in $XBG-Token. Alle Belohnungen sind [gesperrt](rewards-test.md#wie-lange-sind-belohnungen-gesperrt).
+Basierend auf deinem Punktestand und den erreichten gemeinsamen Zielen erhältst du eine individuelle Belohnung in $XBG-Token sowie eine gemeinsame Belohnung in $XBG-Token. Alle Belohnungen sind [gesperrt](rewards.md#wie-lange-sind-belohnungen-gesperrt).
 
 ![](../../.gitbook/assets/Rewards.png)
 
@@ -22,7 +22,7 @@ Basierend auf deinem Punktestand und den erreichten gemeinsamen Zielen erhältst
 
 <summary>Wie erhalte ich meine Belohnung?</summary>
 
-Am Ende des Qualifikations- oder Saisonzeitraums werden die Belohnungen basierend auf deinem endgültigen Rang nach Abschluss des Wettbewerbs an die von dir angegebene Wallet gesendet. Hinweis: Alle Belohnungen sind [gesperrt](rewards-test.md#wie-lange-sind-belohnungen-gesperrt).
+Am Ende des Qualifikations- oder Saisonzeitraums werden die Belohnungen basierend auf deinem endgültigen Rang nach Abschluss des Wettbewerbs an die von dir angegebene Wallet gesendet. Hinweis: Alle Belohnungen sind [gesperrt](rewards.md#wie-lange-sind-belohnungen-gesperrt).
 
 </details>
 
@@ -52,7 +52,7 @@ Eine gemeinsame Belohnung ist eine Demonstration unserer Wertschätzung für die
 
 <summary>Wie wird die gemeinsame Belohnung aufgeteilt? Was kann ich tun, um sie zu erhöhen?</summary>
 
-Die Aufteilung der gemeinsamen Belohnung wird durch deine Platzierung bestimmt und kann durch das Erreichen gemeinsamer Meilensteine oder das Abschließen von Blitzaktionen gemeinsam erhöht werden. Weitere Informationen findest du in den [Regeln](rules-test.md).
+Die Aufteilung der gemeinsamen Belohnung wird durch deine Platzierung bestimmt und kann durch das Erreichen gemeinsamer Meilensteine oder das Abschließen von Blitzaktionen gemeinsam erhöht werden. Weitere Informationen findest du in den [Regeln](rules.md).
 
 </details>
 
@@ -60,7 +60,7 @@ Die Aufteilung der gemeinsamen Belohnung wird durch deine Platzierung bestimmt u
 
 <summary>Was kann ich tun, um meine Belohnung zu erhöhen?</summary>
 
-Der beste Weg, um deine Belohnung zu maximieren, besteht darin, Konsistenz mit Viralität zu kombinieren. Je größer deine Reichweite ist, desto höher steigst du in der Rangliste auf.
+Der beste Weg, um deine Belohnung zu maximieren, besteht darin, Konsistenz mit Viralität zu kombinieren. Je größer deine Reichweite ist, desto höher steigst du auf der Rangliste auf.
 
 </details>
 
@@ -68,7 +68,7 @@ Der beste Weg, um deine Belohnung zu maximieren, besteht darin, Konsistenz mit V
 
 <summary>Welche Belohnungen gibt es für die erste Qualifikationsphase?</summary>
 
-In der ersten Qualifikationsphase summiert sich die Gesamtbelohnung auf maximal 100k XBG, wobei ein Teil an das erfolgreiche Erreichen gemeinsamer Ziele gebunden ist.
+In der ersten Qualifikationsphase belaufen sich die Gesamtbelohnungen auf maximal 100.000 XBG, wobei ein Teil an das erfolgreiche Erreichen gemeinsamer Ziele gebunden ist.
 
 </details>
 

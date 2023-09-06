@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>Gibt es Bonuspunkte für die Auseinandersetzung mit bestimmten Themen oder Hashtags?</summary>
+<summary>Gibt es Bonuspunkte für die Beschäftigung mit bestimmten Themen oder Hashtags?</summary>
 
 Es könnten Bonuspunkte geben 👀 \
 Achte auf gemeinsame Ziele und verwende in deinen Beiträgen #XBorg, $XBG und #XBG.
@@ -11,7 +11,7 @@ Achte auf gemeinsame Ziele und verwende in deinen Beiträgen #XBorg, $XBG und #X
 
 <details>
 
-<summary>Gibt es besondere Veranstaltungen oder Herausforderungen, bei denen es extra Punkte gibt?</summary>
+<summary>Gibt es besondere Veranstaltungen oder Herausforderungen, bei denen es zusätzliche Punkte gibt?</summary>
 
 Das Metaspiel beinhaltet das gemeinsame Freischalten des gemeinsamen Belohnungstopfes, was deine Einnahmen erheblich steigern kann.
 

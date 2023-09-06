@@ -41,17 +41,17 @@
 
 ## 🤑 07 | PROGRAMAS DE INCENTIVO
 
-* [O Desafio XBorg](07-or-incentive-programs/the-xborg-challenge-test/README.md)
-  * [Termos e Condições](07-or-incentive-programs/the-xborg-challenge-test/terms-and-conditions.md)
-  * [Regras](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
-  * [Recompensas](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
-  * [Pontuação](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)
-    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
-    * [Quadro de Líderes](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
-    * [Ligas](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leagues-test.md)
+* [O Desafio XBorg](07-or-incentive-programs/the-xborg-challenge/README.md)
+  * [Termos e Condições](07-or-incentive-programs/the-xborg-challenge/terms-and-conditions.md)
+  * [Regras](07-or-incentive-programs/the-xborg-challenge/rules.md)
+  * [Recompensas](07-or-incentive-programs/the-xborg-challenge/rewards.md)
+  * [Pontuação](07-or-incentive-programs/the-xborg-challenge/scoring/README.md)
+    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge/scoring/lunarcrush.md)
+    * [Quadro de Líderes](07-or-incentive-programs/the-xborg-challenge/scoring/leaderboard.md)
+    * [Ligas](07-or-incentive-programs/the-xborg-challenge/scoring/leagues.md)
 * [Programa de Indicação](07-or-incentive-programs/referral-program.md)
 * [Programa de Embaixadores](07-or-incentive-programs/ambassador-program.md)
 
 ## 💼 08 | ORGANIZAÇÃO
 
-* [Legal e Financeiro](08-or-organization/legal-and-financial.md)
+* [Jurídico e Financeiro](08-or-organization/legal-and-financial.md)
