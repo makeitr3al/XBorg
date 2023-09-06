@@ -42,6 +42,7 @@
 ## 🤑 07 | PROGRAMAS DE INCENTIVO
 
 * [O Desafio XBorg](07-or-incentive-programs/the-xborg-challenge-test/README.md)
+  * [Termos e Condições](07-or-incentive-programs/the-xborg-challenge-test/terms-and-conditions.md)
   * [Regras](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
   * [Recompensas](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
   * [Pontuação](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)
@@ -53,4 +54,4 @@
 
 ## 💼 08 | ORGANIZAÇÃO
 
-* [Jurídico e Financeiro](08-or-organization/legal-and-financial.md)
+* [Legal e Financeiro](08-or-organization/legal-and-financial.md)

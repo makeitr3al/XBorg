@@ -42,6 +42,7 @@
 ## 🤑 07 | ANREIZPROGRAMME
 
 * [Die XBorg Challenge](07-or-incentive-programs/the-xborg-challenge-test/README.md)
+  * [Allgemeine Geschäftsbedingungen](07-or-incentive-programs/the-xborg-challenge-test/terms-and-conditions.md)
   * [Regeln](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
   * [Belohnungen](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
   * [Punktevergabe](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)

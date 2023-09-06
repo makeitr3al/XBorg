@@ -1,12 +1,12 @@
 # جدول المحتويات
 
-* [أسئلة وأجوبة نهائية حول XBorg](README.md)
+* [أسئلة وأجوبة حول XBorg النهائية](README.md)
 
-## ℹ 01 | النواة
+## ℹ 01 | الأساسيات
 
 * [معلومات](01-or-core/information.md)
 * [التعاون](01-or-core/collaboration.md)
-* [خريطة الطريق](01-or-core/roadmap.md)
+* [خارطة الطريق](01-or-core/roadmap.md)
 
 ## 📄 02 | البروتوكول
 
@@ -36,12 +36,13 @@
 ## 🪙 06 | الرمز
 
 * [XBG](06-or-token/xbg.md)
-* [جمع الأموال](06-or-token/fundraise.md)
+* [جمع التبرعات](06-or-token/fundraise.md)
 * [جولة البذور](06-or-token/seed-round.md)
 
 ## 🤑 07 | برامج الحوافز
 
 * [تحدي XBorg](07-or-incentive-programs/the-xborg-challenge-test/README.md)
+  * [الشروط والأحكام](07-or-incentive-programs/the-xborg-challenge-test/terms-and-conditions.md)
   * [القواعد](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
   * [المكافآت](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
   * [التسجيل](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)
