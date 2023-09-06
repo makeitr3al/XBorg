@@ -41,14 +41,14 @@
 
 ## 🤑 07 | インセンティブプログラム
 
-* [XBorgチャレンジ](07-or-incentive-programs/the-xborg-challenge-test/README.md)
-  * [利用規約](07-or-incentive-programs/the-xborg-challenge-test/terms-and-conditions.md)
-  * [ルール](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
-  * [報酬](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
-  * [スコアリング](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)
-    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
-    * [リーダーボード](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
-    * [リーグ](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leagues-test.md)
+* [XBorgチャレンジ](07-or-incentive-programs/the-xborg-challenge/README.md)
+  * [利用規約](07-or-incentive-programs/the-xborg-challenge/terms-and-conditions.md)
+  * [ルール](07-or-incentive-programs/the-xborg-challenge/rules.md)
+  * [報酬](07-or-incentive-programs/the-xborg-challenge/rewards.md)
+  * [スコアリング](07-or-incentive-programs/the-xborg-challenge/scoring/README.md)
+    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge/scoring/lunarcrush.md)
+    * [リーダーボード](07-or-incentive-programs/the-xborg-challenge/scoring/leaderboard.md)
+    * [リーグ](07-or-incentive-programs/the-xborg-challenge/scoring/leagues.md)
 * [紹介プログラム](07-or-incentive-programs/referral-program.md)
 * [アンバサダープログラム](07-or-incentive-programs/ambassador-program.md)
 
