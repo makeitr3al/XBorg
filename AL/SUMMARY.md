@@ -16,7 +16,7 @@
   * [Soulbound Launchpad](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
   * [Ofertat e Ekipit të Parë](02-or-protocol/gaming-application-network/initial-team-offerings.md)
 * [Qeverisja](02-or-protocol/governance.md)
-* [Stimulimi](02-or-protocol/incentives.md)
+* [Stimulimet](02-or-protocol/incentives.md)
 
 ## 📈 03 | TREG
 
@@ -36,19 +36,19 @@
 ## 🪙 06 | TOKEN
 
 * [XBG](06-or-token/xbg.md)
-* [Mobilizim i Fondeve](06-or-token/fundraise.md)
+* [Rritje e Fondeve](06-or-token/fundraise.md)
 * [Raundi i Parë](06-or-token/seed-round.md)
 
 ## 🤑 07 | PROGRAMET E STIMULIMIT
 
-* [Thirrja XBorg](07-or-incentive-programs/the-xborg-challenge-test/README.md)
-  * [Kushtet dhe Kushtetuta](07-or-incentive-programs/the-xborg-challenge-test/terms-and-conditions.md)
-  * [Rregullat](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
-  * [Shpërblimet](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
-  * [Vlerësimi](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)
-    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
-    * [Tabela e Liderëve](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
-    * [Ligat](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leagues-test.md)
+* [Thirrja XBorg](07-or-incentive-programs/the-xborg-challenge/README.md)
+  * [Kushtet dhe Kushtet e Përdorimit](07-or-incentive-programs/the-xborg-challenge/terms-and-conditions.md)
+  * [Rregullat](07-or-incentive-programs/the-xborg-challenge/rules.md)
+  * [Shpërblimet](07-or-incentive-programs/the-xborg-challenge/rewards.md)
+  * [Vlerësimi](07-or-incentive-programs/the-xborg-challenge/scoring/README.md)
+    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge/scoring/lunarcrush.md)
+    * [Tabela e Vlerësimit](07-or-incentive-programs/the-xborg-challenge/scoring/leaderboard.md)
+    * [Ligat](07-or-incentive-programs/the-xborg-challenge/scoring/leagues.md)
 * [Programi i Referimit](07-or-incentive-programs/referral-program.md)
 * [Programi i Ambasadorëve](07-or-incentive-programs/ambassador-program.md)
 

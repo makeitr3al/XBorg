@@ -1,8 +1,8 @@
 # جدول المحتويات
 
-* [أسئلة وأجوبة حول XBorg النهائية](README.md)
+* [أسئلة وأجوبة نهائية حول XBorg](README.md)
 
-## ℹ 01 | الأساسيات
+## ℹ 01 | النواة
 
 * [معلومات](01-or-core/information.md)
 * [التعاون](01-or-core/collaboration.md)
@@ -41,14 +41,14 @@
 
 ## 🤑 07 | برامج الحوافز
 
-* [تحدي XBorg](07-or-incentive-programs/the-xborg-challenge-test/README.md)
-  * [الشروط والأحكام](07-or-incentive-programs/the-xborg-challenge-test/terms-and-conditions.md)
-  * [القواعد](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
-  * [المكافآت](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
-  * [التسجيل](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)
-    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
-    * [لوحة المتصدرين](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
-    * [الدوريات](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leagues-test.md)
+* [تحدي XBorg](07-or-incentive-programs/the-xborg-challenge/README.md)
+  * [الشروط والأحكام](07-or-incentive-programs/the-xborg-challenge/terms-and-conditions.md)
+  * [القواعد](07-or-incentive-programs/the-xborg-challenge/rules.md)
+  * [المكافآت](07-or-incentive-programs/the-xborg-challenge/rewards.md)
+  * [التسجيل](07-or-incentive-programs/the-xborg-challenge/scoring/README.md)
+    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge/scoring/lunarcrush.md)
+    * [لوحة المتصدرين](07-or-incentive-programs/the-xborg-challenge/scoring/leaderboard.md)
+    * [الدوريات](07-or-incentive-programs/the-xborg-challenge/scoring/leagues.md)
 * [برنامج الإحالة](07-or-incentive-programs/referral-program.md)
 * [برنامج السفراء](07-or-incentive-programs/ambassador-program.md)
 

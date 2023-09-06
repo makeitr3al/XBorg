@@ -41,14 +41,14 @@
 
 ## 🤑 07 | 激励计划
 
-* [XBorg挑战](07-or-incentive-programs/the-xborg-challenge-test/README.md)
-  * [条款和条件](07-or-incentive-programs/the-xborg-challenge-test/terms-and-conditions.md)
-  * [规则](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
-  * [奖励](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
-  * [评分](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)
-    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
-    * [排行榜](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
-    * [联盟](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leagues-test.md)
+* [XBorg挑战](07-or-incentive-programs/the-xborg-challenge/README.md)
+  * [条款和条件](07-or-incentive-programs/the-xborg-challenge/terms-and-conditions.md)
+  * [规则](07-or-incentive-programs/the-xborg-challenge/rules.md)
+  * [奖励](07-or-incentive-programs/the-xborg-challenge/rewards.md)
+  * [得分](07-or-incentive-programs/the-xborg-challenge/scoring/README.md)
+    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge/scoring/lunarcrush.md)
+    * [排行榜](07-or-incentive-programs/the-xborg-challenge/scoring/leaderboard.md)
+    * [联盟](07-or-incentive-programs/the-xborg-challenge/scoring/leagues.md)
 * [推荐计划](07-or-incentive-programs/referral-program.md)
 * [大使计划](07-or-incentive-programs/ambassador-program.md)
 
