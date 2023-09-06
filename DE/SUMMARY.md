@@ -41,14 +41,14 @@
 
 ## 🤑 07 | ANREIZPROGRAMME
 
-* [Die XBorg Challenge](07-or-incentive-programs/the-xborg-challenge-test/README.md)
-  * [Allgemeine Geschäftsbedingungen](07-or-incentive-programs/the-xborg-challenge-test/terms-and-conditions.md)
-  * [Regeln](07-or-incentive-programs/the-xborg-challenge-test/rules-test.md)
-  * [Belohnungen](07-or-incentive-programs/the-xborg-challenge-test/rewards-test.md)
-  * [Punktevergabe](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/README.md)
-    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/lunarcrush-test.md)
-    * [Bestenliste](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leaderboard-test.md)
-    * [Ligen](07-or-incentive-programs/the-xborg-challenge-test/scoring-test/leagues-test.md)
+* [Die XBorg Challenge](07-or-incentive-programs/the-xborg-challenge/README.md)
+  * [Allgemeine Geschäftsbedingungen](07-or-incentive-programs/the-xborg-challenge/terms-and-conditions.md)
+  * [Regeln](07-or-incentive-programs/the-xborg-challenge/rules.md)
+  * [Belohnungen](07-or-incentive-programs/the-xborg-challenge/rewards.md)
+  * [Punktevergabe](07-or-incentive-programs/the-xborg-challenge/scoring/README.md)
+    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge/scoring/lunarcrush.md)
+    * [Bestenliste](07-or-incentive-programs/the-xborg-challenge/scoring/leaderboard.md)
+    * [Ligen](07-or-incentive-programs/the-xborg-challenge/scoring/leagues.md)
 * [Empfehlungsprogramm](07-or-incentive-programs/referral-program.md)
 * [Botschafterprogramm](07-or-incentive-programs/ambassador-program.md)
 
