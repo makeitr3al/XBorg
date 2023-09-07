@@ -55,3 +55,5 @@
 ## 💼 08 | ORGANISATION
 
 * [Rechtliches und Finanzielles](08-or-organization/legal-and-financial.md)
+
+* 
