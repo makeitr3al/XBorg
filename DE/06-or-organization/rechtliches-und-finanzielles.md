@@ -1,2 +1,0 @@
-# Rechtliches und Finanzielles
-

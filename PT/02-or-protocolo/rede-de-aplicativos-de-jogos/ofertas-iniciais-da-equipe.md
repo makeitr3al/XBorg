@@ -1,2 +1,0 @@
-# Ofertas Iniciais da Equipe
-
