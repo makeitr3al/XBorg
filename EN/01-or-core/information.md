@@ -90,12 +90,12 @@ We are dedicated to achieving this by working closely with our players to create
 
 <summary>What are some useful links?</summary>
 
-* [**Website**](https://www.xborg.com)&#x20;
-* [**Twitter**](https://twitter.com/xborg\_official)
-* [**Discord**](https://discord.com/invite/xborg)&#x20;
+* [**Website**](https://www.xborg.com)
+* [**Twitter**](https://twitter.com/XBorgHQ)
+* [**Discord**](https://discord.com/invite/xborg)
 * [**YouTube**](https://www.youtube.com/@xborgofficial)
 * [**Twitch**](https://www.twitch.tv/xborgofficial)
-* [**Medium**](https://medium.com/xborg-official)&#x20;
+* [**Medium**](https://medium.com/xborg-official)
 * [**Pitch deck**](https://docsend.com/view/5dwn74pn6izud3vb)
 * [**App**](http://gaming.xborg.com/)
 * [**Launchpad**](https://launchpad.xborg.com/)
