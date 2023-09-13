@@ -1,8 +1,8 @@
 # Información
 
-> Esta sección busca ofrecer al lector una visión general de XBorg antes de explorar el resto de este documento. Este es el mejor lugar para comenzar a desarrollar una comprensión general de XBorg.
+> Esta sección busca ofrecer al lector una visión general de XBorg antes de que exploren el resto de este documento. Este es el mejor lugar para comenzar a desarrollar una comprensión general de XBorg.
 
-#### A continuación encontrarás a Louis Regis, CEO de XBorg, presentando XBorg.
+#### A continuación encontrarás al CEO de XBorg, Louis Regis, presentando XBorg.
 
 {% embed url="https://youtu.be/yqQf0ETfB9w" %}
 
@@ -10,7 +10,7 @@
 
 <summary>¿Por qué XBorg?</summary>
 
-En la sociedad actual, donde el tiempo de ocio es cada vez más abundante, los jugadores pasan innumerables horas inmersos en mundos de juegos. Sin embargo, los datos generados a partir de estas experiencias a menudo se subestiman y se fragmentan en varios juegos. XBorg reconoce el valor del tiempo de los jugadores y busca hacer que sus datos sean significativos y valiosos.
+En la sociedad actual, donde el tiempo de ocio es cada vez más abundante, los jugadores pasan innumerables horas inmersos en mundos de juegos. Sin embargo, los datos generados a partir de estas experiencias a menudo son subvalorados y fragmentados en varios juegos. XBorg reconoce el valor del tiempo de los jugadores y busca hacer que sus datos sean significativos y valiosos.
 
 El problema de los datos fragmentados de los jugadores se ve agravado por el hecho de que los jugadores no siempre son recompensados por sus contribuciones al éxito de un juego. A pesar de ser una parte integral del ecosistema de los juegos, los jugadores a menudo no perciben ningún valor generado por su juego. Este problema significativo afecta a innumerables jugadores y requiere una solución.
 
@@ -46,9 +46,9 @@ XBorg está siendo apoyado por personas realmente importantes e inteligentes que
 
 <summary>¿Qué es una Red de Credenciales de Juego?</summary>
 
-La red de credenciales es como un centro de datos de juegos personal para cada jugador. Agrega todas sus credenciales de juegos de diferentes juegos y aplicaciones en una sola identificación, como su rendimiento en un juego, las comunidades de juegos a las que pertenecen y la cantidad de torneos que han ganado. Es la identidad digital de los jugadores.
+La red de credenciales es como un centro de datos de juego personal para cada jugador. Agrega todas sus credenciales de juego de diferentes juegos y aplicaciones en una sola identificación, como su rendimiento en un juego, las comunidades de juegos a las que pertenecen y la cantidad de torneos que han ganado. Es la identidad digital de los jugadores.
 
-Nuestro sistema rastrea tres tipos de datos de usuario:
+Nuestro sistema recopila tres tipos de datos de usuario:
 
 1. Participación en deportes electrónicos
 2. Rendimiento en juegos
@@ -60,7 +60,7 @@ Técnicamente hablando, la Red de Credenciales de Juego utiliza tokens vinculado
 
 La red de credenciales es el bloque de construcción que permite la creación de aplicaciones de juegos mejoradas y juegos conectados a la identidad de los jugadores.
 
-Por lo tanto, imagina el protocolo Lens para juegos.
+Por lo tanto, imagina el protocolo Lens para los juegos.
 
 </details>
 
@@ -70,7 +70,7 @@ Por lo tanto, imagina el protocolo Lens para juegos.
 
 La red de aplicaciones de juegos es una colección de aplicaciones de juegos que utilizan la identidad digital de un jugador. Nuestra red de credenciales se puede utilizar para crear aplicaciones de juegos más avanzadas, como una plataforma de torneos que empareja a los jugadores en función de su historial, un lanzamiento de GameFi soulbound o una aplicación de citas de juegos que empareja a los jugadores en función de sus credenciales. Las marcas también pueden utilizar esta red para la adquisición de usuarios basada en los datos de los jugadores. La red de aplicaciones de juegos ofrece infinitas posibilidades para una experiencia de juego más personalizada y agradable.\
 \
-Nuestro objetivo es que el uso de la red de credenciales sea sin permisos para que cualquier desarrollador pueda crear nuevas aplicaciones geniales :)
+Nuestro objetivo es que el uso de la red de credenciales sea sin permisos, de modo que cualquier desarrollador pueda crear nuevas aplicaciones geniales :)
 
 </details>
 
@@ -82,7 +82,7 @@ Nuestra misión en XBorg es empoderar a los jugadores a nivel mundial brindándo
 
 En XBorg, priorizamos las necesidades de nuestros jugadores y nos esforzamos por crear un entorno que fomente la colaboración, la gobernanza abierta, la descentralización y la innovación. Nuestro objetivo es construir una comunidad global de jugadores que puedan tomar posesión de sus experiencias de juego, crear sus propias aplicaciones y contribuir al crecimiento de la industria.
 
-Estamos dedicados a lograr esto trabajando en estrecha colaboración con nuestros jugadores para crear un mundo mejor para los jugadores en todas partes.
+Nos dedicamos a lograr esto trabajando en estrecha colaboración con nuestros jugadores para crear un mundo mejor para los jugadores en todas partes.
 
 </details>
 
@@ -90,16 +90,16 @@ Estamos dedicados a lograr esto trabajando en estrecha colaboración con nuestro
 
 <summary>¿Cuáles son algunos enlaces útiles?</summary>
 
-* [**Sitio web**](https://www.xborg.com)&#x20;
-* [**Twitter**](https://twitter.com/xborg\_official)
-* [**Discord**](https://discord.com/invite/xborg)&#x20;
+* [**Sitio web**](https://www.xborg.com)
+* [**Twitter**](https://twitter.com/XBorgHQ)
+* [**Discord**](https://discord.com/invite/xborg)
 * [**YouTube**](https://www.youtube.com/@xborgofficial)
 * [**Twitch**](https://www.twitch.tv/xborgofficial)
-* [**Medium**](https://medium.com/xborg-official)&#x20;
+* [**Medium**](https://medium.com/xborg-official)
 * [**Presentación**](https://docsend.com/view/5dwn74pn6izud3vb)
 * [**Aplicación**](http://gaming.xborg.com/)
 * [**Launchpad**](https://launchpad.xborg.com/)
 
-La primera versión del libro blanco se publicó en julio de 2022, pero actualmente está en revisión y se volverá a publicar alrededor del segundo trimestre de 2023.
+La primera versión del whitepaper se publicó en julio de 2022, pero actualmente está en revisión y se volverá a publicar alrededor del segundo trimestre de 2023.
 
 </details>
