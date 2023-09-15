@@ -8,4 +8,4 @@ This is a community driven translation of the [original FAQ](https://xborg-1.git
 
 Welcome to the XBorg universe!&#x20;
 
-If you've got questions, we've got the answers. Explore the intricacies of the ultimate gaming credential layer within our FAQ. Ready to level up your knowledge? Dive in! 🚀🎮
+You got questions? We've got the answers. Explore the intricacies of the ultimate gaming credential layer within our FAQ. Ready to level up your knowledge? Dive in! 🚀🎮
