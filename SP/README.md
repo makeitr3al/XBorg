@@ -1,9 +1,11 @@
-# Preguntas frecuentes sobre XBorg
+# Preguntas frecuentes sobre el Ultimate de XBorg
 
 {% hint style="info" %}
-Descargo de responsabilidad:&#x20;
+Descargo de responsabilidad:
 
-Esta es una traducción realizada por la comunidad del [FAQ original](https://xborg-1.gitbook.io/faq/) y no debe considerarse como verdadera hasta que se utilice oficialmente. No se asume ninguna responsabilidad por la información potencialmente incorrecta publicada aquí.
+Esta es una traducción realizada por la comunidad del [FAQ original](https://xborg-1.gitbook.io/faq/) y no debe considerarse como verdadera hasta que se utilice oficialmente. No se asume ninguna responsabilidad por cualquier información incorrecta publicada aquí.
 {% endhint %}
 
-El **03/04/2023**, XBorg anunció que abrirá su ronda de financiación inicial, y los poseedores de NFT de Prometheus, junto con algunos usuarios seleccionados de SwissBorg, tendrán la oportunidad de participar. La ronda ofrecerá a sus participantes acceso a $XBG, el token nativo de XBorg, al valor más bajo. En preparación para esta ronda, hemos recopilado, categorizado y respondido una serie de preguntas formuladas por la comunidad.
+¡Bienvenido al universo de XBorg!&#x20;
+
+Si tienes preguntas, nosotros tenemos las respuestas. Explora las complejidades de la capa definitiva de credenciales de juego en nuestra sección de preguntas frecuentes. ¿Listo para mejorar tus conocimientos? ¡Sumérgete! 🚀🎮

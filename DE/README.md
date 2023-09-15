@@ -1,9 +1,11 @@
-# XBorgs ultimatives FAQ
+# XBorgs ultimative FAQ
 
 {% hint style="info" %}
-Haftungsausschluss: 
+Haftungsausschluss:
 
-Dies ist eine von der Gemeinschaft getriebene Übersetzung des [Original-FAQ](https://xborg-1.gitbook.io/faq/) und sollte nicht als wahr angesehen werden, bis sie offiziell verwendet wird. Für möglicherweise hier veröffentlichte falsche Informationen wird keine Haftung übernommen.
+Dies ist eine von der Community erstellte Übersetzung des [ursprünglichen FAQ](https://xborg-1.gitbook.io/faq/) und sollte erst als wahr angesehen werden, wenn sie offiziell verwendet wird. Es wird keine Haftung für möglicherweise falsche Informationen übernommen, die hier veröffentlicht werden.
 {% endhint %}
 
-Am **03.04.2023** kündigte XBorg an, dass es seine Seed-Runde eröffnet, und Prometheus NFT-Inhaber, zusammen mit ausgewählten SwissBorg-Nutzern, haben die Möglichkeit, daran teilzunehmen. Die Runde bietet den Teilnehmern Zugang zu $XBG, dem nativen Token von XBorg, zu seiner niedrigsten Bewertung. Im Vorfeld dieser Runde haben wir eine Reihe von Fragen der Gemeinschaft zusammengestellt, kategorisiert und beantwortet.
+Willkommen im XBorg-Universum!&#x20;
+
+Wenn du Fragen hast, haben wir die Antworten. Erforsche die Feinheiten der ultimativen Gaming-Akkreditierungsebene in unserem FAQ. Bist du bereit, dein Wissen aufzustocken? Tauche ein! 🚀🎮
