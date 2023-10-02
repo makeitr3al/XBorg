@@ -4,7 +4,7 @@
 
 <summary>Was ist LunarCrush?</summary>
 
-LunarCrush ist eine Plattform, die maschinelles Lernen und Datenanalyse verwendet, um Einblicke in Kryptowährungsmärkte zu bieten. Sie analysiert die Aktivitäten in sozialen Medien und die Stimmung der Benutzer, um einen umfassenden Überblick über verschiedene Kryptowährungen zu bieten. Das Ziel der Plattform ist es, Investoren durch Echtzeitmetriken und Analysen bei informierten Entscheidungen zu unterstützen.
+LunarCrush ist eine Plattform, die maschinelles Lernen und Datenanalyse verwendet, um Einblicke in Kryptowährungsmärkte zu bieten. Sie analysiert die Aktivitäten in sozialen Medien und die Stimmung der Benutzer, um einen umfassenden Überblick über verschiedene Kryptowährungen zu geben. Das Ziel der Plattform ist es, Investoren durch Echtzeitmetriken und -analysen bei informierten Entscheidungen zu unterstützen.
 
 Wir verwenden LunarCrush als Datenanbieter in dieser Herausforderung.
 
@@ -16,15 +16,15 @@ Weitere Informationen zu LunarCrush finden Sie [hier](https://lunarcrush.com/faq
 
 <summary>Warum ist mein Ranking auf LunarCrush höher/anders?</summary>
 
-Wir verwenden ein internes Bewertungssystem, um gerechtere Chancen für alle Teilnehmer zu gewährleisten.
+Wir verwenden ein internes Bewertungssystem, um fairere Chancen für alle Teilnehmer zu gewährleisten.
 
 </details>
 
 <details>
 
-<summary>Gibt es Beschränkungen für die Anzahl der Tweets oder Retweets?</summary>
+<summary>Gibt es Einschränkungen für die Anzahl der Tweets oder Retweets?</summary>
 
-Nein, vermeiden Sie einfach Spamming oder die Verwendung irrelevanter Tags.
+Nein, bitte vermeiden Sie jedoch Spamming oder die Verwendung irrelevanter Tags.
 
 </details>
 
@@ -48,7 +48,7 @@ Likes, Kommentare, Retweets und das Steigern Ihrer Follower-Anzahl sind alles in
 
 <summary>Kann ich die Statistiken und Leistung anderer Influencer einsehen?</summary>
 
-Besuchen Sie unsere Rangliste. <mark style="color:red;">\[LINK ZUR RANGLISTE]</mark>\
+Besuchen Sie unsere [Rangliste](https://xbg-challenge.xborg.com/).\
 Eine detailliertere Ansicht und Analyse finden Sie [hier](https://lunarcrush.com/cryptocurrency-influencers?symbol=XBG\&metric=influencers\_influential).
 
 </details>

@@ -1,12 +1,12 @@
 # Récompenses
 
-<figure><img src="../../.gitbook/assets/XBG_Coin_new.png" alt="" width="375"><figcaption><p>Voici notre bien-aimé $XBG. Votre billet pour des avantages de jeu époustouflants.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/XBG_Coin_new.png" alt="" width="375"><figcaption><p>Voici notre cher $XBG. Votre ticket pour des avantages de jeu époustouflants.</p></figcaption></figure>
 
 <details>
 
 <summary>Quelle récompense vais-je recevoir ?</summary>
 
-En fonction de votre total de points et des objectifs collectifs atteints, vous recevrez une récompense individuelle en jetons $XBG, ainsi qu'une récompense collective en jetons $XBG. Toutes les récompenses sont [soumises à un délai de blocage](rewards-test.md#how-long-are-rewards-vested).
+En fonction de votre total de points et des objectifs collectifs atteints, vous recevrez une récompense individuelle en jetons $XBG, ainsi qu'une récompense collective en jetons $XBG. Toutes les récompenses sont [bloquées](rewards.md#how-long-are-rewards-vested).
 
 ![](../../.gitbook/assets/Rewards.png)
 
@@ -14,7 +14,9 @@ En fonction de votre total de points et des objectifs collectifs atteints, vous 
 
 <details>
 
-<summary>Pendant combien de temps les récompenses sont-elles bloquées ?</summary>
+<summary>Combien de temps les récompenses sont-elles bloquées ?</summary>
+
+bientôt...
 
 </details>
 
@@ -22,7 +24,7 @@ En fonction de votre total de points et des objectifs collectifs atteints, vous 
 
 <summary>Comment vais-je recevoir ma récompense ?</summary>
 
-À la fin de la phase de qualification ou de la saison, les récompenses seront envoyées au portefeuille que vous avez fourni, en fonction de votre classement final une fois le concours terminé. Note : Toutes les récompenses sont [soumises à un délai de blocage](rewards-test.md#how-long-are-rewards-vested).
+À la fin de la phase de qualification ou de la saison, les récompenses seront envoyées au portefeuille que vous avez fourni, en fonction de votre classement final une fois le concours terminé. Note : Toutes les récompenses sont [bloquées](rewards.md#how-long-are-rewards-vested).
 
 </details>
 
@@ -30,13 +32,15 @@ En fonction de votre total de points et des objectifs collectifs atteints, vous 
 
 <summary>Où puis-je fournir mon portefeuille ?</summary>
 
+bientôt...
+
 </details>
 
 <details>
 
 <summary>Pourquoi est-ce que je reçois une récompense ?</summary>
 
-Nous vous récompensons en guise d'appréciation pour votre participation active et votre contribution à l'expansion de la communauté XBorg et pour la promotion de notre jeton $XBG.
+Nous vous récompensons en reconnaissance de votre participation active et de votre contribution à l'expansion de la communauté XBorg et pour la promotion de notre jeton $XBG.
 
 </details>
 
@@ -44,7 +48,7 @@ Nous vous récompensons en guise d'appréciation pour votre participation active
 
 <summary>Qu'est-ce qu'une récompense collective ?</summary>
 
-Une récompense collective est une démonstration de notre reconnaissance pour l'effort collectif des participants, où les récompenses sont augmentées en atteignant des niveaux de référence pendant la saison. Selon votre classement à la fin de la saison, vous recevrez une récompense supplémentaire provenant du pool collectif.
+Une récompense collective est une démonstration de notre reconnaissance pour l'effort collectif des participants, où les récompenses sont augmentées en atteignant des niveaux de jalons pendant la saison. Selon votre classement final de la saison, vous recevrez une récompense supplémentaire provenant du pool collectif.
 
 </details>
 
@@ -52,7 +56,7 @@ Une récompense collective est une démonstration de notre reconnaissance pour l
 
 <summary>Comment la récompense collective sera-t-elle répartie ? Que puis-je faire pour l'augmenter ?</summary>
 
-La répartition de la récompense collective est déterminée par votre classement et peut être augmentée collectivement en atteignant des jalons collectifs ou en accomplissant des actions éclair. Pour plus d'informations, veuillez vous référer aux [règles](rules-test.md).
+La répartition de la récompense collective est déterminée par votre classement et peut être augmentée collectivement en atteignant des jalons collectifs ou en accomplissant des actions éclair. Pour plus d'informations, veuillez vous référer aux [règles](rules.md).
 
 </details>
 
@@ -75,5 +79,7 @@ Dans la première phase de qualification, les récompenses totales s'élèvent �
 <details>
 
 <summary>Qu'est-ce que la zone de récompense ?</summary>
+
+bientôt...
 
 </details>

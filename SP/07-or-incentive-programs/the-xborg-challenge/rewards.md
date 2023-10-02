@@ -1,12 +1,12 @@
 # Recompensas
 
-<figure><img src="../../.gitbook/assets/XBG_Coin_new.png" alt="" width="375"><figcaption><p>Este es nuestro querido $XBG. Tu boleto para increíbles beneficios de juegos.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/XBG_Coin_new.png" alt="" width="375"><figcaption><p>Este es nuestro querido $XBG. Tu boleto para impresionantes beneficios de juegos.</p></figcaption></figure>
 
 <details>
 
 <summary>¿Qué recompensa obtengo?</summary>
 
-Basado en tu total de puntos y los objetivos colectivos alcanzados, recibirás una recompensa individual en tokens $XBG, así como una recompensa colectiva en tokens $XBG. Todas las recompensas están [bloqueadas](rewards-test.md#how-long-are-rewards-vested).
+Basado en tu total de puntos y los objetivos colectivos alcanzados, recibirás una recompensa individual en tokens $XBG, así como una recompensa colectiva en tokens $XBG. Todas las recompensas están [retenidas](rewards.md#how-long-are-rewards-vested).
 
 ![](../../.gitbook/assets/Rewards.png)
 
@@ -14,9 +14,9 @@ Basado en tu total de puntos y los objetivos colectivos alcanzados, recibirás u
 
 <details>
 
-<summary>¿Cuánto tiempo están bloqueadas las recompensas?</summary>
+<summary>¿Cuánto tiempo están retenidas las recompensas?</summary>
 
-
+Próximamente...
 
 </details>
 
@@ -24,7 +24,7 @@ Basado en tu total de puntos y los objetivos colectivos alcanzados, recibirás u
 
 <summary>¿Cómo recibiré mi recompensa?</summary>
 
-Al finalizar la fase de clasificación o temporada, las recompensas se enviarán a la billetera que proporcionaste, según tu clasificación final después de que haya terminado el concurso. Nota: Todas las recompensas están [bloqueadas](rewards-test.md#how-long-are-rewards-vested).
+Al finalizar la fase de clasificación o la temporada, las recompensas se enviarán a la billetera que proporcionaste, según tu clasificación final después de que el concurso haya terminado. Nota: Todas las recompensas están [retenidas](rewards.md#how-long-are-rewards-vested).
 
 </details>
 
@@ -32,7 +32,7 @@ Al finalizar la fase de clasificación o temporada, las recompensas se enviarán
 
 <summary>¿Dónde puedo proporcionar mi billetera?</summary>
 
-
+Próximamente...
 
 </details>
 
@@ -56,7 +56,7 @@ Una recompensa colectiva es una demostración de nuestro agradecimiento por el e
 
 <summary>¿Cómo se dividirá la recompensa colectiva? ¿Qué puedo hacer para aumentarla?</summary>
 
-La división de la recompensa colectiva se determina según tu clasificación y puede ser aumentada colectivamente al alcanzar hitos colectivos o completar acciones rápidas. Para obtener más información, consulta las [reglas](rules-test.md).
+La división de la recompensa colectiva se determina según tu clasificación y puede aumentarse colectivamente al alcanzar hitos colectivos o completar acciones rápidas. Para obtener más información, consulta las [reglas](rules.md).
 
 </details>
 
@@ -80,6 +80,6 @@ En la primera fase de clasificación, las recompensas totales suman un máximo d
 
 <summary>¿Qué es la zona de recompensa?</summary>
 
-
+Próximamente...
 
 </details>

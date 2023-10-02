@@ -8,7 +8,7 @@ LunarCrush是一个利用机器学习和数据分析来提供加密货币市场�
 
 我们在这个挑战中使用LunarCrush作为数据提供者。
 
-关于LunarCrush的更多信息可以在[这里](https://lunarcrush.com/faq)找到。
+有关LunarCrush的更多信息可以在[这里](https://lunarcrush.com/faq)找到。
 
 </details>
 
@@ -24,7 +24,7 @@ LunarCrush是一个利用机器学习和数据分析来提供加密货币市场�
 
 <summary>推文或转推的数量有限制吗？</summary>
 
-没有，只需避免垃圾信息或使用无关的标签。
+没有，只需避免垃圾邮件或使用无关的标签。
 
 </details>
 
@@ -32,7 +32,7 @@ LunarCrush是一个利用机器学习和数据分析来提供加密货币市场�
 
 <summary>我的推文中的提及或标签会计入积分吗？</summary>
 
-是的，以间接的方式计入。提及可以增加推广范围，而更广泛的推广范围可以提升您的影响力排名，从而获得更多积分。标签对于让您的推文被识别是至关重要的。请确保使用 #XBorg、$XBG 和 #XBG。
+是的，以间接的方式计入。提及可以增加影响力的范围，而更广泛的影响力可以提升您的影响力排名，从而获得更多积分。标签对于识别您的推文至关重要。请确保使用 #XBorg、$XBG 和 #XBG。
 
 </details>
 
@@ -48,7 +48,7 @@ LunarCrush是一个利用机器学习和数据分析来提供加密货币市场�
 
 <summary>我可以查看其他影响者的统计数据和表现吗？</summary>
 
-请访问我们的排行榜。\[排行榜链接]\
+请访问我们的[排行榜](https://xbg-challenge.xborg.com/)。
 更详细的视图和分析可以在[这里](https://lunarcrush.com/cryptocurrency-influencers?symbol=XBG\&metric=influencers\_influential)找到。
 
 </details>
@@ -57,6 +57,6 @@ LunarCrush是一个利用机器学习和数据分析来提供加密货币市场�
 
 <summary>我可以看到基于不同操作的积分细分吗？</summary>
 
-您根据LunarCrush测量的每日Twitter参与度获得积分。由于LunarCrush不公开其具体的评分方法，我们无法提供更具体的信息。
+您根据LunarCrush测量的每日Twitter参与度获得积分。由于LunarCrush不公开其精确的评分方法，我们无法提供更具体的信息。
 
 </details>

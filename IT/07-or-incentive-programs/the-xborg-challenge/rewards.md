@@ -6,7 +6,7 @@
 
 <summary>Che ricompensa ricevo?</summary>
 
-In base al tuo punteggio e agli obiettivi collettivi raggiunti, riceverai una ricompensa individuale in token $XBG, così come una ricompensa collettiva in token $XBG. Tutte le ricompense sono [vincolate](rewards-test.md#quanto-tempo-sono-vincolate-le-ricompense).
+In base al tuo punteggio e agli obiettivi collettivi raggiunti, riceverai una ricompensa individuale in token $XBG, così come una ricompensa collettiva in token $XBG. Tutte le ricompense sono [vincolate](rewards.md#quanto-tempo-sono-vincolate-le-ricompense).
 
 
 
@@ -18,7 +18,7 @@ In base al tuo punteggio e agli obiettivi collettivi raggiunti, riceverai una ri
 
 <summary>Quanto tempo sono vincolate le ricompense?</summary>
 
-
+prossimamente...
 
 </details>
 
@@ -26,7 +26,7 @@ In base al tuo punteggio e agli obiettivi collettivi raggiunti, riceverai una ri
 
 <summary>Come riceverò la mia ricompensa?</summary>
 
-Alla conclusione del qualificatore o della stagione, le ricompense verranno inviate al portafoglio che hai fornito, in base al tuo posizionamento finale dopo la fine del concorso. Nota: tutte le ricompense sono [vincolate](rewards-test.md#quanto-tempo-sono-vincolate-le-ricompense).
+Alla conclusione del qualificatore o della stagione, le ricompense verranno inviate al portafoglio che hai fornito, in base al tuo rango finale dopo la fine del concorso. Nota: tutte le ricompense sono [vincolate](rewards.md#quanto-tempo-sono-vincolate-le-ricompense).
 
 </details>
 
@@ -34,7 +34,7 @@ Alla conclusione del qualificatore o della stagione, le ricompense verranno invi
 
 <summary>Dove posso fornire il mio portafoglio?</summary>
 
-
+prossimamente...
 
 </details>
 
@@ -50,7 +50,7 @@ Ti ricompensiamo in segno di apprezzamento per la tua partecipazione attiva e il
 
 <summary>Cosa è una ricompensa collettiva?</summary>
 
-Una ricompensa collettiva è una dimostrazione del nostro apprezzamento per lo sforzo collettivo dei partecipanti, in cui le ricompense vengono potenziate raggiungendo livelli di traguardo durante la stagione. A seconda del tuo posizionamento finale, riceverai una ricompensa aggiuntiva dal fondo collettivo.
+Una ricompensa collettiva è una dimostrazione del nostro apprezzamento per l'impegno collettivo dei partecipanti, in cui le ricompense vengono potenziate raggiungendo livelli di traguardo durante la stagione. A seconda del tuo rango alla fine della stagione, riceverai una ricompensa aggiuntiva dal fondo collettivo.
 
 </details>
 
@@ -58,7 +58,7 @@ Una ricompensa collettiva è una dimostrazione del nostro apprezzamento per lo s
 
 <summary>Come verrà suddivisa la ricompensa collettiva? Cosa posso fare per aumentarla?</summary>
 
-La suddivisione della ricompensa collettiva è determinata dal tuo posizionamento e può essere aumentata collettivamente raggiungendo traguardi collettivi o completando azioni rapide. Per ulteriori informazioni, consulta le [regole](rules-test.md).
+La suddivisione della ricompensa collettiva è determinata dal tuo ranking e può essere aumentata collettivamente raggiungendo traguardi collettivi o completando azioni flash. Per ulteriori informazioni, consulta le [regole](rules.md).
 
 </details>
 
@@ -74,7 +74,7 @@ Il modo migliore per massimizzare la tua ricompensa è attraverso la costanza co
 
 <summary>Quali sono le ricompense per la prima fase di qualificazione?</summary>
 
-Nella prima fase di qualificazione, le ricompense totali ammontano a un massimo di 100.000 XBG, con una parte legata al completamento di obiettivi collettivi.
+Nella prima fase di qualificazione, le ricompense totali ammontano a un massimo di 100k XBG, con una parte legata al completamento con successo degli obiettivi collettivi.
 
 </details>
 
@@ -82,6 +82,6 @@ Nella prima fase di qualificazione, le ricompense totali ammontano a un massimo 
 
 <summary>Cosa è la zona di ricompensa?</summary>
 
-
+prossimamente...
 
 </details>

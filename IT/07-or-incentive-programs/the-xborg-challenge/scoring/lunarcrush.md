@@ -24,7 +24,7 @@ Utilizziamo un sistema di punteggio interno per garantire opportunità più equi
 
 <summary>Ci sono limiti sul numero di tweet o retweet?</summary>
 
-No, semplicemente evita lo spam o l'uso di tag non pertinenti.
+No, basta evitare lo spam o l'uso di tag non pertinenti.
 
 </details>
 
@@ -32,7 +32,7 @@ No, semplicemente evita lo spam o l'uso di tag non pertinenti.
 
 <summary>Le menzioni o i tag nei miei tweet contano per i punti?</summary>
 
-Sì, in modo indiretto. Le menzioni possono aumentare la visibilità e una maggiore visibilità può migliorare il tuo ranking di influencer, il che a sua volta ti fa guadagnare più punti. I tag sono fondamentali affinché i tuoi tweet vengano riconosciuti. Assicurati di utilizzare #XBorg, $XBG e #XBG.
+Sì, in modo indiretto. Le menzioni possono aumentare la visibilità e una maggiore visibilità può migliorare il tuo ranking di influencer, il che a sua volta ti garantisce più punti. I tag sono fondamentali affinché i tuoi tweet vengano riconosciuti. Assicurati di utilizzare #XBorg, $XBG e #XBG.
 
 </details>
 
@@ -46,16 +46,16 @@ I like, i commenti, i retweet e l'aumento del numero di follower sono tutti fatt
 
 <details>
 
-<summary>Posso vedere le statistiche e le performance di altri influencer?</summary>
+<summary>Posso vedere le statistiche e le performance degli altri influencer?</summary>
 
-Visita la nostra classifica. <mark style="color:red;">\[LINK ALLA CLASSIFICA]</mark>\
-Una visione più dettagliata e analitica può essere trovata [qui](https://lunarcrush.com/cryptocurrency-influencers?symbol=XBG\&metric=influencers\_influential).
+Visita la nostra [classifica](https://xbg-challenge.xborg.com/).\
+Una visualizzazione più dettagliata e analitica può essere trovata [qui](https://lunarcrush.com/cryptocurrency-influencers?symbol=XBG\&metric=influencers\_influential).
 
 </details>
 
 <details>
 
-<summary>Posso vedere una suddivisione dei miei punti in base a diverse azioni?</summary>
+<summary>Posso vedere una suddivisione dei miei punti in base alle diverse azioni?</summary>
 
 Guadagni punti in base al tuo coinvolgimento giornaliero su Twitter, misurato da LunarCrush. Poiché LunarCrush non divulga la sua metodologia di punteggio precisa, non siamo in grado di fornire ulteriori informazioni specifiche su questo aspetto.
 

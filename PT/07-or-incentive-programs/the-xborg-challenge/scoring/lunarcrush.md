@@ -14,7 +14,7 @@ Mais informações sobre o LunarCrush podem ser encontradas [aqui](https://lunar
 
 <details>
 
-<summary>No LunarCrush, minha classificação é maior / diferente, por quê?</summary>
+<summary>No LunarCrush, minha classificação é maior/diferente, por quê?</summary>
 
 Utilizamos um sistema interno de pontuação para garantir oportunidades mais equitativas para todos os participantes.
 
@@ -48,14 +48,14 @@ Curtidas, comentários, retweets e aumentar o número de seguidores são todos f
 
 <summary>Posso ver as estatísticas e o desempenho de outros influenciadores?</summary>
 
-Visite nosso leaderboard. <mark style="color:red;">\[LINK PARA O LEADERBOARD]</mark>\
+Visite nosso [ranking](https://xbg-challenge.xborg.com/).\
 Uma visão mais detalhada e análises podem ser encontradas [aqui](https://lunarcrush.com/cryptocurrency-influencers?symbol=XBG\&metric=influencers\_influential).
 
 </details>
 
 <details>
 
-<summary>Posso ver uma análise detalhada dos meus pontos com base em diferentes ações?</summary>
+<summary>Posso ver uma divisão dos meus pontos com base em diferentes ações?</summary>
 
 Você ganha pontos com base no seu engajamento diário no Twitter, conforme medido pelo LunarCrush. Como o LunarCrush não divulga sua metodologia de pontuação precisa, não podemos fornecer informações mais específicas sobre esse aspecto.
 

@@ -1,12 +1,12 @@
 # Recompensas
 
-<figure><img src="../../.gitbook/assets/XBG_Coin_new.png" alt="" width="375"><figcaption><p>Este é o nosso querido $XBG. Seu ingresso para benefícios incríveis nos jogos.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/XBG_Coin_new.png" alt="" width="375"><figcaption><p>Este é o nosso querido $XBG. Seu ingresso para incríveis benefícios de jogos.</p></figcaption></figure>
 
 <details>
 
 <summary>Que recompensa eu recebo?</summary>
 
-Com base no total de pontos e nos objetivos coletivos alcançados, você receberá uma recompensa individual em tokens $XBG, bem como uma recompensa coletiva em tokens $XBG. Todas as recompensas são [bloqueadas](rewards-test.md#how-long-are-rewards-vested).
+Com base no seu total de pontos e nos objetivos coletivos alcançados, você receberá uma recompensa individual em tokens $XBG, bem como uma recompensa coletiva em tokens $XBG. Todas as recompensas são [investidas](rewards.md#how-long-are-rewards-vested).
 
 ![](../../.gitbook/assets/Rewards.png)
 
@@ -14,7 +14,9 @@ Com base no total de pontos e nos objetivos coletivos alcançados, você receber
 
 <details>
 
-<summary>Por quanto tempo as recompensas ficam bloqueadas?</summary>
+<summary>Por quanto tempo as recompensas são investidas?</summary>
+
+em breve...
 
 </details>
 
@@ -22,13 +24,15 @@ Com base no total de pontos e nos objetivos coletivos alcançados, você receber
 
 <summary>Como vou receber minha recompensa?</summary>
 
-Ao final da fase de qualificação ou temporada, as recompensas serão enviadas para a carteira que você forneceu, com base na sua classificação final após o término do concurso. Observação: Todas as recompensas são [bloqueadas](rewards-test.md#how-long-are-rewards-vested).
+Ao final da fase de qualificação ou temporada, as recompensas serão enviadas para a carteira que você forneceu, com base na sua classificação final após o término do concurso. Observação: Todas as recompensas são [investidas](rewards.md#how-long-are-rewards-vested).
 
 </details>
 
 <details>
 
 <summary>Onde posso fornecer minha carteira?</summary>
+
+em breve...
 
 </details>
 
@@ -52,7 +56,7 @@ Uma recompensa coletiva é uma demonstração de nosso agradecimento pelo esfor�
 
 <summary>Como a recompensa coletiva será dividida? O que posso fazer para aumentá-la?</summary>
 
-A divisão da recompensa coletiva é determinada pela sua classificação e pode ser aumentada coletivamente ao atingir marcos coletivos ou completar ações rápidas. Para mais informações, consulte as [regras](rules-test.md).
+A divisão da recompensa coletiva é determinada pela sua classificação e pode ser aumentada coletivamente ao atingir marcos coletivos ou completar ações rápidas. Para mais informações, consulte as [regras](rules.md).
 
 </details>
 
@@ -75,5 +79,7 @@ Na primeira fase de qualificação, as recompensas totais somam um máximo de 10
 <details>
 
 <summary>O que é a zona de recompensa?</summary>
+
+em breve...
 
 </details>
