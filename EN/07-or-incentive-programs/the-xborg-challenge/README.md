@@ -4,7 +4,7 @@
 >
 > \
 > This section provides all you need to know about it. \
-> Coming in September 2023.
+> Coming in October 2023.
 
 
 
@@ -24,7 +24,7 @@ Our objective is to raise awareness about XBorg while showcasing our fantastic c
 
 <summary>How does it work?</summary>
 
-Participate extensively while adhering to the [rules ](rules-test.md)and following best practices (link to best practices). You'll accumulate points based on the impact of your engagement, and the more skillfully you achieve this, the greater the rewards that both you and your league can attain.
+Participate extensively while adhering to the [rules ](rules.md)and following best practices (link to best practices). You'll accumulate points based on the impact of your engagement, and the more skillfully you achieve this, the greater the rewards that both you and your league can attain.
 
 </details>
 
@@ -32,7 +32,7 @@ Participate extensively while adhering to the [rules ](rules-test.md)and followi
 
 <summary>When does the contest start?</summary>
 
-The contest is planned to commence on either September 1st or September 30th, 2023, based on our progress.
+1st of October 2023.
 
 </details>
 
@@ -122,9 +122,9 @@ Through these leagues, the inaugural season will begin, bringing with it rewards
 
 <summary>Is there a deadline to complete specific actions to earn points?</summary>
 
-Yes, there are deadlines for earning points based on the game's stages. There are two qualifying phases, followed by the launch of the [leagues](scoring-test/leagues-test.md). During each phase, participants have until the end to accumulate the maximum points and secure their position on the [leaderboard](scoring-test/leaderboard-test.md). Once the leagues are launched, the game operates on a seasonal basis.
+Yes, there are deadlines for earning points based on the game's stages. There are two qualifying phases, followed by the launch of the [leagues](scoring/leagues.md). During each phase, participants have until the end to accumulate the maximum points and secure their position on the [leaderboard](scoring/leaderboard.md). Once the leagues are launched, the game operates on a seasonal basis.
 
-Additionally, points are earned daily, and data is extracted from the [LunarCrush ](scoring-test/lunarcrush-test.md)API each evening before midnight (UTC) to calculate the points. Due to tech liability some data can take up to 48H to be reflected on the [leaderboard](scoring-test/leaderboard-test.md).
+Additionally, points are earned daily, and data is extracted from the [LunarCrush ](scoring/lunarcrush.md)API each evening before midnight (UTC) to calculate the points. Due to tech liability some data can take up to 48H to be reflected on the [leaderboard](scoring/leaderboard.md).
 
 </details>
 
