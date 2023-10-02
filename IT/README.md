@@ -1,4 +1,4 @@
-# Domande frequenti sull'Ultimate di XBorg
+# FAQ definitivo di XBorg
 
 {% hint style="info" %}
 Avviso:
@@ -8,4 +8,4 @@ Questa è una traduzione realizzata dalla comunità delle [FAQ originali](https:
 
 Benvenuto nell'universo di XBorg!&#x20;
 
-Se hai domande, noi abbiamo le risposte. Esplora le sfumature del livello di credenziali di gioco definitivo all'interno delle nostre FAQ. Pronto per migliorare le tue conoscenze? Tuffati! 🚀🎮
+Hai delle domande? Noi abbiamo le risposte. Esplora le sfumature del livello di credenziali di gioco definitivo all'interno della nostra FAQ. Pronto per migliorare le tue conoscenze? Tuffati! 🚀🎮
