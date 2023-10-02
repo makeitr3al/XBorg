@@ -1,10 +1,10 @@
 # De XBorg Uitdaging
 
-> Q4 2023 biedt veel baanbrekende gebeurtenissen in het XBorg universum. Een daarvan is de XBorg Uitdaging, waarbij je als bijdrager kunt helpen om het woord te verspreiden en beloond kunt worden voor je inzet! 💰
+> Q4 2023 biedt veel baanbrekende gebeurtenissen in het XBorg-universum. Een daarvan is de XBorg Uitdaging, waarbij je als bijdrager kunt helpen om het woord te verspreiden en beloond kunt worden voor je inzet! 💰
 >
 > \
-> Deze sectie geeft je alle informatie die je nodig hebt. \
-> Komt in september 2023.
+> Deze sectie geeft je alles wat je moet weten. \
+> Komt in oktober 2023.
 
 
 
@@ -16,7 +16,7 @@ Om in aanmerking te komen, moet je meer dan 500 volgers hebben en de juiste hash
 
 <summary>Waarom doen we dit?</summary>
 
-Ons doel is om bekendheid te creëren voor XBorg en tegelijkertijd onze fantastische community, producten en token te laten zien. Het organiseren van een wedstrijd is onze gekozen methode om een plezierige en samenwerkende ervaring te bevorderen.
+Ons doel is om bekendheid te geven aan XBorg terwijl we onze fantastische community, producten en token laten zien. Het organiseren van een wedstrijd is onze gekozen methode om een plezierige en samenwerkende ervaring te bevorderen.
 
 </details>
 
@@ -24,7 +24,7 @@ Ons doel is om bekendheid te creëren voor XBorg en tegelijkertijd onze fantasti
 
 <summary>Hoe werkt het?</summary>
 
-Doe uitgebreid mee terwijl je je houdt aan de [regels](rules-test.md) en de beste praktijken volgt (link naar beste praktijken). Je zult punten verzamelen op basis van de impact van je betrokkenheid, en hoe vaardiger je dit bereikt, hoe groter de beloningen die zowel jij als je league kunnen behalen.
+Doe uitgebreid mee terwijl je je houdt aan de [regels](rules.md) en de beste praktijken volgt (link naar beste praktijken). Je zult punten verzamelen op basis van de impact van je betrokkenheid, en hoe vaardiger je dit bereikt, hoe groter de beloningen die zowel jij als je league kunnen behalen.
 
 </details>
 
@@ -32,7 +32,7 @@ Doe uitgebreid mee terwijl je je houdt aan de [regels](rules-test.md) en de best
 
 <summary>Wanneer begint de wedstrijd?</summary>
 
-De wedstrijd is gepland om te beginnen op 1 september of 30 september 2023, afhankelijk van onze voortgang.
+1 oktober 2023.
 
 </details>
 
@@ -80,7 +80,7 @@ Effectieve betrokkenheid houdt in dat je boeiende inhoud creëert met behulp van
 
 <summary>Wat is een TGE?</summary>
 
-TGE staat voor "Token Generation Event", een term die voornamelijk wordt gebruikt in de blockchain- en cryptocurrency-sector.
+TGE staat voor "Token Generation Event", een term die voornamelijk wordt gebruikt in de blockchain- en cryptocurrencysectoren.
 
 **Wat gebeurt er tijdens een TGE?**
 
@@ -88,7 +88,7 @@ Een TGE omvat de creatie en distributie van een nieuwe cryptocurrency of token a
 
 **Hoe verschilt een TGE van een ICO?**
 
-Hoewel zowel TGE's als ICO's (Initial Coin Offerings) methoden zijn om geld in te zamelen met behulp van tokens, worden de termen soms door elkaar gebruikt. Insiders in de branche geven echter vaak de voorkeur aan "TGE" omdat het de generatie en distributie van tokens benadrukt, in plaats van het "aanbieden" of verkopen ervan.
+Hoewel zowel TGE's als ICO's (Initial Coin Offerings) methoden zijn om geld in te zamelen met behulp van tokens, worden de termen soms door elkaar gebruikt. Echter, insiders in de industrie geven vaak de voorkeur aan "TGE" omdat het de generatie en distributie van tokens benadrukt, in plaats van het "aanbieden" of verkopen aspect.
 
 </details>
 
@@ -112,9 +112,9 @@ Als je je betrokkenheid niet behoudt of vergroot, zal je influencer-rang dalen, 
 
 <summary>Hoe werkt de kwalificatiefase wat betreft het verdienen van punten en het doorstromen naar het leaguesysteem?</summary>
 
-Tijdens de kwalificatiefasen verzamelen deelnemers dagelijks punten en stijgen ze op de ranglijst. We behouden een definitieve ranglijst-snapshot van zowel Kwalificatiefase 1 als Kwalificatiefase 2. Op basis hiervan, afhankelijk van het totale aantal deelnemers en het succes van collectieve doelstellingen, worden er plaatsen beschikbaar gesteld in verschillende Leagues. De best presterende deelnemers van elke kwalificatiefase ontvangen vervolgens uitnodigingen om zich aan te sluiten bij de meest geschikte league op basis van hun vaardigheidsniveau.
+Tijdens de kwalificatiefasen verzamelen deelnemers dagelijks punten en stijgen ze op de ranglijst. We zullen een definitieve ranglijst-snapshot behouden van zowel Kwalificatiefase 1 als Kwalificatiefase 2. Op basis hiervan, afhankelijk van het totale aantal deelnemers en het succes van collectieve doelstellingen, zullen er plaatsen beschikbaar worden gesteld in verschillende Leagues. De beste presteerders van elke kwalificatiefase ontvangen vervolgens uitnodigingen om zich aan te sluiten bij de meest geschikte league op basis van hun vaardigheidsniveau.
 
-Via deze leagues begint het inaugurele seizoen, met beloningen die te verleidelijk zijn om te negeren. Dit markeert het ware begin van het spel. Naast de aanzienlijke beloningen zou kwalificatie een belangrijk doel moeten zijn voor velen gedurende de kwalificatiefasen.
+Via deze leagues begint het inaugurele seizoen, met beloningen die te verleidelijk zijn om te negeren. Dit markeert het echte begin van het spel. Naast de aanzienlijke beloningen zou kwalificatie een belangrijk doel moeten zijn voor velen gedurende de kwalificatiefasen.
 
 </details>
 
@@ -122,9 +122,9 @@ Via deze leagues begint het inaugurele seizoen, met beloningen die te verleideli
 
 <summary>Is er een deadline om specifieke acties te voltooien om punten te verdienen?</summary>
 
-Ja, er zijn deadlines voor het verdienen van punten op basis van de fasen van het spel. Er zijn twee kwalificatiefasen, gevolgd door de lancering van de [leagues](scoring-test/leagues-test.md). Tijdens elke fase hebben deelnemers tot het einde de tijd om de maximale punten te verzamelen en hun positie op het [leaderboard](scoring-test/leaderboard-test.md) veilig te stellen. Zodra de leagues zijn gelanceerd, werkt het spel op seizoensbasis.
+Ja, er zijn deadlines voor het verdienen van punten op basis van de fasen van het spel. Er zijn twee kwalificatiefasen, gevolgd door de lancering van de [leagues](scoring/leagues.md). Tijdens elke fase hebben deelnemers tot het einde de tijd om de maximale punten te verzamelen en hun positie op het [leaderboard](scoring/leaderboard.md) veilig te stellen. Zodra de leagues zijn gelanceerd, werkt het spel op seizoensbasis.
 
-Bovendien worden punten dagelijks verdiend en wordt de data elke avond voor middernacht (UTC) uit de [LunarCrush](scoring-test/lunarcrush-test.md) API gehaald om de punten te berekenen. Vanwege technische beperkingen kan het tot 48 uur duren voordat sommige gegevens worden weergegeven op het [leaderboard](scoring-test/leaderboard-test.md).
+Bovendien worden punten dagelijks verdiend en wordt de data elke avond voor middernacht (UTC) uit de [LunarCrush](scoring/lunarcrush.md) API gehaald om de punten te berekenen. Vanwege technische beperkingen kan het tot 48 uur duren voordat sommige gegevens worden weergegeven op het [leaderboard](scoring/leaderboard.md).
 
 </details>
 
