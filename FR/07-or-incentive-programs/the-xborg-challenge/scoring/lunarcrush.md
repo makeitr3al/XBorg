@@ -4,7 +4,7 @@
 
 <summary>Qu'est-ce que LunarCrush ?</summary>
 
-LunarCrush est une plateforme qui utilise l'apprentissage automatique et l'analyse de données pour fournir des informations sur les marchés des cryptomonnaies. Elle analyse l'activité sur les réseaux sociaux et le sentiment des utilisateurs pour offrir une vue d'ensemble des différentes cryptomonnaies. La plateforme vise à aider les investisseurs à prendre des décisions éclairées grâce à des mesures et des analyses en temps réel.
+LunarCrush est une plateforme qui utilise l'apprentissage automatique et l'analyse de données pour fournir des informations sur les marchés des cryptomonnaies. Elle analyse l'activité sur les réseaux sociaux et le sentiment des utilisateurs pour offrir une vue d'ensemble des différentes cryptomonnaies. La plateforme vise à aider les investisseurs à prendre des décisions éclairées grâce à des métriques et des analyses en temps réel.
 
 Nous utilisons LunarCrush comme fournisseur de données dans ce défi.
 
@@ -48,7 +48,7 @@ Les likes, les commentaires, les retweets et l'augmentation de votre nombre d'ab
 
 <summary>Puis-je voir les statistiques et les performances des autres influenceurs ?</summary>
 
-Consultez notre classement. <mark style="color:red;">\[LIEN VERS LE CLASSEMENT]</mark>\
+Consultez notre [classement](https://xbg-challenge.xborg.com/).\
 Une vue plus détaillée et des analyses peuvent être trouvées [ici](https://lunarcrush.com/cryptocurrency-influencers?symbol=XBG\&metric=influencers\_influential).
 
 </details>

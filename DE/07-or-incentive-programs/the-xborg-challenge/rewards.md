@@ -16,19 +16,23 @@ Basierend auf deinem Punktestand und den erreichten gemeinsamen Zielen erhältst
 
 <summary>Wie lange sind Belohnungen gesperrt?</summary>
 
+Demnächst verfügbar...
+
 </details>
 
 <details>
 
 <summary>Wie erhalte ich meine Belohnung?</summary>
 
-Am Ende des Qualifikations- oder Saisonzeitraums werden die Belohnungen basierend auf deinem endgültigen Rang nach Abschluss des Wettbewerbs an die von dir angegebene Wallet gesendet. Hinweis: Alle Belohnungen sind [gesperrt](rewards.md#wie-lange-sind-belohnungen-gesperrt).
+Nach Abschluss des Qualifikations- oder Saisonzeitraums werden die Belohnungen basierend auf deinem endgültigen Rang nach Abschluss des Wettbewerbs an die von dir angegebene Wallet gesendet. Hinweis: Alle Belohnungen sind [gesperrt](rewards.md#wie-lange-sind-belohnungen-gesperrt).
 
 </details>
 
 <details>
 
 <summary>Wo kann ich meine Wallet angeben?</summary>
+
+Demnächst verfügbar...
 
 </details>
 
@@ -60,7 +64,7 @@ Die Aufteilung der gemeinsamen Belohnung wird durch deine Platzierung bestimmt u
 
 <summary>Was kann ich tun, um meine Belohnung zu erhöhen?</summary>
 
-Der beste Weg, um deine Belohnung zu maximieren, besteht darin, Konsistenz mit Viralität zu kombinieren. Je größer deine Reichweite ist, desto höher steigst du auf der Rangliste auf.
+Der beste Weg, um deine Belohnung zu maximieren, besteht darin, Konsistenz mit Viralität zu kombinieren. Je größer deine Reichweite ist, desto höher steigst du in der Rangliste auf.
 
 </details>
 
@@ -75,5 +79,7 @@ In der ersten Qualifikationsphase belaufen sich die Gesamtbelohnungen auf maxima
 <details>
 
 <summary>Was ist die Belohnungszone?</summary>
+
+Demnächst verfügbar...
 
 </details>

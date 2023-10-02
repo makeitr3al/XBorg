@@ -6,7 +6,7 @@
 
 <summary>Welke beloning krijg ik?</summary>
 
-Op basis van je puntentotaal en de behaalde collectieve doelen, ontvang je een individuele beloning in $XBG-tokens, evenals een collectieve beloning in $XBG-tokens. Alle beloningen zijn [vastgezet](rewards-test.md#hoe-lang-zijn-beloningen-vastgezet).
+Op basis van je puntentotaal en de behaalde collectieve doelen, ontvang je een individuele beloning in $XBG-tokens, evenals een collectieve beloning in $XBG-tokens. Alle beloningen zijn [vastgezet](rewards.md#hoe-lang-zijn-beloningen-vastgezet).
 
 ![](../../.gitbook/assets/Rewards.png)
 
@@ -16,13 +16,15 @@ Op basis van je puntentotaal en de behaalde collectieve doelen, ontvang je een i
 
 <summary>Hoe lang zijn beloningen vastgezet?</summary>
 
+binnenkort beschikbaar...
+
 </details>
 
 <details>
 
 <summary>Hoe krijg ik mijn beloning?</summary>
 
-Aan het einde van de kwalificatieronde of het seizoen worden de beloningen naar de door jou opgegeven portemonnee gestuurd, op basis van je uiteindelijke rangschikking nadat de wedstrijd is afgelopen. Let op: alle beloningen zijn [vastgezet](rewards-test.md#hoe-lang-zijn-beloningen-vastgezet).
+Aan het einde van de kwalificatieperiode of het seizoen worden de beloningen naar de door jou opgegeven portemonnee gestuurd, op basis van je uiteindelijke rangschikking nadat de wedstrijd is afgelopen. Let op: alle beloningen zijn [vastgezet](rewards.md#hoe-lang-zijn-beloningen-vastgezet).
 
 </details>
 
@@ -30,13 +32,15 @@ Aan het einde van de kwalificatieronde of het seizoen worden de beloningen naar 
 
 <summary>Waar kan ik mijn portemonnee opgeven?</summary>
 
+binnenkort beschikbaar...
+
 </details>
 
 <details>
 
 <summary>Waarom krijg ik een beloning?</summary>
 
-We belonen je als blijk van waardering voor je actieve deelname en bijdrage aan de groei van de XBorg-community en voor het promoten van onze $XBG-token.
+We belonen je als blijk van waardering voor je actieve deelname en bijdrage aan de uitbreiding van de XBorg-gemeenschap en voor het promoten van onze $XBG-token.
 
 </details>
 
@@ -44,7 +48,7 @@ We belonen je als blijk van waardering voor je actieve deelname en bijdrage aan 
 
 <summary>Wat is een collectieve beloning?</summary>
 
-Een collectieve beloning is een blijk van waardering voor de gezamenlijke inspanning van de deelnemers, waarbij beloningen worden verhoogd bij het behalen van mijlpaalniveaus tijdens het seizoen. Afhankelijk van je eindrangschikking aan het einde van het seizoen, ontvang je een extra beloning uit de collectieve pool.
+Een collectieve beloning is een blijk van waardering voor de gezamenlijke inspanning van de deelnemers, waarbij beloningen worden verhoogd bij het behalen van mijlpaalniveaus tijdens het seizoen. Afhankelijk van je eindrangschikking ontvang je een extra beloning uit de collectieve pool.
 
 </details>
 
@@ -52,7 +56,7 @@ Een collectieve beloning is een blijk van waardering voor de gezamenlijke inspan
 
 <summary>Hoe wordt de collectieve beloning verdeeld? Wat kan ik doen om deze te verhogen?</summary>
 
-De verdeling van de collectieve beloning wordt bepaald door je rangschikking en kan gezamenlijk worden verhoogd door het behalen van collectieve mijlpalen of het voltooien van flitsacties. Voor meer informatie, raadpleeg de [regels](rules-test.md).
+De verdeling van de collectieve beloning wordt bepaald door je rangschikking en kan gezamenlijk worden verhoogd door het behalen van collectieve mijlpalen of het voltooien van flitsacties. Voor meer informatie, raadpleeg de [regels](rules.md).
 
 </details>
 
@@ -60,7 +64,7 @@ De verdeling van de collectieve beloning wordt bepaald door je rangschikking en 
 
 <summary>Wat kan ik doen om mijn beloning te verhogen?</summary>
 
-De beste manier om je beloning te maximaliseren is door consistentie te combineren met viraliteit. Hoe groter je bereik, hoe hoger je zult stijgen op het leaderboard.
+De beste manier om je beloning te maximaliseren is door consistentie te combineren met viraliteit. Hoe groter je bereik, hoe hoger je op de ranglijst zult stijgen.
 
 </details>
 
@@ -68,12 +72,14 @@ De beste manier om je beloning te maximaliseren is door consistentie te combiner
 
 <summary>Wat zijn de beloningen voor de eerste kwalificatiefase?</summary>
 
-In de eerste kwalificatiefase bedragen de totale beloningen maximaal 100k XBG, waarvan een deel gekoppeld is aan het succesvol behalen van collectieve doelen.
+In de eerste kwalificatiefase bedraagt de totale beloning maximaal 100k XBG, waarvan een deel gekoppeld is aan het succesvol behalen van collectieve doelen.
 
 </details>
 
 <details>
 
 <summary>Wat is de beloningszone?</summary>
+
+binnenkort beschikbaar...
 
 </details>

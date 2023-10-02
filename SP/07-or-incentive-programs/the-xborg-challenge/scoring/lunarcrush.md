@@ -8,7 +8,7 @@ LunarCrush es una plataforma que utiliza aprendizaje automático y análisis de 
 
 Utilizamos LunarCrush como proveedor de datos en este desafío.
 
-Puede encontrar más información sobre LunarCrush [aquí](https://lunarcrush.com/faq).
+Puedes encontrar más información sobre LunarCrush [aquí](https://lunarcrush.com/faq).
 
 </details>
 
@@ -24,7 +24,7 @@ Utilizamos un sistema de puntuación interno para garantizar oportunidades más 
 
 <summary>¿Hay límites en el número de tweets o retweets?</summary>
 
-No, simplemente evite el spam o el uso de etiquetas irrelevantes.
+No, simplemente evita hacer spam o usar etiquetas irrelevantes.
 
 </details>
 
@@ -40,7 +40,7 @@ Sí, de manera indirecta. Las menciones pueden aumentar el alcance y un mayor al
 
 <summary>¿Cuáles son las otras acciones en Twitter que pueden darme puntos?</summary>
 
-Los "me gusta", los comentarios, los retweets y el aumento de tu número de seguidores son factores indirectos que pueden mejorar tu clasificación como influencer.
+Los "me gusta", los comentarios, los retweets y el aumento de tus seguidores son factores indirectos que pueden mejorar tu clasificación como influencer.
 
 </details>
 
@@ -48,8 +48,8 @@ Los "me gusta", los comentarios, los retweets y el aumento de tu número de segu
 
 <summary>¿Puedo ver las estadísticas y el rendimiento de otros influencers?</summary>
 
-Visita nuestra tabla de clasificación. <mark style="color:red;">\[ENLACE A LA TABLA DE CLASIFICACIÓN]</mark>\
-Puedes encontrar una vista más detallada y análisis [aquí](https://lunarcrush.com/cryptocurrency-influencers?symbol=XBG\&metric=influencers\_influential).
+Visita nuestro [ranking](https://xbg-challenge.xborg.com/).\
+Una vista más detallada y análisis se pueden encontrar [aquí](https://lunarcrush.com/cryptocurrency-influencers?symbol=XBG\&metric=influencers\_influential).
 
 </details>
 

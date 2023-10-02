@@ -14,42 +14,42 @@ Më shumë informacione rreth LunarCrush mund të gjeni [këtu](https://lunarcru
 <details>
 <summary>Pse renditja ime në LunarCrush është më e lartë / ndryshe?</summary>
 
-Ne përdorim një sistem vlerësimi të brendshëm për të siguruar mundësi më të barabarta për të gjithë pjesëmarrësit.
+Ne përdorim një sistem skorimi të brendshëm për të siguruar mundësi më të barabarta për të gjithë pjesëmarrësit.
 
 </details>
 
 <details>
 <summary>A ka kufizime në numrin e tweeteve ose retweeteve?</summary>
 
-Jo, thjesht shmangni spamimin ose përdorimin e etiketave të panevojshme.
+Jo, thjesht shmangni spamimin ose përdorimin e etiketave të pa lidhura.
 
 </details>
 
 <details>
 <summary>A numërojnë përmendjet ose etiketat në tweetet e mia për pikë?</summary>
 
-Po, në një mënyrë të ndirect. Përmendjet mund të rezultojnë në rritjen e përhapjes, dhe një përhapje më e gjerë mund të ngritë renditjen tuaj si influencer, e cila në këmbim ju sjell më shumë pikë. Etiketat janë të rëndësishme që tweetet tuaja të njihen. Sigurohuni që të përdorni #XBorg, $XBG, dhe #XBG.
+Po, në një mënyrë të pandirektuar. Përmendjet mund të rezultojnë në rritjen e arritjes, dhe një arritje më e gjerë mund të ngritë renditjen tuaj si influencer, që në të kundërt ju sjell më shumë pikë. Etiketat janë të rëndësishme që tweetet tuaja të njihen. Sigurohuni që të përdorni #XBorg, $XBG, dhe #XBG.
 
 </details>
 
 <details>
 <summary>Cilat janë veprimet e tjera në Twitter që mund të më sjellin pikë?</summary>
 
-Pëlqimet, komentet, retweetet dhe rritja e numrit të ndjekësve tuaj janë të gjitha faktorë të ndirect që mund të përmirësojnë renditjen tuaj si influencer.
+Pëlqimet, komentet, retweetet dhe rritja e numrit të ndjekësve tuaj janë të gjitha faktorë të pandirektë që mund të përmirësojnë renditjen tuaj si influencer.
 
 </details>
 
 <details>
 <summary>A mund të shoh statistikat dhe performancën e influencerëve të tjerë?</summary>
 
-Vizitoni tabelën tonë të renditjes. <mark style="color:red;">\[LIDHJA PËR TE TABELA E RENDITJES]</mark>\
+Vizitoni [tabelën tonë të drejtuesve](https://xbg-challenge.xborg.com/).\
 Mund të gjeni një pamje më të detajuar dhe analiza [këtu](https://lunarcrush.com/cryptocurrency-influencers?symbol=XBG\&metric=influencers\_influential).
 
 </details>
 
 <details>
-<summary>A mund të shoh një shpjegim të pikëve të mia bazuar në veprimet e ndryshme?</summary>
+<summary>A mund të shoh një shpërndarje të pikëve të mia bazuar në veprimet e ndryshme?</summary>
 
-Fitoni pikë bazuar në angazhimin tuaj të përditshëm në Twitter, siç matet nga LunarCrush. Meqenëse LunarCrush nuk zbulon metodologjinë e tyre të vlerësimit të saktë, nuk jemi në gjendje të ofrojmë informacione më specifike në lidhje me këtë aspekt.
+Fitoni pikë bazuar në angazhimin tuaj të përditshëm në Twitter siç matet nga LunarCrush. Meqë LunarCrush nuk zbulon metodologjinë e tyre të skorimit të saktë, nuk jemi në gjendje të sigurojmë informacione më specifike në lidhje me këtë aspekt.
 
 </details>

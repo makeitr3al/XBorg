@@ -6,7 +6,7 @@
 
 <summary>J'ai fait un tweet, pourquoi mes points ne sont-ils pas mis à jour ?</summary>
 
-Nous actualisons les données toutes les 24 heures, donc votre score sera mis à jour en conséquence. Gardez à l'esprit qu'un tweet doit d'abord avoir un certain niveau d'engagement (vues, likes, commentaires, retweets) pour être pris en compte par [LunarCrush](lunarcrush-test.md). Cela peut entraîner un délai pouvant aller jusqu'à 48 heures. Il est important de noter qu'il n'y a pas de limite au nombre de tweets que vous pouvez publier par jour. En tweetant fréquemment et de manière cohérente, les retards de traitement de LunarCrush ont moins d'impact.
+Nous actualisons les données toutes les 24 heures, donc votre score sera mis à jour en conséquence. Gardez à l'esprit qu'un tweet doit d'abord avoir un certain niveau d'engagement (vues, likes, commentaires, retweets) pour être comptabilisé par [LunarCrush](lunarcrush.md). Cela peut entraîner un délai pouvant aller jusqu'à 48 heures. Il est important de noter qu'il n'y a pas de limite au nombre de tweets que vous pouvez publier par jour. En tweetant fréquemment et de manière constante, les retards de traitement de LunarCrush ont moins d'impact.
 
 </details>
 
@@ -14,11 +14,11 @@ Nous actualisons les données toutes les 24 heures, donc votre score sera mis à
 
 <summary>Que dois-je faire pour obtenir le plus de points ?</summary>
 
-Pour obtenir le plus de points pour la saison, l'objectif est de viser la meilleure position dans le classement chaque jour. Être régulièrement parmi les 300 premiers participants forme une base solide, mais atteindre un rang élevé est un exploit qui garantit le maximum de points.
+Pour obtenir le plus de points pour la saison, l'objectif est de viser la meilleure position dans le classement chaque jour. Faire partie régulièrement des 300 premiers participants forme une base solide, mais atteindre un rang élevé est un exploit qui garantit le maximum de points.
 
-Maintenir une présence régulière est crucial pour ne pas manquer de points quotidiens. Pour optimiser davantage vos points quotidiens, tenez compte de ces bonnes pratiques :
+Maintenir une présence régulière est crucial pour ne pas manquer de points quotidiens. Pour optimiser davantage vos points quotidiens, prenez en compte ces bonnes pratiques :
 
-Utilisez le score d'influence de [LunarCrush](lunarcrush-test.md). Maintenez un calendrier de publication régulier (10 à 40 fois par jour pour les meilleurs influenceurs). Utilisez des $tickers et des #hashtags précis (#XBorg, $XBG et #XBG). Offrez un contenu de valeur pour engager vos followers. Interagissez avec des publications pertinentes, en particulier celles liées aux tokens, aux échanges ou aux NFT qui vous passionnent. Accordez une importance particulière à l'aspect visuel en utilisant des visuels de haute qualité. Taguez d'autres personnes influentes et des personnalités notables associées aux tokens sur lesquels vous vous concentrez. Évitez une utilisation excessive de hashtags non pertinents pour éviter le spam.
+Utilisez le score d'influence de [LunarCrush](lunarcrush.md). Maintenez un calendrier de publication régulier (10 à 40 fois par jour pour les influenceurs les plus populaires). Utilisez des $tickers et des #hashtags précis (#XBorg, $XBG et #XBG). Offrez un contenu de valeur pour engager vos followers. Interagissez avec des publications pertinentes, en particulier celles liées aux tokens, aux échanges ou aux NFT qui vous passionnent. Accordez une importance particulière à l'aspect visuel en utilisant des visuels de haute qualité. Taguez d'autres personnes influentes et des personnalités notables associées aux tokens sur lesquels vous vous concentrez. Évitez d'utiliser de manière excessive des hashtags non pertinents pour éviter le spam.
 
 </details>
 
@@ -26,7 +26,7 @@ Utilisez le score d'influence de [LunarCrush](lunarcrush-test.md). Maintenez un 
 
 <summary>Combien de points obtiens-je pour un tweet, un like, un commentaire et un retweet ?</summary>
 
-Comme nous nous appuyons sur [LunarCrush](lunarcrush-test.md), nous n'allouons pas de points pour des actions isolées. LunarCrush mesure votre engagement global pour le projet XBorg tout au long de la journée et génère un classement. Sur la base de ce classement quotidien, le joueur accumule des points. Pour plus de détails sur la façon dont le classement d'influence est généré, veuillez vous référer à la [FAQ de LunarCrush](https://lunarcrush.com/faq/how-does-lunarcrush-calculate-social-influence).
+Comme nous nous appuyons sur [LunarCrush](lunarcrush.md), nous n'allouons pas de points pour des actions isolées. LunarCrush mesure votre engagement global pour le projet XBorg tout au long de la journée et génère un classement. Sur la base de ce classement quotidien, le joueur accumule des points. Pour plus de détails sur la façon dont le classement d'influence est généré, veuillez vous référer à la [FAQ de LunarCrush](https://lunarcrush.com/faq/how-does-lunarcrush-calculate-social-influence).
 
 </details>
 
@@ -42,7 +42,7 @@ Les activités d'engagement cumulatif, comprenant des actions telles que les twe
 
 <summary>Comment puis-je vérifier mes points et mon classement quotidien ?</summary>
 
-Rendez-vous sur <mark style="color:red;">**{LIEN VERS LE CLASSEMENT}**</mark>. Le classement est mis à jour toutes les 24 heures.
+Rendez-vous sur notre [classement](https://xbg-challenge.xborg.com/). Le classement est mis à jour toutes les 24 heures.
 
 </details>
 
@@ -56,7 +56,7 @@ Les points sont attribués comme suit :
 
 <img src="../../../.gitbook/assets/points_distribution.png" alt="" data-size="original">
 
-Si votre classement se situe au-delà de la 300e place, vous ne recevrez pas de points pour cette journée. Mais c'est l'avantage de ce classement : chaque jour, vous avez une nouvelle chance de performer.
+Si votre classement tombe au-delà de la 300e place, vous ne recevrez pas de points pour cette journée. Mais c'est l'avantage de ce classement : chaque jour vous avez une nouvelle chance de performer.
 
 Nous espérons que cette explication clarifie la manière dont les points sont accumulés.
 
