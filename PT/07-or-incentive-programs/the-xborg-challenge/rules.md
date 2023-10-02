@@ -15,15 +15,15 @@ Todos os dias, as 300 contas com maior engajamento em conteúdos com as hashtags
 Apenas contas do Twitter com mais de 500 seguidores podem acumular pontos. Em conjunto com a LunarCrush, analisamos e classificamos tweets com as hashtags #XBG, #XBorg ou $XBG. Seu sistema garante a integridade do concurso com proteção contra spam e trapaças. Para entender seus critérios, consulte as perguntas frequentes da LunarCrush. Com base na classificação da LunarCrush, pontos são concedidos diariamente de acordo com nossa escala detalhada [aqui](scoring/leaderboard.md#how-does-the-daily-ranking-work). As classificações consolidadas podem ser encontradas [aqui](https://xbg-challenge.xborg.com/).&#x20;
 
 **Recompensas:** \
-Um orçamento de 100 mil $XBG foi alocado para esta temporada inaugural, dividido entre recompensas individuais (33%) e coletivas (66%). O cumprimento de metas coletivas desbloqueia recompensas coletivas para todos. Os membros na Zona de Recompensas no final do desafio compartilharão as recompensas com base na escala \[Tabela 2]. Os tokens XBG serão enviados após o TGE (Token Generation Event) e inicialmente ficarão bloqueados por um mês, sendo liberados gradualmente ao longo de seis meses. Também há recompensas surpresa que serão distribuídas a critério da XBorg.&#x20;
+Um orçamento de 100 mil $XBG foi alocado para esta temporada inaugural, dividido entre recompensas individuais (33%) e coletivas (66%). O cumprimento de metas coletivas desbloqueia recompensas coletivas para todos. Os membros na Zona de Recompensas no final do desafio compartilharão as recompensas com base na [escala](rewards.md#what-reward-do-i-get). Os tokens XBG serão enviados após o TGE (Token Generation Event) e inicialmente ficarão bloqueados por um mês, sendo liberados gradualmente ao longo de seis meses. Também estão previstas recompensas surpresa, que serão distribuídas a critério da XBorg.&#x20;
 
 **Regras de Jogo Limpo:** \
 Valorizamos a criatividade, autenticidade e ética. Estabelecemos ferramentas e medidas para identificar comportamentos inadequados. Trapaceiros e usuários de bots serão identificados e desqualificados. As decisões da XBorg são finais.&#x20;
 
 **Aviso Legal:** \
-Cada participante deve ter lido e aceito os termos e condições para participar do Desafio XBorg. A XBorg não se responsabiliza por ações, omissões, problemas técnicos, falhas de servidor, erros, interrupções de serviço, exclusões, defeitos, atrasos de transmissão, roubos, destruições, acesso não autorizado ou alterações relacionadas a terceiros, como LunarCrush, X ou qualquer evento imprevisto que possa prejudicar o funcionamento adequado do concurso.&#x20;
+Cada participante deve ter lido e aceito os termos e condições para participar do Desafio XBorg. A XBorg não se responsabiliza por ações, omissões, problemas técnicos, falhas de servidor, erros, interrupções de serviço, exclusões, defeitos, atrasos de transmissão, roubos, destruições, acesso não autorizado ou alterações relacionadas a terceiros, como LunarCrush, X ou qualquer evento imprevisto que possa interromper o funcionamento adequado do concurso.&#x20;
 
-**Direitos de Modificação:** \
+**Direito de Modificação:** \
 Reservamos o direito de alterar os termos e condições do desafio a nosso critério. Embora possamos fazê-lo sem aviso prévio, sempre nos esforçaremos para comunicar quaisquer mudanças significativas aos participantes o mais rápido possível.&#x20;
 
 **Limitação de Responsabilidade:** \
@@ -35,7 +35,7 @@ Ao participar deste desafio, você concorda em isentar a XBorg de qualquer respo
 
 <summary>Quais são as regras?</summary>
 
-Por favor, [role para cima](rules.md#rules). Por favor, observe que elas são complementadas pelos Termos e Condições que todo participante concorda em seguir.
+Por favor, [role para cima](rules.md#rules). Por favor, observe que elas são complementadas pelos Termos e Condições aos quais todo participante concorda.
 
 </details>
 
@@ -83,6 +83,6 @@ Absolutamente, colaborar com outros influenciadores pode aumentar significativam
 
 <summary>Há consequências para ações que violam as diretrizes do jogo?</summary>
 
-A LunarCrush possui sistemas automatizados para detectar diferentes tipos de conduta inadequada. Ao ser detectado, a LunarCrush não mais o reconhecerá como um influenciador, resultando na interrupção da acumulação de pontos. Se necessário, você também pode ser desqualificado do concurso, perdendo assim a elegibilidade para reivindicar recompensas.
+A LunarCrush possui sistemas automatizados para detectar diferentes tipos de conduta inadequada. Ao ser detectado, a LunarCrush não mais o reconhecerá como influenciador, resultando na interrupção da acumulação de pontos. Se necessário, você também poderá ser desqualificado do concurso, perdendo assim a elegibilidade para reivindicar recompensas.
 
 </details>
