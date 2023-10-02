@@ -50,7 +50,7 @@ Likes, comments, retweets, and boosting your follower count are all indirect fac
 
 <summary>Can I view the statistics and performace of other influencers?</summary>
 
-Visit our leaderboard. <mark style="color:red;">\[LINK TO LEADERBOARD]</mark>\
+Visit our [leaderboard](https://xbg-challenge.xborg.com/).\
 A more detailed view and analytics can be found [here](https://lunarcrush.com/cryptocurrency-influencers?symbol=XBG\&metric=influencers\_influential).
 
 </details>

@@ -6,7 +6,7 @@
 
 <summary>What reward do I get?</summary>
 
-Based on your point total and the collective goals achieved, you will receive an individual reward in $XBG tokens, as well as a collective reward in $XBG tokens. All rewards are [vested](rewards-test.md#how-long-are-rewards-vested).
+Based on your point total and the collective goals achieved, you will receive an individual reward in $XBG tokens, as well as a collective reward in $XBG tokens. All rewards are [vested](rewards.md#how-long-are-rewards-vested).
 
 
 
@@ -18,7 +18,7 @@ Based on your point total and the collective goals achieved, you will receive an
 
 <summary>How long are rewards vested?</summary>
 
-
+coming soon...
 
 </details>
 
@@ -26,7 +26,7 @@ Based on your point total and the collective goals achieved, you will receive an
 
 <summary>How I will get my reward?</summary>
 
-At the conclusion of the qualifier or season, rewards will be sent to the wallet you provided, based on your final rank after the contest has ended. Note: All rewards are [vested](rewards-test.md#how-long-are-rewards-vested).
+At the conclusion of the qualifier or season, rewards will be sent to the wallet you provided, based on your final rank after the contest has ended. Note: All rewards are [vested](rewards.md#how-long-are-rewards-vested).
 
 </details>
 
@@ -34,7 +34,7 @@ At the conclusion of the qualifier or season, rewards will be sent to the wallet
 
 <summary>Where can I provide my wallet?</summary>
 
-
+coming soon...
 
 </details>
 
@@ -58,7 +58,7 @@ A collective reward is a demonstration of our appreciation for participants' col
 
 <summary>How the collective reward will be splitted? What can I do, to increase it?</summary>
 
-The Split of the collective reward is determined by your ranking and can be collectively augmented by achieving collective milestones or completing flash actions. For more information, please refer to the [rules](rules-test.md).
+The Split of the collective reward is determined by your ranking and can be collectively augmented by achieving collective milestones or completing flash actions. For more information, please refer to the [rules](rules.md).
 
 </details>
 
@@ -82,6 +82,6 @@ In the first qualification phase, the total rewards sum up to a maximum of 100k 
 
 <summary>What is the reward zone?</summary>
 
-
+coming soon...
 
 </details>

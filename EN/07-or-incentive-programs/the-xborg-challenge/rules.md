@@ -12,7 +12,7 @@
 Every day, the top 300 accounts with the highest engagement on content with the hashtags #XBORG, #XBG, or $XBG are tracked. Based on their daily performance, they accumulate points visible on our leaderboard. At the end of the season, players will receive their rewards based on their rankings.&#x20;
 
 **Scoring Criteria:** \
-Only Twitter accounts with more than 500 followers can accumulate points. Together with LunarCrush we analyse and rank tweets with the hashtags #XBG, #XBorg, or $XBG. Their system ensures contest integrity with protection against spam and cheating. To understand their criteria, refer to the LunarCrush FAQ. Based on LunarCrush's ranking, points are awarded daily according to our detailed scale \[Table 1]. The consolidated rankings can be found {XBorg.com}.&#x20;
+Only Twitter accounts with more than 500 followers can accumulate points. Together with LunarCrush we analyse and rank tweets with the hashtags #XBG, #XBorg, or $XBG. Their system ensures contest integrity with protection against spam and cheating. To understand their criteria, refer to the LunarCrush FAQ. Based on LunarCrush's ranking, points are awarded daily according to our detailed [scale](scoring/leaderboard.md#how-does-the-daily-ranking-work). The consolidated rankings can be found [here](https://xbg-challenge.xborg.com/).&#x20;
 
 **Rewards:** \
 A budget of 100k $XBG has been allocated for this inaugural season, divided between individual (33%) and collective rewards (66%). Meeting collective goals unlock collective rewards for everyone. Members in the Reward Zone at the challenge's end will share rewards based on the scale \[Table 2]. The XBG tokens will be sent post-TGE (Token Generation Event) and will initially be locked for one month, and vested over six months. Surprise rewards are also in store and will be given out at XBorg's discretion.&#x20;
@@ -35,7 +35,7 @@ By participating in this challenge, you agree to release XBorg from any liabilit
 
 <summary>What are the rules?</summary>
 
-Please [scroll up](rules-test.md#rules). Please note that they are complemented by the Terms and Conditions that every participant agrees to.
+Please [scroll up](rules.md#rules). Please note that they are complemented by the Terms and Conditions that every participant agrees to.
 
 </details>
 

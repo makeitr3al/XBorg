@@ -8,7 +8,7 @@
 
 <summary>I made a tweet, why are my points not updated?</summary>
 
-We refresh the data every 24 hours, so your score will be updated accordingly. Keep in mind that a tweet first needs to have a certain amount of engagement (views, likes, comments, retweets) to be counted by [LunarCrush](lunarcrush-test.md). This could result in a delay of up to 48 hours. It's worth noting that there is no limit to the number of tweets you can post in a day. When tweeting frequently and consistently, the processing delays of LunarCrush have a lesser impact.
+We refresh the data every 24 hours, so your score will be updated accordingly. Keep in mind that a tweet first needs to have a certain amount of engagement (views, likes, comments, retweets) to be counted by [LunarCrush](lunarcrush.md). This could result in a delay of up to 48 hours. It's worth noting that there is no limit to the number of tweets you can post in a day. When tweeting frequently and consistently, the processing delays of LunarCrush have a lesser impact.
 
 </details>
 
@@ -20,7 +20,7 @@ To secure the highest points for the season, the goal is to aim for the highest 
 
 Maintaining a regular presence is crucial to avoid missing out on daily points. To further optimize your daily points, consider these best practices:
 
-Utilize the [LunarCrush ](lunarcrush-test.md)influence score. Maintain a consistent posting schedule (10-40 times daily for top influencers). Use accurate $tickers and #hashtags (#XBorg, $XBG, and #XBG). Offer valuable content to engage your followers. Interact with relevant posts, particularly those related to tokens, exchanges, or NFTs you're passionate about. Prioritize visual appeal by using high-quality visuals. Tag other influential individuals and notable figures associated with the tokens you focus on. Avoid excessive use of irrelevant hashtags to prevent spam.
+Utilize the [LunarCrush ](lunarcrush.md)influence score. Maintain a consistent posting schedule (10-40 times daily for top influencers). Use accurate $tickers and #hashtags (#XBorg, $XBG, and #XBG). Offer valuable content to engage your followers. Interact with relevant posts, particularly those related to tokens, exchanges, or NFTs you're passionate about. Prioritize visual appeal by using high-quality visuals. Tag other influential individuals and notable figures associated with the tokens you focus on. Avoid excessive use of irrelevant hashtags to prevent spam.
 
 </details>
 
@@ -28,7 +28,7 @@ Utilize the [LunarCrush ](lunarcrush-test.md)influence score. Maintain a consist
 
 <summary>How many points do I get for a tweet, like, comment and retweet?</summary>
 
-As we rely on [LunarCrush](lunarcrush-test.md), we don't allocate points for isolated actions. LunarCrush measures your overall engagement for the XBorg project throughout the day and generates a ranking. Based on this daily ranking, the player accumulate points. For more details on how the influence ranking is generated, please refer to [LunarCrush's FAQ](https://lunarcrush.com/faq/how-does-lunarcrush-calculate-social-influence): .
+As we rely on [LunarCrush](lunarcrush.md), we don't allocate points for isolated actions. LunarCrush measures your overall engagement for the XBorg project throughout the day and generates a ranking. Based on this daily ranking, the player accumulate points. For more details on how the influence ranking is generated, please refer to [LunarCrush's FAQ](https://lunarcrush.com/faq/how-does-lunarcrush-calculate-social-influence): .
 
 </details>
 
@@ -44,7 +44,7 @@ The cumulative engagement activities, encompassing actions like tweets, likes, r
 
 <summary>How can I check my points and daily ranking?</summary>
 
-Visit <mark style="color:red;">**{LINK TO LEADERBOARD}**</mark> Ranking is updated every 24h.
+Visit our [leaderboard](https://xbg-challenge.xborg.com/). Ranking is updated every 24h.
 
 </details>
 
