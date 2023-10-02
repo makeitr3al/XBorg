@@ -4,7 +4,7 @@
 >
 > \
 > Dieser Abschnitt liefert alles, was du darüber wissen musst. \
-> Start im September 2023.
+> Start im Oktober 2023.
 
 
 
@@ -32,7 +32,7 @@ Nimm umfangreich teil, indem du dich an die [Regeln](rules.md) hältst und bewä
 
 <summary>Wann beginnt der Wettbewerb?</summary>
 
-Der Wettbewerb soll entweder am 1. oder am 30. September 2023 beginnen, abhängig von unserem Fortschritt.
+Am 1. Oktober 2023.
 
 </details>
 
@@ -48,7 +48,7 @@ Der Wettbewerb endet zwei Wochen nach dem Token Generation Event ([TGE](./#what-
 
 <summary>Wie kann ich an dieser Challenge teilnehmen?</summary>
 
-Sobald du die Anforderung erfüllst, mehr als 500 Twitter-Follower zu haben, werden Punkte basierend auf deinem täglichen XBorg Influencers Engagement Rank auf LunarCrush vergeben. Vergiss nicht, #XBorg, $XBG oder #XBG in deinen Tweets für eine genaue Anerkennung einzufügen.
+Sobald du die Anforderung erfüllst, mehr als 500 Twitter-Follower zu haben, werden Punkte basierend auf deinem täglichen XBorg Influencers Engagement Rank auf LunarCrush vergeben. Vergiss nicht, #XBorg, $XBG oder #XBG in deinen Tweets für eine genaue Anerkennung einzuschließen.
 
 </details>
 
@@ -80,11 +80,11 @@ Effektives Engagement beinhaltet das Erstellen von fesselndem Inhalt unter Verwe
 
 <summary>Was ist ein TGE?</summary>
 
-TGE steht für "Token Generation Event" und ist ein Begriff, der hauptsächlich in den Bereichen Blockchain und Kryptowährung verwendet wird.
+TGE steht für "Token Generation Event", ein Begriff, der hauptsächlich in den Bereichen Blockchain und Kryptowährung verwendet wird.
 
 **Was passiert während eines TGE?**
 
-Ein TGE beinhaltet die Erstellung und Verteilung einer neuen Kryptowährung oder eines Tokens an frühe Teilnehmer, in der Regel zur Finanzierung eines neuen Projekts. Dieser Prozess beinhaltet, dass das ausgebende Unternehmen oder die Organisation eine festgelegte Anzahl von Tokens an anfängliche Unterstützer oder Investoren vergibt.
+Ein TGE beinhaltet die Erstellung und Verteilung einer neuen Kryptowährung oder eines Tokens an frühe Teilnehmer, in der Regel zur Finanzierung eines neuen Projekts. Dieser Prozess beinhaltet, dass das ausgebende Unternehmen oder die Organisation eine festgelegte Anzahl von Tokens an anfängliche Unterstützer oder Investoren zuweist.
 
 **Wie unterscheidet sich ein TGE von einem ICO?**
 
@@ -112,15 +112,15 @@ Wenn du dein Engagement nicht aufrechterhältst oder steigerst, wird dein Influe
 
 <summary>Wie funktioniert die Qualifikationsphase in Bezug auf das Punktesammeln und den Aufstieg im Ligasystem?</summary>
 
-Während der Qualifikationsphasen sammeln die Teilnehmer täglich Punkte und steigen in der Rangliste auf. Wir werden einen endgültigen Ranglisten-Snapshot sowohl von Qualifikationsphase 1 als auch von Qualifikationsphase 2 behalten. Basierend auf der Gesamtzahl der Teilnehmer und dem Erfolg der gemeinsamen Ziele werden dann Plätze in verschiedenen Ligen verfügbar gemacht. Die besten Performer jeder Qualifikationsphase erhalten dann Einladungen, der Liga beizutreten, die ihrem Fähigkeitsniveau am besten entspricht.
+Während der Qualifikationsphasen sammeln die Teilnehmer täglich Punkte und steigen in der Rangliste auf. Wir werden einen endgültigen Ranglisten-Snapshot sowohl von Qualifikationsphase 1 als auch von Qualifikationsphase 2 behalten. Basierend auf der Gesamtzahl der Teilnehmer und dem Erfolg der gemeinsamen Ziele werden in verschiedenen Ligen Plätze zur Verfügung gestellt. Die besten Teilnehmer jeder Qualifikationsphase erhalten dann Einladungen, je nach ihrem Fähigkeitsniveau in die am besten geeignete Liga einzusteigen.
 
-Durch diese Ligen beginnt die erste Saison und bringt Belohnungen mit sich, die zu verlockend sind, um sie zu übersehen. Dies markiert den wahren Beginn des Spiels. Neben den großzügigen Belohnungen sollte die Qualifikation für viele während der Qualifikationsphasen ein vorrangiges Ziel sein.
+Durch diese Ligen beginnt die erste Saison und bringt Belohnungen mit sich, die zu verlockend sind, um sie zu übersehen. Dies markiert den wahren Beginn des Spiels. Neben den erheblichen Belohnungen sollte die Qualifikation während der Qualifikationsphasen für viele ein vorrangiges Ziel sein.
 
 </details>
 
 <details>
 
-<summary>Gibt es eine Frist, um bestimmte Aktionen zur Punktevergabe abzuschließen?</summary>
+<summary>Gibt es eine Frist, um bestimmte Aktionen zur Punkteerzielung abzuschließen?</summary>
 
 Ja, es gibt Fristen für das Punktesammeln basierend auf den Stadien des Spiels. Es gibt zwei Qualifikationsphasen, gefolgt vom Start der [Ligen](scoring/leagues.md). Während jeder Phase haben die Teilnehmer bis zum Ende Zeit, um die maximalen Punkte zu sammeln und ihre Position auf der [Rangliste](scoring/leaderboard.md) zu sichern. Sobald die Ligen gestartet sind, läuft das Spiel saisonal.
 
@@ -131,5 +131,5 @@ Zusätzlich werden täglich Punkte verdient und die Daten werden jeden Abend vor
 {% hint style="info" %}
 Wenn du Hilfe benötigst, wende dich bitte an unseren Discord (https://discord.gg/xborg), und wenn nötig, wird dir unsere großartige Community schnell helfen.
 
-NB: Unsere Community/Mods/Mitarbeiter sollten dich niemals zuerst anschreiben.
+NB: Unsere Community/Mods/Mitarbeiter sollten dich nicht anschreiben und werden es auch nie tun.
 {% endhint %}
