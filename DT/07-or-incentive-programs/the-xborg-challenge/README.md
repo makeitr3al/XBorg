@@ -1,22 +1,19 @@
 # De XBorg Uitdaging
 
-> Q4 2023 biedt veel baanbrekende gebeurtenissen in het XBorg-universum. Een daarvan is de XBorg Uitdaging, waarbij je als bijdrager kunt helpen om het woord te verspreiden en beloond kunt worden voor je inzet! 💰
+> Q4 2023 biedt veel baanbrekende evenementen in het XBorg-universum. Een daarvan is de XBorg Uitdaging, waar jij als bijdrager kunt helpen het woord te verspreiden en beloond wordt voor het doen! 💰
 >
 > \
-> Deze sectie geeft je alles wat je moet weten. \
-> Komt in oktober 2023.
+> Deze sectie biedt alles wat je moet weten hierover.
 
+**Geschiktheid**
 
-
-**In aanmerking komen**
-
-Om in aanmerking te komen, moet je meer dan 500 volgers hebben en de juiste hashtags en cashtags gebruiken ($XBG, #XBorg en #XBG)
+Om in aanmerking te komen moet je meer dan 500 volgers hebben en de juiste hashtags en cashtags gebruiken ($XBG, #XBorg en #XBG)
 
 <details>
 
 <summary>Waarom doen we dit?</summary>
 
-Ons doel is om bekendheid te geven aan XBorg terwijl we onze fantastische community, producten en token laten zien. Het organiseren van een wedstrijd is onze gekozen methode om een plezierige en samenwerkende ervaring te bevorderen.
+Ons doel is om het bewustzijn over XBorg te vergroten terwijl we onze fantastische gemeenschap, producten en token tentoonstellen. Het organiseren van een wedstrijd is onze gekozen methode om een plezierige en samenwerkende ervaring te bevorderen.
 
 </details>
 
@@ -24,7 +21,7 @@ Ons doel is om bekendheid te geven aan XBorg terwijl we onze fantastische commun
 
 <summary>Hoe werkt het?</summary>
 
-Doe uitgebreid mee terwijl je je houdt aan de [regels](rules.md) en de beste praktijken volgt (link naar beste praktijken). Je zult punten verzamelen op basis van de impact van je betrokkenheid, en hoe vaardiger je dit bereikt, hoe groter de beloningen die zowel jij als je league kunnen behalen.
+Neem uitgebreid deel terwijl je je houdt aan de [regels](rules.md) en de beste praktijken volgt (link naar beste praktijken). Je verzamelt punten op basis van de impact van je betrokkenheid, en hoe vaardiger je dit bereikt, hoe groter de beloningen die zowel jij als je league kunnen behalen.
 
 </details>
 
@@ -40,7 +37,7 @@ Doe uitgebreid mee terwijl je je houdt aan de [regels](rules.md) en de beste pra
 
 <summary>Wanneer eindigt de wedstrijd?</summary>
 
-De wedstrijd eindigt twee weken na het Token Generation Event ([TGE](./#what-is-a-tge)), de specifieke datum hiervan wordt op een later tijdstip gecommuniceerd.
+De wedstrijd is geëindigd op 31 november 2023.
 
 </details>
 
@@ -48,7 +45,7 @@ De wedstrijd eindigt twee weken na het Token Generation Event ([TGE](./#what-is-
 
 <summary>Hoe kan ik deelnemen aan deze uitdaging?</summary>
 
-Als je voldoet aan de eis van meer dan 500 Twitter-volgers, worden punten toegekend op basis van je dagelijkse XBorg Influencers Engagement Rank op LunarCrush. Vergeet niet om #XBorg, $XBG of #XBG op te nemen in je tweets voor nauwkeurige herkenning.
+Zodra je aan de vereiste voldoet van meer dan 500 Twitter-volgers, worden punten toegewezen op basis van je dagelijkse XBorg Influencers Engagement Rank op LunarCrush. Vergeet niet #XBorg, $XBG, of #XBG in je tweets op te nemen voor nauwkeurige herkenning.
 
 </details>
 
@@ -64,7 +61,7 @@ De uitdaging staat open voor iedereen, maar je punten worden alleen geteld als j
 
 <summary>Waar wordt mijn sociale betrokkenheid gemeten?</summary>
 
-LunarCrush haalt gegevens rechtstreeks op van Twitter, waardoor we deze informatie kunnen extraheren en analyseren. Daarom richten we ons uitsluitend op het meten van je betrokkenheid op Twitter. Houd er rekening mee dat betrokkenheid op andere sociale platforms niet in overweging wordt genomen. Voor meer inzichten, bezoek [https://lunarcrush.com/faq.](https://lunarcrush.com/faq.)
+LunarCrush haalt gegevens rechtstreeks van Twitter, waardoor we deze informatie kunnen extraheren en analyseren. Daarom richten we ons uitsluitend op het meten van je betrokkenheid op Twitter. Houd er rekening mee dat betrokkenheid op andere sociale platforms niet in overweging wordt genomen. Voor meer inzichten, bezoek [https://lunarcrush.com/faq.](https://lunarcrush.com/faq.)
 
 </details>
 
@@ -72,7 +69,7 @@ LunarCrush haalt gegevens rechtstreeks op van Twitter, waardoor we deze informat
 
 <summary>Kun je een voorbeeld geven van goede betrokkenheid?</summary>
 
-Effectieve betrokkenheid houdt in dat je boeiende inhoud creëert met behulp van hashtags, cashtags en emoji's. Voor verdere begeleiding kun je onze uitgebreide beste praktijken gids raadplegen: {LINK}
+Effectieve betrokkenheid houdt in dat je boeiende inhoud creëert met hashtags, cashtags en emoji's. Voor verdere begeleiding kun je onze uitgebreide beste praktijken gids raadplegen: {LINK}
 
 </details>
 
@@ -84,11 +81,11 @@ TGE staat voor "Token Generation Event", een term die voornamelijk wordt gebruik
 
 **Wat gebeurt er tijdens een TGE?**
 
-Een TGE omvat de creatie en distributie van een nieuwe cryptocurrency of token aan vroege deelnemers, meestal om fondsen te werven voor een nieuw project. Dit proces houdt in dat het uitgevende bedrijf of de organisatie een vast aantal tokens toewijst aan de eerste supporters of investeerders.
+Een TGE omvat de creatie en distributie van een nieuwe cryptocurrency of token aan vroege deelnemers, meestal om fondsen te werven voor een nieuw project. Dit proces houdt in dat het uitgevende bedrijf of de organisatie een vast aantal tokens toewijst aan initiële supporters of investeerders.
 
 **Hoe verschilt een TGE van een ICO?**
 
-Hoewel zowel TGE's als ICO's (Initial Coin Offerings) methoden zijn om geld in te zamelen met behulp van tokens, worden de termen soms door elkaar gebruikt. Echter, insiders in de industrie geven vaak de voorkeur aan "TGE" omdat het de generatie en distributie van tokens benadrukt, in plaats van het "aanbieden" of verkopen aspect.
+Hoewel zowel TGE's als ICO's (Initial Coin Offerings) methoden zijn om fondsen te werven met tokens, worden de termen soms door elkaar gebruikt. Echter, insiders in de industrie geven vaak de voorkeur aan "TGE" omdat het de generatie en distributie van tokens benadrukt, in plaats van het aspect van "aanbieding" of verkoop.
 
 </details>
 
@@ -102,19 +99,9 @@ Hoewel zowel TGE's als ICO's (Initial Coin Offerings) methoden zijn om geld in t
 
 <details>
 
-<summary>Wat gebeurt er als mijn bereik afneemt als gevolg van externe factoren?</summary>
+<summary>Wat gebeurt er als mijn bereik afneemt door externe factoren?</summary>
 
-Als je je betrokkenheid niet behoudt of vergroot, zal je influencer-rang dalen, wat resulteert in minder dagelijkse punten. De punten die je al hebt verdiend, gaan echter niet verloren.
-
-</details>
-
-<details>
-
-<summary>Hoe werkt de kwalificatiefase wat betreft het verdienen van punten en het doorstromen naar het leaguesysteem?</summary>
-
-Tijdens de kwalificatiefasen verzamelen deelnemers dagelijks punten en stijgen ze op de ranglijst. We zullen een definitieve ranglijst-snapshot behouden van zowel Kwalificatiefase 1 als Kwalificatiefase 2. Op basis hiervan, afhankelijk van het totale aantal deelnemers en het succes van collectieve doelstellingen, zullen er plaatsen beschikbaar worden gesteld in verschillende Leagues. De beste presteerders van elke kwalificatiefase ontvangen vervolgens uitnodigingen om zich aan te sluiten bij de meest geschikte league op basis van hun vaardigheidsniveau.
-
-Via deze leagues begint het inaugurele seizoen, met beloningen die te verleidelijk zijn om te negeren. Dit markeert het echte begin van het spel. Naast de aanzienlijke beloningen zou kwalificatie een belangrijk doel moeten zijn voor velen gedurende de kwalificatiefasen.
+Als je je betrokkenheid niet behoudt of vergroot, zal je influencer-rang dalen, wat resulteert in minder dagelijkse punten. Echter, de punten die je al hebt verdiend gaan niet verloren.
 
 </details>
 
@@ -122,14 +109,14 @@ Via deze leagues begint het inaugurele seizoen, met beloningen die te verleideli
 
 <summary>Is er een deadline om specifieke acties te voltooien om punten te verdienen?</summary>
 
-Ja, er zijn deadlines voor het verdienen van punten op basis van de fasen van het spel. Er zijn twee kwalificatiefasen, gevolgd door de lancering van de [leagues](scoring/leagues.md). Tijdens elke fase hebben deelnemers tot het einde de tijd om de maximale punten te verzamelen en hun positie op het [leaderboard](scoring/leaderboard.md) veilig te stellen. Zodra de leagues zijn gelanceerd, werkt het spel op seizoensbasis.
+Ja, er zijn deadlines voor het verdienen van punten op basis van de fasen van het spel. Er zijn twee kwalificatiefasen, gevolgd door de lancering van de [leagues](broken-reference). Tijdens elke fase hebben deelnemers tot het einde om de maximale punten te verzamelen en hun positie op het [scorebord](scoring/leaderboard.md) te verzekeren. Zodra de leagues gelanceerd zijn, werkt het spel op een seizoensbasis.
 
-Bovendien worden punten dagelijks verdiend en wordt de data elke avond voor middernacht (UTC) uit de [LunarCrush](scoring/lunarcrush.md) API gehaald om de punten te berekenen. Vanwege technische beperkingen kan het tot 48 uur duren voordat sommige gegevens worden weergegeven op het [leaderboard](scoring/leaderboard.md).
+Daarnaast worden punten dagelijks verdiend, en gegevens worden elke avond voor middernacht (UTC) uit de [LunarCrush](scoring/lunarcrush.md) API gehaald om de punten te berekenen. Vanwege technische aansprakelijkheid kan het tot 48 uur duren voordat sommige gegevens weerspiegeld worden op het [scorebord](scoring/leaderboard.md).
 
 </details>
 
 {% hint style="info" %}
-Als je hulp nodig hebt, neem dan contact met ons op via onze Discord (https://discord.gg/xborg), en indien nodig zal onze geweldige community je snel helpen.
+Als je hulp nodig hebt, neem dan contact op via onze Discord (https://discord.gg/xborg), en indien nodig zal onze geweldige gemeenschap je snel helpen.
 
-NB: Onze community/mods/staffleden zullen je nooit als eerste een privébericht sturen.
+NB: Onze gemeenschap/moderators/medewerkers zullen je nooit als eerste een DM sturen.
 {% endhint %}

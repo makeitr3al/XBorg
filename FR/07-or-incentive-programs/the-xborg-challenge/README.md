@@ -1,12 +1,9 @@
-# Le défi XBorg
+# Le Défi XBorg
 
-> Le quatrième trimestre de 2023 offre de nombreux événements révolutionnaires dans l'univers XBorg. L'un d'entre eux est le défi XBorg, où vous, en tant que contributeur, pouvez aider à faire connaître et être récompensé pour cela ! 💰
+> Le Q4 2023 offre de nombreux événements révolutionnaires dans l'univers XBorg. L'un d'entre eux est le Défi XBorg, où vous, en tant que contributeur, pouvez aider à faire connaître le projet et être récompensé pour cela ! 💰
 >
 > \
-> Cette section vous donne toutes les informations dont vous avez besoin à ce sujet. \
-> Arrive en octobre 2023.
-
-
+> Cette section fournit tout ce que vous devez savoir à ce sujet.
 
 **Éligibilité**
 
@@ -16,21 +13,21 @@ Pour être éligible, vous devez avoir plus de 500 abonnés et utiliser les hash
 
 <summary>Pourquoi faisons-nous cela ?</summary>
 
-Notre objectif est de sensibiliser à XBorg tout en mettant en valeur notre fantastique communauté, nos produits et notre jeton. Organiser un concours est notre méthode choisie pour favoriser une expérience agréable et collaborative.
+Notre objectif est de sensibiliser à XBorg tout en mettant en avant notre fantastique communauté, nos produits et notre jeton. Organiser un concours est notre méthode choisie pour favoriser une expérience agréable et collaborative.
 
 </details>
 
 <details>
 
-<summary>Comment ça marche ?</summary>
+<summary>Comment cela fonctionne-t-il ?</summary>
 
-Participez activement en respectant les [règles](rules.md) et en suivant les meilleures pratiques (lien vers les meilleures pratiques). Vous accumulerez des points en fonction de l'impact de votre engagement, et plus vous le ferez avec talent, plus les récompenses que vous et votre ligue pourrez obtenir seront grandes.
+Participez activement en respectant les [règles](rules.md) et en suivant les meilleures pratiques (lien vers les meilleures pratiques). Vous accumulerez des points en fonction de l'impact de votre engagement, et plus vous y parviendrez habilement, plus les récompenses que vous et votre ligue pourrez obtenir seront importantes.
 
 </details>
 
 <details>
 
-<summary>Quand est-ce que le concours commence ?</summary>
+<summary>Quand le concours commence-t-il ?</summary>
 
 Le 1er octobre 2023.
 
@@ -38,9 +35,9 @@ Le 1er octobre 2023.
 
 <details>
 
-<summary>Quand est-ce que le concours se termine ?</summary>
+<summary>Quand le concours se termine-t-il ?</summary>
 
-Le concours se terminera deux semaines après l'événement de génération de jetons ([TGE](./#what-is-a-tge)), dont la date précise sera communiquée ultérieurement.
+Le concours s'est terminé le 31 novembre 2023.
 
 </details>
 
@@ -48,31 +45,31 @@ Le concours se terminera deux semaines après l'événement de génération de j
 
 <summary>Comment puis-je participer à ce défi ?</summary>
 
-Une fois que vous avez atteint le critère d'avoir plus de 500 abonnés sur Twitter, des points vous seront attribués en fonction de votre classement quotidien d'engagement des influenceurs XBorg sur LunarCrush. N'oubliez pas d'inclure #XBorg, $XBG ou #XBG dans vos tweets pour une reconnaissance précise.
+Une fois que vous avez satisfait à l'exigence d'avoir plus de 500 abonnés sur Twitter, des points vous seront attribués en fonction de votre Classement d'Engagement des Influenceurs XBorg quotidien sur LunarCrush. N'oubliez pas d'inclure #XBorg, $XBG ou #XBG dans vos tweets pour une reconnaissance précise.
 
 </details>
 
 <details>
 
-<summary>Tout le monde peut-il participer au défi ?</summary>
+<summary>Tout le monde peut-il rejoindre le défi ?</summary>
 
-Le défi est ouvert à tous, mais vos points ne seront comptabilisés que si vous avez au moins 500 abonnés sur Twitter.
-
-</details>
-
-<details>
-
-<summary>Où est mesuré mon engagement social ?</summary>
-
-LunarCrush collecte directement les données de Twitter, ce qui nous permet de les extraire et de les analyser. Par conséquent, nous nous concentrons exclusivement sur la mesure de votre engagement sur Twitter. Veuillez noter que les engagements sur d'autres plateformes sociales ne sont pas pris en compte. Pour plus d'informations, visitez [https://lunarcrush.com/faq.](https://lunarcrush.com/faq.)
+Le défi est ouvert à tous, mais vos points ne seront comptabilisés que si vous avez un minimum de 500 abonnés sur Twitter.
 
 </details>
 
 <details>
 
-<summary>Pouvez-vous donner un exemple d'un bon engagement ?</summary>
+<summary>Où mon engagement social est-il mesuré ?</summary>
 
-Un engagement efficace consiste à créer un contenu captivant en utilisant des hashtags, des cashtags et des emojis. Pour plus de conseils, vous pouvez consulter notre guide complet des meilleures pratiques : {LIEN}
+LunarCrush collecte des données directement depuis Twitter, ce qui nous permet d'extraire et d'analyser ces informations. Par conséquent, nous nous concentrons exclusivement sur la mesure de votre engagement sur Twitter. Veuillez noter que les engagements sur d'autres plateformes sociales ne sont pas pris en compte. Pour plus d'informations, visitez [https://lunarcrush.com/faq.](https://lunarcrush.com/faq.)
+
+</details>
+
+<details>
+
+<summary>Pouvez-vous donner un exemple de bon engagement ?</summary>
+
+Un engagement efficace implique de créer du contenu captivant en utilisant des hashtags, des cashtags et des emojis. Pour plus de conseils, vous pouvez consulter notre guide complet des meilleures pratiques : {LIEN}
 
 </details>
 
@@ -80,15 +77,15 @@ Un engagement efficace consiste à créer un contenu captivant en utilisant des 
 
 <summary>Qu'est-ce qu'un TGE ?</summary>
 
-TGE signifie "Token Generation Event", un terme principalement utilisé dans les secteurs de la blockchain et des cryptomonnaies.
+TGE signifie "Token Generation Event" (Événement de Génération de Jeton), un terme principalement utilisé dans les secteurs de la blockchain et des cryptomonnaies.
 
 **Que se passe-t-il pendant un TGE ?**
 
-Un TGE implique la création et la distribution d'une nouvelle cryptomonnaie ou d'un nouveau jeton aux premiers participants, généralement pour lever des fonds pour un nouveau projet. Ce processus implique que l'entreprise ou l'organisation émettrice attribue un certain nombre de jetons aux premiers supporters ou investisseurs.
+Un TGE implique la création et la distribution d'une nouvelle cryptomonnaie ou d'un nouveau jeton aux participants précoces, généralement pour lever des fonds pour un nouveau projet. Ce processus implique que la société ou l'organisation émettrice alloue un nombre défini de jetons aux premiers supporters ou investisseurs.
 
 **En quoi un TGE diffère-t-il d'une ICO ?**
 
-Bien que les TGE et les ICO (Initial Coin Offerings) soient tous deux des méthodes de collecte de fonds utilisant des jetons, les termes sont parfois utilisés de manière interchangeable. Cependant, les initiés de l'industrie préfèrent souvent "TGE" car cela met l'accent sur la génération et la distribution de jetons, plutôt que sur l'"offre" ou la vente.
+Bien que les TGE et les ICO (Initial Coin Offerings) soient des méthodes de collecte de fonds utilisant des jetons, les termes sont parfois utilisés de manière interchangeable. Cependant, les initiés de l'industrie préfèrent souvent "TGE" car cela met en évidence la génération et la distribution de jetons, plutôt que l'aspect "offre" ou vente.
 
 </details>
 
@@ -104,32 +101,22 @@ Bien que les TGE et les ICO (Initial Coin Offerings) soient tous deux des métho
 
 <summary>Que se passe-t-il si ma portée diminue en raison de facteurs externes ?</summary>
 
-Si vous ne maintenez pas ou n'augmentez pas votre engagement, votre classement d'influenceur diminuera, ce qui entraînera moins de points quotidiens. Cependant, les points que vous avez déjà gagnés ne seront pas perdus.
+Si vous ne maintenez ou n'augmentez pas l'engagement, votre classement d'influenceur diminuera, ce qui entraînera moins de points quotidiens. Cependant, les points que vous avez déjà gagnés ne sont pas perdus.
 
 </details>
 
 <details>
 
-<summary>Comment fonctionne la phase de qualification en termes de points et d'avancement dans le système de ligues ?</summary>
+<summary>Y a-t-il une date limite pour effectuer des actions spécifiques afin de gagner des points ?</summary>
 
-Pendant les phases de qualification, les participants accumulent des points quotidiens et montent dans le classement. Nous conserverons un instantané final du classement à la fois pour la phase de qualification 1 et la phase de qualification 2. Ensuite, en fonction du nombre total de participants et du succès des objectifs collectifs, des places seront disponibles dans différentes ligues. Les meilleurs performeurs de chaque phase de qualification recevront ensuite des invitations pour rejoindre la ligue la plus adaptée à leur niveau de compétence.
+Oui, il y a des dates limites pour gagner des points en fonction des étapes du jeu. Il y a deux phases de qualification, suivies par le lancement des [ligues](broken-reference). Pendant chaque phase, les participants ont jusqu'à la fin pour accumuler le maximum de points et sécuriser leur position sur le [classement](scoring/leaderboard.md). Une fois les ligues lancées, le jeu fonctionne sur une base saisonnière.
 
-À travers ces ligues, la saison inaugurale commencera, apportant avec elle des récompenses trop alléchantes pour être ignorées. Cela marque le véritable commencement du jeu. Au-delà des récompenses substantielles, la qualification devrait être un objectif primordial pour de nombreux participants tout au long des phases de qualification.
-
-</details>
-
-<details>
-
-<summary>Y a-t-il une date limite pour accomplir des actions spécifiques afin de gagner des points ?</summary>
-
-Oui, il y a des délais pour gagner des points en fonction des étapes du jeu. Il y a deux phases de qualification, suivies du lancement des [ligues](scoring/leagues.md). Pendant chaque phase, les participants ont jusqu'à la fin pour accumuler le maximum de points et sécuriser leur position dans le [classement](scoring/leaderboard.md). Une fois les ligues lancées, le jeu fonctionne sur une base saisonnière.
-
-De plus, les points sont gagnés quotidiennement et les données sont extraites de l'API [LunarCrush](scoring/lunarcrush.md) chaque soir avant minuit (UTC) pour calculer les points. En raison de la responsabilité technique, certaines données peuvent prendre jusqu'à 48 heures pour apparaître dans le [classement](scoring/leaderboard.md).
+De plus, les points sont gagnés quotidiennement, et les données sont extraites de l'API [LunarCrush](scoring/lunarcrush.md) chaque soir avant minuit (UTC) pour calculer les points. En raison de la fiabilité technique, certaines données peuvent prendre jusqu'à 48H pour se refléter sur le [classement](scoring/leaderboard.md).
 
 </details>
 
 {% hint style="info" %}
-Si vous avez besoin d'aide, veuillez nous contacter sur notre Discord (https://discord.gg/xborg), et si nécessaire, notre formidable communauté vous aidera rapidement.
+Si vous avez besoin d'aide, veuillez nous contacter sur notre Discord (https://discord.gg/xborg), et si nécessaire, notre incroyable communauté vous aidera rapidement.
 
-NB : Nos membres de la communauté/modérateurs/personnel ne devraient jamais vous envoyer de message en premier.
+NB : Nos membres de la communauté/modérateurs/personnel ne devraient pas et ne vous contacteront jamais en premier.
 {% endhint %}

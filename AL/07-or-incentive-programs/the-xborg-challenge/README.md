@@ -1,135 +1,122 @@
-# SFIDA XBorg
+# Sfida XBorg
 
-> Il Q4 2023 offre molti eventi rivoluzionari nell'universo XBorg. Uno di questi è la SFIDA XBorg, in cui tu, come collaboratore, puoi aiutare a diffondere la parola e ottenere una ricompensa per farlo! 💰
+> T4 2023 ofron shumë ngjarje që ndryshojnë lojën në universin XBorg. Një prej tyre është Sfida XBorg, ku ju si kontribues mund të ndihmoni në përhapjen e fjalës dhe të shpërbleheni për këtë! 💰
 >
 > \
-> Questa sezione fornisce tutto ciò che devi sapere al riguardo. \
-> In arrivo nell'ottobre 2023.
+> Kjo seksion ju ofron të gjitha informacionet që ju duhen për këtë.
 
+**Kriteret e Përshtatshmërisë**
 
-
-**Ammissibilità**
-
-Per essere ammissibili, è necessario avere più di 500 follower e utilizzare gli hashtag e i cashtag appropriati ($XBG, #XBorg e #XBG)
+Për të qenë i përshtatshëm ju duhet të keni më shumë se 500 ndjekës dhe të përdorni hashtaget dhe cashtaget e duhura ($XBG, #XBorg dhe #XBG)
 
 <details>
 
-<summary>Perché stiamo facendo questo?</summary>
+<summary>Pse po e bëjmë këtë?</summary>
 
-Il nostro obiettivo è sensibilizzare sul XBorg mentre mettiamo in mostra la nostra fantastica community, i nostri prodotti e il nostro token. Organizzare un concorso è il nostro metodo scelto per favorire un'esperienza piacevole e collaborativa.
+Objektivi ynë është të rrisim ndërgjegjësimin rreth XBorg-ut duke shfaqur komunitetin tonë të mrekullueshëm, produktet dhe tokenin. Organizimi i një konkursi është metoda jonë e zgjedhur për të kultivuar një përvojë të këndshme dhe bashkëpunuese.
 
 </details>
 
 <details>
 
-<summary>Come funziona?</summary>
+<summary>Si funksionon?</summary>
 
-Partecipa attivamente rispettando le [regole](rules.md) e seguendo le migliori pratiche (link alle migliori pratiche). Accumulerai punti in base all'impatto del tuo coinvolgimento e più abilmente raggiungi questo obiettivo, maggiori saranno le ricompense che tu e la tua lega potrete ottenere.
-
-</details>
-
-<details>
-
-<summary>Quando inizia il concorso?</summary>
-
-Il 1° ottobre 2023.
+Merrni pjesë në mënyrë të gjerë duke u përmbajtur rregullave (link për rregullat) dhe duke ndjekur praktikat më të mira (link për praktikat më të mira). Do të grumbulloni pikë bazuar në ndikimin e angazhimit tuaj, dhe sa më shkathtësisht ta arrini këtë, aq më të mëdha do të jenë shpërblimet që ju dhe liga juaj mund të fitoni.
 
 </details>
 
 <details>
 
-<summary>Quando finisce il concorso?</summary>
+<summary>Kur fillon konkursi?</summary>
 
-Il concorso terminerà due settimane dopo l'Evento di Generazione del Token ([TGE](./#cos'è-un-tge)), la data specifica della quale sarà comunicata in seguito.
-
-</details>
-
-<details>
-
-<summary>Come posso partecipare a questa sfida?</summary>
-
-Una volta soddisfatto il requisito di avere più di 500 follower su Twitter, verranno assegnati punti in base al tuo Rango di Coinvolgimento degli Influencer XBorg giornaliero su LunarCrush. Ricorda di includere #XBorg, $XBG o #XBG nei tuoi tweet per un riconoscimento preciso.
+1 Tetor 2023.
 
 </details>
 
 <details>
 
-<summary>Tutti possono partecipare alla sfida?</summary>
+<summary>Kur mbaron konkursi?</summary>
 
-La sfida è aperta a tutti, ma i tuoi punti saranno conteggiati solo se hai almeno 500 follower su Twitter.
-
-</details>
-
-<details>
-
-<summary>Dove viene misurato il mio coinvolgimento sui social?</summary>
-
-LunarCrush raccoglie dati direttamente da Twitter, consentendoci di estrarre e analizzare queste informazioni. Di conseguenza, ci concentriamo esclusivamente sulla misurazione del tuo coinvolgimento su Twitter. Tieni presente che gli interazioni su altre piattaforme social non vengono prese in considerazione. Per ulteriori informazioni, visita [https://lunarcrush.com/faq.](https://lunarcrush.com/faq.)
+Konkursi ka mbaruar më 31 Nëntor 2023.
 
 </details>
 
 <details>
 
-<summaryPuoi darmi un esempio di un buon coinvolgimento?</summary>
+<summary>Si mund të marr pjesë në këtë sfidë?</summary>
 
-Un coinvolgimento efficace consiste nel creare contenuti accattivanti utilizzando hashtag, cashtag ed emoji. Per ulteriori indicazioni, puoi consultare la nostra completa guida alle migliori pratiche: {LINK}
-
-</details>
-
-<details>
-
-<summary>Cos'è un TGE?</summary>
-
-TGE sta per "Token Generation Event", un termine utilizzato principalmente nel settore della blockchain e delle criptovalute.
-
-**Cosa succede durante un TGE?**
-
-Un TGE comporta la creazione e la distribuzione di una nuova criptovaluta o token ai partecipanti iniziali, di solito per raccogliere fondi per un nuovo progetto. Questo processo prevede che l'azienda o l'organizzazione emittente assegni un determinato numero di token ai sostenitori o agli investitori iniziali.
-
-**In cosa differisce un TGE da un ICO?**
-
-Sebbene sia i TGE (Token Generation Events) che gli ICO (Initial Coin Offerings) siano metodi per raccogliere fondi utilizzando token, i termini vengono talvolta usati in modo intercambiabile. Tuttavia, gli addetti ai lavori preferiscono spesso "TGE" perché mette in evidenza la generazione e la distribuzione dei token, piuttosto che l'aspetto "offerta" o vendita.
+Pas plotësimit të kërkesës për të pasur më shumë se 500 ndjekës në Twitter, pikët do të caktohen bazuar në Renditjen tuaj të Angazhimit të Influencuesve të XBorg në LunarCrush. Mos harroni të përfshini #XBorg, $XBG, ose #XBG në tweet-et tuaja për njohje të saktë.
 
 </details>
 
 <details>
 
-<summary>Cos'è $XBG?</summary>
+<summary>A mund të bashkohet të gjithë në sfidë?</summary>
 
-[$XBG](../../06-or-token/xbg.md) è un token digitale collegato al progetto XBorg.
-
-</details>
-
-<details>
-
-<summary>Cosa succede se la mia portata diminuisce a causa di fattori esterni?</summary>
-
-Se non mantieni o aumenti il coinvolgimento, il tuo rango di influencer diminuirà, risultando in meno punti giornalieri. Tuttavia, i punti che hai già guadagnato non vengono persi.
+Sfida është e hapur për të gjithë, por pikët tuaja do të llogariten vetëm nëse keni të paktën 500 ndjekës në Twitter.
 
 </details>
 
 <details>
 
-<summary>Come funziona la fase di qualificazione in termini di guadagnare punti e avanzare nel sistema delle leghe?</summary>
+<summary>Ku matet angazhimi im social?</summary>
 
-Durante le fasi di qualificazione, i partecipanti accumulano punti giornalieri e salgono di livello nella classifica. Conserveremo uno snapshot finale della classifica sia della Fase di Qualificazione 1 che della Fase di Qualificazione 2. Successivamente, in base al numero totale di partecipanti e al successo degli obiettivi collettivi, saranno disponibili posti in varie Leghe. I migliori performer di ciascuna fase di qualificazione riceveranno quindi inviti per unirsi alla lega più adatta in base al loro livello di abilità.
-
-Attraverso queste leghe, inizierà la stagione inaugurale, portando con sé ricompense troppo allettanti per essere trascurate. Questo segna il vero inizio del gioco. Oltre alle sostanziali ricompense, la qualificazione dovrebbe essere un obiettivo primario per molti durante le fasi di qualificazione.
+LunarCrush merr të dhënat direkt nga Twitter, duke na lejuar të nxjerrim dhe analizojmë këtë informacion. Prandaj, ne fokusohemi ekskluzivisht në matjen e angazhimit tuaj në Twitter. Ju lutemi të jeni të vetëdijshëm se angazhimet në platforma të tjera sociale nuk merren në konsideratë. Për më shumë informacione, vizitoni [https://lunarcrush.com/faq.](https://lunarcrush.com/faq.)
 
 </details>
 
 <details>
 
-<summary>C'è una scadenza per completare azioni specifiche per guadagnare punti?</summary>
+<summary>A mund të jepni një shembull të angazhimit të mirë?</summary>
 
-Sì, ci sono scadenze per guadagnare punti in base alle fasi del gioco. Ci sono due fasi di qualificazione, seguite dal lancio delle [leghe](scoring/leagues.md). Durante ogni fase, i partecipanti hanno tempo fino alla fine per accumulare il massimo dei punti e assicurarsi la loro posizione nella [classifica](scoring/leaderboard.md). Una volta lanciate le leghe, il gioco funziona su base stagionale.
+Angazhimi efektiv përfshin krijimin e përmbajtjes tërheqëse duke përdorur hashtaget, cashtaget dhe emotikonet. Për udhëzime të mëtejshme, mund të konsultoni udhëzuesin tonë të plotë të praktikave më të mira: {LINK}
 
-Inoltre, i punti vengono guadagnati quotidianamente e i dati vengono estratti dall'API di [LunarCrush](scoring/lunarcrush.md) ogni sera prima della mezzanotte (UTC) per calcolare i punti. A causa di responsabilità tecniche, alcuni dati possono richiedere fino a 48 ore per essere riflessi nella [classifica](scoring/leaderboard.md).
+</details>
+
+<details>
+
+<summary>Çfarë është një TGE?</summary>
+
+TGE do të thotë "Ngjarja e Gjenerimit të Tokenit" (Token Generation Event), një term që përdoret kryesisht në sektorët e blockchain dhe kriptomonedhave.
+
+**Çfarë ndodh gjatë një TGE?**
+
+Një TGE përfshin krijimin dhe shpërndarjen e një kriptomonedhe të re ose tokeni tek pjesëmarrësit e hershëm, zakonisht për të mbledhur fonde për një projekt të ri. Ky proces përfshin alokimin e një numri të caktuar të tokeneve nga kompania apo organizata që i lëshon, tek mbështetësit ose investitorët fillestarë.
+
+**Si ndryshon një TGE nga një ICO?**
+
+Edhe pse TGE-të dhe ICO-të (Ofertat e Parë të Monedhave) janë metoda për të mbledhur fonde duke përdorur tokene, termat ndonjëherë përdoren në mënyrë të ndërrueshme. Megjithatë, brenda industrisë shpesh preferohet "TGE" sepse thekson gjenerimin dhe shpërndarjen e tokeneve, në vend të aspektit të "ofertës" ose shitjes.
+
+</details>
+
+<details>
+
+<summary>Çfarë është $XBG?</summary>
+
+[$XBG](../../06-or-token/xbg.md) është një token dixhital i lidhur me projektin XBorg.
+
+</details>
+
+<details>
+
+<summary>Çfarë ndodh nëse arritja ime ulët për shkak të faktorëve të jashtëm?</summary>
+
+Nëse nuk e mbani ose rritni angazhimin, renditja juaj e influencuesit do të bjerë, duke rezultuar në më pak pikë ditore. Megjithatë, pikët që keni fituar tashmë nuk humbasin.
+
+</details>
+
+<details>
+
+<summary>A ka një afat kohor për të kryer veprime të caktuara për të fituar pikë?</summary>
+
+Po, ka afate për të fituar pikë bazuar në fazat e lojës. Ka dy faza kualifikuese, të ndjekura nga nisja e [ligave](broken-reference). Gjatë çdo faze, pjesëmarrësit kanë deri në fund për të grumbulluar pikët maksimale dhe për të siguruar pozicionin e tyre në [tabelën e renditjes](scoring/leaderboard.md). Pas nisjes së ligave, loja operon në bazë sezoni.
+
+Gjithashtu, pikët fitohen çdo ditë, dhe të dhënat merren nga API i [LunarCrush](scoring/lunarcrush.md) çdo mbrëmje para mesnatës (UTC) për të llogaritur pikët. Për shkak të përgjegjësisë teknologjike disa të dhëna mund të duhen deri në 48 orë për të u reflektuar në [tabelën e renditjes](scoring/leaderboard.md).
 
 </details>
 
 {% hint style="info" %}
-Se hai bisogno di assistenza, ti preghiamo di contattarci su Discord (https://discord.gg/xborg), e se necessario, la nostra fantastica community ti aiuterà rapidamente.
+Nëse keni nevojë për ndihmë, ju lutemi të na kontaktoni në Discord tonë (https://discord.gg/xborg), dhe nëse është e nevojshme, komuniteti ynë i mrekullueshëm do t'ju ndihmojë shpejt.
 
-NB: I membri della nostra community/moderatori/personale non dovrebbero e non ti contatteranno mai per primi.
+Shënim: Anëtarët e komunitetit/moderatorët/stafi ynë nuk duhet dhe kurrë nuk do t'ju shkruajnë të parët.
 {% endhint %}
