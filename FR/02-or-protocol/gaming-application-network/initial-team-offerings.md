@@ -1,6 +1,6 @@
 # Offres initiales d'équipe
 
-> Les offres initiales d'équipe ou ITO (Initial Team Offerings) sont l'une des nouvelles technologies introduites par XBorg. L'objectif est de développer une couche tokenisée où les joueurs peuvent créer, collecter des fonds et acheter des équipes, et ainsi avoir le pouvoir de gouvernance sur leur feuille de route et leur trajectoire, et tirer une valeur monétaire en tant que supporters de leur écosystème.
+> Les offres initiales d'équipe, ou ITO (Initial Team Offerings), font partie des nouvelles technologies introduites par XBorg. L'objectif est de développer une couche tokenisée où les joueurs peuvent créer, collecter des fonds et acheter des équipes, et ainsi avoir le pouvoir de gouvernance sur leur feuille de route et leur trajectoire, tout en tirant une valeur monétaire en tant que supporters de leur écosystème.
 
 <details>
 
@@ -14,7 +14,7 @@ Les offres initiales d'équipe (ITO) désignent le processus de tokenisation d'u
 
 <summary>Quand aura lieu la première ITO propulsée par XBorg ?</summary>
 
-Aux alentours du troisième trimestre 2023.
+À l'heure actuelle, il n'y a pas de date confirmée pour l'ITO et sa planification dépend fortement des calendriers des équipes d'esport.
 
 </details>
 
@@ -28,15 +28,15 @@ Les équipes d'esport décentralisées sont financées et gérées par des fans,
 
 <details>
 
-<summary>Les DAO seront-ils représentés par des NFTs ou des tokens ?</summary>
+<summary>Les DAO seront-ils représentés par des NFT ou des tokens ?</summary>
 
-Les DAO d'esport sont gouvernés par des NFTs (jetons non fongibles).
+Les DAO d'esport sont gouvernés par des NFT (jetons non fongibles).
 
 </details>
 
 <details>
 
-<summary>Pouvez-vous expliquer les utilités de ces NFTs ?</summary>
+<summary>Veuillez expliquer les utilités de ces NFT.</summary>
 
 Ils confèrent des droits de gouvernance, un accès à un club unique et des récompenses basées sur les performances de l'équipe.
 
@@ -44,7 +44,7 @@ Ils confèrent des droits de gouvernance, un accès à un club unique et des ré
 
 <details>
 
-<summary>Quelle chaîne sera utilisée pour les NFTs de gouvernance ?</summary>
+<summary>Quelle chaîne sera utilisée pour les NFT de gouvernance ?</summary>
 
 Ethereum
 
@@ -52,8 +52,8 @@ Ethereum
 
 <details>
 
-<summary>Comment puis-je acheter/vendre les NFTs après les ITOs ?</summary>
+<summary>Comment puis-je acheter/vendre les NFT après les ITO ?</summary>
 
-Les NFTs seront vendables sur des places de marché secondaires telles que Opensea, Blur, etc.
+Les NFT seront vendables sur des places de marché secondaires telles que Opensea, Blur, etc.
 
 </details>

@@ -1,12 +1,12 @@
 # Ofertas Iniciais de Equipe
 
-> As Ofertas Iniciais de Equipe, ou ITOs, são uma das novas tecnologias introduzidas pela XBorg. O objetivo é desenvolver uma camada tokenizada onde os jogadores podem criar, arrecadar fundos e comprar equipes, e assim ter poder de governança sobre seu roadmap e trajetória, e obter valor monetário por serem apoiadores de seu ecossistema.
+> As Ofertas Iniciais de Equipe, ou ITOs, são uma das novas tecnologias introduzidas pela XBorg. O objetivo é desenvolver uma camada tokenizada onde os jogadores podem criar, arrecadar fundos e comprar equipes, e, ao fazer isso, ter poder de governança sobre seu roteiro e trajetória, e obter valor monetário por serem apoiadores de seu ecossistema.
 
 <details>
 
 <summary>O que é uma Oferta Inicial de Equipe?</summary>
 
-As Ofertas Iniciais de Equipe (ITO) referem-se ao processo de tokenização de uma equipe de esportes eletrônicos com um token de governança e utilidade.
+Ofertas Iniciais de Equipe (ITO) referem-se ao processo de tokenização de uma equipe de esportes eletrônicos com um token de governança e utilidade.
 
 </details>
 
@@ -14,7 +14,7 @@ As Ofertas Iniciais de Equipe (ITO) referem-se ao processo de tokenização de u
 
 <summary>Quando será a primeira ITO alimentada pela XBorg?</summary>
 
-Por volta do terceiro trimestre de 2023.
+Até o momento, não há uma data confirmada para a ITO e seu cronograma depende muito das agendas das equipes de esportes eletrônicos.
 
 </details>
 
@@ -38,13 +38,13 @@ As DAOs de esportes eletrônicos são governadas por NFTs (tokens não fungívei
 
 <summary>Por favor, explique as utilidades desses NFTs.</summary>
 
-Eles concedem direitos de governança, acesso a um clube exclusivo e recompensas com base no desempenho da equipe.
+Eles conferem direitos de governança, acesso a um clube exclusivo e recompensas com base no desempenho da equipe.
 
 </details>
 
 <details>
 
-<summary>Qual cadeia será usada para os NFTs de governança?</summary>
+<summary>Qual blockchain será usada para os NFTs de governança?</summary>
 
 Ethereum
 

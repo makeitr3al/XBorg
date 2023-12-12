@@ -1,6 +1,6 @@
 # Soulbound Launchpad
 
-> Los jugadores podrán acceder a oportunidades de inversión basadas en sus datos dentro del juego, y los desarrolladores podrán dirigirse a jugadores y comunidades que demuestren interés en sus proyectos. La versión 1 de este producto está en funcionamiento y, desde su lanzamiento, ha impulsado 6 juegos con una inversión total de $200,000.
+> Los jugadores podrán acceder a oportunidades de inversión basadas en sus datos de juego, y los desarrolladores podrán dirigirse a jugadores y comunidades que demuestren interés en sus proyectos. La versión 1 de este producto está en vivo y, desde su lanzamiento, ha impulsado 6 juegos, con una inversión total de $200,000.
 
 <details>
 
@@ -46,7 +46,7 @@ Puedes encontrar el launchpad [aquí](https://launchpad.xborg.com/).
 
 <summary>¿Qué nacionalidades admiten?</summary>
 
-Admitimos los países admitidos por SwissBorg. Puedes encontrar la lista completa aquí: [https://swissborg.com/supported-countries](https://swissborg.com/supported-countries)
+Admitimos los países admitidos por SwissBorg. La lista completa se puede encontrar aquí: [https://swissborg.com/supported-countries](https://swissborg.com/supported-countries)
 
 </details>
 
@@ -64,15 +64,15 @@ Admitimos los países admitidos por SwissBorg. Puedes encontrar la lista complet
 
 <summary>¿Qué cadena debo usar para enviar mi compromiso?</summary>
 
-Ethereum, a través de USDC (ERC-20).
+El compromiso se realiza en USDC. El XBorg Launchpad admite Arbitrum, Avalanche, Optimism, Polygon y Binance Smart Chain. Asegúrate de verificar las cadenas compatibles antes del lanzamiento.
 
 </details>
 
 <details>
 
-<summary>Invertí en una oferta, pero el UI del Launchpad no muestra mi compromiso, ¿qué debo hacer?</summary>
+<summary>Invertí en una oferta, pero la interfaz del Launchpad no muestra mi compromiso, ¿qué debo hacer?</summary>
 
-Si el launchpad no muestra el compromiso, por favor abre un ticket de soporte en Discord.
+Si el Launchpad no muestra el compromiso, por favor abre un ticket de soporte en Discord.
 
 </details>
 
@@ -88,7 +88,7 @@ Por el momento, solo admitimos nacionalidades disponibles en la aplicación de S
 
 <summary>¿Hay alguna diferencia entre las rondas Prometheus, Partner y Public?</summary>
 
-Las rondas en las que los usuarios son elegibles varían según su demografía. Los titulares de Prometheus reciben los mayores beneficios y no están obligados a pagar tarifas, mientras que otras rondas tienen diferentes tarifas y tamaños de asignación.
+Las rondas en las que los usuarios son elegibles varían según su demografía. Los titulares de Prometheus reciben los mayores beneficios y no se les exige pagar tarifas, mientras que las demás rondas tienen diferentes tarifas y tamaños de asignación.
 
 </details>
 
@@ -104,7 +104,7 @@ Actualmente, solo admitimos USDC.
 
 <summary>¿Cómo puedo adquirir USDC?</summary>
 
-SwissBorg es una de las mejores opciones para adquirir USDC a partir de otras criptomonedas o dinero fiduciario.
+SwissBorg es una de las mejores opciones para adquirir USDC a partir de otras criptomonedas o moneda fiduciaria.
 
 </details>
 
@@ -114,7 +114,7 @@ SwissBorg es una de las mejores opciones para adquirir USDC a partir de otras cr
 
 Realizamos una exhaustiva diligencia debida en las oportunidades del launchpad de XBorg para limitar la cantidad de proyectos que fracasan.
 
-No se realizará ningún reembolso si se considera que es culpa de los inversores.
+No se implementará ningún reembolso si se considera que es culpa de los inversores.
 
 </details>
 

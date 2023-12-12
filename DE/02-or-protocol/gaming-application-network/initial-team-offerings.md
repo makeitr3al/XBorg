@@ -1,20 +1,20 @@
 # Erstes Teamangebot
 
-> Erstes Teamangebot oder ITOs sind eine der neuen Technologien, die von XBorg eingeführt wurden. Das Ziel besteht darin, eine tokenisierte Ebene zu entwickeln, auf der Spieler Teams erstellen, Geld sammeln und kaufen können. Dadurch haben sie die Möglichkeit, die Roadmap und die Entwicklung ihres Teams mitzubestimmen und einen monetären Wert als Unterstützer ihres Ökosystems zu erhalten.
+> Erstes Teamangebot oder ITOs sind eine der neuen Technologien, die von XBorg eingeführt wurden. Das Ziel besteht darin, eine tokenisierte Ebene zu entwickeln, auf der Spieler Teams erstellen, Geld sammeln und kaufen können. Dadurch erhalten sie die Möglichkeit, die Roadmap und die Entwicklung ihres Teams mitzubestimmen und monetären Wert als Unterstützer ihres Ökosystems zu generieren.
 
 <details>
 
 <summary>Was ist ein Initial Team Offering?</summary>
 
-Initial Team Offerings (ITO) beziehen sich auf den Tokenisierungsprozess eines Esport-Teams mit einem Governance- und Utility-Token.
+Ein Initial Team Offering (ITO) bezieht sich auf den Tokenisierungsprozess eines Esport-Teams mit einem Governance- und Utility-Token.
 
 </details>
 
 <details>
 
-<summary>Wann findet das erste von XBorg unterstützte ITO statt?</summary>
+<summary>Wann findet das erste ITO, unterstützt von XBorg, statt?</summary>
 
-Voraussichtlich im dritten Quartal 2023.
+Derzeit gibt es kein bestätigtes Datum für das ITO, und der Zeitpunkt hängt stark von den Zeitplänen der Esport-Teams ab.
 
 </details>
 
@@ -36,9 +36,9 @@ Die Esport-DAOs werden durch NFTs (Non-fungible Tokens) repräsentiert.
 
 <details>
 
-<summary>Bitte erläutern Sie die Funktionen dieser NFTs.</summary>
+<summary>Bitte erläutern Sie die Verwendungsmöglichkeiten dieser NFTs.</summary>
 
-Sie verleihen Governance-Rechte, ermöglichen den Zugang zu einem einzigartigen Club und belohnen basierend auf der Leistung des Teams.
+Sie verleihen Governance-Rechte, Zugang zu einem einzigartigen Club und Belohnungen basierend auf der Leistung des Teams.
 
 </details>
 
