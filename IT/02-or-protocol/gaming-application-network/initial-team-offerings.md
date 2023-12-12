@@ -1,6 +1,6 @@
 # Offerte iniziali del team
 
-> Le offerte iniziali del team o ITO sono una delle nuove tecnologie introdotte da XBorg. L'obiettivo è sviluppare uno strato tokenizzato in cui i giocatori possono creare, raccogliere fondi e acquistare squadre, e in questo modo avere il potere di governance sulla loro roadmap e traiettoria, e ottenere valore monetario per essere sostenitori del loro ecosistema.
+> Le offerte iniziali del team o ITO sono una delle nuove tecnologie introdotte da XBorg. L'obiettivo è sviluppare uno strato tokenizzato in cui i giocatori possono creare, raccogliere fondi e acquistare squadre, e in questo modo avere il potere di governance sulla loro roadmap e traiettoria, e trarre valore monetario dall'essere sostenitori del loro ecosistema.
 
 <details>
 
@@ -14,7 +14,7 @@ Le offerte iniziali del team (ITO) si riferiscono al processo di tokenizzazione 
 
 <summary>Quando avverrà la prima ITO alimentata da XBorg?</summary>
 
-Intorno al terzo trimestre del 2023.
+Al momento non c'è una data confermata per l'ITO e il suo tempismo dipende fortemente dagli impegni delle squadre di esports.
 
 </details>
 
@@ -36,17 +36,17 @@ Le DAO degli esports sono governate da NFT (token non fungibili).
 
 <details>
 
-<summary>Per favore, spiega le utilità di quei NFT.</summary>
+<summary>Per favore spiega le utilità di quei NFT.</summary>
 
-Conferiscono diritti di governance, accesso a un club unico e ricompense basate sulle prestazioni della squadra.
+Conferiscono diritti di governance, accesso a un club unico e ricompense in base alle prestazioni della squadra.
 
 </details>
 
 <details>
 
-<summary>Quale blockchain verrà utilizzata per i NFT di governance?</summary>
+<summary>Quale catena verrà utilizzata per i NFT di governance?</summary>
 
-Ethereum.
+Ethereum
 
 </details>
 

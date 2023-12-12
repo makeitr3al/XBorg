@@ -1,12 +1,12 @@
 # Soulbound Launchpad
 
-> I giocatori potranno accedere a opportunità di investimento basate sui loro dati di gioco e gli sviluppatori potranno mirare a giocatori e comunità che mostrano una propensione per l'interesse nei loro progetti. La versione 1 di questo prodotto è attiva e, dal suo lancio, ha dato il via a 6 giochi, con un totale di $200.000 di investimenti.
+> I giocatori potranno accedere a opportunità di investimento basate sui loro dati di gioco e gli sviluppatori potranno mirare a giocatori e comunità che mostrano una propensione per l'interesse nei loro progetti. La versione 1 di questo prodotto è attiva e, dal suo lancio, ha dato il via a 6 giochi, con un totale di 200.000 dollari di investimenti.
 
 <details>
 
 <summary>Cos'è il Soulbound Launchpad?</summary>
 
-Il Soulbound Launchpad è una piattaforma che collega i giocatori con i giochi che raccolgono capitali basandosi sulla loro identità digitale. Consente agli sviluppatori di giochi di mirare a giocatori specifici utilizzando le loro identità digitali e raccogliere fondi.
+Il Soulbound Launchpad è una piattaforma che mette in contatto i giocatori con i giochi che raccolgono capitali basandosi sulla loro identità digitale. Consente agli sviluppatori di giochi di mirare a giocatori specifici utilizzando le loro identità digitali e raccogliere fondi.
 
 </details>
 
@@ -22,7 +22,7 @@ I giocatori collegati al Soulbound Launchpad tramite la rete di credenziali otte
 
 <summary>Come vengono selezionati i progetti del launchpad?</summary>
 
-Il consiglio di investimento svolge un attento processo di due diligence in più fasi, che culmina in un rapporto completo. Nel mercato privato (venture capitalist, business angel), manteniamo alcuni dei rapporti di due diligence più completi e dettagliati nel settore GameFi.
+Il consiglio di investimento svolge un rigoroso processo di due diligence a più fasi, che culmina in un rapporto completo. Nel mercato privato (venture capitalist, business angel), manteniamo alcuni dei rapporti di due diligence più completi e dettagliati nel settore GameFi.
 
 </details>
 
@@ -64,7 +64,7 @@ Supportiamo i paesi supportati da SwissBorg. Puoi trovare l'elenco completo qui:
 
 <summary>Quale catena devo utilizzare per inviare il mio impegno?</summary>
 
-Ethereum, tramite USDC (ERC-20).
+L'impegno è in USDC. Il XBorg Launchpad supporta Arbitrum, Avalanche, Optimism, Polygon e Binance Smart Chain. Assicurati di verificare le catene compatibili prima del lancio.
 
 </details>
 
@@ -72,15 +72,15 @@ Ethereum, tramite USDC (ERC-20).
 
 <summary>Ho investito in un'offerta, ma l'interfaccia del Launchpad non mostra il mio impegno, cosa devo fare?</summary>
 
-Se il launchpad non mostra l'impegno, apri un ticket di supporto su Discord.
+Se il Launchpad non mostra l'impegno, apri un ticket di supporto su Discord.
 
 </details>
 
 <details>
 
-<summary>Vivo in un paese che non mi consente di installare l'app SwissBorg, quindi non posso effettuare la KYC. Qual è la soluzione a questo problema?</summary>
+<summary>Vivo in un paese che non mi permette di installare l'app di SwissBorg, quindi non posso effettuare la KYC. Qual è la soluzione a questo problema?</summary>
 
-Al momento, supportiamo solo le nazionalità disponibili sull'app SwissBorg. XBorg sta lavorando attivamente per espandere la propria rete e nel tempo saranno ammissibili alla KYC altre regioni e nazionalità.
+Al momento, supportiamo solo le nazionalità disponibili sull'app di SwissBorg. XBorg sta lavorando attivamente per espandere la propria rete e nel tempo saranno ammissibili alla KYC sempre più regioni e nazionalità.
 
 </details>
 
@@ -88,7 +88,7 @@ Al momento, supportiamo solo le nazionalità disponibili sull'app SwissBorg. XBo
 
 <summary>C'è una differenza tra le fasi Prometheus, Partner e Public?</summary>
 
-Le fasi a cui gli utenti sono ammissibili variano in base alla loro demografia. I detentori di Prometheus ricevono i maggiori vantaggi e non sono tenuti a pagare commissioni, mentre le altre fasi hanno commissioni e dimensioni di allocazione diverse.
+Le fasi alle quali gli utenti sono ammissibili variano in base alla loro demografia. I detentori di Prometheus ricevono i maggiori vantaggi e non sono tenuti a pagare commissioni, mentre le altre fasi hanno commissioni e dimensioni di allocazione diverse.
 
 </details>
 
@@ -96,7 +96,7 @@ Le fasi a cui gli utenti sono ammissibili variano in base alla loro demografia. 
 
 <summary>Posso inviare BUSD, USDT o altre stablecoin invece di USDC?</summary>
 
-Attualmente, supportiamo solo USDC.
+Al momento, supportiamo solo USDC.
 
 </details>
 
@@ -110,11 +110,11 @@ SwissBorg è una delle migliori opzioni per ottenere USDC da altre criptovalute 
 
 <details>
 
-<summary>Recupero i miei fondi se un progetto fallisce o si rivela truffaldino?</summary>
+<summary>Recupero i miei fondi se un progetto fallisce o si rivela una truffa?</summary>
 
-Effettuiamo un'attenta due diligence sulle opportunità del launchpad di XBorg per limitare il numero di progetti che falliscono.
+Effettuiamo una rigorosa due diligence sulle opportunità del launchpad di XBorg per limitare il numero di progetti che falliscono.
 
-Non verrà effettuato alcun rimborso se si ritiene che sia colpa degli investitori.
+Nessun rimborso verrà effettuato se si ritiene che sia colpa degli investitori.
 
 </details>
 
@@ -122,6 +122,6 @@ Non verrà effettuato alcun rimborso se si ritiene che sia colpa degli investito
 
 <summary>Perché devo effettuare la KYC?</summary>
 
-Per consentire a XBorg di conformarsi alle giurisdizioni pertinenti relative ai launchpad.
+Perché XBorg si conformi alle giurisdizioni pertinenti relative ai launchpad.
 
 </details>

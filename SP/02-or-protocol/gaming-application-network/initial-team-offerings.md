@@ -14,7 +14,7 @@ Las Ofertas Iniciales de Equipos (ITO) se refieren al proceso de tokenización d
 
 <summary>¿Cuándo será la primera ITO impulsada por XBorg?</summary>
 
-Alrededor del tercer trimestre de 2023.
+Hasta ahora, no hay una fecha confirmada para la ITO y su cronograma depende en gran medida de los horarios de los equipos de deportes electrónicos.
 
 </details>
 
@@ -46,7 +46,7 @@ Otorgan derechos de gobernanza, acceso a un club único y recompensas basadas en
 
 <summary>¿Qué cadena se utilizará para los NFTs de gobernanza?</summary>
 
-Ethereum.
+Ethereum
 
 </details>
 
