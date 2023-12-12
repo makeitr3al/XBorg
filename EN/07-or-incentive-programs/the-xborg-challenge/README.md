@@ -39,7 +39,7 @@ Participate extensively while adhering to the [rules ](rules.md)and following be
 
 <summary>When does the contest end?</summary>
 
-The contest will conclude two weeks after the Token Generation Event ([TGE](./#what-is-a-tge)), the specific date of which will be communicated at a later time.
+The contest has ended on November the 31th 2023
 
 </details>
 
@@ -109,19 +109,9 @@ If you don't maintain or increase engagement, your influencer rank will decline,
 
 <details>
 
-<summary>How does the qualifier phase work in terms of earning points and advancing to the league system?</summary>
-
-During the qualification phases, participants gather daily points and ascend the ranks of the leaderboard. We will retain a final ranking snapshot from both Qualification Phase 1 and Qualification Phase 2. Following this, based on the total number of participants and the success of collective objectives, slots will be made available in various Leagues. The highest performers from each qualification phase will then receive invitations to join the most fitting league based on their skill level.
-
-Through these leagues, the inaugural season will begin, bringing with it rewards that are too enticing to overlook. This marks the true commencement of the game. Beyond the substantial rewards, qualifying should stand as a paramount goal for many throughout the qualification phases.
-
-</details>
-
-<details>
-
 <summary>Is there a deadline to complete specific actions to earn points?</summary>
 
-Yes, there are deadlines for earning points based on the game's stages. There are two qualifying phases, followed by the launch of the [leagues](scoring/leagues.md). During each phase, participants have until the end to accumulate the maximum points and secure their position on the [leaderboard](scoring/leaderboard.md). Once the leagues are launched, the game operates on a seasonal basis.
+Yes, there are deadlines for earning points based on the game's stages. There are two qualifying phases, followed by the launch of the [leagues](broken-reference). During each phase, participants have until the end to accumulate the maximum points and secure their position on the [leaderboard](scoring/leaderboard.md). Once the leagues are launched, the game operates on a seasonal basis.
 
 Additionally, points are earned daily, and data is extracted from the [LunarCrush ](scoring/lunarcrush.md)API each evening before midnight (UTC) to calculate the points. Due to tech liability some data can take up to 48H to be reflected on the [leaderboard](scoring/leaderboard.md).
 

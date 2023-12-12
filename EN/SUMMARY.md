@@ -48,7 +48,6 @@
   * [Scoring](07-or-incentive-programs/the-xborg-challenge/scoring/README.md)
     * [LunarCrush](07-or-incentive-programs/the-xborg-challenge/scoring/lunarcrush.md)
     * [Leaderboard](07-or-incentive-programs/the-xborg-challenge/scoring/leaderboard.md)
-    * [Leagues](07-or-incentive-programs/the-xborg-challenge/scoring/leagues.md)
 * [Referral Program](07-or-incentive-programs/referral-program.md)
 * [Ambassador Program](07-or-incentive-programs/ambassador-program.md)
 

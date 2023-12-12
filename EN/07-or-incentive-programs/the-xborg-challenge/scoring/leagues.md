@@ -1,3 +1,0 @@
-# Leagues
-
-Coming soon... 👀
