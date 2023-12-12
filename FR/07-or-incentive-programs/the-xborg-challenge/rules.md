@@ -15,7 +15,7 @@ Chaque jour, les 300 comptes les plus engagés sur du contenu contenant les hash
 Seuls les comptes Twitter avec plus de 500 abonnés peuvent accumuler des points. En collaboration avec LunarCrush, nous analysons et classons les tweets contenant les hashtags #XBG, #XBorg ou $XBG. Leur système garantit l'intégrité du concours en protégeant contre le spam et la triche. Pour comprendre leurs critères, consultez la FAQ de LunarCrush. En fonction du classement de LunarCrush, des points sont attribués quotidiennement selon notre [échelle](scoring/leaderboard.md#how-does-the-daily-ranking-work) détaillée. Les classements consolidés peuvent être consultés [ici](https://xbg-challenge.xborg.com/).&#x20;
 
 **Récompenses :** \
-Un budget de 100 000 $XBG a été alloué pour cette saison inaugurale, réparti entre des récompenses individuelles (33 %) et collectives (66 %). Atteindre les objectifs collectifs débloque des récompenses collectives pour tous. Les membres de la zone de récompense à la fin du défi partageront les récompenses selon l'échelle \[Tableau 2]. Les jetons XBG seront envoyés après l'événement de génération de jetons (TGE) et seront initialement verrouillés pendant un mois, puis versés sur six mois. Des récompenses surprises sont également prévues et seront distribuées à la discrétion de XBorg.&#x20;
+Un budget de 100 000 $XBG a été alloué pour cette saison inaugurale, réparti entre des récompenses individuelles (33 %) et collectives (66 %). Atteindre les objectifs collectifs débloque des récompenses collectives pour tous. Les membres de la zone de récompenses à la fin du défi partageront les récompenses en fonction de l'[échelle](rewards.md#what-reward-do-i-get). Les jetons XBG seront envoyés après l'événement de génération de jetons (TGE) et seront initialement verrouillés pendant un mois, puis débloqués sur une période de six mois. Des récompenses surprises sont également prévues et seront distribuées à la discrétion de XBorg.&#x20;
 
 **Règles de fair-play :** \
 Nous valorisons la créativité, l'authenticité et l'éthique. Nous avons mis en place des outils et des mesures pour identifier les comportements inappropriés. Les tricheurs, ainsi que les utilisateurs de bots, seront identifiés et disqualifiés. Les décisions de XBorg sont finales.&#x20;
@@ -65,9 +65,9 @@ Le défi est ouvert à tous, mais vos points ne seront comptabilisés que si vou
 
 <details>
 
-<summary>Que dois-je éviter de faire dans un tweet ?</summary>
+<summary>Que dois-je éviter lorsque je fais un tweet ?</summary>
 
-Plusieurs facteurs sont pris en compte pour identifier le spam : mots répétés, hashtags non pertinents et termes interdits tels que "Giveaways", "Airdrops" et "Sweepstakes". Pour plus d'informations, consultez : [https://lunarcrush.com/faq/how-does-lunarcrush-recognize-spam](https://lunarcrush.com/faq/how-does-lunarcrush-recognize-spam)
+Plusieurs facteurs sont pris en compte pour identifier le spam : les mots répétés, les hashtags non pertinents et les termes interdits tels que "Giveaways", "Airdrops" et "Sweepstakes". Pour plus d'informations, consultez : [https://lunarcrush.com/faq/how-does-lunarcrush-recognize-spam](https://lunarcrush.com/faq/how-does-lunarcrush-recognize-spam)
 
 </details>
 
