@@ -3,8 +3,7 @@
 > Q4 2023 offers a lot of game-changing events in the XBorg universe. One of them is the XBorg Challenge, where you as a contributor can help spreading the word and get rewarded for doing it! 💰
 >
 > \
-> This section provides all you need to know about it. \
-> Coming in October 2023.
+> This section provides all you need to know about it.&#x20;
 
 
 
