@@ -23,42 +23,42 @@ jobs:
         uses: 3ru/gpt-translate@master
         with:
           apikey: ${{ secrets.OPENAI_API_KEY }}
-          model: "gpt-3.5-turbo-16k"
+          model: "gpt-4-1106-preview"
           #model: "gpt-4"
           inputFiles: ${{ steps.changed_files.outputs.files }}
           outputFiles: "DE/**/*.md IT/**/*.md FR/**/*.md PT/**/*.md AR/**/*.md SP/**/*.md JP/**/*.md CN/**/*.md DT/**/*.md AL/**/*.md"
           languages: "German Italian French Portuguese Arabic Spanish Japanese Chinese Dutch Albanian"
 
-  clean-up:
-    runs-on: ubuntu-latest
+ # clean-up:
+  #  runs-on: ubuntu-latest
 
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+   # steps:
+    #- name: Checkout repository
+     # uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v3
-      with:
-        python-version: 3.8
+    #- name: Set up Python
+      #uses: actions/setup-python@v3
+      #with:
+       # python-version: 3.8
 
-    - name: Install dependencies
-      run: |
-        import os
-        import shutil
+    #- name: Install dependencies
+     # run: |
+      #  import os
+       # import shutil
 
-    - name: Run Python script
-      run: |
-        root_dir = '.'
-        master_dir = os.path.join(root_dir, 'EN')
-        exclude_dirs = {'.git', '.github'}
-        directories = [dir for dir in os.listdir(root_dir) if dir not in exclude_dirs and os.path.isdir(os.path.join(root_dir, dir))]
-        sub_files_dirs = {dir: set(os.listdir(os.path.join(root_dir, dir))) for dir in directories}
-        master_sub_files_dirs = sub_files_dirs['EN']
-        files_dirs_to_delete = {dir: sub_files_dirs[dir] - master_sub_files_dirs for dir in directories}
-        for dir in files_dirs_to_delete:
-            for file_dir in files_dirs_to_delete[dir]:
-                path = os.path.join(root_dir, dir, file_dir)
-                if os.path.isfile(path):
-                    os.remove(path)
-                elif os.path.isdir(path):
-                    shutil.rmtree(path)
+    #- name: Run Python script
+     # run: |
+      #  root_dir = '.'
+       # master_dir = os.path.join(root_dir, 'EN')
+      #  exclude_dirs = {'.git', '.github'}
+       # directories = [dir for dir in os.listdir(root_dir) if dir not in exclude_dirs and os.path.isdir(os.path.join(root_dir, dir))]
+        #sub_files_dirs = {dir: set(os.listdir(os.path.join(root_dir, dir))) for dir in directories}
+        #master_sub_files_dirs = sub_files_dirs['EN']
+        #files_dirs_to_delete = {dir: sub_files_dirs[dir] - master_sub_files_dirs for dir in directories}
+        #for dir in files_dirs_to_delete:
+        #    for file_dir in files_dirs_to_delete[dir]:
+         #       path = os.path.join(root_dir, dir, file_dir)
+          #      if os.path.isfile(path):
+           #         os.remove(path)
+            #    elif os.path.isdir(path):
+             #       shutil.rmtree(path)
