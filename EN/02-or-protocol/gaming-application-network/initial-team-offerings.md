@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>What is an Initial Team Offering? </summary>
+<summary>What is an Initial Team Offering?</summary>
 
 Initial Team Offerings (ITO) refer to the tokenization process of an esports team with a governance and utility token.
 
@@ -12,25 +12,25 @@ Initial Team Offerings (ITO) refer to the tokenization process of an esports tea
 
 <details>
 
-<summary>When is the first ITO powered by XBorg? </summary>
+<summary>When is the first ITO powered by XBorg?</summary>
 
-Around Q3 2023.&#x20;
-
-</details>
-
-<details>
-
-<summary>What are decentralized esports teams? </summary>
-
-Decentralized esports teams are funded and operated by fans, just like a DAO for esports.&#x20;
+As of now, there isn't a confirmed date for the ITO and its timing heavily relies on the schedules of the esports teams.
 
 </details>
 
 <details>
 
-<summary>Will the DAOs be represented by NFTs or Tokens? </summary>
+<summary>What are decentralized esports teams?</summary>
 
-The esports DAO are governed by NFTs (Non-fungible tokens).&#x20;
+Decentralized esports teams are funded and operated by fans, just like a DAO for esports.
+
+</details>
+
+<details>
+
+<summary>Will the DAOs be represented by NFTs or Tokens?</summary>
+
+The esports DAO are governed by NFTs (Non-fungible tokens).
 
 </details>
 
@@ -38,13 +38,13 @@ The esports DAO are governed by NFTs (Non-fungible tokens).&#x20;
 
 <summary>Please explain the utilities of those NFTs.</summary>
 
-It gives governance rights, access to a unique club, and rewards based on the team's performance.&#x20;
+It gives governance rights, access to a unique club, and rewards based on the team's performance.
 
 </details>
 
 <details>
 
-<summary>Which chain will be used for the governance NFTs? </summary>
+<summary>Which chain will be used for the governance NFTs?</summary>
 
 Ethereum
 
@@ -57,4 +57,3 @@ Ethereum
 The NFTs will be sellable on secondary marketplaces such as Opensea, Blur etc.
 
 </details>
-
