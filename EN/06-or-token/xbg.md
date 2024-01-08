@@ -32,13 +32,13 @@ The maximum supply of XBG tokens has been set at 1,000,000,000 (1 billion).
 
 <summary>When will the XBG Token Generation Event (TGE) take place?</summary>
 
-The TGE will occur toward the end of 2023.&#x20;
+The TGE will occur towards summer 2024.
 
 </details>
 
 <details>
 
-<summary>Why can't you give an exact TGE date? </summary>
+<summary>Why can't you give an exact TGE date?</summary>
 
 As a team, we believe that the crypto outlook towards the end of 2023 and close to Bitcoin halvings will be positive. The XBorg team is currently engaging in talks with top-tier exchanges, whose opinions hold considerable weight in determining the ideal timing for token listing. It's important to note that launching a token during periods of uncertain liquidity and interest in alternative coins can pose a risk.
 
@@ -50,15 +50,15 @@ Looking ahead, our team is optimistic about the crypto market's potential toward
 
 <details>
 
-<summary>How will the token be launched? </summary>
+<summary>How will the token be launched?</summary>
 
-We plan to release the token via a Balancer Liquidity Bootstrapping Pool. Please note that this may change as per exchange requirements and market conditions.&#x20;
+We plan to release the token via a Balancer Liquidity Bootstrapping Pool. Please note that this may change as per exchange requirements and market conditions.
 
 </details>
 
 <details>
 
-<summary>Is it planned to launch the XBorg token on L2s like Arbitrum because of the expected high gas costs on Ethereum? </summary>
+<summary>Is it planned to launch the XBorg token on L2s like Arbitrum because of the expected high gas costs on Ethereum?</summary>
 
 Yes, the token will be launched on ETH as the primary market and bridged on Polygon and, eventually, other L2s.
 
@@ -74,16 +74,16 @@ Yes, the token will be launched on ETH as the primary market and bridged on Poly
 
 <details>
 
-<summary>On which exchanges will the token be listed? </summary>
+<summary>On which exchanges will the token be listed?</summary>
 
-We are entertaining discussing with the following parties.&#x20;
+We are entertaining discussing with the following parties.
 
-_Tier 1 exchanges:_&#x20;
+_Tier 1 exchanges:_
 
 * Binance
 * Coinbase
 
-_and Tier 2 exchanges:_&#x20;
+_and Tier 2 exchanges:_
 
 * Kraken
 * OKX
@@ -96,7 +96,7 @@ While certain discussions have progressed further than others, we are unable to 
 
 <details>
 
-<summary>Will the token have liquidity on-chain? </summary>
+<summary>Will the token have liquidity on-chain?</summary>
 
 Yes, a uniswap pool on the Ethereum network (quickswap for Polygon) will be made available and XBorg will seed the initial liquidity. We will further incentivize third-party liquidity provisions with LP rewards. 5% of the seed round capital and a meaningful portion of the public sale will be put as liquidity in AMMs.
 
@@ -104,11 +104,11 @@ Yes, a uniswap pool on the Ethereum network (quickswap for Polygon) will be made
 
 <details>
 
-<summary>What's the token utility? </summary>
+<summary>What's the token utility?</summary>
 
 The XBG token plays a crucial role in the network, serving as the primary means of payment, governance, and protocol incentives.
 
-**In-app payments & Platform fees**&#x20;
+**In-app payments & Platform fees**
 
 XBG is the primary method of payment and transactions across the protocol, which is subject to certain fees. For Web2 users preferring fiat payment, XBorg acquires the equivalent of XBG tokens on the open market. The list of fees collected via the protocol can be found on the slide: Protocol Sustainability & Revenue. Those fees are charged in XBG.
 
@@ -116,11 +116,11 @@ XBG is the primary method of payment and transactions across the protocol, which
 
 The XBG token is used for governance actions in the XBorg DAO upon the Token Generation Event. XBG token holders have the ability to vote on key decisions regarding the development of the protocol.
 
-**Staking**&#x20;
+**Staking**
 
 50% of the fees and revenues paid in XBG are designated for the staking reward pool. The amount of staking rewards received is determined by the duration of the lockup period and the individual's status within the protocol.
 
-**Protocol Access**&#x20;
+**Protocol Access**
 
 Some functionalities and utilities of the protocol are subject to access restrictions based on the quantity of XBG held and the user's status within the protocol.
 
@@ -144,7 +144,7 @@ Currently, 50% of revenues are allocated to staking yield whilst the remainder i
 
 <details>
 
-<summary>What is the smart contract address for the XBG token? </summary>
+<summary>What is the smart contract address for the XBG token?</summary>
 
 The contract of the XBG token hasn't been deployed on testnet or mainnet. There are, thus, no contract addresses available.
 
@@ -154,9 +154,6 @@ The contract of the XBG token hasn't been deployed on testnet or mainnet. There 
 
 <summary>Is buying XBG tokens through the Swissborg App after the TGE possible?</summary>
 
-It's very likely. In order to be listed on SwissBorg, the XBG token needs to be listed on either Kraken, Binance or LBank.&#x20;
+It's very likely. In order to be listed on SwissBorg, the XBG token needs to be listed on either Kraken, Binance or LBank.
 
 </details>
-
-&#x20;
-
