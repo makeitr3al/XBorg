@@ -1,161 +1,159 @@
 # XBG
 
-XBG është monedha vendase që ushqen protokollin XBorg. Është metoda kryesore e pagesës, duke kapur të gjithë vlerën dhe të ardhurat që gjenerohen brenda ekosistemit. Përveç kësaj, ajo ofron qasje në qeverisjen e protokollit, duke lejuar mbajtësit e monedhave të marrin pjesë aktivisht në formësimin e të ardhmes së platformës.
+XBG është tokeni nativ që ushqen protokollin XBorg. Ai është metoda kryesore e pagesës, duke kapur të gjithë vlerën dhe të ardhurat e gjeneruara brenda ekosistemit. Për më tepër, ai ofron qasje në qeverisjen e protokollit, duke lejuar mbajtësit e tokenëve të marrin pjesë aktivisht në formësimin e së ardhmes së platformës.
 
 <details>
 
-<summary>Në cilin blockchain do të deployohet monedha XBG?</summary>
+<summary>Në cilën zinxhir bllokesh do të implementohet tokeni XBG?</summary>
 
-Monedha XBG është e planifikuar të deployohet në blockchainin Ethereum dhe do të lidhet me rrjetin Polygon për skalueshmëri dhe efikasitet të përmirësuar. Përveç kësaj, një alokim i veçantë i monedhave XBG do të rezervohet për deployimin në rrjetin Borg sapo të jetë plotësisht operativ. Ky qasje me shumë blockchain siguron qasje të gjerë dhe fleksibilitet për mbajtësit e monedhave tona.
+Tokeni XBG është planifikuar të implementohet në zinxhirin e bllokëve të Ethereum dhe do të lidhet me rrjetin Polygon për të rritur shkallën e përshtatshmërisë dhe efikasitetit. Gjithashtu, një alokim i veçantë i tokeneve XBG do të rezervohet për implementim në zinxhirin Borg sapo të jetë plotësisht operacional. Ky qasje shumë-zinxhir siguron një akses të gjerë dhe versatilitet për mbajtësit tanë të tokeneve.
 
 </details>
 
 <details>
 
-<summary>Pse ka vendosur XBorg të lancojë një monedhë?</summary>
+<summary>Pse XBorg ka vendosur të lëshojë një token?</summary>
 
-XBorg është i përkushtuar thellësisht në nxitjen e një ekosistemi të orientuar nga komuniteti, dhe vendimi ynë për të lansuar një monedhë reflekton këtë përkushtim. Ndryshe nga modelet korporative tradicionale që fokusohen në rritjen e vlerës bazuar në aksionet, të gjitha rrjedhat e parave që gjenerohen brenda ekosistemit tonë drejtohen në thesarin e DAO (Organizatës Autonome e Zgjedhur). Ky model lehtëson pjesëmarrjen më të drejtpërdrejtë të komunitetit dhe përputh interesat më efektivisht.
+XBorg është thellësisht i angazhuar për të nxitur një ekosistem qendror të komunitetit, dhe vendimi ynë për të lëshuar një token pasqyron këtë angazhim. Ndryshe nga modelet tradicionale korporative që përqendrohen në akumulimin e vlerës bazuar në aksione, të gjitha rrjedhat e parave të gjeneruara brenda ekosistemit tonë ridrejtohen në thesarin e DAO (Organizatës Autonome të Decentralizuar). Ky model lehtëson përfshirjen më të drejtpërdrejtë të komunitetit dhe rreshtimin më efektiv të interesave.
 
-Duke prezantuar monedhën XBG, ne krijojmë një ekonomi brenda protokollit ku monedha shërben si mjeti kryesor i transaksionit. Ky lëvizje tregon një ndryshim drejt një modeli më të pjesëmarrshëm, të drejtuar nga komuniteti, ku çdo anëtar ka një fjalë në drejtimin e platformës dhe ndan në suksesin e saj. Është një qasje inovative që nënvizon besimin tonë në potencialin transformues të rrjeteve të decentralizuara.
-
-</details>
-
-<details>
-
-<summary>Cili është furnizimi total i monedhave XBG?</summary>
-
-Furnizimi maksimal i monedhave XBG është caktuar në 1,000,000,000 (1 miliard).
+Duke prezantuar tokenin XBG, ne krijojmë një ekonomi brenda-protokollit ku tokeni shërben si mjeti kryesor i transaksionit. Ky veprim sinjalizon një ndryshim drejt një modeli më pjesëmarrës, të drejtuar nga komuniteti, ku çdo anëtar ka një fjalë në drejtimin e platformës dhe ndan në suksesin e saj. Është një qasje inovative që nënvizon besimin tonë në potencialin transformues të rrjeteve të decentralizuara.
 
 </details>
 
 <details>
 
-<summary>Kur do të ndodhë Eventi i Gjenerimit të Monedhës XBG (TGE)?</summary>
+<summary>Cila është furnizimi total i tokeneve XBG?</summary>
 
-TGE do të ndodhë në fund të vitit 2023.
-
-</details>
-
-<details>
-
-<summary>Pse nuk mund të jepni një datë të saktë për TGE-në?</summary>
-
-Si një ekip, ne besojmë se perspektiva kriptografike drejt fundit të vitit 2023 dhe afër gjysmimit të Bitcoin do të jetë pozitive. Ekipi i XBorg po angazhohet aktualisht në bisedime me bursa të nivelit të lartë, opinionet e të cilave kanë peshë të konsiderueshme në përcaktimin e kohës ideale për listimin e monedhës. Është e rëndësishme të theksohet se lansimi i një monedhe gjatë periudhave të likuiditetit të paqartë dhe interesit në monedhat alternative mund të paraqesë një risk.
-
-Përveç kësaj, ne e njohim se vlera e një monedhe gjendet në forcën e ekosistemit në të cilin ajo operon. Prandaj, qëllimi ynë është të kultivojmë një bazë përdoruesish të paktën 100,000 para se të lansojmë monedhën.
-
-Duke parë përpara, ekipi ynë është optimist në lidhje me potencialin e tregut kriptografik drejt fundit të vitit 2023, veçanërisht në dritën e gjysmimit të ardhshëm të Bitcoin.
+Furnizimi maksimal i tokeneve XBG është vendosur në 1,000,000,000 (1 miliard).
 
 </details>
 
 <details>
 
-<summary>Si do të lansohet monedha?</summary>
+<summary>Kur do të ndodhë Ngjarja e Gjenerimit të Tokenit XBG (TGE)?</summary>
 
-Ne planifikojmë të lansojmë monedhën përmes një Balancer Liquidity Bootstrapping Pool. Ju lutemi të keni parasysh se kjo mund të ndryshojë sipas kërkesave të bursave dhe kushteve të tregut.
-
-</details>
-
-<details>
-
-<summary>A është planifikuar të lansohet monedha XBorg në L2 si Arbitrum për shkak të pritshme të kostove të gazit në Ethereum?</summary>
-
-Po, monedha do të lansohet në ETH si tregu kryesor dhe do të lidhet me Polygon dhe, në fund të fundit, me L2 të tjerë.
+TGE do të ndodhë drejt verës së vitit 2024.
 
 </details>
 
 <details>
 
-<summary>Si do të siguroheni likuiditeti si pool-et XBorg/WETH?</summary>
+<summary>Pse nuk mund të jepni një datë të saktë TGE?</summary>
 
-5% e kapitalit të raundit të parë dhe një pjesë e rëndësishme e shitjes publike do të vendosen si likuiditet në AMM.
+Si ekip, ne besojmë se perspektiva e kriptove drejt fundit të vitit 2023 dhe afër përgjysmimit të Bitcoin do të jetë pozitive. Ekipi XBorg aktualisht është në bisedime me bursat kryesore, të cilat kanë një peshë të konsiderueshme në përcaktimin e kohës ideale për listimin e tokenit. Është e rëndësishme të theksohet se lansimi i një tokeni gjatë periudhave të likuiditetit të pasigurt dhe interesit në monedhat alternative mund të paraqesë një rrezik.
+
+Gjithashtu, ne njohim se vlera e një tokeni qëndron në forcat e ekosistemit në të cilin operon. Prandaj, qëllimi ynë është të kultivojmë një bazë përdoruesish të paktën 100,000 para se të lansojmë tokenin.
+
+Duke parë përpara, ekipi ynë është optimist për potencialin e tregut të kriptove drejt fundit të vitit 2023, veçanërisht në dritën e përgjysmimeve të ardhshme të Bitcoin.
 
 </details>
 
 <details>
 
-<summary>Në cilat bursa do të listohet monedha?</summary>
+<summary>Si do të lansohet tokeni?</summary>
 
-Ne po diskutojmë me të interesuarit në vijim. 
+Ne planifikojmë të lëshojmë tokenin përmes një Pishine të Balancuar të Nxitjes së Likuiditetit. Ju lutemi vini re se kjo mund të ndryshojë sipas kërkesave të bursës dhe kushteve të tregut.
 
-_Bursa e Nivelit 1:_
+</details>
+
+<details>
+
+<summary>A është planifikuar të lansohet tokeni XBorg në L2 si Arbitrum për shkak të kostove të pritura të larta të gazit në Ethereum?</summary>
+
+Po, tokeni do të lansohet në ETH si tregu kryesor dhe do të lidhet në Polygon dhe, në fund, në L2 të tjera.
+
+</details>
+
+<details>
+
+<summary>Si do të siguroni likuiditetin si pishinat XBorg/WETH?</summary>
+
+5% e kapitalit të raundit të farës dhe një pjesë e kuptimshme e shitjes publike do të vendosen si likuiditet në AMM-të.
+
+</details>
+
+<details>
+
+<summary>Në cilat bursa do të listohet tokeni?</summary>
+
+Ne jemi duke diskutuar me palët e mëposhtme.
+
+_Bursat e Nivelit 1:_
 
 * Binance
 * Coinbase
 
-_dhe Bursa e Nivelit 2:_
+_dhe Bursat e Nivelit 2:_
 
 * Kraken
 * OKX
 * ByBit
 * Kucoin
 
-Ndërsa disa bisedime kanë përparuar më shumë se të tjera, ne nuk mund të konfirmojmë asnjë listim në bursa për shkak të ekzistencës së marrëveshjeve të moszbuluara në lidhje me disa bisedime.
+Ndërsa disa diskutime kanë avancuar më shumë se të tjerat, ne nuk jemi në gjendje të konfirmojmë ndonjë listim në bursë për shkak të ekzistencës së marrëveshjeve të moszbulimit që rrethojnë disa diskutime.
 
 </details>
 
 <details>
 
-<summary>A do të ketë monedha likuiditet në blockchain?</summary>
+<summary>A do të ketë tokeni likuiditet në zinxhir?</summary>
 
-Po, një pool Uniswap në rrjetin Ethereum (quickswap për Polygon) do të jetë i disponueshëm dhe XBorg do të sigurojë likuiditetin fillestar. Ne gjithashtu do të inkurajojmë ofrimin e likuiditetit nga palë të treta me shpërblime të LP. 5% e kapitalit të raundit të parë dhe një pjesë e rëndësishme e shitjes publike do të vendosen si likuiditet në AMM.
+Po, një pishinë uniswap në rrjetin Ethereum (quickswap për Polygon) do të bëhet e disponueshme dhe XBorg do të mbjellë likuiditetin fillestar. Ne do të nxisim më tej ofrimin e likuiditetit nga palët e treta me shpërblime LP. 5% e kapitalit të raundit të farës dhe një pjesë e kuptimshme e shitjes publike do të vendosen si likuiditet në AMM-të.
 
 </details>
 
 <details>
 
-<summary>Cili është utiliteti i monedhës?</summary>
+<summary>Cila është utiliteti i tokenit?</summary>
 
-Monedha XBG luan një rol kritik në rrjet, duke shërbyer si mjeti kryesor i pagesës, qeverisjes dhe stimujve të protokollit.
+Tokeni XBG luan një rol kyç në rrjet, duke shërbyer si mjeti kryesor i pagesës, qeverisjes dhe nxitjeve të protokollit.
 
-**Pagesat dhe tarifat në aplikacion & Platforma**&#x20;
+**Pagesat brenda aplikacionit & Tarifat e Platformës**
 
-XBG është metoda kryesore e pagesës dhe transaksioneve në protokoll, e cila është e nënshtruar tarifave të caktuara. Për përdoruesit e Web2 që preferojnë pagesën në fiat, XBorg merr ekvivalentin e monedhave XBG në tregun e hapur. Lista e tarifave të grumbulluara përmes protokollit mund të gjendet në slajdën: Qëndrueshmëria dhe të Ardhurat e Protokollit. Këto tarifa paguhen në XBG.
+XBG është metoda kryesore e pagesës dhe transaksioneve në të gjithë protokollin, i cili është i nënshtruar disa tarifave. Për përdoruesit e Web2 që preferojnë pagesën në fiat, XBorg blen ekuivalentin e tokeneve XBG në tregun e hapur. Lista e tarifave të mbledhura përmes protokollit mund të gjendet në slajdin: Qëndrueshmëria e Protokollit & Të Ardhurat. Këto tarifa ngarkohen në XBG.
 
 **Qeverisja**
 
-Monedha XBG përdoret për veprimet e qeverisjes në XBorg DAO pas Eventit të Gjenerimit të Monedhës. Mbajtësit e monedhave XBG kanë aftësinë të votojnë në vendime kyçe në lidhje me zhvillimin e protokollit.
+Tokeni XBG përdoret për veprime qeverisëse në DAO-në XBorg pas Ngjarjes së Gjenerimit të Tokenit. Mbajtësit e tokeneve XBG kanë aftësinë të votojnë për vendime kyçe në lidhje me zhvillimin e protokollit.
 
-**Staking**&#x20;
+**Staking**
 
-50% e tarifave dhe të ardhurave të paguara në XBG janë të destinuara për fondin e shpërblimit të staking. Sasia e shpërblimeve të staking marrë varet nga koha e mbylljes së bllokimit dhe statusi i individit brenda protokollit.
+50% e tarifave dhe të ardhurave të paguara në XBG janë caktuar për pishinën e shpërblimeve të staking. Sasia e shpërblimeve të staking që pranohet përcaktohet nga kohëzgjatja e periudhës së bllokimit dhe statusi i individit brenda protokollit.
 
-**Qasje në Protokoll**&#x20;
+**Qasja në Protokoll**
 
-Disa funksionalitete dhe shërbime të protokollit janë të nënshtruara ndalimeve të qasjes bazuar në sasinë e monedhave XBG të mbajtura dhe statusin e përdoruesit brenda protokollit.
-
-</details>
-
-<details>
-
-<summary>A ka nivele të ndryshme të mbajtjes me bonus të ndryshëm?</summary>
-
-Aktualisht, posedimi i monedhave XBG nuk sjell asnjë nivel të veçantë; megjithatë, duhet të theksohet se qasja në disa veçori do të bazohet në sasinë e monedhave XBG të mbajtura në pronësi.
+Disa funksionalitete dhe utilitete të protokollit janë të nënshtruar kufizimeve të qasjes bazuar në sasinë e XBG të mbajtur dhe statusin e përdoruesit brenda protokollit.
 
 </details>
 
 <details>
 
-<summary>A ka mekanizëm djegjeje XBG?</summary>
+<summary>A ka nivele të ndryshme të mbajtjes me bonuse të ndryshme?</summary>
 
-Aktualisht, 50% e të ardhurave i kushtohen shpërblimit të staking ndërsa pjesa tjetër i kushtohet thesarit. Qeveria mund të vendosë ndarjen e saktë të të ardhurave dhe të caktojë një pjesë për një mekanizëm djegjeje.
-
-</details>
-
-<details>
-
-<summary>Cili është adresa e kontratës inteligjente për monedhën XBG?</summary>
-
-Kontrata e monedhës XBG nuk është deployuar ende në testnet ose mainnet. Prandaj, nuk ka adresa të kontratës të disponueshme.
+Aktualisht, posedimi i tokeneve XBG nuk jep asnjë nivel të veçantë; megjithatë, duhet të theksohet se qasja në disa karakteristika do të jetë e bazuar në sasinë e XBG të mbajtur në posedim.
 
 </details>
 
 <details>
 
-<summary>A është e mundur të blihen monedhat XBG përmes aplikacionit Swissborg pas TGE-së?</summary>
+<summary>A ka XBG një mekanizëm djegie?</summary>
 
-Është shumë e mundur. Për të listuar në SwissBorg, monedha XBG duhet të jetë e listuar në Kraken, Binance ose LBank.
+Aktualisht, 50% e të ardhurave janë të alokuara për rendimentin e staking ndërsa pjesa tjetër është e alokuar për thesarin. Qeverisja mund të vendosë ndarjen e saktë të të ardhurave dhe të alokojë një pjesë për një mekanizëm djegie.
 
 </details>
 
-&#x20;
+<details>
+
+<summary>Cila është adresa e kontratës së zgjuar për tokenin XBG?</summary>
+
+Kontrata e tokenit XBG nuk është implementuar ende në testnet ose mainnet. Prandaj, nuk ka adresa të disponueshme të kontratës.
+
+</details>
+
+<details>
+
+<summary>A është e mundur të blini tokene XBG përmes aplikacionit Swissborg pas TGE?</summary>
+
+Është shumë e mundshme. Për të qenë i listuar në SwissBorg, tokeni XBG duhet të jetë i listuar në Kraken, Binance ose LBank.
+
+</details>
