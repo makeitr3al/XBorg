@@ -1,7 +1,7 @@
-# Roadmap
+# Fahrplan
 
 {% hint style="info" %}
-Bitte beachten Sie, dass der folgende Fahrplan Änderungen unterliegt und keine verbindliche Verpflichtung darstellt. Die bereitgestellten Informationen basieren auf aktuellen Schätzungen, Annahmen und Prognosen und können von verschiedenen externen Faktoren wie Marktbedingungen, regulatorischen Änderungen und technologischen Fortschritten beeinflusst werden. Der Fahrplan dient nur zu Informationszwecken und sollte nicht als Garantie für zukünftige Ergebnisse oder Leistungen betrachtet werden. Tatsächliche Ergebnisse können wesentlich von den im Fahrplan ausgedrückten oder implizierten Ergebnissen abweichen. Das Unternehmen behält sich das Recht vor, alle darin skizzierten Initiativen nach eigenem Ermessen ohne vorherige Ankündigung zu ändern, zu aktualisieren oder einzustellen.
+Bitte beachten Sie, dass der folgende Fahrplan Änderungen unterliegen kann und keine verbindliche Zusage darstellt. Die bereitgestellten Informationen basieren auf aktuellen Schätzungen, Annahmen und Prognosen und können durch verschiedene externe Faktoren wie Marktbedingungen, regulatorische Änderungen und technologische Fortschritte beeinflusst werden. Der Fahrplan dient nur zu Informationszwecken und sollte nicht als Garantie für zukünftige Ergebnisse oder Leistungen herangezogen werden. Tatsächliche Ergebnisse können wesentlich von den im Fahrplan ausgedrückten oder implizierten Ergebnissen abweichen. Das Unternehmen behält sich das Recht vor, jegliche der darin umrissenen Initiativen nach eigenem Ermessen ohne vorherige Ankündigung zu ändern, zu aktualisieren oder einzustellen.
 {% endhint %}
 
 <details>
@@ -14,43 +14,11 @@ Den allgemeinen Fahrplan finden Sie in unserem neuesten [**Deck**](https://docse
 
 <details>
 
-<summary>Was sind die Ziele von XBorg für 2023?</summary>
+<summary>Wo wird XBorg in drei Jahren stehen?</summary>
 
-* **1.000.000** Benutzer auf der Fan Engagement App
-
-<!---->
-
-* **50** Esport-Teams auf der Fan Engagement App sowie 20 weitere Communities
-
-<!---->
-
-* **10** Software-Ingenieure im Team
-
-<!---->
-
-* **5 Mio. $** Seed-Runden-Fundraising und öffentlicher Token-Verkauf
-
-<!---->
-
-* **Dezentralisierung** des Credential-Netzwerks und des Entwicklerförderungsprogramms
-
-<!---->
-
-* Frühzeitige Produkt-Monetarisierung
-
-<!---->
-
-* **+20.000** Community-Mitglieder
-
-</details>
-
-<details>
-
-<summary>Wo wird XBorg in drei Jahren sein?</summary>
-
-Unsere Vision für die nächsten drei Jahre besteht darin, XBorg in ein vollständig dezentralisiertes Protokoll mit einer Vielzahl von Benutzeranwendungen zu verwandeln und uns gleichzeitig als führendes Gaming-Credential-Netzwerk zu etablieren. Durch Förderprogramme und aktive Unterstützung von Spielerinitiativen streben wir danach, unzählige Gamer zu befähigen und den Aufstieg von spielerbesessenen Gaming-Entitäten wie Esport-Teams und Studios zu erleichtern. Mit dem Engagement für kontinuierliche Innovation und Fortschritt erwarten wir, dass XBorg als dominierendes Gaming-Ökosystem in der Web3-Sphäre und darüber hinaus hervorgeht und den Weg für zukünftige Aktivitäten in anderen Unterhaltungssektoren und Gemeinschafts-Ermächtigungsinitiativen ebnet.\
+Unsere Vision für die nächsten drei Jahre ist es, XBorg in ein vollständig dezentralisiertes Protokoll mit einer Vielzahl von Anwendungen für Nutzer zu verwandeln und uns gleichzeitig als das führende Gaming-Credential-Netzwerk zu etablieren. Durch Förderprogramme und aktive Unterstützung von Spielerinitiativen streben wir danach, unzählige Gamer zu ermächtigen und den Aufstieg von spielerbesessenen Gaming-Entitäten, einschließlich E-Sport-Teams und Studios, zu erleichtern. Mit einem Engagement für kontinuierliche Innovation und Fortschritt erwarten wir, dass XBorg als dominantes Gaming-Ökosystem im Web3-Bereich und darüber hinaus hervorgeht und den Weg für zukünftige Vorstöße in andere Unterhaltungssektoren und Community-Empowerment-Initiativen ebnet.\
 \
-Haftungsausschluss: Obwohl wir glauben, dass dies erreichbar ist, basieren die in diesem Dokument gemachten Aussagen über die Vision von XBorg für die nächsten drei Jahre auf Annahmen, Erwartungen und Prognosen über die Gaming- und Blockchain-Branche. Diese Aussagen beinhalten Risiken und Unsicherheiten, und tatsächliche Ergebnisse können wesentlich von den in diesen Aussagen beschriebenen abweichen. XBorg garantiert oder verspricht keine bestimmten Ergebnisse oder Ergebnisse. Jede Investition in XBorg oder seine Produkte und Dienstleistungen birgt Risiken und kann zum Verlust der gesamten Investition oder eines Teils davon führen. XBorg ist nicht verantwortlich für Schäden oder Verluste, die durch eine auf den Informationen in diesem Dokument basierende Anlageentscheidung entstehen. Schließlich sollte nichts in diesem Dokument als rechtliche, finanzielle oder Anlageberatung ausgelegt werden.
+Haftungsausschluss: Obwohl wir glauben, dass es erreichbar ist, sind die in diesem Dokument gemachten Aussagen über die Vision von XBorg für die nächsten drei Jahre zukunftsgerichtet und basieren auf Annahmen, Erwartungen und Prognosen über die Gaming- und Blockchain-Industrien. Diese Aussagen beinhalten Risiken und Unsicherheiten, und die tatsächlichen Ergebnisse können wesentlich von den in diesen Aussagen beschriebenen abweichen. XBorg garantiert oder verspricht keine spezifischen Ergebnisse oder Ergebnisse. Jede Investition in XBorg oder seine Produkte und Dienstleistungen birgt Risiken und kann zum Verlust des gesamten oder eines Teils der Investition führen. XBorg ist nicht verantwortlich für Schäden oder Verluste, die als Ergebnis einer auf den Informationen in diesem Dokument basierenden Investitionsentscheidung entstehen. Schließlich sollte nichts in diesem Dokument als rechtlicher, finanzieller oder investitionsbezogener Rat ausgelegt werden.
 
 </details>
 
@@ -58,23 +26,13 @@ Haftungsausschluss: Obwohl wir glauben, dass dies erreichbar ist, basieren die i
 
 <summary>Was hat XBorg bisher erreicht?</summary>
 
-* Aufbau eines MVP des Gaming-Credential-Netzwerks mit **10.000** Benutzern
-* Erster Anwendungsfall, der soulbound Launchpad, mit **sechs frühen** Deals
-* Die wettbewerbsfähigste Gaming-Community in Web3
-* Partnerschaften mit Top-Marken in Web3 und Web2 (Team BDS, Brave, YGG, Polygon Gaming)
-* Größter Turnierveranstalter in Web3 mit 125 organisierten Turnieren im Jahr 2022 und der größten Web3-Liga im Jahr 2023 (XCS)&#x20;
+* MVP des Gaming-Credential-Netzwerks mit **10.000** Nutzern erstellt
+* Erster Anwendungsfall, der soulbound Launchpad mit **sechs Frühphasen**-Deals
+* Die wettbewerbsfähigste Gaming-Community im Web3
+* Partnerschaften mit Top-Marken im Web3 und Web2 (Team BDS, Brave, YGG, Polygon Gaming)
+* Größter Turnierveranstalter im Web3, mit 125 organisierten Turnieren im Jahr 2022 und der größten Web3-Liga, die im Jahr 2023 organisiert wurde (XCS)
 * Strategische Finanzierungsrunde
 * Prometheus-Mint
-
-</details>
-
-<details>
-
-<summary>Was sind die Prioritäten von XBorg für 2023?</summary>
-
-Die obersten Prioritäten von XBorg konzentrieren sich auf mehrere wichtige Bereiche der strategischen Entwicklung. Erstens baut das Team aktiv eine robuste und fesselnde Fan Engagement App (xborg.gg) auf, die sowohl stabil als auch fesselnd ist. Zweitens ist das Unternehmen bestrebt, seinen technischen Talentpool zu erweitern, um das kontinuierliche Wachstum und die Expansion seiner Anwendungen und des Credential-Netzwerks zu erleichtern. XBorg widmet sich auch der Verfolgung strategischer Geschäftsentwicklungsmöglichkeiten mit führenden Esport-Teams, um die Benutzerbindung und Attraktivität der Plattform zu verbessern.\
-\
-Mit dem Fokus auf nachhaltiges Wachstum erkundet XBorg eine Reihe von Monetarisierungsstrategien, darunter Wearable-Drops, monatliche Benutzer- und Geschäftsabonnements und andere innovative Einnahmequellen. Schließlich bereitet sich XBorg auf eine dezentralisierte Zukunft vor, indem es den XBG-Token startet und ihn auf Tier-1-Börsen wie Binance und Coinbase sowie auf Tier-2-Börsen wie Bybit, Bitfinex und Kucoin verfügbar macht. Durch die Verfolgung dieser strategischen Prioritäten ist XBorg bereit, die Gaming-Branche zu revolutionieren und seine Position als führendes Unternehmen in der sich schnell entwickelnden Welt der Web3-Technologie zu festigen.
 
 </details>
 
@@ -84,17 +42,16 @@ Mit dem Fokus auf nachhaltiges Wachstum erkundet XBorg eine Reihe von Monetarisi
 
 **Regulatorische Risiken**
 
-Wie jedes Web3-Projekt kann die regulatorische Landschaft im Zusammenhang mit digitalen Vermögenswerten die Umsetzung bestimmter Fahrplanpunkte behindern. Wenn bestimmte NFTs oder Tokens in bestimmten Rechtsordnungen als Wertpapiere betrachtet werden, könnte dies unserem Ökosystem schaden oder die Nützlichkeit des XBG-Tokens beeinträchtigen.
+Wie bei jedem Web3-Projekt kann die regulatorische Landschaft rund um digitale Vermögenswerte die Ausführung bestimmter Punkte des Fahrplans behindern. Sollten bestimmte NFTs oder Token unter bestimmten Rechtsordnungen als Wertpapiere angesehen werden, würde dies unserem Ökosystem schaden oder die Nutzbarkeit des XBG-Tokens beeinträchtigen.
 
-**Datenverwaltung**
+**Daten-Governance**
 
-Darüber hinaus führt die Nutzung von APIs von Drittanbietern, die von renommierten Unternehmen wie Steam und Faceit bezogen werden, zu potenziellen Problemen bei der Datenverwaltung, da die Beendigung dieser Zusammenarbeit zwangsläufig zu einer Verringerung der Datenqualität führen würde.&#x20;
+Darüber hinaus birgt die Nutzung von APIs Dritter, die von renommierten Einrichtungen wie Steam und Faceit bezogen werden, potenzielle Probleme im Bereich der Daten-Governance, da das Einstellen solcher Kooperationen unweigerlich zu einer verminderten Datenqualität führen würde.
 
-**Akzeptanz des Credential-Netzwerks**
+**Credential-Netzwerk-Traction**
 
-Das Akzeptanzrisiko für jedes Protokoll darf nicht unterschätzt werden, da es eine potenzielle Hürde für seinen Erfolg darstellt. Daher ist ein robuster Plan für das anfängliche Wachstum unerlässlich. In diesem Zusammenhang haben wir die Fan Engagement App und strategische Partnerschaften mit Esport-Teams als die effektivsten Wege zur Erreichung der kritischen Masse des XBorg-Protokolls identifiziert.
+Das Adoptionsrisiko für jedes Protokoll kann nicht genug betont werden, da es ein potentielles Hindernis für seinen Erfolg darstellt. Daher ist ein robuster anfänglicher Wachstumsplan unerlässlich. In diesem Zusammenhang haben wir die Fan-Engagement-App und strategische Partnerschaften mit E-Sport-Teams als die effektivsten Wege identifiziert, um die kritische Masse des XBorg-Protokolls zu erreichen.
 
-\
-
+\\
 
 </details>

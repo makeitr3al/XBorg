@@ -1,78 +1,78 @@
 # Gaming Credential Network
 
-> Before exploring the following questions, go through the presentation of the Gaming Credential Network:[#what-is-a-gaming-credential-network](gaming-credential-network.md#what-is-a-gaming-credential-network "mention") :sunglasses:
+> Voordat je de volgende vragen verkent, bekijk de presentatie van het Gaming Credential Network:[#wat-is-een-gaming-credential-network](gaming-credential-network.md#what-is-a-gaming-credential-network "vermelding") 😎
 
 <details>
 
-<summary>Why build a Gaming Credential Network?</summary>
+<summary>Waarom een Gaming Credential Network opbouwen?</summary>
 
-In today's society, where leisure time is becoming increasingly abundant, players spend countless hours immersed in gaming worlds. Yet, the data generated from these experiences is often undervalued and fragmented across multiple games. XBorg recognizes the value of players' time and seeks to make their data meaningful and valuable. Think of it as a gaming [**Decentralized Identifier (DID)**](https://www.w3.org/TR/did-core/) system.\
+In de hedendaagse maatschappij, waar vrije tijd steeds overvloediger wordt, brengen spelers talloze uren door in de wereld van games. Toch wordt de data die uit deze ervaringen voortkomt vaak ondergewaardeerd en gefragmenteerd over meerdere spellen. XBorg erkent de waarde van de tijd van spelers en streeft ernaar hun data betekenisvol en waardevol te maken. Denk hierbij aan een gaming [**Decentralized Identifier (DID)**](https://www.w3.org/TR/did-core/) systeem.\
 \
-Furthermore, the Gaming Credential Network allows for the creation of better gaming applications and interoperability bound to the identity of players.
+Bovendien maakt het Gaming Credential Network de creatie van betere gaming applicaties en interoperabiliteit gekoppeld aan de identiteit van spelers mogelijk.
 
 </details>
 
 <details>
 
-<summary>What are the benefits for players?</summary>
+<summary>Wat zijn de voordelen voor spelers?</summary>
 
-* Players own and centralize their gaming data in one place
-* Players gain access to gaming applications and utilities within the ecosystem
-* Players can monetize their data
-
-</details>
-
-<details>
-
-<summary>What are the benefits for developers?</summary>
-
-* Developers can develop custom player experiences
-* Businesses can acquire users by targeting players for a fee
-* The Gaming Credential Network provides instant access to games and developers, expanding their reach
-* Developers can access more granular data, enhancing matchmaking accuracy and other app features
-* The platform enables new use cases for applications, including reputation-based lending
+* Spelers bezitten en centraliseren hun gaming data op één plek
+* Spelers krijgen toegang tot gaming applicaties en hulpmiddelen binnen het ecosysteem
+* Spelers kunnen hun data gelde maken
 
 </details>
 
 <details>
 
-<summary>How does a player ID look like?</summary>
+<summary>Wat zijn de voordelen voor ontwikkelaars?</summary>
 
-The player ID is a Soulbound token representing an aggregation of all Soulbound tokens obtained by the user. The player ID also incorporates Soulbound tokens outside of the XBorg ecosystem such as Lens protocol.
-
-</details>
-
-<details>
-
-<summary>Can developers start building applications on top of the credential network now?</summary>
-
-Currently, the Gaming Credential Network is centralized. Upon decentralization of the network, developers can build on top of it.
+* Ontwikkelaars kunnen aangepaste spelerservaringen ontwikkelen
+* Bedrijven kunnen gebruikers werven door spelers te targeten tegen betaling
+* Het Gaming Credential Network biedt directe toegang tot spellen en ontwikkelaars, waardoor hun bereik wordt uitgebreid
+* Ontwikkelaars kunnen toegang krijgen tot meer gedetailleerde data, wat de nauwkeurigheid van matchmaking en andere app-functies verbetert
+* Het platform maakt nieuwe gebruiksscenario's voor applicaties mogelijk, inclusief reputatiegebaseerd lenen
 
 </details>
 
 <details>
 
-<summary>How do you scale the Gaming Credential Network?</summary>
+<summary>Hoe ziet een speler-ID eruit?</summary>
 
-The gaming and community engagement app is the main application that allows us to scale the Gaming Credential Network.
-
-</details>
-
-<details>
-
-<summary>How is data privacy handled?</summary>
-
-Iterations of the protocol in the future will allow players to disclose pertinent data points selectively by enabling opt-in/opt-out functionality. Furthermore, zero-knowledge technologies are set to be incorporated in subsequent updates, underscoring the platform's unwavering commitment to privacy and data security.
+Het speler-ID is een Soulbound token die een aggregatie vertegenwoordigt van alle Soulbound tokens verkregen door de gebruiker. Het speler-ID omvat ook Soulbound tokens buiten het XBorg ecosysteem zoals het Lens protocol.
 
 </details>
 
 <details>
 
-<summary>What are the modules of the Credential Network?</summary>
+<summary>Kunnen ontwikkelaars nu al beginnen met het bouwen van applicaties bovenop het credential netwerk?</summary>
+
+Momenteel is het Gaming Credential Network gecentraliseerd. Zodra het netwerk gedecentraliseerd is, kunnen ontwikkelaars erop bouwen.
+
+</details>
+
+<details>
+
+<summary>Hoe schaal je het Gaming Credential Network op?</summary>
+
+De gaming- en community engagement-app is de hoofdtoepassing die ons in staat stelt het Gaming Credential Network op te schalen.
+
+</details>
+
+<details>
+
+<summary>Hoe wordt data privacy behandeld?</summary>
+
+Toekomstige iteraties van het protocol zullen spelers in staat stellen om relevante datapunten selectief te onthullen door opt-in/opt-out functionaliteit mogelijk te maken. Bovendien zullen zero-knowledge technologieën worden opgenomen in latere updates, wat de onwrikbare toewijding van het platform aan privacy en gegevensbeveiliging benadrukt.
+
+</details>
+
+<details>
+
+<summary>Wat zijn de modules van het Credential Network?</summary>
 
 * Community
-* Player
-* Game
+* Speler
+* Spel
 
 #### ![](../.gitbook/assets/modules.png)
 
@@ -80,36 +80,36 @@ Iterations of the protocol in the future will allow players to disclose pertinen
 
 <details>
 
-<summary>Is the Gaming Credential Network on-chain?</summary>
+<summary>Is het Gaming Credential Network on-chain?</summary>
 
-At present, the Gaming Credential Network is securely stored off-chain. However, as the ecosystem garners traction and the user base surpasses the 100,000 threshold, the network will seamlessly transition onto the blockchain, underscoring XBorg's steadfast commitment to accessibility and transparency.
-
-</details>
-
-<details>
-
-<summary>Is the dev documentation or SDK ready?</summary>
-
-It's currently in the works but won't be released until the end of 2023.
+Op dit moment wordt het Gaming Credential Network veilig off-chain opgeslagen. Echter, naarmate het ecosysteem groeit en de gebruikersbasis de drempel van 100.000 overschrijdt, zal het netwerk naadloos overgaan op de blockchain, wat de standvastige toewijding van XBorg aan toegankelijkheid en transparantie onderstreept.
 
 </details>
 
 <details>
 
-<summary>On which blockchain will the Credential Network be built?</summary>
+<summary>Is de ontwikkelaarsdocumentatie of SDK al klaar?</summary>
 
-Initially, Polygon and other L2. As the Network gains traction, it will become its own L2/L3, known as the Borg chain.
+Het is momenteel in ontwikkeling, maar zal waarschijnlijk pas tegen het einde van de zomer van 2024 worden uitgebracht.
 
 </details>
 
 <details>
 
-<summary>What are the limitations of the Gaming Credential Network?</summary>
+<summary>Op welke blockchain zal het Credential Network worden gebouwd?</summary>
 
-* **Sybil resistance:** An inherent constraint of network infrastructure lies in the susceptibility of its users to adopt false personas or leverage advanced technologies such as artificial intelligence to manipulate their digital identities. To mitigate the detrimental effects of Sybil attacks, one effective strategy involves the incorporation of a Proof of Identity mechanism into the network's underlying protocol.
+In eerste instantie op Polygon en andere L2's. Naarmate het netwerk populairder wordt, zal het zijn eigen L2/L3 worden, bekend als de Borg chain.
+
+</details>
+
+<details>
+
+<summary>Wat zijn de beperkingen van het Gaming Credential Network?</summary>
+
+* **Sybil-weerstand:** Een inherente beperking van de netwerkinfrastructuur ligt in de vatbaarheid van zijn gebruikers om valse persona's aan te nemen of geavanceerde technologieën zoals kunstmatige intelligentie te gebruiken om hun digitale identiteiten te manipuleren. Om de schadelijke effecten van Sybil-aanvallen te beperken, omvat een effectieve strategie de integratie van een bewijs van identiteit mechanisme in het onderliggende protocol van het netwerk.
 
 <!---->
 
-* **Scale**: The true value proposition of the credential network is contingent upon achieving a requisite level of network scale, a priority that currently holds significant strategic importance for XBorg. However, once this objective is realized, the potential utilities that can be derived from the network are truly boundless.
+* **Schaal**: De ware waardepropositie van het credential netwerk is afhankelijk van het bereiken van een vereist niveau van netwerkschaal, een prioriteit die momenteel van groot strategisch belang is voor XBorg. Echter, eenmaal dit doel is gerealiseerd, zijn de potentiële toepassingen die uit het netwerk kunnen worden gehaald werkelijk grenzeloos.
 
 </details>

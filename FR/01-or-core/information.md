@@ -1,8 +1,8 @@
 # Informations
 
-> Cette section vise à offrir au lecteur un aperçu général de XBorg avant d'explorer le reste de ce document. C'est le meilleur endroit pour commencer à développer une compréhension générale de XBorg.
+> Cette section vise à offrir au lecteur un aperçu général de XBorg avant qu'il explore le reste de ce document. C'est le meilleur endroit pour commencer à développer une compréhension générale de XBorg.
 
-#### Vous trouverez ci-dessous le PDG de XBorg, Louis Regis, qui présente XBorg.
+#### Ci-dessous, vous trouverez le PDG de XBorg, Louis Regis, présentant XBorg.
 
 {% embed url="https://youtu.be/yqQf0ETfB9w" %}
 
@@ -10,9 +10,9 @@
 
 <summary>Pourquoi XBorg ?</summary>
 
-Dans la société d'aujourd'hui, où le temps libre devient de plus en plus abondant, les joueurs passent d'innombrables heures plongés dans des mondes de jeux. Pourtant, les données générées par ces expériences sont souvent sous-évaluées et fragmentées à travers plusieurs jeux. XBorg reconnaît la valeur du temps des joueurs et cherche à rendre leurs données significatives et précieuses.
+Dans la société d'aujourd'hui, où le temps libre devient de plus en plus abondant, les joueurs passent d'innombrables heures immergés dans des mondes de jeux. Pourtant, les données générées par ces expériences sont souvent sous-évaluées et fragmentées à travers plusieurs jeux. XBorg reconnaît la valeur du temps des joueurs et cherche à rendre leurs données significatives et précieuses.
 
-Le problème des données fragmentées des joueurs est aggravé par le fait que les joueurs ne sont pas toujours récompensés pour leur contribution au succès d'un jeu. Malgré leur rôle essentiel dans l'écosystème du jeu, les joueurs ne perçoivent souvent aucune valeur générée par leur gameplay. Ce problème important affecte de nombreux joueurs et nécessite une solution.
+Le problème des données de joueurs fragmentées est aggravé par le fait que les joueurs ne sont pas toujours récompensés pour leurs contributions au succès d'un jeu. Bien qu'ils soient une partie intégrante de l'écosystème du jeu, les joueurs ne perçoivent souvent pas la valeur générée par leur jeu. Ce problème significatif affecte d'innombrables joueurs et mérite une solution.
 
 </details>
 
@@ -20,57 +20,57 @@ Le problème des données fragmentées des joueurs est aggravé par le fait que 
 
 <summary>Qu'est-ce que XBorg ?</summary>
 
-XBorg révolutionne l'industrie du jeu en permettant aux joueurs de créer leur identité numérique de jeu grâce à un réseau de références. Il ouvre la voie à une nouvelle génération d'applications et de cas d'utilisation de jeu améliorés.
+XBorg révolutionne l'industrie du jeu en donnant aux joueurs le pouvoir de créer leur identité numérique de jeu à travers un réseau de crédentials. Il ouvre la voie à une nouvelle génération d'applications de jeu améliorées et de cas d'utilisation.
 
-Avec la possibilité d'intégrer des dizaines de millions de joueurs dans l'écosystème Web3, XBorg est sur le point de transformer l'avenir du jeu tel que nous le connaissons.
+Avec le potentiel d'intégrer des dizaines de millions de joueurs dans l'écosystème Web3, XBorg est prêt à transformer l'avenir du jeu tel que nous le connaissons.
 
-XBorg est soutenu par les meilleures marques et investisseurs de Web3 et abrite les joueurs les plus compétitifs du jeu Web3.
-
-</details>
-
-<details>
-
-<summary>Présente XBorg à un enfant de 5 ans</summary>
-
-Salut, petit ! As-tu déjà joué à des jeux sur ta tablette ou ton téléphone ? Eh bien, il y a quelque chose de vraiment cool appelé XBorg qui va rendre ton expérience de jeu encore plus amusante !
-
-XBorg est comme un outil spécial qui t'aide à créer ton propre personnage numérique que tu peux utiliser pour jouer à des jeux. C'est comme créer ton propre super-héros !
-
-Et la meilleure partie, c'est que ton super-héros te donne des super-pouvoirs dans d'autres applications de jeu cool aussi. C'est comme donner des super-pouvoirs à tous les joueurs de la planète.
-
-XBorg est soutenu par des personnes vraiment importantes et intelligentes qui pensent que ça va changer la façon dont nous jouons aux jeux à l'avenir. Alors prépare-toi, parce que XBorg va être vraiment important !
+XBorg est soutenu par les meilleures marques et investisseurs du Web3 et abrite les joueurs les plus compétitifs dans le jeu Web3.
 
 </details>
 
 <details>
 
-<summary>Qu'est-ce qu'un réseau de références de jeu ?</summary>
+<summary>Présentez XBorg à un enfant de 5 ans</summary>
 
-Le réseau de références est comme un hub personnel de données de jeu pour chaque joueur. Il regroupe toutes leurs références de jeu provenant de différents jeux et applications en une seule identité, comme leurs performances dans un jeu, les communautés de jeu auxquelles ils appartiennent et le nombre de tournois qu'ils ont remportés. C'est l'identité numérique des joueurs.
+Salut, petit ! Tu as déjà joué à des jeux sur ta tablette ou ton téléphone ? Eh bien, il y a une chose vraiment cool appelée XBorg qui va rendre ton expérience de jeu encore plus amusante !
+
+XBorg, c'est comme un outil spécial qui t'aide à créer ton propre personnage numérique que tu peux utiliser pour jouer à des jeux. C'est comme créer ton propre super-héros !
+
+Et le meilleur, c'est que ton super-héros te donne des superpouvoirs dans d'autres applications de jeu cool aussi. C'est comme donner des superpouvoirs à chaque joueur de la planète.
+
+XBorg est soutenu par des gens vraiment importants et intelligents qui pensent que ça va changer la façon dont nous jouons aux jeux à l'avenir. Alors prépare-toi, parce que XBorg va être un truc vraiment énorme !
+
+</details>
+
+<details>
+
+<summary>Qu'est-ce qu'un Réseau de Crédentials de Jeu ?</summary>
+
+Le réseau de crédentials est comme un hub de données de jeu personnel pour chaque joueur. Il agrège toutes leurs crédentials de jeu de différents jeux et applications en une seule identité, comme leur performance dans un jeu, les communautés de jeu auxquelles ils appartiennent et le nombre de tournois qu'ils ont gagnés. C'est l'identité numérique des joueurs.
 
 Notre système suit trois types de données utilisateur :
 
 1. Engagement dans l'esport
 2. Performance de jeu
-3. Activité sociale/fan
+3. Activité sociale/de fan
 
-Nous recueillons ces données à partir de plates-formes populaires telles que Steam, FaceIt, Riot Games, Twitter, Discord et des sources en chaîne.
+Nous recueillons ces données à partir de plateformes populaires comme Steam, FaceIt, Riot Games, Twitter, Discord et des sources en chaîne.
 
-Pour le dire techniquement, le réseau de références de jeu utilise des jetons liés à l'âme des joueurs (NFT non transférables) pour stocker leurs métriques en toute sécurité. Notre agrégateur de données avancé, XBorg, garantit aux joueurs la pleine propriété de leurs données.
+Techniquement parlant, le Réseau de Crédentials de Jeu utilise les tokens liés à l'âme des joueurs (NFT non transférables) pour stocker leurs métriques de manière sécurisée. Notre agrégateur de données avancé, XBorg, garantit que les joueurs possèdent pleinement leurs données.
 
-Le réseau de références est le fondement permettant la création d'applications de jeu améliorées et de jeux liés à l'identité des joueurs.
+Le réseau de crédentials est la pierre angulaire permettant la création d'applications de jeu améliorées et de jeux connectés à l'identité des joueurs.
 
-Imagine donc le protocole Lens pour les jeux.
+Imaginez donc le protocole Lens pour le jeu.
 
 </details>
 
 <details>
 
-<summary>Qu'est-ce que le réseau d'applications de jeu ?</summary>
+<summary>Qu'est-ce que le Réseau d'Applications de Jeu ?</summary>
 
-Le réseau d'applications de jeu est une collection d'applications de jeu qui utilisent l'identité numérique d'un joueur. Notre réseau de références peut être utilisé pour créer des applications de jeu plus avancées, comme une plateforme de tournois qui met en relation les joueurs en fonction de leur historique, une plateforme de lancement GameFi soulbound ou une application de rencontres de jeu qui met en relation les joueurs en fonction de leurs références. Les marques peuvent également utiliser ce réseau pour l'acquisition d'utilisateurs basée sur les données des joueurs. Le réseau d'applications de jeu offre des possibilités infinies pour une expérience de jeu plus personnalisée et agréable.\
-\
-Nous prévoyons que l'utilisation du réseau de références soit sans permission, de sorte que tous les développeurs puissent créer de nouvelles applications cool :)
+Le réseau d'applications de jeu est une collection d'applications de jeu qui utilisent l'identité numérique d'un joueur. Notre réseau de crédentials peut être utilisé pour créer des applications de jeu plus avancées, comme une plateforme de tournoi qui associe les joueurs en fonction de leur historique, un launchpad GameFi lié à l'âme, ou une application de rencontres pour joueurs qui les associe en fonction de leurs crédentials. Les marques peuvent également utiliser ce réseau pour l'acquisition d'utilisateurs basée sur les données des joueurs. Le réseau d'applications de jeu offre des possibilités infinies pour une expérience de jeu plus personnalisée et agréable.
+
+Nous avons l'intention que l'utilisation du réseau de crédentials soit sans permission pour que tout développeur puisse construire de nouvelles applications cool :)
 
 </details>
 
@@ -80,9 +80,9 @@ Nous prévoyons que l'utilisation du réseau de références soit sans permissio
 
 Notre mission chez XBorg est de donner aux joueurs du monde entier les moyens de posséder, de gouverner et de bénéficier d'expériences utilisateur supérieures. Nous croyons fermement que l'avenir du jeu est entre les mains des joueurs, et nous nous engageons à être la plateforme où ils peuvent créer et posséder de nouveaux cas d'utilisation pour l'industrie du jeu.
 
-Chez XBorg, nous donnons la priorité aux besoins de nos joueurs et nous nous efforçons de créer un environnement qui favorise la collaboration, la gouvernance ouverte, la décentralisation et l'innovation. Notre objectif est de construire une communauté mondiale de joueurs qui peuvent prendre en charge leurs expériences de jeu, créer leurs propres applications et contribuer à la croissance de l'industrie.
+Chez XBorg, nous donnons la priorité aux besoins de nos joueurs et nous nous efforçons de créer un environnement qui favorise la collaboration, la gouvernance ouverte, la décentralisation et l'innovation. Notre objectif est de construire une communauté mondiale de joueurs qui peuvent prendre en main leurs expériences de jeu, créer leurs applications et contribuer à la croissance de l'industrie.
 
-Nous nous engageons à réaliser cela en travaillant en étroite collaboration avec nos joueurs pour créer un monde meilleur pour les joueurs partout.
+Nous sommes dédiés à atteindre cela en travaillant étroitement avec nos joueurs pour créer un monde meilleur pour les joueurs partout.
 
 </details>
 
@@ -97,9 +97,9 @@ Nous nous engageons à réaliser cela en travaillant en étroite collaboration a
 * [**Twitch**](https://www.twitch.tv/xborgofficial)
 * [**Medium**](https://medium.com/xborg-official)
 * [**Pitch deck**](https://docsend.com/view/5dwn74pn6izud3vb)
-* [**Application**](http://gaming.xborg.com/)
+* [**GamerBase (App)**](https://gamerbase.gg)
 * [**Launchpad**](https://launchpad.xborg.com/)
 
-La première version du livre blanc a été publiée en juillet 2022, mais elle est actuellement en révision et sera republiée vers le deuxième trimestre 2023.
+La première version du livre blanc a été publiée en juillet 2022 mais est actuellement en révision et sera republiée vers le deuxième trimestre de 2023.
 
 </details>
