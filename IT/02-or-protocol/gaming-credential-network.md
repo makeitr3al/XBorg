@@ -1,14 +1,14 @@
-# Gaming Credential Network
+# Rete di Credenziali di Gioco
 
-> Prima di esplorare le seguenti domande, consulta la presentazione della Gaming Credential Network: [#what-is-a-gaming-credential-network](gaming-credential-network.md#what-is-a-gaming-credential-network "mention") :sunglasses:
+> Prima di esplorare le seguenti domande, consulta la presentazione della Rete di Credenziali di Gioco: [#cos'è-una-rete-di-credenziali-di-gioco](gaming-credential-network.md#what-is-a-gaming-credential-network "mention") 😎
 
 <details>
 
-<summary>Perché costruire una Gaming Credential Network?</summary>
+<summary>Perché costruire una Rete di Credenziali di Gioco?</summary>
 
-Nella società odierna, dove il tempo libero è sempre più abbondante, i giocatori trascorrono innumerevoli ore immersi nei mondi dei videogiochi. Tuttavia, i dati generati da queste esperienze spesso vengono sottostimati e frammentati tra vari giochi. XBorg riconosce il valore del tempo dei giocatori e cerca di rendere i loro dati significativi e preziosi. Pensalo come un sistema di [**Decentralized Identifier (DID)**](https://www.w3.org/TR/did-core/) per i videogiochi.\
+Nella società odierna, dove il tempo libero è sempre più abbondante, i giocatori trascorrono innumerevoli ore immersi nei mondi di gioco. Tuttavia, i dati generati da queste esperienze sono spesso sottovalutati e frammentati tra più giochi. XBorg riconosce il valore del tempo dei giocatori e cerca di rendere i loro dati significativi e preziosi. Pensalo come un sistema di [**Identificatore Decentralizzato (DID)**](https://www.w3.org/TR/did-core/) per il gaming.\
 \
-Inoltre, la Gaming Credential Network consente la creazione di migliori applicazioni di gioco e l'interoperabilità legata all'identità dei giocatori.
+Inoltre, la Rete di Credenziali di Gioco consente la creazione di migliori applicazioni di gioco e interoperabilità legate all'identità dei giocatori.
 
 </details>
 
@@ -17,7 +17,7 @@ Inoltre, la Gaming Credential Network consente la creazione di migliori applicaz
 <summary>Quali sono i vantaggi per i giocatori?</summary>
 
 * I giocatori possiedono e centralizzano i loro dati di gioco in un unico luogo
-* I giocatori ottengono accesso a applicazioni di gioco e strumenti all'interno dell'ecosistema
+* I giocatori ottengono accesso ad applicazioni e utilità all'interno dell'ecosistema
 * I giocatori possono monetizzare i loro dati
 
 </details>
@@ -26,11 +26,11 @@ Inoltre, la Gaming Credential Network consente la creazione di migliori applicaz
 
 <summary>Quali sono i vantaggi per gli sviluppatori?</summary>
 
-* Gli sviluppatori possono creare esperienze personalizzate per i giocatori
-* Le aziende possono acquisire utenti mirando ai giocatori a pagamento
-* La Gaming Credential Network fornisce accesso immediato a giochi e sviluppatori, ampliando la loro portata
-* Gli sviluppatori possono accedere a dati più dettagliati, migliorando l'accuratezza degli abbinamenti e altre funzionalità dell'app
-* La piattaforma consente nuovi casi d'uso per le applicazioni, inclusi prestiti basati sulla reputazione
+* Gli sviluppatori possono sviluppare esperienze personalizzate per i giocatori
+* Le aziende possono acquisire utenti targettizzando i giocatori per una tariffa
+* La Rete di Credenziali di Gioco fornisce accesso immediato a giochi e sviluppatori, espandendo la loro portata
+* Gli sviluppatori possono accedere a dati più granulari, migliorando l'accuratezza del matchmaking e altre funzionalità dell'app
+* La piattaforma abilita nuovi casi d'uso per le applicazioni, inclusi i prestiti basati sulla reputazione
 
 </details>
 
@@ -38,23 +38,23 @@ Inoltre, la Gaming Credential Network consente la creazione di migliori applicaz
 
 <summary>Come appare un ID giocatore?</summary>
 
-L'ID giocatore è un token Soulbound che rappresenta una raccolta di tutti i token Soulbound ottenuti dall'utente. L'ID giocatore incorpora anche token Soulbound al di fuori dell'ecosistema XBorg, come il protocollo Lens.
+L'ID giocatore è un token Vincolato all'Anima che rappresenta un'aggregazione di tutti i token Vincolati all'Anima ottenuti dall'utente. L'ID giocatore incorpora anche token Vincolati all'Anima esterni all'ecosistema XBorg come il protocollo Lens.
 
 </details>
 
 <details>
 
-<summary>Gli sviluppatori possono iniziare a creare applicazioni sulla rete delle credenziali ora?</summary>
+<summary>Gli sviluppatori possono iniziare a costruire applicazioni sulla rete di credenziali ora?</summary>
 
-Attualmente, la Gaming Credential Network è centralizzata. Dopo la decentralizzazione della rete, gli sviluppatori potranno costruire sopra di essa.
+Attualmente, la Rete di Credenziali di Gioco è centralizzata. Con la decentralizzazione della rete, gli sviluppatori potranno costruire su di essa.
 
 </details>
 
 <details>
 
-<summary>Come si scala la Gaming Credential Network?</summary>
+<summary>Come si scala la Rete di Credenziali di Gioco?</summary>
 
-L'app di gioco e coinvolgimento della comunità è l'applicazione principale che ci consente di scalare la Gaming Credential Network.
+L'app di gioco e di coinvolgimento della comunità è l'applicazione principale che ci permette di scalare la Rete di Credenziali di Gioco.
 
 </details>
 
@@ -62,54 +62,54 @@ L'app di gioco e coinvolgimento della comunità è l'applicazione principale che
 
 <summary>Come viene gestita la privacy dei dati?</summary>
 
-Le iterazioni del protocollo in futuro permetteranno ai giocatori di divulgare selettivamente dati pertinenti abilitando la funzionalità di opt-in/opt-out. Inoltre, tecnologie di conoscenza zero saranno incorporate in aggiornamenti successivi, sottolineando l'impegno incondizionato della piattaforma per la privacy e la sicurezza dei dati.
+Le iterazioni future del protocollo permetteranno ai giocatori di divulgare selettivamente i punti dati pertinenti abilitando la funzionalità di opt-in/opt-out. Inoltre, le tecnologie a conoscenza zero saranno incorporate negli aggiornamenti successivi, sottolineando l'impegno costante della piattaforma per la privacy e la sicurezza dei dati.
 
 </details>
 
 <details>
 
-<summary>Quali sono i moduli della Credential Network?</summary>
+<summary>Quali sono i moduli della Rete di Credenziali?</summary>
 
 * Comunità
 * Giocatore
 * Gioco
 
-### ![](../.gitbook/assets/modules.png)
+#### ![](../.gitbook/assets/modules.png)
 
 </details>
 
 <details>
 
-<summary>La Gaming Credential Network è on-chain?</summary>
+<summary>La Rete di Credenziali di Gioco è on-chain?</summary>
 
-Attualmente, la Gaming Credential Network è conservata in modo sicuro off-chain. Tuttavia, man mano che l'ecosistema guadagna trazione e la base utenti supera la soglia di 100.000, la rete passerà senza soluzione di continuità sulla blockchain, sottolineando l'impegno costante di XBorg per l'accessibilità e la trasparenza.
-
-</details>
-
-<details>
-
-<summary>La documentazione per gli sviluppatori o l'SDK è pronta?</summary>
-
-Attualmente è in fase di sviluppo, ma non sarà rilasciata fino alla fine del 2023.
+Attualmente, la Rete di Credenziali di Gioco è conservata in modo sicuro off-chain. Tuttavia, man mano che l'ecosistema guadagna trazione e la base di utenti supera la soglia dei 100.000, la rete transiterà senza problemi sulla blockchain, sottolineando l'impegno costante di XBorg verso l'accessibilità e la trasparenza.
 
 </details>
 
 <details>
 
-<summary>Su quale blockchain verrà costruita la Credential Network?</summary>
+<summary>La documentazione per sviluppatori o l'SDK sono pronti?</summary>
 
-Inizialmente, su Polygon e altre L2. Man mano che la Network guadagna trazione, diventerà la propria L2/L3, nota come Borg chain.
+Attualmente sono in fase di sviluppo ma probabilmente non saranno rilasciati fino alla fine dell'estate del 2024.
 
 </details>
 
 <details>
 
-<summary>Quali sono i limiti della Gaming Credential Network?</summary>
+<summary>Su quale blockchain sarà costruita la Rete di Credenziali?</summary>
 
-* **Resistenza a Sybil:** Un vincolo intrinseco dell'infrastruttura di rete risiede nella suscettibilità dei suoi utenti ad adottare false identità o sfruttare tecnologie avanzate come l'intelligenza artificiale per manipolare le loro identità digitali. Per mitigare gli effetti dannosi degli attacchi Sybil, una strategia efficace prevede l'incorporazione di un meccanismo di Proof of Identity nel protocollo sottostante della rete.
+Inizialmente, su Polygon e altre L2. Man mano che la Rete guadagna trazione, diventerà una propria L2/L3, conosciuta come la catena Borg.
+
+</details>
+
+<details>
+
+<summary>Quali sono i limiti della Rete di Credenziali di Gioco?</summary>
+
+* **Resistenza a Sybil:** Un vincolo intrinseco dell'infrastruttura di rete risiede nella suscettibilità dei suoi utenti ad adottare false identità o sfruttare tecnologie avanzate come l'intelligenza artificiale per manipolare le loro identità digitali. Per mitigare gli effetti dannosi degli attacchi Sybil, una strategia efficace prevede l'incorporazione di un meccanismo di Prova dell'Identità nel protocollo sottostante della rete.
 
 <!---->
 
-* **Scala**: La vera proposta di valore della rete delle credenziali dipende dal raggiungimento di un livello di scala di rete requisito, una priorità che attualmente riveste un'importanza strategica significativa per XBorg. Tuttavia, una volta raggiunto questo obiettivo, le potenziali utilità che possono essere derivate dalla rete sono veramente illimitate.
+* **Scala**: La vera proposta di valore della rete di credenziali dipende dal raggiungimento di un livello di scala di rete necessario, una priorità che attualmente detiene un'importanza strategica significativa per XBorg. Tuttavia, una volta realizzato questo obiettivo, le potenziali utilità che possono essere derivate dalla rete sono veramente illimitate.
 
 </details>
