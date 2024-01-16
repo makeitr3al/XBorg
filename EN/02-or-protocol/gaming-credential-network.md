@@ -90,7 +90,7 @@ At present, the Gaming Credential Network is securely stored off-chain. However,
 
 <summary>Is the dev documentation or SDK ready?</summary>
 
-It's currently in the works but won't be released until the end of 2023.
+It's currently in the works but probably won't be released until the end of summer 2024.
 
 </details>
 

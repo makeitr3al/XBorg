@@ -97,7 +97,7 @@ We are dedicated to achieving this by working closely with our players to create
 * [**Twitch**](https://www.twitch.tv/xborgofficial)
 * [**Medium**](https://medium.com/xborg-official)
 * [**Pitch deck**](https://docsend.com/view/5dwn74pn6izud3vb)
-* [**App**](http://gaming.xborg.com/)
+* [**GamerBase (App)**](https://gamerbase.gg)
 * [**Launchpad**](https://launchpad.xborg.com/)
 
 The first version of the whitepaper was published in July 2022 but is now under revision and will be re-published around Q2 2023.
