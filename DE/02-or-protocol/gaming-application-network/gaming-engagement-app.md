@@ -1,16 +1,16 @@
-# Gaming Engagement App
+# Gaming-Engagement-App
 
-> Spieler können sich mit Communities und Spielen, für die sie Fans sind, verbinden. Sie können Quests abschließen und Avatare erstellen, indem sie tragbare Gegenstände verdienen und ausrüsten, die von verschiedenen Community-NFTs angeboten werden. Darüber hinaus können Communities benutzerdefinierte Erlebnisse für ihre Community-Mitglieder schaffen, indem sie die Infrastruktur nutzen, die in einem späteren Abschnitt näher erläutert wird. Dieses Produkt befindet sich derzeit in einer Live-Beta-Phase von zwei Monaten und verfügt über 3 Spiele, auf die Spieler für Quests zugreifen können. Die Plattform hatte 10.000 frühe Anmeldungen und zeigt derzeit 1000 wöchentlich aktive Benutzer, die insgesamt 4000 Abzeichen in sozialen Medien geteilt haben.
+> Spieler können sich mit Communities und Spielen, von denen sie Fans sind, verbinden. Sie können Quests abschließen und Avatare erstellen, indem sie tragbare Gegenstände verdienen und ausrüsten, die von verschiedenen Community-NFTs angeboten werden. Darüber hinaus können Communities maßgeschneiderte Erlebnisse für ihre Mitglieder schaffen, indem sie die Infrastruktur nutzen, die in einem späteren Abschnitt hervorgehoben wird. Dieses Produkt befindet sich derzeit in einer Live-Beta und hat 3 Spiele, auf die Spieler für Quests zugreifen können. Die Plattform hatte 10.000 frühe Anmeldungen und zeigt derzeit 1.000 wöchentlich aktive Nutzer, die insgesamt 4.000 Abzeichen in sozialen Medien geteilt haben.
 
 <details>
 
-<summary>Was ist die Gaming Engagement App?</summary>
+<summary>Was ist die Gaming-Engagement-App?</summary>
 
-Die Gaming Engagement App ist eine App, die es Spielen und Communities ermöglicht, ihren Fans näher zu sein und ihre Interaktion zu erhöhen.
+Die Gaming-Engagement-App ist eine Anwendung, die es Spielen und Communities ermöglicht, ihren Fans näher zu kommen und deren Engagement zu erhöhen.
 
-* **Für Spieler:** Es ist eine App, die es Spielern ermöglicht, mit ihren Lieblingsspielen und Communities in Verbindung zu bleiben.
-* **Für Spiele:** Es erstellt unterhaltsame Herausforderungen, die Spieler im Spiel abschließen und mit ihren Freunden teilen können, und Spieler werden für ihre Leistungen belohnt.
-* **Für Communities:** Es bietet Herausforderungen im Zusammenhang mit ihrer Gruppe, und Spieler verdienen spezielle tragbare Gegenstände, um ihre Avatare anzupassen.
+* **Für Spieler:** Es ist eine App, die es Spielern ermöglicht, mit ihren Lieblingsspielen und -communities verbunden zu bleiben.
+* **Für Spiele:** Sie schafft unterhaltsame Herausforderungen, die Spieler im Spiel abschließen und mit ihren Freunden teilen können, und Spieler werden für ihre Leistungen belohnt.
+* **Für Communities:** Sie bietet Herausforderungen, die mit ihrer Gruppe zusammenhängen, und Spieler verdienen spezielle tragbare Gegenstände, um ihre Avatare anzupassen.
 
 Es ist eine einfache und bequeme Lösung, um Spieler engagiert und begeistert zu halten.
 
@@ -18,62 +18,62 @@ Es ist eine einfache und bequeme Lösung, um Spieler engagiert und begeistert zu
 
 <details>
 
-<summary>Welche Funktionen hat die Gaming Engagement App?</summary>
+<summary>Welche Funktionen bietet die Gaming-Engagement-App?</summary>
 
 * Erstellen und Beitritt zu Communities
-* Erstellen einzigartiger Quests basierend auf sozialen Plattformen und Spielen (Twitter, Discord, Twitch, manuelle Einreichung und alle unterstützten Spiele)
-* Verknüpfen des Quest-Erfolgs mit einem einzigartigen tragbaren Gegenstand
-* Erstellen eines einzigartigen zusammensetzbaren Avatars mit mehreren Merkmalen und tragbaren Gegenständen
-* Tragbare Gegenstände gegen eine Gebühr abgeben
+* Einzigartige Quests basierend auf sozialen Plattformen und Spielen erstellen (Twitter, Discord, Twitch, manuelle Einreichung und alle unterstützten Spiele)
+* Questerfolg mit einem einzigartigen tragbaren Gegenstand verknüpfen
+* Einen einzigartigen zusammensetzbaren Avatar mit mehreren Merkmalen und tragbaren Gegenständen erstellen
+* Tragbare Gegenstände gegen eine Gebühr anbieten
 
 </details>
 
 <details>
 
-<summary>Wie ist die aktuelle Nutzung der App?</summary>
+<summary>Wie ist die aktuelle Resonanz der App?</summary>
 
-Die Alpha-Version der App hat **10.000** einzigartige Benutzer mit über **30.000** abgeschlossenen Quests gesammelt. Die App unterstützt Spiele sowohl in Web3 als auch in Web2 und bietet derzeit **Ev.io**, **Dota2** und **CSGO**. Weitere Spiele werden integriert.
-
-</details>
-
-<details>
-
-<summary>Wie kann ich für die Alpha-Version auf die Whitelist kommen?</summary>
-
-Der Whitelist-Prozess für die Alpha-Version ist beendet.
+Die Alpha-Version der App hat **10.000** einzigartige Nutzer mit über **30.000** abgeschlossenen Quests gesammelt. Die App unterstützt Spiele über Web3 und Web2 und bietet derzeit **Ev.io**, **Dota2** und **CSGO** an. Weitere Spiele werden integriert.
 
 </details>
 
 <details>
 
-<summary>Wann wird die Gaming Engagement App V1 veröffentlicht?</summary>
+<summary>Wie kann ich für die Alpha-Version auf die Whitelist gesetzt werden?</summary>
 
-Voraussichtlich im 2. Quartal 2023.
+Der Whitelisting-Prozess für die Alpha-Version ist beendet.
 
 </details>
 
 <details>
 
-<summary>Was ist einzigartig an der Gaming Engagement App?</summary>
+<summary>Wann wird die Gaming-Engagement-App V1 veröffentlicht?</summary>
+
+Etwa im 2. Quartal 2023.
+
+</details>
+
+<details>
+
+<summary>Was ist einzigartig an der Gaming-Engagement-App?</summary>
 
 * In-Game-Quest-Engine
-* Avatar-Inventar und tragbare Gegenstände
+* Inventar für Avatare und tragbare Gegenstände
 
 </details>
 
 <details>
 
-<summary>Welche Community wird zum Start in die App integriert sein?</summary>
+<summary>Welche Community wird bei der Einführung in die App integriert sein?</summary>
 
-Team BDS wird die erste Community sein. XBorg hat weitere Partnerschaften mit erstklassigen Esport-Teams gesichert und wird diese bekannt geben.
+Team BDS wird die erste Community sein. XBorg hat sich gesichert und wird weitere Partnerschaften mit erstklassigen E-Sport-Teams bekannt geben.
 
 </details>
 
 <details>
 
-<summary>Ist es eine Dapp oder eine herkömmliche Anwendung?</summary>
+<summary>Ist es eine Dapp oder eine traditionelle Anwendung?</summary>
 
-Die App ist eine hybride Web3-Anwendung, was bedeutet, dass das Benutzererlebnis unabhängig davon, ob der Benutzer Web2 oder Web3-Authentifizierung verwendet, gleich ist. Wenn Benutzer jedoch Web3 wählen, behalten sie das Eigentum an ihren Assets (tragbare Gegenstände, Avatare).
+Die App ist eine hybride Web3-Anwendung, was bedeutet, dass die Benutzererfahrung dieselbe sein wird, egal ob der Benutzer Web2- oder Web3-Authentifizierung verwendet. Wenn sich die Benutzer jedoch für Web3 entscheiden, behalten sie das Eigentum an ihren Vermögenswerten (tragbare Gegenstände, Avatare).
 
 </details>
 
@@ -87,11 +87,11 @@ Ja, die tragbaren Gegenstände sind übertragbare NFTs, während der Avatar ein 
 
 <details>
 
-<summary>Wer sind die Zielbenutzer der App?</summary>
+<summary>Wer sind die Zielnutzer der App?</summary>
 
-Für **Benutzer** sind es Spieler, die Interesse an Esports haben oder Fans bestimmter Communities oder Spiele sind.
+Für **Nutzer**, Spieler, die an E-Sport interessiert sind oder Fans bestimmter Communities oder Spiele sind.
 
-Für **Communities** sind es Esport-Teams und Influencer-Communities.
+Für **Communities**, E-Sport-Teams und Influencer-Communities.
 
 </details>
 
@@ -99,8 +99,8 @@ Für **Communities** sind es Esport-Teams und Influencer-Communities.
 
 <summary>Was sind die Hauptumsatztreiber der App?</summary>
 
-* Benutzerabonnements
-* Tragbare Gegenstände
+* Nutzerabonnements
+* Drops von tragbaren Gegenständen
 * Gebühren für den Austausch von tragbaren Gegenständen
 
 </details>
@@ -109,14 +109,14 @@ Für **Communities** sind es Esport-Teams und Influencer-Communities.
 
 <summary>Wird die Anwendung eine mobile App sein?</summary>
 
-Anfangs nicht. Aber wir beabsichtigen, in späteren Versionen auch eine mobile Version zu veröffentlichen.
+Anfangs nein. Aber wir beabsichtigen, in späteren Iterationen auf Mobilgeräten zu starten.
 
 </details>
 
 <details>
 
-<summary>Was ist der Unterschied zwischen der Gaming Engagement App und XBorg.gg?</summary>
+<summary>Was ist der Unterschied zwischen der Gaming-Engagement-App und XBorg.gg?</summary>
 
-Die Gaming Engagement App wird unter der Domain **xborg.gg** gehostet.
+Die Gaming-Engagement-App wird unter der Domain **xborg.gg** gehostet.
 
 </details>

@@ -1,12 +1,12 @@
 # XBG
 
-XBG est le jeton natif qui alimente le protocole XBorg. Il constitue la principale méthode de paiement, capturant toute la valeur et les revenus générés au sein de l'écosystème. De plus, il offre un accès à la gouvernance du protocole, permettant aux détenteurs de jetons de participer activement à la formation de l'avenir de la plateforme.
+XBG est le jeton natif qui alimente le protocole XBorg. Il constitue la principale méthode de paiement, capturant toute la valeur et les revenus générés au sein de l'écosystème. De plus, il offre un accès à la gouvernance du protocole, permettant aux détenteurs de jetons de participer activement à la définition de l'avenir de la plateforme.
 
 <details>
 
 <summary>Sur quelle blockchain le jeton XBG va-t-il être déployé ?</summary>
 
-Le jeton XBG est prévu pour être déployé sur la blockchain Ethereum et sera relié au réseau Polygon pour une meilleure scalabilité et efficacité. De plus, une allocation séparée de jetons XBG sera mise de côté pour un déploiement sur la chaîne Borg une fois qu'elle sera pleinement opérationnelle. Cette approche multi-chaînes assure une large accessibilité et polyvalence pour nos détenteurs de jetons.
+Le jeton XBG est prévu pour être déployé sur la blockchain Ethereum et sera relié au réseau Polygon pour une meilleure échelle et efficacité. De plus, une allocation séparée de jetons XBG sera mise de côté pour un déploiement sur la chaîne Borg une fois qu'elle sera pleinement opérationnelle. Cette approche multi-chaînes assure une large accessibilité et polyvalence pour nos détenteurs de jetons.
 
 </details>
 
@@ -22,9 +22,9 @@ En introduisant le jeton XBG, nous créons une économie in-protocole où le jet
 
 <details>
 
-<summary>Quelle est l'offre totale de jetons XBG ?</summary>
+<summary>Quelle est la quantité totale de jetons XBG ?</summary>
 
-L'offre maximale de jetons XBG a été fixée à 1 000 000 000 (1 milliard).
+La quantité maximale de jetons XBG a été fixée à 1 000 000 000 (1 milliard).
 
 </details>
 
@@ -32,7 +32,7 @@ L'offre maximale de jetons XBG a été fixée à 1 000 000 000 (1 milliard).
 
 <summary>Quand aura lieu l'événement de génération de jetons XBG (TGE) ?</summary>
 
-Le TGE aura lieu vers l'été 2024.
+Le TGE n'a pas encore été annoncé mais aura probablement lieu d'ici le deuxième trimestre de 2024.
 
 </details>
 
@@ -40,11 +40,11 @@ Le TGE aura lieu vers l'été 2024.
 
 <summary>Pourquoi ne pouvez-vous pas donner une date exacte pour le TGE ?</summary>
 
-En tant qu'équipe, nous pensons que les perspectives de la crypto vers la fin de 2023 et à l'approche des halvings de Bitcoin seront positives. L'équipe XBorg est actuellement en pourparlers avec des bourses de premier plan, dont les opinions ont un poids considérable dans la détermination du moment idéal pour la cotation des jetons. Il est important de noter que le lancement d'un jeton pendant des périodes de liquidité incertaine et d'intérêt pour les altcoins peut présenter un risque.
+En tant qu'équipe, nous pensons que les perspectives de la crypto pour le deuxième trimestre de 2024 et à l'approche des réductions de moitié de Bitcoin seront positives. L'équipe XBorg est actuellement en discussion avec des bourses de premier plan, dont les opinions ont un poids considérable dans la détermination du moment idéal pour la cotation des jetons. Il est important de noter que le lancement d'un jeton pendant des périodes de liquidité incertaine et d'intérêt pour les altcoins peut présenter un risque.
 
 De plus, nous reconnaissons que la valeur d'un jeton réside dans la force de l'écosystème dans lequel il opère. Par conséquent, notre objectif est de cultiver une base d'utilisateurs d'au moins 100 000 personnes avant de lancer le jeton.
 
-À l'avenir, notre équipe est optimiste quant au potentiel du marché de la crypto vers la fin de 2023, en particulier à la lumière des prochains halvings de Bitcoin.
+En regardant vers l'avenir, notre équipe est optimiste quant au potentiel du marché de la crypto vers le deuxième trimestre de 2024, en particulier à la lumière des prochaines réductions de moitié de Bitcoin.
 
 </details>
 
@@ -66,9 +66,9 @@ Oui, le jeton sera lancé sur ETH en tant que marché principal et relié sur Po
 
 <details>
 
-<summary>Comment allez-vous fournir de la liquidité comme pour les pools XBorg/WETH ?</summary>
+<summary>Comment allez-vous fournir de la liquidité comme des pools XBorg/WETH ?</summary>
 
-5 % du capital du tour de financement initial et une portion significative de la vente publique seront mis en tant que liquidité dans les AMM.
+5 % du capital du tour de semence et une portion significative de la vente publique seront mis en tant que liquidité dans les AMM.
 
 </details>
 
@@ -78,12 +78,12 @@ Oui, le jeton sera lancé sur ETH en tant que marché principal et relié sur Po
 
 Nous sommes en pourparlers avec les parties suivantes.
 
-_Bourses de premier niveau :_
+_Bourses de premier plan :_
 
 * Binance
 * Coinbase
 
-_et bourses de deuxième niveau :_
+_et bourses de deuxième plan :_
 
 * Kraken
 * OKX
@@ -98,7 +98,7 @@ Bien que certaines discussions aient progressé plus que d'autres, nous ne pouvo
 
 <summary>Le jeton aura-t-il de la liquidité on-chain ?</summary>
 
-Oui, un pool uniswap sur le réseau Ethereum (quickswap pour Polygon) sera mis à disposition et XBorg initialisera la liquidité. Nous inciterons en outre les provisions de liquidité de tiers avec des récompenses LP. 5 % du capital du tour de financement initial et une portion significative de la vente publique seront mis en tant que liquidité dans les AMM.
+Oui, un pool uniswap sur le réseau Ethereum (quickswap pour Polygon) sera mis à disposition et XBorg fournira la liquidité initiale. Nous inciterons en outre les provisions de liquidité de tiers avec des récompenses LP. 5 % du capital du tour de semence et une portion significative de la vente publique seront mis en tant que liquidité dans les AMM.
 
 </details>
 
@@ -106,7 +106,7 @@ Oui, un pool uniswap sur le réseau Ethereum (quickswap pour Polygon) sera mis �
 
 <summary>Quelle est l'utilité du jeton ?</summary>
 
-Le jeton XBG joue un rôle crucial dans le réseau, servant de principal moyen de paiement, de gouvernance et d'incitations au protocole.
+Le jeton XBG joue un rôle crucial dans le réseau, servant de principal moyen de paiement, de gouvernance et d'incitations protocolaires.
 
 **Paiements in-app & Frais de plateforme**
 
@@ -138,7 +138,7 @@ Actuellement, posséder des jetons XBG ne confère aucun niveau particulier ; ce
 
 <summary>Le XBG a-t-il un mécanisme de combustion ?</summary>
 
-Actuellement, 50 % des revenus sont alloués au rendement du staking tandis que le reste est alloué à la trésorerie. La gouvernance pourrait décider de la répartition exacte des revenus et allouer une partie à un mécanisme de combustion.
+Actuellement, 50 % des revenus sont alloués au rendement du staking tandis que le reste est alloué à la trésorerie. La gouvernance pourrait décider de la répartition exacte des revenus et allouer une portion à un mécanisme de combustion.
 
 </details>
 

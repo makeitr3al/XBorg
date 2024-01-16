@@ -1,12 +1,12 @@
 # XBG
 
-XBG is het native token dat het XBorg-protocol aandrijft. Het is de primaire betaalmethode, die alle waarde en inkomsten binnen het ecosysteem vastlegt. Daarnaast biedt het toegang tot protocolbestuur, waardoor tokenhouders actief kunnen deelnemen aan het vormgeven van de toekomst van het platform.
+XBG is het native token dat de XBorg-protocol aandrijft. Het is de primaire betaalmethode, die alle waarde en inkomsten binnen het ecosysteem vastlegt. Daarnaast biedt het toegang tot protocolbestuur, waardoor tokenhouders actief kunnen deelnemen aan het vormgeven van de toekomst van het platform.
 
 <details>
 
 <summary>Op welke blockchain zal het XBG-token worden ingezet?</summary>
 
-Het XBG-token zal worden ingezet op de Ethereum blockchain en zal worden overbrugd naar het Polygon-netwerk voor verbeterde schaalbaarheid en efficiëntie. Daarnaast zal een aparte toewijzing van XBG-tokens opzij worden gezet voor inzet op de Borg-keten zodra deze volledig operationeel is. Deze multi-chain benadering zorgt voor brede toegankelijkheid en veelzijdigheid voor onze tokenhouders.
+Het XBG-token is bedoeld om ingezet te worden op de Ethereum blockchain en zal worden overbrugd naar het Polygon-netwerk voor verbeterde schaalbaarheid en efficiëntie. Daarnaast zal een aparte allocatie van XBG-tokens gereserveerd worden voor inzet op de Borg chain zodra deze volledig operationeel is. Deze multi-chain aanpak zorgt voor brede toegankelijkheid en veelzijdigheid voor onze tokenhouders.
 
 </details>
 
@@ -14,9 +14,9 @@ Het XBG-token zal worden ingezet op de Ethereum blockchain en zal worden overbru
 
 <summary>Waarom heeft XBorg besloten een token uit te geven?</summary>
 
-XBorg is diep toegewijd aan het bevorderen van een op de gemeenschap gericht ecosysteem, en onze beslissing om een token uit te geven weerspiegelt deze toewijding. In tegenstelling tot traditionele bedrijfsmodellen die zich richten op waardeaccumulatie op basis van aandelen, worden alle kasstromen gegenereerd binnen ons ecosysteem doorgesluisd naar de DAO (Decentralized Autonomous Organization) schatkist. Dit model faciliteert meer directe betrokkenheid van de gemeenschap en lijnt belangen effectiever uit.
+XBorg is diep toegewijd aan het bevorderen van een gemeenschapsgericht ecosysteem, en onze beslissing om een token uit te geven weerspiegelt deze toewijding. In tegenstelling tot traditionele bedrijfsmodellen die zich richten op waardeaccumulatie gebaseerd op aandelen, worden alle geldstromen gegenereerd binnen ons ecosysteem doorgesluisd naar de DAO (Decentralized Autonomous Organization) schatkist. Dit model faciliteert meer directe betrokkenheid van de gemeenschap en lijnt belangen effectiever uit.
 
-Door het introduceren van het XBG-token creëren we een in-protocol economie waar het token dient als het primaire transactiemiddel. Deze stap markeert een verschuiving naar een meer participatief, door de gemeenschap aangedreven model, waarin elk lid inspraak heeft in de richting van het platform en deelt in het succes. Het is een innovatieve aanpak die onze overtuiging in het transformatieve potentieel van gedecentraliseerde netwerken onderstreept.
+Door het introduceren van het XBG-token creëren we een in-protocol economie waar het token dient als het primaire transactiemiddel. Deze stap markeert een verschuiving naar een meer participatief, door de gemeenschap aangedreven model, waarin elk lid inspraak heeft in de richting van het platform en deelt in het succes. Het is een innovatieve benadering die onze overtuiging in het transformatieve potentieel van gedecentraliseerde netwerken onderstreept.
 
 </details>
 
@@ -32,7 +32,7 @@ De maximale voorraad van XBG-tokens is vastgesteld op 1.000.000.000 (1 miljard).
 
 <summary>Wanneer zal het XBG Token Generation Event (TGE) plaatsvinden?</summary>
 
-De TGE zal plaatsvinden richting de zomer van 2024.
+Het TGE is nog niet aangekondigd, maar zal waarschijnlijk plaatsvinden tot Q2 2024.
 
 </details>
 
@@ -40,11 +40,11 @@ De TGE zal plaatsvinden richting de zomer van 2024.
 
 <summary>Waarom kunt u geen exacte TGE-datum geven?</summary>
 
-Als team geloven we dat de crypto-vooruitzichten tegen het einde van 2023 en dicht bij de Bitcoin halveringen positief zullen zijn. Het XBorg-team is momenteel in gesprek met top-tier beurzen, wiens meningen aanzienlijk gewicht in de schaal leggen bij het bepalen van het ideale moment voor tokennotering. Het is belangrijk op te merken dat het lanceren van een token tijdens perioden van onzekere liquiditeit en interesse in alternatieve munten een risico kan vormen.
+Als team geloven we dat de crypto-vooruitzichten richting Q2 2024 en dicht bij de Bitcoin halveringen positief zullen zijn. Het XBorg-team is momenteel in gesprek met top-tier beurzen, wiens meningen aanzienlijk gewicht in de schaal leggen bij het bepalen van het ideale moment voor tokennotering. Het is belangrijk op te merken dat het lanceren van een token tijdens perioden van onzekere liquiditeit en interesse in alternatieve munten een risico kan vormen.
 
 Daarnaast erkennen we dat de waarde van een token ligt in de kracht van het ecosysteem waarin het opereert. Daarom is ons doel om een gebruikersbasis van ten minste 100.000 te kweken voordat we het token lanceren.
 
-Vooruitkijkend is ons team optimistisch over het potentieel van de cryptomarkt tegen het einde van 2023, met name in het licht van de aanstaande Bitcoin halveringen.
+Vooruitkijkend is ons team optimistisch over het potentieel van de cryptomarkt richting Q2 2024, met name in het licht van de aankomende Bitcoin halveringen.
 
 </details>
 
@@ -66,7 +66,7 @@ Ja, het token zal worden gelanceerd op ETH als de primaire markt en overbrugd wo
 
 <details>
 
-<summary>Hoe gaat u liquiditeit verschaffen zoals XBorg/WETH pools?</summary>
+<summary>Hoe gaat u liquiditeit bieden zoals XBorg/WETH pools?</summary>
 
 5% van het kapitaal van de seed-ronde en een betekenisvol deel van de publieke verkoop zal als liquiditeit in AMM's worden geplaatst.
 
@@ -90,15 +90,15 @@ _en Tier 2 beurzen:_
 * ByBit
 * Kucoin
 
-Hoewel sommige gesprekken verder zijn gevorderd dan andere, kunnen we geen beursnoteringen bevestigen vanwege de bestaande geheimhoudingsovereenkomsten rond bepaalde gesprekken.
+Hoewel sommige gesprekken verder zijn gevorderd dan andere, kunnen we geen beursnoteringen bevestigen vanwege het bestaan van geheimhoudingsovereenkomsten rondom bepaalde gesprekken.
 
 </details>
 
 <details>
 
-<summary>Zal het token liquiditeit on-chain hebben?</summary>
+<summary>Zal het token liquiditeit hebben on-chain?</summary>
 
-Ja, een uniswap pool op het Ethereum-netwerk (quickswap voor Polygon) zal beschikbaar worden gesteld en XBorg zal de initiële liquiditeit zaaien. We zullen verder liquiditeitsverschaffing door derden stimuleren met LP-beloningen. 5% van het kapitaal van de seed-ronde en een betekenisvol deel van de publieke verkoop zal als liquiditeit in AMM's worden geplaatst.
+Ja, een uniswap pool op het Ethereum-netwerk (quickswap voor Polygon) zal beschikbaar worden gesteld en XBorg zal de initiële liquiditeit zaaien. We zullen verder liquiditeitsvoorzieningen van derden stimuleren met LP-beloningen. 5% van het kapitaal van de seed-ronde en een betekenisvol deel van de publieke verkoop zal als liquiditeit in AMM's worden geplaatst.
 
 </details>
 
@@ -118,7 +118,7 @@ Het XBG-token wordt gebruikt voor bestuursacties in de XBorg DAO na het Token Ge
 
 **Staking**
 
-50% van de kosten en inkomsten betaald in XBG zijn bestemd voor het staking reward pool. De hoeveelheid staking-beloningen die ontvangen wordt, wordt bepaald door de duur van de lock-up periode en de status van het individu binnen het protocol.
+50% van de kosten en inkomsten betaald in XBG zijn bestemd voor het staking beloningspool. De hoeveelheid staking-beloningen die ontvangen wordt, wordt bepaald door de duur van de lock-up periode en de status van het individu binnen het protocol.
 
 **Protocoltoegang**
 
@@ -130,7 +130,7 @@ Sommige functionaliteiten en utilities van het protocol zijn onderhevig aan toeg
 
 <summary>Zijn er verschillende niveaus van bezit met variërende bonussen?</summary>
 
-Momenteel geeft het bezitten van XBG-tokens geen specifiek niveau; het moet echter worden opgemerkt dat toegang tot bepaalde functies zal worden gebaseerd op de hoeveelheid XBG die in iemands bezit is.
+Momenteel verleent het bezitten van XBG-tokens geen specifiek niveau; het moet echter worden opgemerkt dat toegang tot bepaalde functies zal worden gebaseerd op de hoeveelheid XBG die in iemands bezit is.
 
 </details>
 
@@ -138,7 +138,7 @@ Momenteel geeft het bezitten van XBG-tokens geen specifiek niveau; het moet echt
 
 <summary>Heeft XBG een verbrandingsmechanisme?</summary>
 
-Momenteel wordt 50% van de inkomsten toegewezen aan staking-opbrengsten, terwijl de rest naar de schatkist gaat. Het bestuur kan de exacte inkomstenverdeling beslissen en een deel toewijzen voor een verbrandingsmechanisme.
+Momenteel wordt 50% van de inkomsten toegewezen aan staking-opbrengsten, terwijl de rest naar de schatkist gaat. Het bestuur kan de exacte verdeling van de inkomsten beslissen en een deel toewijzen voor een verbrandingsmechanisme.
 
 </details>
 

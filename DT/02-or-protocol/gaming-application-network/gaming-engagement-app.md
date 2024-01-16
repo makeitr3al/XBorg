@@ -1,122 +1,122 @@
 # Gaming Engagement App
 
-> Players can connect with communities and games they are a fan of. Complete quests and create avatars by earning and equipping wearables offered by various community NFTs. Additionally, communities can create custom experiences for their community members by leveraging the infrastructure, which will be highlighted in a later section. This product is currently in a live Beta for two months and has 3 games that players can access for quests. The platform had 10,000 early sign-ups and is currently demonstrating 1000 weekly active users who collectively shared 4,000 badges across social media platforms.
+> Spelers kunnen verbinding maken met gemeenschappen en games waarvan ze fan zijn. Voltooi quests en creëer avatars door wearables te verdienen en uit te rusten die aangeboden worden door verschillende community NFT's. Daarnaast kunnen gemeenschappen aangepaste ervaringen creëren voor hun leden door gebruik te maken van de infrastructuur, wat in een later gedeelte uitgelicht zal worden. Dit product bevindt zich momenteel in een live Beta en heeft 3 games waar spelers quests kunnen uitvoeren. Het platform had 10.000 vroege aanmeldingen en toont momenteel 1000 wekelijkse actieve gebruikers die gezamenlijk 4.000 badges hebben gedeeld op sociale mediaplatforms.
 
 <details>
 
-<summary>What is the Gaming Engagement App?</summary>
+<summary>Wat is de Gaming Engagement App?</summary>
 
-The Gaming Engagement App is an app that allows games and communities to be closer to their fans and increase their engagement.
+De Gaming Engagement App is een app die games en gemeenschappen dichter bij hun fans brengt en hun betrokkenheid verhoogt.
 
-* **For players:** it is an app that will enable players to stay connected to their favorite games and communities.
-* **For games:** it creates fun challenges that players can complete in-game and share with their friends, and players get rewarded for their accomplishments.
-* **For communities:** it offers challenges related to their group, and players earn special wearable items to customize their avatars.
+* **Voor spelers:** het is een app die spelers in verbinding houdt met hun favoriete games en gemeenschappen.
+* **Voor games:** het creëert leuke uitdagingen die spelers in het spel kunnen voltooien en delen met hun vrienden, en spelers worden beloond voor hun prestaties.
+* **Voor gemeenschappen:** het biedt uitdagingen gerelateerd aan hun groep, en spelers verdienen speciale draagbare items om hun avatars aan te passen.
 
-It is a simple and convenient solution for keeping gamers engaged and excited.
+Het is een eenvoudige en handige oplossing om gamers betrokken en enthousiast te houden.
 
 </details>
 
 <details>
 
-<summary>What are the features of the Gaming Engagement App?</summary>
+<summary>Wat zijn de functies van de Gaming Engagement App?</summary>
 
-* Create and join communities
-* Create unique quests based on social platforms and games (Twitter, Discord, Twitch, Manual submission, and any supported games)
-* Attach quest success with a unique wearable
-* Create a unique composable avatar with multiple traits and wearables
-* Drop wearables in exchange for a fee
-
-</details>
-
-<details>
-
-<summary>What is the current traction of the App?</summary>
-
-The app's alpha has gathered **10,000** unique users with over **30,000** quests completed. The app supports games across Web3 and Web2, currently boasting **Ev.io**, **Dota2**, and **CSGO**. More games will be integrated.
+* Creëer en sluit je aan bij gemeenschappen
+* Creëer unieke quests gebaseerd op sociale platforms en games (Twitter, Discord, Twitch, Handmatige inzending, en alle ondersteunde games)
+* Koppel het succes van een quest aan een unieke wearable
+* Creëer een unieke samenstelbare avatar met meerdere eigenschappen en wearables
+* Laat wearables vallen in ruil voor een vergoeding
 
 </details>
 
 <details>
 
-<summary>How do I get whitelisted for the Alpha?</summary>
+<summary>Wat is de huidige tractie van de App?</summary>
 
-The whitelisting process for the Alpha has ended.
-
-</details>
-
-<details>
-
-<summary>When will the Gaming Engagement App V1 going to be released?</summary>
-
-Around Q2 2023.
+De alpha van de app heeft **10.000** unieke gebruikers verzameld met meer dan **30.000** voltooide quests. De app ondersteunt games op Web3 en Web2, en pronkt momenteel met **Ev.io**, **Dota2**, en **CSGO**. Er zullen meer games geïntegreerd worden.
 
 </details>
 
 <details>
 
-<summary>What is unique about the Gaming Engagement App?</summary>
+<summary>Hoe kom ik op de witte lijst voor de Alpha?</summary>
+
+Het witlistingsproces voor de Alpha is beëindigd.
+
+</details>
+
+<details>
+
+<summary>Wanneer wordt de Gaming Engagement App V1 uitgebracht?</summary>
+
+Rond Q2 2023.
+
+</details>
+
+<details>
+
+<summary>Wat is uniek aan de Gaming Engagement App?</summary>
 
 * In-game quest engine
-* Avatar inventory and wearable drops
+* Avatar inventaris en wearable drops
 
 </details>
 
 <details>
 
-<summary>At launch, which community will be integrated into the App?</summary>
+<summary>Bij de lancering, welke gemeenschap zal geïntegreerd zijn in de App?</summary>
 
-Team BDS will be the first community. XBorg has secured and will announce more partnerships with top-tier esports teams.
-
-</details>
-
-<details>
-
-<summary>Is it a Dapp or traditional application?</summary>
-
-The app is a hybrid Web3, meaning that the user experience will be the same whether the user is using Web2 or Web3 authentication. Though if users opt in for Web3, they will retain ownership of their assets (wearables, avatars)
+Team BDS zal de eerste gemeenschap zijn. XBorg heeft beveiligd en zal meer partnerschappen aankondigen met top esports teams.
 
 </details>
 
 <details>
 
-<summary>Are the wearables and avatars NFTs?</summary>
+<summary>Is het een Dapp of traditionele applicatie?</summary>
 
-Yes, the wearables are transferable NFTs, while the avatar is a non-transferable NFT.
-
-</details>
-
-<details>
-
-<summary>Who are the target users of the App?</summary>
-
-For **users**, players that have an interest in esports or players that are fans of specific communities or games.
-
-For **communities**, esports teams and influencers communities.
+De app is een hybride Web3, wat betekent dat de gebruikerservaring hetzelfde zal zijn of de gebruiker nu Web2 of Web3 authenticatie gebruikt. Als gebruikers echter kiezen voor Web3, behouden ze het eigendom van hun bezittingen (wearables, avatars)
 
 </details>
 
 <details>
 
-<summary>What are the main revenue drivers of the App?</summary>
+<summary>Zijn de wearables en avatars NFT's?</summary>
 
-* User subscriptions
+Ja, de wearables zijn overdraagbare NFT's, terwijl de avatar een niet-overdraagbare NFT is.
+
+</details>
+
+<details>
+
+<summary>Wie zijn de doelgebruikers van de App?</summary>
+
+Voor **gebruikers**, spelers die geïnteresseerd zijn in esports of fans zijn van specifieke gemeenschappen of games.
+
+Voor **gemeenschappen**, esports teams en influencers gemeenschappen.
+
+</details>
+
+<details>
+
+<summary>Wat zijn de belangrijkste inkomstenbronnen van de App?</summary>
+
+* Abonnementen van gebruikers
 * Wearable drops
-* Wearable exchange fees
+* Vergoedingen voor het uitwisselen van wearables
 
 </details>
 
 <details>
 
-<summary>Will the application be a mobile app?</summary>
+<summary>Zal de applicatie een mobiele app zijn?</summary>
 
-Initially, no. But we intend to launch on mobile in later iterations.
+In eerste instantie niet. Maar we zijn van plan om in latere iteraties op mobiel te lanceren.
 
 </details>
 
 <details>
 
-<summary>What is the difference between the Gaming Engagement App and XBorg.gg?</summary>
+<summary>Wat is het verschil tussen de Gaming Engagement App en XBorg.gg?</summary>
 
-The gaming engagement app is hosted under the domain **xborg.gg**
+De gaming engagement app wordt gehost onder het domein **xborg.gg**
 
 </details>
