@@ -1,12 +1,12 @@
 # XBG
 
-XBG ist der native Token, der das XBorg-Protokoll antreibt. Er ist die primäre Zahlungsmethode und erfasst alle Werte und Einnahmen, die innerhalb des Ökosystems generiert werden. Darüber hinaus bietet er Zugang zur Protokoll-Governance und ermöglicht es den Token-Inhabern, aktiv an der Gestaltung der Zukunft der Plattform teilzunehmen.
+XBG ist der native Token, der das XBorg-Protokoll antreibt. Er ist die primäre Zahlungsmethode und erfasst alle Werte und Einnahmen, die innerhalb des Ökosystems generiert werden. Darüber hinaus ermöglicht er den Zugang zur Protokoll-Governance und erlaubt es den Token-Inhabern, aktiv an der Gestaltung der Zukunft der Plattform teilzunehmen.
 
 <details>
 
 <summary>Auf welcher Blockchain wird der XBG-Token eingesetzt werden?</summary>
 
-Der XBG-Token soll auf der Ethereum-Blockchain eingesetzt und zur Erhöhung der Skalierbarkeit und Effizienz mit dem Polygon-Netzwerk verbunden werden. Zusätzlich wird eine separate Zuteilung von XBG-Tokens für den Einsatz auf der Borg-Kette reserviert, sobald diese voll funktionsfähig ist. Dieser Multi-Chain-Ansatz gewährleistet eine breite Zugänglichkeit und Vielseitigkeit für unsere Token-Inhaber.
+Der XBG-Token soll auf der Ethereum-Blockchain eingesetzt und zur Polygon-Netzwerk für verbesserte Skalierbarkeit und Effizienz überbrückt werden. Zusätzlich wird eine separate Zuweisung von XBG-Tokens für den Einsatz auf der Borg-Kette vorgesehen, sobald diese voll funktionsfähig ist. Dieser Multi-Chain-Ansatz gewährleistet eine breite Zugänglichkeit und Vielseitigkeit für unsere Token-Inhaber.
 
 </details>
 
@@ -14,7 +14,7 @@ Der XBG-Token soll auf der Ethereum-Blockchain eingesetzt und zur Erhöhung der 
 
 <summary>Warum hat sich XBorg dazu entschieden, einen Token herauszugeben?</summary>
 
-XBorg ist zutiefst dem Aufbau eines gemeinschaftszentrierten Ökosystems verpflichtet, und unsere Entscheidung, einen Token herauszugeben, spiegelt dieses Engagement wider. Im Gegensatz zu traditionellen Unternehmensmodellen, die sich auf aktienbasierte Wertsteigerung konzentrieren, werden alle Cashflows innerhalb unseres Ökosystems an die DAO-Schatzkammer (Decentralized Autonomous Organization) umgeleitet. Dieses Modell erleichtert eine direktere Beteiligung der Gemeinschaft und sorgt für eine effektivere Interessenabstimmung.
+XBorg ist zutiefst dem Aufbau eines gemeinschaftszentrierten Ökosystems verpflichtet, und unsere Entscheidung, einen Token herauszugeben, spiegelt dieses Engagement wider. Im Gegensatz zu traditionellen Unternehmensmodellen, die sich auf aktienbasierte Wertsteigerung konzentrieren, werden alle Cashflows, die innerhalb unseres Ökosystems generiert werden, an die DAO (Decentralized Autonomous Organization)-Schatzkammer umgeleitet. Dieses Modell erleichtert eine direktere Beteiligung der Gemeinschaft und sorgt für eine effektivere Interessenabstimmung.
 
 Mit der Einführung des XBG-Tokens schaffen wir eine In-Protokoll-Wirtschaft, in der der Token als primäres Zahlungsmittel dient. Dieser Schritt signalisiert eine Hinwendung zu einem partizipativeren, gemeinschaftsgetriebenen Modell, in dem jedes Mitglied ein Mitspracherecht bei der Ausrichtung der Plattform hat und am Erfolg teilhat. Es ist ein innovativer Ansatz, der unseren Glauben an das transformative Potenzial dezentralisierter Netzwerke unterstreicht.
 
@@ -32,27 +32,27 @@ Die maximale Versorgung von XBG-Tokens wurde auf 1.000.000.000 (1 Milliarde) fes
 
 <summary>Wann wird das XBG Token Generation Event (TGE) stattfinden?</summary>
 
-Das TGE wird voraussichtlich im Sommer 2024 stattfinden.
+Das TGE ist noch nicht angekündigt, wird aber voraussichtlich bis zum 2. Quartal 2024 stattfinden.
 
 </details>
 
 <details>
 
-<summary>Warum können Sie kein genaues TGE-Datum angeben?</summary>
+<summary>Warum können Sie kein genaues TGE-Datum nennen?</summary>
 
-Als Team glauben wir, dass die Krypto-Aussichten gegen Ende 2023 und in der Nähe der Bitcoin-Halbierungen positiv sein werden. Das XBorg-Team führt derzeit Gespräche mit erstklassigen Börsen, deren Meinungen erhebliches Gewicht bei der Bestimmung des idealen Zeitpunkts für das Token-Listing haben. Es ist wichtig zu beachten, dass das Starten eines Tokens in Zeiten unsicherer Liquidität und des Interesses an alternativen Münzen ein Risiko darstellen kann.
+Als Team glauben wir, dass die Krypto-Aussichten für das 2. Quartal 2024 und in der Nähe der Bitcoin-Halbierungen positiv sein werden. Das XBorg-Team führt derzeit Gespräche mit erstklassigen Börsen, deren Meinungen erhebliches Gewicht bei der Bestimmung des idealen Zeitpunkts für das Token-Listing haben. Es ist wichtig zu beachten, dass das Starten eines Tokens in Zeiten unsicherer Liquidität und des Interesses an alternativen Münzen ein Risiko darstellen kann.
 
 Darüber hinaus erkennen wir, dass der Wert eines Tokens in der Stärke des Ökosystems liegt, in dem er operiert. Daher ist es unser Ziel, vor dem Start des Tokens eine Nutzerbasis von mindestens 100.000 zu kultivieren.
 
-Blick nach vorn ist unser Team optimistisch hinsichtlich des Potenzials des Kryptomarktes gegen Ende 2023, insbesondere im Licht der bevorstehenden Bitcoin-Halbierungen.
+Blick nach vorne ist unser Team optimistisch über das Potenzial des Krypto-Marktes in Richtung des 2. Quartals 2024, insbesondere im Licht der bevorstehenden Bitcoin-Halbierungen.
 
 </details>
 
 <details>
 
-<summary>Wie wird der Token eingeführt?</summary>
+<summary>Wie wird der Token gestartet?</summary>
 
-Wir planen, den Token über einen Balancer Liquidity Bootstrapping Pool einzuführen. Bitte beachten Sie, dass sich dies je nach Anforderungen der Börse und Marktbedingungen ändern kann.
+Wir planen, den Token über einen Balancer Liquidity Bootstrapping Pool freizugeben. Bitte beachten Sie, dass sich dies je nach Anforderungen der Börse und Marktbedingungen ändern kann.
 
 </details>
 
@@ -60,7 +60,7 @@ Wir planen, den Token über einen Balancer Liquidity Bootstrapping Pool einzufü
 
 <summary>Ist geplant, den XBorg-Token auf L2s wie Arbitrum aufgrund der erwarteten hohen Gasgebühren auf Ethereum zu starten?</summary>
 
-Ja, der Token wird auf ETH als Hauptmarkt eingeführt und auf Polygon und schließlich auch auf anderen L2s übertragen.
+Ja, der Token wird auf ETH als Hauptmarkt gestartet und auf Polygon und schließlich auf andere L2s überbrückt.
 
 </details>
 
@@ -90,7 +90,7 @@ _und Tier-2-Börsen:_
 * ByBit
 * Kucoin
 
-Obwohl bestimmte Gespräche weiter fortgeschritten sind als andere, können wir aufgrund von Geheimhaltungsvereinbarungen, die bestimmte Gespräche umgeben, keine Börsenlistungen bestätigen.
+Obwohl bestimmte Gespräche weiter fortgeschritten sind als andere, können wir aufgrund der Existenz von Vertraulichkeitsvereinbarungen, die bestimmte Gespräche umgeben, keine Börsenlistungen bestätigen.
 
 </details>
 
@@ -98,19 +98,19 @@ Obwohl bestimmte Gespräche weiter fortgeschritten sind als andere, können wir 
 
 <summary>Wird der Token On-Chain-Liquidität haben?</summary>
 
-Ja, ein Uniswap-Pool im Ethereum-Netzwerk (Quickswap für Polygon) wird verfügbar gemacht und XBorg wird die anfängliche Liquidität bereitstellen. Wir werden darüber hinaus die Bereitstellung von Liquidität durch Dritte mit LP-Belohnungen incentivieren. 5% des Kapitals aus der Seed-Runde und ein bedeutender Teil des öffentlichen Verkaufs werden als Liquidität in AMMs eingesetzt.
+Ja, ein Uniswap-Pool im Ethereum-Netzwerk (Quickswap für Polygon) wird verfügbar gemacht und XBorg wird die anfängliche Liquidität bereitstellen. Wir werden die Bereitstellung von Liquidität durch Dritte mit LP-Belohnungen weiter fördern. 5% des Kapitals aus der Seed-Runde und ein bedeutender Teil des öffentlichen Verkaufs werden als Liquidität in AMMs eingesetzt.
 
 </details>
 
 <details>
 
-<summary>Welchen Nutzen hat der Token?</summary>
+<summary>Was ist die Token-Nutzung?</summary>
 
 Der XBG-Token spielt eine entscheidende Rolle im Netzwerk und dient als primäres Zahlungsmittel, für Governance und Protokollanreize.
 
 **In-App-Zahlungen & Plattformgebühren**
 
-XBG ist die primäre Zahlungsmethode und Transaktionsmittel im Protokoll, für die bestimmte Gebühren anfallen. Für Web2-Nutzer, die Fiat-Zahlungen bevorzugen, erwirbt XBorg das Äquivalent von XBG-Tokens auf dem offenen Markt. Die Liste der über das Protokoll erhobenen Gebühren finden Sie auf der Folie: Protokoll-Nachhaltigkeit & Einnahmen. Diese Gebühren werden in XBG berechnet.
+XBG ist die primäre Zahlungsmethode und Transaktionen im gesamten Protokoll, die bestimmten Gebühren unterliegen. Für Web2-Nutzer, die Fiat-Zahlungen bevorzugen, erwirbt XBorg das Äquivalent von XBG-Tokens auf dem offenen Markt. Die Liste der über das Protokoll erhobenen Gebühren finden Sie auf der Folie: Protokoll-Nachhaltigkeit & Einnahmen. Diese Gebühren werden in XBG berechnet.
 
 **Governance**
 
@@ -122,7 +122,7 @@ Der XBG-Token wird für Governance-Aktionen in der XBorg DAO nach dem Token Gene
 
 **Protokollzugang**
 
-Einige Funktionalitäten und Dienstleistungen des Protokolls unterliegen Zugangsbeschränkungen, die auf der Menge der gehaltenen XBG und dem Status des Benutzers im Protokoll basieren.
+Einige Funktionalitäten und Dienstleistungen des Protokolls unterliegen Zugangsbeschränkungen basierend auf der Menge an gehaltenen XBG und dem Status des Benutzers innerhalb des Protokolls.
 
 </details>
 
@@ -130,7 +130,7 @@ Einige Funktionalitäten und Dienstleistungen des Protokolls unterliegen Zugangs
 
 <summary>Gibt es verschiedene Haltestufen mit unterschiedlichen Boni?</summary>
 
-Derzeit verleiht der Besitz von XBG-Tokens keine bestimmte Stufe; es sollte jedoch beachtet werden, dass der Zugang zu bestimmten Funktionen von der Menge der im Besitz befindlichen XBG abhängig sein wird.
+Derzeit verleiht der Besitz von XBG-Tokens keine bestimmte Stufe; es sollte jedoch beachtet werden, dass der Zugang zu bestimmten Funktionen von der Menge an XBG abhängig sein wird, die man besitzt.
 
 </details>
 
@@ -138,7 +138,7 @@ Derzeit verleiht der Besitz von XBG-Tokens keine bestimmte Stufe; es sollte jedo
 
 <summary>Verfügt XBG über einen Verbrennungsmechanismus?</summary>
 
-Derzeit werden 50% der Einnahmen für die Staking-Rendite verwendet, während der Rest der Schatzkammer zugeteilt wird. Die Governance könnte die genaue Aufteilung der Einnahmen festlegen und einen Teil für einen Verbrennungsmechanismus zuweisen.
+Derzeit werden 50% der Einnahmen dem Staking-Ertrag zugewiesen, während der Rest der Schatzkammer zufließt. Die Governance könnte die genaue Aufteilung der Einnahmen festlegen und einen Teil für einen Verbrennungsmechanismus zuweisen.
 
 </details>
 
@@ -146,7 +146,7 @@ Derzeit werden 50% der Einnahmen für die Staking-Rendite verwendet, während de
 
 <summary>Was ist die Smart-Contract-Adresse für den XBG-Token?</summary>
 
-Der Vertrag des XBG-Tokens wurde noch nicht im Testnetz oder Hauptnetz eingesetzt. Es gibt daher keine verfügbaren Vertragsadressen.
+Der Vertrag des XBG-Tokens wurde noch nicht im Testnetz oder Mainnet bereitgestellt. Es gibt daher keine Vertragsadressen.
 
 </details>
 

@@ -1,16 +1,16 @@
-# Aplikacioni për Përmbajtje dhe Angazhim në Lojëra
+# Aplikacioni për Angazhim në Lojëra
 
-> Lojtarët mund të lidhen me komunitetet dhe lojërat për të cilat janë fansa. Plotësojnë sfida dhe krijojnë avatarë duke fituar dhe pajisur veshje të ofruara nga NFT-të e ndryshme të komuniteteve. Për më tepër, komunitetet mund të krijojnë përvoja të personalizuara për anëtarët e tyre duke përdorur infrastrukturën, e cila do të përshkruhet në një seksion më vonë. Ky produkt aktualisht është në fazën Beta për dy muaj dhe ka 3 lojëra në të cilat lojtarët mund të hyjnë për sfida. Platforma ka pasur 10,000 regjistrime të hershme dhe aktualisht tregon 1000 përdorues të aktivë javorë që kanë ndarë së bashku 4,000 medalje në platformat e mediave sociale.
+> Lojtarët mund të lidhen me komunitetet dhe lojërat që janë fansa të tyre. Plotësoni misione dhe krijoni avatarë duke fituar dhe veshur aksesorë të ofruar nga NFT-të e ndryshme të komunitetit. Gjithashtu, komunitetet mund të krijojnë përvoja të personalizuara për anëtarët e tyre të komunitetit duke shfrytëzuar infrastrukturën, e cila do të theksohet në një seksion më vonë. Ky produkt është aktualisht në një Beta të drejtpërdrejtë dhe ka 3 lojëra që lojtarët mund të aksesojnë për misione. Platforma kishte 10,000 regjistrime të hershme dhe aktualisht po demonstron 1000 përdorues aktivë javorë të cilët kolektivisht kanë ndarë 4,000 shenja në platforma të ndryshme sociale.
 
 <details>
 
-<summary>Ç'mund të bëjë Aplikacioni për Përmbajtje dhe Angazhim në Lojëra?</summary>
+<summary>Cili është Aplikacioni për Angazhim në Lojëra?</summary>
 
-Aplikacioni për Përmbajtje dhe Angazhim në Lojëra është një aplikacion që lejon lojërat dhe komunitetet të jenë më afër fansave të tyre dhe të rrisin angazhimin e tyre.
+Aplikacioni për Angazhim në Lojëra është një aplikacion që lejon lojërat dhe komunitetet të jenë më afër me fansat e tyre dhe të rrisin angazhimin e tyre.
 
-* **Për lojtarët:** është një aplikacion që do t'u mundësojë lojtarëve të qëndrojnë të lidhur me lojërat dhe komunitetet e tyre të preferuara.
-* **Për lojërat:** krijon sfida argëtuese që lojtarët mund të plotësojnë brenda lojës dhe t'i ndajnë me miqtë e tyre, dhe lojtarët marrin shpërblime për arritjet e tyre.
-* **Për komunitetet:** ofron sfida të lidhura me grupin e tyre, dhe lojtarët fitojnë objekte të veçanta të veshjeve për të personalizuar avatarët e tyre.
+* **Për lojtarët:** është një aplikacion që u mundëson lojtarëve të qëndrojnë të lidhur me lojërat dhe komunitetet e tyre të preferuara.
+* **Për lojërat:** krijon sfida argëtuese që lojtarët mund të përfundojnë në lojë dhe të ndajnë me miqtë e tyre, dhe lojtarët shpërblehen për arritjet e tyre.
+* **Për komunitetet:** ofron sfida të lidhura me grupin e tyre, dhe lojtarët fitojnë artikuj të veçantë të veshjes për të personalizuar avatarët e tyre.
 
 Është një zgjidhje e thjeshtë dhe e përshtatshme për të mbajtur lojtarët të angazhuar dhe të emocionuar.
 
@@ -18,35 +18,35 @@ Aplikacioni për Përmbajtje dhe Angazhim në Lojëra është një aplikacion q�
 
 <details>
 
-<summary>Cilat janë veçoritë e Aplikacionit për Përmbajtje dhe Angazhim në Lojëra?</summary>
+<summary>Cilat janë veçoritë e Aplikacionit për Angazhim në Lojëra?</summary>
 
 * Krijoni dhe bashkohuni me komunitete
-* Krijoni sfida unike bazuar në platformat sociale dhe lojëra (Twitter, Discord, Twitch, dorëzim manual dhe çdo lojë e mbështetur)
-* Lidhni suksesin e sfidave me një veshje të veçantë
-* Krijoni një avatar të veçantë me shumë karakteristika dhe veshje
-* Shpërndani veshjet në këmbim të një tarife
+* Krijoni misione unike bazuar në platforma sociale dhe lojëra (Twitter, Discord, Twitch, Dorëzim manual, dhe çdo lojë e mbështetur)
+* Lidhni suksesin e misionit me një aksesor të veçantë
+* Krijoni një avatar të përbërë unik me karakteristika dhe aksesorë të shumtë
+* Shkëmbeni aksesorë në këmbim të një tarife
 
 </details>
 
 <details>
 
-<summary>Cili është angazhimi aktual i Aplikacionit?</summary>
+<summary>Cila është traksioni aktual i Aplikacionit?</summary>
 
-Alpha e aplikacionit ka mbledhur **10,000** përdorues unikë me mbi **30,000** sfida të plotësuara. Aplikacioni mbështet lojëra në Web3 dhe Web2, duke bërë reklamë aktualisht për **Ev.io**, **Dota2** dhe **CSGO**. Do të integrohen më shumë lojëra.
-
-</details>
-
-<details>
-
-<summary>Si mund të marrë whitelisting për Alpha?</summary>
-
-Procesi i whitelisting për Alpha ka përfunduar.
+Alfa e aplikacionit ka mbledhur **10,000** përdorues unikë me mbi **30,000** misione të përfunduara. Aplikacioni mbështet lojëra në Web3 dhe Web2, aktualisht duke reklamuar **Ev.io**, **Dota2**, dhe **CSGO**. Do të integrohen më shumë lojëra.
 
 </details>
 
 <details>
 
-<summary>Kur do të lansohet Aplikacioni për Përmbajtje dhe Angazhim në Lojëra V1?</summary>
+<summary>Si mund të regjistrohem në listën e bardhë për Alfa?</summary>
+
+Procesi i regjistrimit në listën e bardhë për Alfa ka përfunduar.
+
+</details>
+
+<details>
+
+<summary>Kur do të lëshohet Aplikacioni për Angazhim në Lojëra V1?</summary>
 
 Rreth Q2 2023.
 
@@ -54,34 +54,34 @@ Rreth Q2 2023.
 
 <details>
 
-<summary>Cilat janë gjërat unike në Aplikacionin për Përmbajtje dhe Angazhim në Lojëra?</summary>
+<summary>Cili është veçantia e Aplikacionit për Angazhim në Lojëra?</summary>
 
-* Motori i sfidave në lojë
-* Inventari i avatarëve dhe veshjeve të ndara
-
-</details>
-
-<details>
-
-<summary>Në fillim, cilët komunitete do të jenë të integruara në Aplikacion?</summary>
-
-Ekipi BDS do të jetë komuniteti i parë. XBorg ka siguruar dhe do të njoftojë më shumë partneritete me ekipet e larta të e-sportit.
+* Motori i misioneve në lojë
+* Inventari i avatarit dhe rënia e aksesorëve
 
 </details>
 
 <details>
 
-<summary>A është një Dapp ose aplikacion tradicional?</summary>
+<summary>Në lansim, cila komunitet do të integrohet në Aplikacion?</summary>
 
-Aplikacioni është një hibrid Web3, që do të thotë se përvoja e përdoruesit do të jetë e njëjtë, qoftë përdoruesi të përdorë autentifikim Web2 ose Web3. Megjithëse, nëse përdoruesit zgjedhin Web3, ata do të mbajnë pronësinë e aseteve të tyre (veshje, avatarë).
+Ekipi BDS do të jetë komuniteti i parë. XBorg ka siguruar dhe do të njoftojë më shumë partneritete me ekipe të larta të esports.
 
 </details>
 
 <details>
 
-<summary>A janë veshjet dhe avatarët NFT?</summary>
+<summary>A është një Dapp apo aplikacion tradicional?</summary>
 
-Po, veshjet janë NFT të transferueshme, ndërsa avatarët janë NFT të papërmbajtshëm.
+Aplikacioni është një hibrid Web3, që do të thotë se përvoja e përdoruesit do të jetë e njëjtë nëse përdoruesi po përdor autentikim Web2 apo Web3. Megjithatë, nëse përdoruesit zgjedhin Web3, ata do të ruajnë pronësinë e aseteve të tyre (aksesorë, avatarë)
+
+</details>
+
+<details>
+
+<summary>A janë aksesorët dhe avatarët NFT?</summary>
+
+Po, aksesorët janë NFT të transferueshëm, ndërsa avatarët janë NFT që nuk transferohen.
 
 </details>
 
@@ -89,19 +89,19 @@ Po, veshjet janë NFT të transferueshme, ndërsa avatarët janë NFT të papër
 
 <summary>Kush janë përdoruesit e synuar të Aplikacionit?</summary>
 
-Për **përdoruesit**, lojtarë që kanë interes në e-sport ose lojtarë që janë fansa të komuniteteve ose lojërave të caktuara.
+Për **përdoruesit**, lojtarët që kanë interes në esports ose lojtarët që janë fansa të komuniteteve apo lojërave të caktuara.
 
-Për **komunitetet**, ekipet e-sportive dhe komunitetet e influencuesve.
+Për **komunitetet**, ekipet e esports dhe komunitetet e influencuesve.
 
 </details>
 
 <details>
 
-<summary>Cilat janë faktorët kryesorë të të ardhurave të Aplikacionit?</summary>
+<summary>Cilat janë burimet kryesore të të ardhurave të Aplikacionit?</summary>
 
 * Abonimet e përdoruesve
-* Shpërndarja e veshjeve
-* Tarifat e shkëmbimit të veshjeve
+* Rënia e aksesorëve
+* Tarifat e shkëmbimit të aksesorëve
 
 </details>
 
@@ -109,14 +109,14 @@ Për **komunitetet**, ekipet e-sportive dhe komunitetet e influencuesve.
 
 <summary>A do të jetë aplikacioni një aplikacion mobil?</summary>
 
-Fillimisht, jo. Por kemi qëllim të lansojmë në mobil në iteracionet më të mëvonshme.
+Fillimisht, jo. Por kemi ndërmend të lansojmë në mobile në iteracionet e mëvonshme.
 
 </details>
 
 <details>
 
-<summary>Cili është dallimi midis Aplikacionit për Përmbajtje dhe Angazhim në Lojëra dhe XBorg.gg?</summary>
+<summary>Cila është ndryshimi midis Aplikacionit për Angazhim në Lojëra dhe XBorg.gg?</summary>
 
-Aplikacioni për Përmbajtje dhe Angazhim në Lojëra hostohet në domainin **xborg.gg**.
+Aplikacioni i angazhimit në lojëra është i vendosur nën domenin **xborg.gg**
 
 </details>

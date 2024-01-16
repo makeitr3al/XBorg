@@ -1,44 +1,44 @@
-# Soulbound Launchpad
+# Piattaforma di Lancio Soulbound
 
-> I giocatori potranno accedere a opportunità di investimento basate sui loro dati di gioco e gli sviluppatori potranno mirare a giocatori e comunità che mostrano una propensione per l'interesse nei loro progetti. La versione 1 di questo prodotto è attiva e, dal suo lancio, ha dato il via a 6 giochi, con un totale di 200.000 dollari di investimenti.
+> I giocatori potranno accedere a opportunità di investimento basate sui loro dati di gioco, e gli sviluppatori possono indirizzare giocatori e comunità che mostrano una propensione per l'interesse nei loro progetti. La versione V1 di questo prodotto è attiva e, dal suo lancio, ha avviato 6 giochi, con un totale di $200.000 in investimenti.
 
 <details>
 
-<summary>Cos'è il Soulbound Launchpad?</summary>
+<summary>Cos'è la piattaforma di lancio Soulbound?</summary>
 
-Il Soulbound Launchpad è una piattaforma che mette in contatto i giocatori con i giochi che raccolgono capitali basandosi sulla loro identità digitale. Consente agli sviluppatori di giochi di mirare a giocatori specifici utilizzando le loro identità digitali e raccogliere fondi.
+La Piattaforma di Lancio Soulbound è una piattaforma che collega i giocatori con giochi in fase di raccolta capitale basata sulla loro identità digitale. Consente agli sviluppatori di giochi di indirizzare giocatori specifici utilizzando le loro identità digitali e di raccogliere fondi.
 
 </details>
 
 <details>
 
-<summary>In cosa differisce il vostro launchpad dagli altri?</summary>
+<summary>Qual è la differenza tra la vostra piattaforma di lancio e le altre?</summary>
 
-I giocatori collegati al Soulbound Launchpad tramite la rete di credenziali ottengono accesso a offerte personalizzate in base alle loro credenziali di gioco. Ciò significa che un giocatore di FPS avrà maggiori probabilità di ricevere un'opportunità legata ai giochi FPS.
-
-</details>
-
-<details>
-
-<summary>Come vengono selezionati i progetti del launchpad?</summary>
-
-Il consiglio di investimento svolge un rigoroso processo di due diligence a più fasi, che culmina in un rapporto completo. Nel mercato privato (venture capitalist, business angel), manteniamo alcuni dei rapporti di due diligence più completi e dettagliati nel settore GameFi.
+I giocatori collegati alla piattaforma di lancio Soulbound attraverso la rete di credenziali hanno accesso a offerte personalizzate in base alle loro credenziali di gioco. Ciò significa che un giocatore di FPS è più propenso a ricevere un'opportunità relativa ai giochi FPS.
 
 </details>
 
 <details>
 
-<summary>Qual è la frequenza delle opportunità?</summary>
+<summary>Come vengono selezionati i progetti della piattaforma di lancio?</summary>
 
-La nostra capacità di accettare progetti dipende interamente dalla qualità del flusso di offerte. Pertanto, consideriamo solo progetti che soddisfano elevati standard di qualità.
+Il consiglio di investimento conduce un processo di due diligence multi-stadio approfondito, culminante in un rapporto completo. Nel mercato privato (Venture Capitalist, Business Angels), manteniamo alcuni dei rapporti di due diligence più completi e dettagliati nel settore GameFi.
 
 </details>
 
 <details>
 
-<summary>Dove posso trovare il launchpad?</summary>
+<summary>Con quale frequenza si presentano le opportunità?</summary>
 
-Puoi trovare il launchpad [qui](https://launchpad.xborg.com/).
+La nostra capacità di accettare progetti dipende interamente dalla qualità del nostro flusso di offerte. Pertanto, consideriamo solo progetti che soddisfano elevati standard di qualità.
+
+</details>
+
+<details>
+
+<summary>Dove posso trovare la piattaforma di lancio?</summary>
+
+Puoi trovare la piattaforma di lancio [qui](https://launchpad.xborg.com/).
 
 </details>
 
@@ -46,49 +46,49 @@ Puoi trovare il launchpad [qui](https://launchpad.xborg.com/).
 
 <summary>Quali nazionalità supportate?</summary>
 
-Supportiamo i paesi supportati da SwissBorg. Puoi trovare l'elenco completo qui: [https://swissborg.com/supported-countries](https://swissborg.com/supported-countries)
+Supportiamo i paesi supportati da SwissBorg. L'elenco completo può essere trovato qui: [https://swissborg.com/supported-countries](https://swissborg.com/supported-countries)
 
 </details>
 
 <details>
 
-<summary>Cosa significano i termini vesting, locking e FDV?</summary>
+<summary>Cosa significano termini come vesting, locking e FDV?</summary>
 
 * **Vesting** si riferisce al periodo durante il quale i token vengono distribuiti
-* **Locking** si riferisce al periodo durante il quale i token sono bloccati
-* **FDV** si riferisce alla valutazione di un token, calcolata moltiplicando il suo prezzo per l'offerta massima. (Fully Diluted Valuation)
+* **Locked** si riferisce al periodo durante il quale i token sono bloccati
+* **FDV** si riferisce alla valutazione di un token, calcolata moltiplicando il suo prezzo per la fornitura massima. (Valutazione Completamente Diluita)
 
 </details>
 
 <details>
 
-<summary>Quale catena devo utilizzare per inviare il mio impegno?</summary>
+<summary>Quale catena devo usare per inviare il mio impegno?</summary>
 
-L'impegno è in USDC. Il XBorg Launchpad supporta Arbitrum, Avalanche, Optimism, Polygon e Binance Smart Chain. Assicurati di verificare le catene compatibili prima del lancio.
-
-</details>
-
-<details>
-
-<summary>Ho investito in un'offerta, ma l'interfaccia del Launchpad non mostra il mio impegno, cosa devo fare?</summary>
-
-Se il Launchpad non mostra l'impegno, apri un ticket di supporto su Discord.
+L'impegno è solitamente in USDC. La Piattaforma di Lancio XBorg supporta Arbitrum, Avalanche, Optimism, Polygon e Binance Smart Chain. Assicurati di verificare le catene compatibili prima del lancio.
 
 </details>
 
 <details>
 
-<summary>Vivo in un paese che non mi permette di installare l'app di SwissBorg, quindi non posso effettuare la KYC. Qual è la soluzione a questo problema?</summary>
+<summary>Ho investito in un'offerta, ma l'interfaccia utente della Piattaforma di Lancio non mostra il mio impegno, cosa devo fare?</summary>
 
-Al momento, supportiamo solo le nazionalità disponibili sull'app di SwissBorg. XBorg sta lavorando attivamente per espandere la propria rete e nel tempo saranno ammissibili alla KYC sempre più regioni e nazionalità.
+Se la piattaforma di lancio non mostra l'impegno, si prega di aprire un ticket di supporto su Discord.
 
 </details>
 
 <details>
 
-<summary>C'è una differenza tra le fasi Prometheus, Partner e Public?</summary>
+<summary>Vivo in un paese che non mi permette di installare l'app SwissBorg, quindi non posso effettuare la KYC. Qual è la soluzione a questo?</summary>
 
-Le fasi alle quali gli utenti sono ammissibili variano in base alla loro demografia. I detentori di Prometheus ricevono i maggiori vantaggi e non sono tenuti a pagare commissioni, mentre le altre fasi hanno commissioni e dimensioni di allocazione diverse.
+Al momento, supportiamo solo le nazionalità disponibili sull'app SwissBorg. XBorg sta lavorando attivamente per espandere la sua rete e con il tempo più regioni e nazionalità saranno idonee per la KYC.
+
+</details>
+
+<details>
+
+<summary>C'è una differenza tra i round Prometheus, Partner e Pubblico?</summary>
+
+I round in cui gli utenti sono idonei variano in base alla loro demografia. I detentori di Prometheus ricevono i maggiori benefici e non sono tenuti a pagare commissioni, mentre gli altri round hanno commissioni e dimensioni di allocazione diverse.
 
 </details>
 
@@ -96,25 +96,25 @@ Le fasi alle quali gli utenti sono ammissibili variano in base alla loro demogra
 
 <summary>Posso inviare BUSD, USDT o altre stablecoin invece di USDC?</summary>
 
-Al momento, supportiamo solo USDC.
+Attualmente, supportiamo solo USDC.
 
 </details>
 
 <details>
 
-<summary>Come posso ottenere USDC?</summary>
+<summary>Come posso acquisire USDC?</summary>
 
-SwissBorg è una delle migliori opzioni per ottenere USDC da altre criptovalute o fiat.
+SwissBorg è una delle migliori opzioni per acquisire USDC da altre criptovalute o fiat.
 
 </details>
 
 <details>
 
-<summary>Recupero i miei fondi se un progetto fallisce o si rivela una truffa?</summary>
+<summary>Ricevo indietro i miei fondi quando un progetto fallisce o è una truffa?</summary>
 
-Effettuiamo una rigorosa due diligence sulle opportunità del launchpad di XBorg per limitare il numero di progetti che falliscono.
+Effettuiamo un'approfondita due diligence sulle opportunità della piattaforma di lancio di XBorg per limitare il numero di progetti che falliscono.
 
-Nessun rimborso verrà effettuato se si ritiene che sia colpa degli investitori.
+Nessun rimborso sarà implementato se è ritenuto colpa degli investitori.
 
 </details>
 
@@ -122,6 +122,6 @@ Nessun rimborso verrà effettuato se si ritiene che sia colpa degli investitori.
 
 <summary>Perché devo effettuare la KYC?</summary>
 
-Perché XBorg si conformi alle giurisdizioni pertinenti relative ai launchpad.
+Perché XBorg sia conforme alla giurisdizione pertinente relativa alle piattaforme di lancio.
 
 </details>
