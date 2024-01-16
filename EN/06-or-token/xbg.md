@@ -32,7 +32,7 @@ The maximum supply of XBG tokens has been set at 1,000,000,000 (1 billion).
 
 <summary>When will the XBG Token Generation Event (TGE) take place?</summary>
 
-The TGE will occur towards summer 2024.
+The TGE is not yet announced but will most likely take place until Q2 2024.
 
 </details>
 
@@ -40,11 +40,11 @@ The TGE will occur towards summer 2024.
 
 <summary>Why can't you give an exact TGE date?</summary>
 
-As a team, we believe that the crypto outlook towards the end of 2023 and close to Bitcoin halvings will be positive. The XBorg team is currently engaging in talks with top-tier exchanges, whose opinions hold considerable weight in determining the ideal timing for token listing. It's important to note that launching a token during periods of uncertain liquidity and interest in alternative coins can pose a risk.
+As a team, we believe that the crypto outlook towards Q2 2024 and close to Bitcoin halvings will be positive. The XBorg team is currently engaging in talks with top-tier exchanges, whose opinions hold considerable weight in determining the ideal timing for token listing. It's important to note that launching a token during periods of uncertain liquidity and interest in alternative coins can pose a risk.
 
 In addition, we recognize that a token's value lies in the strength of the ecosystem it operates in. Therefore, our goal is to cultivate a user base of at least 100,000 prior to launching the token.
 
-Looking ahead, our team is optimistic about the crypto market's potential towards the end of 2023, particularly in light of upcoming Bitcoin halvings.
+Looking ahead, our team is optimistic about the crypto market's potential towards Q2 2024, particularly in light of upcoming Bitcoin halvings.
 
 </details>
 

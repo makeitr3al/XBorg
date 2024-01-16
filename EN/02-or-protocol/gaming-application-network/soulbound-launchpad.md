@@ -64,7 +64,7 @@ We support the countries supported by SwissBorg. The complete list can be found 
 
 <summary>Which chain do I have to use for sending my commitment?</summary>
 
-The commitment is in USDC. The XBorg Launchpad supports Arbitrum, Avalanche, Optimism, Polygon and Binance Smart Chain. Ensure to verify the compatible chains before the launch.
+The commitment is usually in USDC. The XBorg Launchpad supports Arbitrum, Avalanche, Optimism, Polygon and Binance Smart Chain. Ensure to verify the compatible chains before the launch.
 
 </details>
 

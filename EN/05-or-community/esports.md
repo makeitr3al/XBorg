@@ -22,7 +22,7 @@ You can find players of our clan on our [Discord ](https://discord.com/invite/xb
 
 <summary>What is the XCS?</summary>
 
-The Xtream Championship Series (XCS) is the first-ever multi-game esports league in Web3 with a **$100,000** cash prize. To learn more about the XCS, please visit [https://www.xborg.com/xtreme-championship-series](https://www.xborg.com/xtreme-championship-series).
+The Xtream Championship Series (XCS) was the first-ever multi-game esports league in Web3 with a **$100,000** cash prize. To learn more about the XCS, please visit [https://www.xborg.com/xtreme-championship-series](https://www.xborg.com/xtreme-championship-series).
 
 </details>
 
@@ -30,7 +30,7 @@ The Xtream Championship Series (XCS) is the first-ever multi-game esports league
 
 <summary>How can I join the XCS?</summary>
 
-Start by registering for relevant tournaments. All tournaments can be found [here](https://www.xborg.com/xtreme-championship-series).&#x20;
+The XCS-tournament has finished. But there is more to come. Stay tuned!
 
 </details>
 
@@ -70,7 +70,7 @@ To streamline and expedite the overall experience, we have considered the divers
 
 <summary>How much is the XCS costing XBorg?</summary>
 
-The XCS is a profitable event thanks to our partners and sponsors. We can't highlight the exact profit amount.&#x20;
+The XCS is a profitable event thanks to our partners and sponsors. We can't highlight the exact profit amount.
 
 </details>
 
@@ -86,7 +86,6 @@ The total cash prize is **$100,000**, distributed over **five games**.
 
 <summary>Where can I submit my suggestions for improvements?</summary>
 
-We sincerely appreciate feedback, and you can submit any comments and improvements directly on our [Discord server](https://discord.gg/xborg). Our team and moderators are always available to assist.&#x20;
+We sincerely appreciate feedback, and you can submit any comments and improvements directly on our [Discord server](https://discord.gg/xborg). Our team and moderators are always available to assist.
 
 </details>
-
