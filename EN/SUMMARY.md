@@ -29,7 +29,7 @@
 
 ## 🤝 05 | COMMUNITY
 
-* [NFT](05-or-community/nft.md)
+* [Prometheus - NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
 * [Esports](05-or-community/esports.md)
 
@@ -37,6 +37,7 @@
 
 * [$XBG](06-or-token/xbg.md)
 * [Fundraise](06-or-token/fundraise/README.md)
+  * [Presale](06-or-token/fundraise/presale.md)
   * [Seed Round](06-or-token/fundraise/seed-round.md)
 
 ## 🤑 07 | INCENTIVE PROGRAMS
