@@ -12,7 +12,7 @@
 
 * [Rede de Credenciais de Jogos](02-or-protocol/gaming-credential-network.md)
 * [Rede de Aplicações de Jogos](02-or-protocol/gaming-application-network/README.md)
-  * [App de Engajamento em Jogos](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
+  * [Aplicativo de Engajamento em Jogos](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
   * [Plataforma de Lançamento Soulbound](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
   * [Ofertas Iniciais de Equipe](02-or-protocol/gaming-application-network/initial-team-offerings.md)
 * [Governança](02-or-protocol/governance.md)
@@ -29,7 +29,7 @@
 
 ## 🤝 05 | COMUNIDADE
 
-* [NFT](05-or-community/nft.md)
+* [Prometheus - NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
 * [Esports](05-or-community/esports.md)
 
@@ -37,6 +37,7 @@
 
 * [$XBG](06-or-token/xbg.md)
 * [Arrecadação de Fundos](06-or-token/fundraise/README.md)
+  * [Pré-venda](06-or-token/fundraise/presale.md)
   * [Rodada Seed](06-or-token/fundraise/seed-round.md)
 
 ## 🤑 07 | PROGRAMAS DE INCENTIVO

@@ -1,6 +1,6 @@
 # فهرس المحتويات
 
-* [الأسئلة الشائعة الكاملة لـ XBorg](README.md)
+* [الأسئلة الشائعة النهائية لـ XBorg](README.md)
 
 ## ℹ 01 | النواة
 
@@ -29,7 +29,7 @@
 
 ## 🤝 05 | المجتمع
 
-* [الرموز غير القابلة للتبديل NFT](05-or-community/nft.md)
+* [بروميثيوس - NFT](05-or-community/nft.md)
 * [الخبرة XP](05-or-community/xp.md)
 * [الرياضات الإلكترونية](05-or-community/esports.md)
 
@@ -37,15 +37,16 @@
 
 * [$XBG](06-or-token/xbg.md)
 * [جمع التبرعات](06-or-token/fundraise/README.md)
-  * [الجولة الأولية](06-or-token/fundraise/seed-round.md)
+  * [البيع المسبق](06-or-token/fundraise/presale.md)
+  * [جولة التمويل الأولية](06-or-token/fundraise/seed-round.md)
 
 ## 🤑 07 | برامج الحوافز
 
 * [تحدي XBorg](07-or-incentive-programs/the-xborg-challenge/README.md)
   * [الشروط والأحكام](07-or-incentive-programs/the-xborg-challenge/terms-and-conditions.md)
   * [القواعد](07-or-incentive-programs/the-xborg-challenge/rules.md)
-  * [الجوائز](07-or-incentive-programs/the-xborg-challenge/rewards.md)
-  * [التسجيل النقاط](07-or-incentive-programs/the-xborg-challenge/scoring/README.md)
+  * [المكافآت](07-or-incentive-programs/the-xborg-challenge/rewards.md)
+  * [التسجيل](07-or-incentive-programs/the-xborg-challenge/scoring/README.md)
     * [لوناركراش](07-or-incentive-programs/the-xborg-challenge/scoring/lunarcrush.md)
     * [لائحة الصدارة](07-or-incentive-programs/the-xborg-challenge/scoring/leaderboard.md)
 * [برنامج الإحالة](07-or-incentive-programs/referral-program.md)

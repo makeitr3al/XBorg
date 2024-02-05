@@ -29,7 +29,7 @@
 
 ## 🤝 05 | コミュニティ
 
-* [NFT](05-or-community/nft.md)
+* [プロメテウス - NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
 * [eスポーツ](05-or-community/esports.md)
 
@@ -37,6 +37,7 @@
 
 * [$XBG](06-or-token/xbg.md)
 * [資金調達](06-or-token/fundraise/README.md)
+  * [プレセール](06-or-token/fundraise/presale.md)
   * [シードラウンド](06-or-token/fundraise/seed-round.md)
 
 ## 🤑 07 | インセンティブプログラム

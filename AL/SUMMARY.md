@@ -29,7 +29,7 @@
 
 ## 🤝 05 | KOMUNITETI
 
-* [NFT](05-or-community/nft.md)
+* [Prometheus - NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
 * [Esportet](05-or-community/esportet.md)
 
@@ -37,6 +37,7 @@
 
 * [$XBG](06-or-token/xbg.md)
 * [Mbështetja Financiare](06-or-token/mbeshtetja-financiare/README.md)
+  * [Shitja Paraprake](06-or-token/mbeshtetja-financiare/shitja-paraprake.md)
   * [Raundi i Parë](06-or-token/mbeshtetja-financiare/raundi-i-pare.md)
 
 ## 🤑 07 | PROGRAMET E SHTYSËS
@@ -47,7 +48,7 @@
   * [Shpërblimet](07-or-incentive-programs/sfida-xborg/shperblimet.md)
   * [Vlerësimi](07-or-incentive-programs/sfida-xborg/vleresimi/README.md)
     * [LunarCrush](07-or-incentive-programs/sfida-xborg/vleresimi/lunarcrush.md)
-    * [Tabela e Klasifikimit](07-or-incentive-programs/sfida-xborg/vleresimi/tabela-e-klasifikimit.md)
+    * [Klasifikimi](07-or-incentive-programs/sfida-xborg/vleresimi/klasifikimi.md)
 * [Programi i Referimit](07-or-incentive-programs/programi-i-referimit.md)
 * [Programi i Ambasadorëve](07-or-incentive-programs/programi-i-ambasadoreve.md)
 
