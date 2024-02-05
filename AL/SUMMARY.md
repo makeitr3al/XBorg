@@ -37,8 +37,8 @@
 
 * [$XBG](06-or-token/xbg.md)
 * [Mbështetja Financiare](06-or-token/mbeshtetja-financiare/README.md)
-  * [Shitja Paraprake](06-or-token/mbeshtetja-financiare/shitja-paraprake.md)
-  * [Raundi i Parë](06-or-token/mbeshtetja-financiare/raundi-i-pare.md)
+  * [Shitja Paraprake](06-or-token/fundraise/presale.md)
+  * [Raundi i Parë](06-or-token/fundraise/seed-round.md)
 
 ## 🤑 07 | PROGRAMET E SHTYSËS
 
