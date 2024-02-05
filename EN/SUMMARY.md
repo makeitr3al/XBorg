@@ -35,9 +35,9 @@
 
 ## 🪙 06 | TOKEN
 
-* [XBG](06-or-token/xbg.md)
-* [Fundraise](06-or-token/fundraise.md)
-* [Seed Round](06-or-token/seed-round.md)
+* [$XBG](06-or-token/xbg.md)
+* [Fundraise](06-or-token/fundraise/README.md)
+  * [Seed Round](06-or-token/fundraise/seed-round.md)
 
 ## 🤑 07 | INCENTIVE PROGRAMS
 
