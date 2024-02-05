@@ -6,17 +6,17 @@
 
 * [Informatie](01-or-core/informatie.md)
 * [Samenwerking](01-or-core/samenwerking.md)
-* [Roadmap](01-or-core/roadmap.md)
+* [Routekaart](01-or-core/routekaart.md)
 
 ## 📄 02 | PROTOCOL
 
 * [Gaming Credential Netwerk](02-or-protocol/gaming-credential-netwerk.md)
 * [Gaming Applicatie Netwerk](02-or-protocol/gaming-applicatie-netwerk/README.md)
   * [Gaming Engagement App](02-or-protocol/gaming-applicatie-netwerk/gaming-engagement-app.md)
-  * [Soulbound Launchpad](02-or-protocol/gaming-applicatie-netwerk/soulbound-launchpad.md)
-  * [Initiële Team Aanbiedingen](02-or-protocol/gaming-applicatie-netwerk/initiele-team-aanbiedingen.md)
+  * [Soulbound Lanceerplatform](02-or-protocol/gaming-applicatie-netwerk/soulbound-lanceerplatform.md)
+  * [Aanbiedingen voor Initiële Teams](02-or-protocol/gaming-applicatie-netwerk/aanbiedingen-voor-initiele-teams.md)
 * [Bestuur](02-or-protocol/bestuur.md)
-* [Prikkels](02-or-protocol/prikkels.md)
+* [Incentives](02-or-protocol/incentives.md)
 
 ## 📈 03 | MARKT
 
@@ -35,22 +35,21 @@
 
 ## 🪙 06 | TOKEN
 
-* [XBG](06-or-token/xbg.md)
-* [Fondsenwerving](06-or-token/fondsenwerving.md)
-* [Seed Ronde](06-or-token/seed-ronde.md)
+* [$XBG](06-or-token/xbg.md)
+* [Fondsenwerving](06-or-token/fondsenwerving/README.md)
+  * [Seed Ronde](06-or-token/fondsenwerving/seed-ronde.md)
 
 ## 🤑 07 | INCENTIVE PROGRAMMA'S
 
-* [De XBorg Uitdaging](07-or-incentive-programmas/de-xborg-uitdaging/README.md)
-  * [Algemene Voorwaarden](07-or-incentive-programmas/de-xborg-uitdaging/algemene-voorwaarden.md)
-  * [Regels](07-or-incentive-programmas/de-xborg-uitdaging/regels.md)
-  * [Beloningen](07-or-incentive-programmas/de-xborg-uitdaging/beloningen.md)
-  * [Scoren](07-or-incentive-programmas/de-xborg-uitdaging/scoren/README.md)
-    * [LunarCrush](07-or-incentive-programmas/de-xborg-uitdaging/scoren/lunarcrush.md)
-    * [Leaderboard](07-or-incentive-programmas/de-xborg-uitdaging/scoren/leaderboard.md)
-    * [Competities](07-or-incentive-programmas/de-xborg-uitdaging/scoren/competities.md)
-* [Verwijzingsprogramma](07-or-incentive-programmas/verwijzingsprogramma.md)
-* [Ambassadeursprogramma](07-or-incentive-programmas/ambassadeursprogramma.md)
+* [De XBorg Uitdaging](07-or-incentive-programs/de-xborg-uitdaging/README.md)
+  * [Algemene Voorwaarden](07-or-incentive-programs/de-xborg-uitdaging/algemene-voorwaarden.md)
+  * [Regels](07-or-incentive-programs/de-xborg-uitdaging/regels.md)
+  * [Beloningen](07-or-incentive-programs/de-xborg-uitdaging/beloningen.md)
+  * [Scoren](07-or-incentive-programs/de-xborg-uitdaging/scoren/README.md)
+    * [LunarCrush](07-or-incentive-programs/de-xborg-uitdaging/scoren/lunarcrush.md)
+    * [Ranglijst](07-or-incentive-programs/de-xborg-uitdaging/scoren/ranglijst.md)
+* [Verwijzingsprogramma](07-or-incentive-programs/verwijzingsprogramma.md)
+* [Ambassadeursprogramma](07-or-incentive-programs/ambassadeursprogramma.md)
 
 ## 💼 08 | ORGANISATIE
 

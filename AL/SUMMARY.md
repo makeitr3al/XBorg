@@ -1,57 +1,56 @@
-# Tabela e përmbajtjes
+# Përmbajtja
 
-* [FAQ e plotë e XBorg-ut](README.md)
+* [Pyetjet më të Shpeshta të XBorg](README.md)
 
 ## ℹ 01 | BAZA
 
-* [Informacion](01-or-core/information.md)
-* [Bashkëpunim](01-or-core/collaboration.md)
-* [Rrugëtim](01-or-core/roadmap.md)
+* [Informacion](01-or-core/informacion.md)
+* [Bashkëpunim](01-or-core/bashkepunim.md)
+* [Harta e rrugës](01-or-core/harta-e-ruges.md)
 
-## 📄 02 | PROTOKOLL
+## 📄 02 | PROTOKOLLI
 
-* [Rrjeti i Kredencialeve të Lojërave](02-or-protocol/gaming-credential-network.md)
-* [Rrjeti i Aplikacioneve të Lojërave](02-or-protocol/gaming-application-network/README.md)
-  * [Aplikacioni i Përfshirjes në Lojë](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
-  * [Soulbound Launchpad](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
-  * [Ofertat e Ekipit të Parë](02-or-protocol/gaming-application-network/initial-team-offerings.md)
-* [Qeverisja](02-or-protocol/governance.md)
-* [Stimulimet](02-or-protocol/incentives.md)
+* [Rrjeti i Kredencialeve të Lojërave](02-or-protocol/rrjeti-i-kredencialeve-te-lojerave.md)
+* [Rrjeti i Aplikacioneve të Lojërave](02-or-protocol/rrjeti-i-aplikacioneve-te-lojerave/README.md)
+  * [Aplikacioni i Angazhimit në Lojë](02-or-protocol/rrjeti-i-aplikacioneve-te-lojerave/aplikacioni-i-angazhimit-ne-loje.md)
+  * [Platforma e Nisjes së Lidhjeve të Shpirtit](02-or-protocol/rrjeti-i-aplikacioneve-te-lojerave/platforma-e-nisjes-se-lidhjeve-te-shpirtit.md)
+  * [Ofertat Fillestare të Ekipit](02-or-protocol/rrjeti-i-aplikacioneve-te-lojerave/ofertat-fillestare-te-ekipit.md)
+* [Qeverisja](02-or-protocol/qeverisja.md)
+* [Shtysat](02-or-protocol/shtysat.md)
 
-## 📈 03 | TREG
+## 📈 03 | TREGU
 
-* [Konkurencë](03-or-market/competition.md)
+* [Konkurrenca](03-or-market/konkurrenca.md)
 
-## ♠ 04 | EKIP
+## ♠ 04 | EKIPA
 
-* [Takoni Ekipin](04-or-team/meet-the-team.md)
-* [HR](04-or-team/hr.md)
+* [Njihuni me Ekipin](04-or-team/njihuni-me-ekipin.md)
+* [Burimet Njerëzore](04-or-team/burimet-njerezore.md)
 
-## 🤝 05 | KOMUNITET
+## 🤝 05 | KOMUNITETI
 
 * [NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
-* [Esports](05-or-community/esports.md)
+* [Esportet](05-or-community/esportet.md)
 
-## 🪙 06 | TOKEN
+## 🪙 06 | TOKENI
 
-* [XBG](06-or-token/xbg.md)
-* [Rritje e Fondeve](06-or-token/fundraise.md)
-* [Raundi i Parë](06-or-token/seed-round.md)
+* [$XBG](06-or-token/xbg.md)
+* [Mbështetja Financiare](06-or-token/mbeshtetja-financiare/README.md)
+  * [Raundi i Parë](06-or-token/mbeshtetja-financiare/raundi-i-pare.md)
 
-## 🤑 07 | PROGRAMET E STIMULIMIT
+## 🤑 07 | PROGRAMET E SHTYSËS
 
-* [Thirrja XBorg](07-or-incentive-programs/the-xborg-challenge/README.md)
-  * [Kushtet dhe Kushtet e Përdorimit](07-or-incentive-programs/the-xborg-challenge/terms-and-conditions.md)
-  * [Rregullat](07-or-incentive-programs/the-xborg-challenge/rules.md)
-  * [Shpërblimet](07-or-incentive-programs/the-xborg-challenge/rewards.md)
-  * [Vlerësimi](07-or-incentive-programs/the-xborg-challenge/scoring/README.md)
-    * [LunarCrush](07-or-incentive-programs/the-xborg-challenge/scoring/lunarcrush.md)
-    * [Tabela e Vlerësimit](07-or-incentive-programs/the-xborg-challenge/scoring/leaderboard.md)
-    * [Ligat](07-or-incentive-programs/the-xborg-challenge/scoring/leagues.md)
-* [Programi i Referimit](07-or-incentive-programs/referral-program.md)
-* [Programi i Ambasadorëve](07-or-incentive-programs/ambassador-program.md)
+* [Sfida XBorg](07-or-incentive-programs/sfida-xborg/README.md)
+  * [Kushtet dhe Rregullat](07-or-incentive-programs/sfida-xborg/kushtet-dhe-rregullat.md)
+  * [Rregullat](07-or-incentive-programs/sfida-xborg/rregullat.md)
+  * [Shpërblimet](07-or-incentive-programs/sfida-xborg/shperblimet.md)
+  * [Vlerësimi](07-or-incentive-programs/sfida-xborg/vleresimi/README.md)
+    * [LunarCrush](07-or-incentive-programs/sfida-xborg/vleresimi/lunarcrush.md)
+    * [Tabela e Klasifikimit](07-or-incentive-programs/sfida-xborg/vleresimi/tabela-e-klasifikimit.md)
+* [Programi i Referimit](07-or-incentive-programs/programi-i-referimit.md)
+* [Programi i Ambasadorëve](07-or-incentive-programs/programi-i-ambasadoreve.md)
 
 ## 💼 08 | ORGANIZATA
 
-* [Ligjore dhe Financiare](08-or-organization/legal-and-financial.md)
+* [Ligjore dhe Financiare](08-or-organization/ligjore-dhe-financiare.md)
