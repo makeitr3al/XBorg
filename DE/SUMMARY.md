@@ -14,7 +14,7 @@
 * [Gaming Application Network](02-or-protocol/gaming-application-network/README.md)
   * [Gaming Engagement App](02-or-protocol/gaming-application-network/gaming-engagement-app.md)
   * [Soulbound Launchpad](02-or-protocol/gaming-application-network/soulbound-launchpad.md)
-  * [Angebote für Erstteams](02-or-protocol/gaming-application-network/initial-team-offerings.md)
+  * [Erstangebote für Teams](02-or-protocol/gaming-application-network/initial-team-offerings.md)
 * [Governance](02-or-protocol/governance.md)
 * [Anreize](02-or-protocol/incentives.md)
 
@@ -29,19 +29,20 @@
 
 ## 🤝 05 | GEMEINSCHAFT
 
-* [NFT](05-or-community/nft.md)
+* [Prometheus - NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
-* [Esports](05-or-community/esports.md)
+* [E-Sport](05-or-community/esports.md)
 
 ## 🪙 06 | TOKEN
 
 * [$XBG](06-or-token/xbg.md)
 * [Fundraising](06-or-token/fundraise/README.md)
+  * [Vorverkauf](06-or-token/fundraise/presale.md)
   * [Seed-Finanzierungsrunde](06-or-token/fundraise/seed-round.md)
 
 ## 🤑 07 | ANREIZPROGRAMME
 
-* [Die XBorg Herausforderung](07-or-incentive-programs/the-xborg-challenge/README.md)
+* [Die XBorg-Herausforderung](07-or-incentive-programs/the-xborg-challenge/README.md)
   * [Geschäftsbedingungen](07-or-incentive-programs/the-xborg-challenge/terms-and-conditions.md)
   * [Regeln](07-or-incentive-programs/the-xborg-challenge/rules.md)
   * [Belohnungen](07-or-incentive-programs/the-xborg-challenge/rewards.md)
@@ -53,4 +54,4 @@
 
 ## 💼 08 | ORGANISATION
 
-* [Rechtliches und Finanzielles](08-or-organization/legal-and-financial.md)
+* [Rechtliches und Finanzen](08-or-organization/legal-and-financial.md)

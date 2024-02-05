@@ -6,15 +6,15 @@
 
 * [Informatie](01-or-core/informatie.md)
 * [Samenwerking](01-or-core/samenwerking.md)
-* [Routekaart](01-or-core/routekaart.md)
+* [Roadmap](01-or-core/roadmap.md)
 
 ## 📄 02 | PROTOCOL
 
 * [Gaming Credential Netwerk](02-or-protocol/gaming-credential-netwerk.md)
 * [Gaming Applicatie Netwerk](02-or-protocol/gaming-applicatie-netwerk/README.md)
   * [Gaming Engagement App](02-or-protocol/gaming-applicatie-netwerk/gaming-engagement-app.md)
-  * [Soulbound Lanceerplatform](02-or-protocol/gaming-applicatie-netwerk/soulbound-lanceerplatform.md)
-  * [Aanbiedingen voor Initiële Teams](02-or-protocol/gaming-applicatie-netwerk/aanbiedingen-voor-initiele-teams.md)
+  * [Soulbound Launchpad](02-or-protocol/gaming-applicatie-netwerk/soulbound-launchpad.md)
+  * [Initiële Team Aanbiedingen](02-or-protocol/gaming-applicatie-netwerk/initiele-team-aanbiedingen.md)
 * [Bestuur](02-or-protocol/bestuur.md)
 * [Incentives](02-or-protocol/incentives.md)
 
@@ -29,7 +29,7 @@
 
 ## 🤝 05 | GEMEENSCHAP
 
-* [NFT](05-or-community/nft.md)
+* [Prometheus - NFT](05-or-community/nft.md)
 * [XP](05-or-community/xp.md)
 * [Esports](05-or-community/esports.md)
 
@@ -37,6 +37,7 @@
 
 * [$XBG](06-or-token/xbg.md)
 * [Fondsenwerving](06-or-token/fondsenwerving/README.md)
+  * [Voorverkoop](06-or-token/fondsenwerving/voorverkoop.md)
   * [Seed Ronde](06-or-token/fondsenwerving/seed-ronde.md)
 
 ## 🤑 07 | INCENTIVE PROGRAMMA'S
