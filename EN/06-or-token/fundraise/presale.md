@@ -95,3 +95,11 @@ To learn more about the $XBG token, visit our XBG token page on our [website.](h
 The $XBG Token Generation Event is set to occur in the following weeks after the $XBG Presale.
 
 </details>
+
+<details>
+
+<summary>I have a Prometheus Chestplate NFT, does this provide a guaranteed allocation?</summary>
+
+No, although you've got the best possible terms and the highest bonus, the sale is FCFS.
+
+</details>
